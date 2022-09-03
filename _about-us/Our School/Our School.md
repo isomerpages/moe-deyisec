@@ -4,7 +4,8 @@ permalink: /about-us/our-school/
 description: ""
 third_nav_title: Our School
 ---
-![](/images/our%20school.jpg)
+<img src="/images/our%20school.jpg" 
+    style="width:80%">
 
 The school is a government, mixed school near Ang Mo Kio Central, with over 1200 pupils attending this school.
 
