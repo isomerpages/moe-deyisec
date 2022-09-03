@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - SAC.md
       - Principal's Message.md
       - Our School/.keep
       - Our School/Our School.md
@@ -12,3 +11,4 @@ collections:
       - Our School/Our Aspirations.md
       - Our School/School Song.md
       - Our School/School Rules and Regulation.md
+      - SAC.md
