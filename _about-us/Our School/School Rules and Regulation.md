@@ -10,8 +10,8 @@ School rules apply within the school premises at all times and during school fun
 
 **1.    GENERAL APPEARANCE** <br>
 **(a) Attire**
-* Students are to wear the prescribed school uniform and modifications to the uniform are not allowed(eg: tapering of pants). The skirt must touch the _middle_ of the knee cap. The prescribed school uniform is to be worn by all students when attending school or any school function, or when representing the school. 
-* Students must wear school attire (e.g. full school uniform or half uniform i.e. PE T-shirt with pants or shorts for boys/PE T-shirt with skirts for girls or approved CCA attire) when they come back to schoolfor any activities on Saturdays and during school holidays. 
+* Students are to wear the prescribed school uniform and modifications to the uniform are not allowed (eg: tapering of pants). The skirt must touch the _middle_ of the knee cap. The prescribed school uniform is to be worn by all students when attending school or any school function, or when representing the school. 
+* Students must wear school attire (e.g. full school uniform or half uniform i.e. PE T-shirt with pants or shorts for boys/PE T-shirt with skirts for girls or approved CCA attire) <u>when they come back to school</u> for any activities on Saturdays and during school holidays. 
 * Should students need to wear either a jacket, cardigan or pullover, it must be dark/white colour (i.e. blue, black, grey and white). Please note that there should not be any _large_ logos of brands, advertisements or designs on them. 
 * Students must wear plain white socks with white colour shoes that may have simple, dark/white coloured patterns/logos (i.e. blue, black, grey and white). The inner lining should be lightly coloured (i.e. white, light grey, etc).
 * Wearing sandals or flip-flops is permissible only when accompanied by medical reasons. In such cases, students must produce a medical certificate or report.
