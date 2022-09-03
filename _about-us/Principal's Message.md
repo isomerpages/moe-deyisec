@@ -5,13 +5,8 @@ description: ""
 ---
 Year 2022 marks 42nd year of the founding of Deyi Secondary School. It also marks the completion of our second year of piloting Full Subject Based Banding (FSBB). With Full SBB, we are moving towards a unified secondary education, with many subject bands, to better meet our students’ learning needs, without labels. This is part of the broader shift in our education system to recognize the strengths and interests of our students, to help them build their confidence and develop their intrinsic motivation to learn for life. In 2022, we will also see our first upper sec classes operating based on FSBB.
 
-<div>  
-<div style="float: left">  
 <img src="/images/Mrslim%20photo%202022.jpg" 
     style="width:50%">
-</div>  
-<div></div>  
-</div>
 
 We will continue to anchor our decision making on our values and the belief that everyone matters and can and want to learn. We are proud that Deyi is a safe and conducive place for learning and we will continue to enhance the environment and teaching and learning experiences for all. With our participation in Personalized Digital Learning Programme (PDLP), our students can look forward to more opportunities and experiences in self-directed learning in line with our vision of ‘Active Learners, Gracious Citizens”. Deyians will continue to be developed to be self-disciplined, civic-minded, respectful and empathetic. Our school curriculum and co-curriculum programmes will continue to be values-driven and future-focused, so that our students are equipped with the 21st Century Competencies (21 CC) and skills to be future-ready.
 
