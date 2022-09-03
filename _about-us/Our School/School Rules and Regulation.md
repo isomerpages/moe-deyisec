@@ -14,13 +14,13 @@ School rules apply within the school premises at all times and during school fun
 * Students must wear school attire (e.g. full school uniform or half uniform i.e. PE T-shirt with pants or shorts for boys/PE T-shirt with skirts for girls or approved CCA attire) <u>when they come back to school</u> for any activities on Saturdays and during school holidays. 
 * Should students need to wear either a jacket, cardigan or pullover, it must be dark/white colour (i.e. blue, black, grey and white). Please note that there should not be any _large_ logos of brands, advertisements or designs on them. 
 * Students must wear plain white socks with white colour shoes that may have simple, dark/white coloured patterns/logos (i.e. blue, black, grey and white). The inner lining should be lightly coloured (i.e. white, light grey, etc).
-* Wearing sandals or flip-flops is permissible only when accompanied by medical reasons. In such cases, students must produce a medical certificate or report.
+* Wearing sandals or flip-flops is permissible <u>only when accompanied by medical reasons</u>. In such cases, students must produce a medical certificate or report.
 * Students must wear the school tie on Tuesdays or Thursdays during School Assembly and stipulated school functions.
 
 **(b) Personal Grooming**
 * All students must be neat in appearance.
 * Keep fingernails short and clean. No varnish is allowed.
-* The following are NOT ALLOWED for all students:
+* The following are <u>NOT ALLOWED</u> for all students:
 * Wearing tattoos (including henna art) on any part of the body.
 * Wearing coloured/fanciful contact lenses or outlandish/tinted  spectacles.
 * Wearing all forms of jewellery and accessories, e.g. caps, piercings (eg: nose and tongue), necklaces, bracelets and rings.
@@ -60,7 +60,7 @@ School rules apply within the school premises at all times and during school fun
 1.  If a student is absent from school in the morning, his/her CCA Attendance Status will follow the morning Attendance Status.
 2.  If a student has to leave school before 5.30pm on a CCA Day, he/she must have a valid reason. Students not feeling well must be accompanied by his/her chaperone (parents, guardian or appointed adults). Acceptable valid reasons (i.e. MOE programmes, representation at national events) must be accompanied by official supporting documents.
 
-* Students are not allowed to leave Singapore during term time unless supported with a valid reason that is endorsed by the school.
+* Students are not allowed to leave Singapore during term time <u>unless supported with a valid reason that is endorsed by the school.</u>
 
 **3.    FLAG RAISING CEREMONY**
 * Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
@@ -70,7 +70,7 @@ School rules apply within the school premises at all times and during school fun
 
 **4.    USE OF MOBILE PHONES** <br>
 Students need to exercise self-discipline, integrity and care when using their mobile phone.
-* Students are to use their mobile phones in a socially responsible manner. All content shared and communicated via the mobile phone should be respectful, considerate and appropriate towards others.
+* Students are to use their mobile phones in a <u>socially responsible manner.</u> All content shared and communicated via the mobile phone should be respectful, considerate and appropriate <u>towards others.</u>
 * Students are allowed to bring their mobile phones to school under the following conditions:
 
 1. The use of mobile phone is confined to the _4_ designated areas for the whole day. This will be in force the moment the student arrives in school.
@@ -82,11 +82,11 @@ Students need to exercise self-discipline, integrity and care when using their m
 2. The mobile phone must be switched on during curriculum time for students using the TraceTogether App to allow for effective contact tracing. The phone will be placed in silent mode. The mobile phone may be placed in the student’s pocket or near him/her. It should not serve as a potential distraction to learning in class.
 3. The mobile phone must not be used to take photos or videos in school, unless permission is given by the school authorities.
 
-* Students who do not comply with the above conditions on the use of mobile phone would have the privilege withdrawn.
+* <u>Students who do not comply with the above conditions on the use of mobile phone would have the privilege withdrawn.</u>
 
 1. The mobile phone inclusive of sim card will be retained by the school for 1 week for 1st violation of mobile phone rules, 2 weeks for 2nd violation and 3 weeks for 3rd violation.
-2. Parent/Guardian is required to collect the mobile phone inclusive of sim card personally after 1 week for the 1st violation, 2 weeks for 2nd violation and 3 weeks for 3rd violation.
-3. _Recalcitrant offenders will have the privilege to bring mobile phone to school withdrawn._
+2. Parent/Guardian is required to collect the mobile phone inclusive of sim card personally after <u>1 week</u> for the 1st violation, 2 weeks for 2nd violation and 3 weeks for 3rd violation.
+3. _Recalcitrant offenders will have the privilege to bring mobile phone to school <u>withdrawn.</u>_
 * Please take note that the students are responsible for their own mobile phone. The school will not be held responsible for any loss or theft of the mobile phone.
 
 **5.   CONDUCT** <br>
@@ -101,7 +101,7 @@ Students need to exercise self-discipline, integrity and care when using their m
 **(b) Behaviour During Curriculum Time**
 * Students are expected to be attentive and on task during lessons. 
 * Students are responsible for their personal belongings (e.g: wallets, mobile phone, personal laptops and personal learning devices) at all times.
-* _Healthy_ snacks should be consumed in class only during the snack break from 0950 – 1000 or 1230 – 1240 hrs daily. 
+* _Healthy_ snacks should be consumed <u>in</u> class only during the snack break from 0950 – 1000 or 1230 – 1240 hrs daily. 
 * Movement to and from classrooms should be brisk and orderly. Students should move in two neat files _quietly_.
 * Only the teacher taking the class may grant students permission to leave the class.
 * Students who leave the classroom must wear the Permission Pass issued by the subject teacher.
