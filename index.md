@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Deyi Secondary School
       subtitle: Active Learners, Gracious Citizens
-      background: /images/ezgif.gif
+      background: /images/ezgif2.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
