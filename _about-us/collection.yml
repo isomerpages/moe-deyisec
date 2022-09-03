@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Form Teachers.md
       - Principal's Message.md
       - Our School/.keep
       - Our School/Our School.md
@@ -14,3 +13,4 @@ collections:
       - Our School/School Rules and Regulation.md
       - SAC.md
       - School Management Committee.md
+      - Form Teachers.md
