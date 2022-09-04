@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Character and Citizenship/Character and Citizenship Education.md
       - Character and Citizenship/.keep
       - Teaching & Learning Framework.md
       - English Language.md
