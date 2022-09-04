@@ -36,3 +36,4 @@ To actively engage our students in the inquiry process, Geographical Investigati
 * MOE History Challenge
 * Historical Scene Investigation Challenge 2020 by NLB
 
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0D3cygKbHMZVs8bA023PMa6cVPUSUfmCBhyn05vKVDDCJXqgS3lOrr26JmANnVOYwLvcbaKq5Zv59/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
