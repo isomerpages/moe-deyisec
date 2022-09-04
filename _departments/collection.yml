@@ -2,9 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Character and Citizenship/Growth Mindset.md
-      - Character and Citizenship/Character and Citizenship Education.md
-      - Character and Citizenship/.keep
       - Teaching & Learning Framework.md
       - English Language.md
       - Mother Tongue.md
@@ -13,3 +10,6 @@ collections:
       - Humanities.md
       - Craft & Technology.md
       - Physical Education.md
+      - Character and Citizenship/.keep
+      - Character and Citizenship/Growth Mindset.md
+      - Character and Citizenship/Character and Citizenship Education.md
