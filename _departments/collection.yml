@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mathematics.md
       - Teaching & Learning Framework.md
       - English Language.md
       - Mother Tongue.md
