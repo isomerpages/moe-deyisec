@@ -29,3 +29,5 @@ Some of the key programmes and activities organised during the MTL Fortnight inc
 * Introduction to Jawi Calligraphy
 
 These fun, meaningful and authentic learning experiences will help to deepen students’ understanding of MTL and appreciation of the different cultures.
+
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcFGuDmu6fmct4ooZoq05IAeg7UdEEPwaR7Q7okxXUQNzJgwkC1JCrVNa8Z6V2KyhouJ3Pye1_1gYu/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
