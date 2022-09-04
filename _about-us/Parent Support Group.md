@@ -32,5 +32,39 @@ Our wish for you and your child is to have a memorable learning journey at Deyi 
 
 Thank you, <br>
  Deyi PSG Executive Committee
- 
- 
+  
+<figure>
+<img src="/images/Chinese%20New%20Year%20Celebration.jpeg" 
+    style="width:80%">
+<figcaption> <strong> Chinese New Year Celebration </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/CNY%20Yu%20Sheng%20Preparation.jpeg" 
+    style="width:80%">
+<figcaption> <strong> CNY Yu Sheng Preparation </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/cny%20charity%20hamper%20delivery.jpeg" 
+    style="width:80%">
+<figcaption> <strong> Charity Hamper Delivery Run </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/online%20zoom%20talk.jpg" 
+    style="width:80%">
+<figcaption> <strong> Online Parenting Talks/Seminars </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Racial%20Harmony%20Day.jpeg" 
+    style="width:80%">
+<figcaption> <strong> Online Parenting Talks/Seminars </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/dininginthedarkphoto.jpeg" 
+    style="width:80%">
+<figcaption> <strong> PSG Family Outings </strong> </figcaption>
+</figure>
