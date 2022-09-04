@@ -30,3 +30,7 @@ Our wish for you and your child is to have a memorable learning journey at Deyi 
 <center>
 <strong> “Your children need your presence more than your presents,” </strong> <br>- Jesse Jackson </center>
 
+Thank you, <br>
+ Deyi PSG Executive Committee
+ 
+ 
