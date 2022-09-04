@@ -33,9 +33,9 @@ Our department believes that students can be engaged through Play and learn thro
 
 **Annual Sporting Events:** 
 * Inter-class games
-* Sec 1 (Handball, Frisbee)
-* Sec 2 (Floorball, Volleyball)
-* Sec 3 (Futsal, Basketball)
+	* Sec 1 (Handball, Frisbee)
+	* Sec 2 (Floorball, Volleyball)
+	* Sec 3 (Futsal, Basketball)
 * Annual Track Meet (Term 1)
 * Annual ACES Day (Term 3)
 * Annual Sports Carnival (Term 4)
