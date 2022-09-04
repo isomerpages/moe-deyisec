@@ -53,3 +53,26 @@ description: ""
 | | | | |
 
 ### Sec 3 Form Teachers
+
+| Class |  | Form Teacher | Email-Address |
+|---|---|---|---|
+| 3 Care | Ms | Harinder Kaur Dollie | [harinder\_kaur\_dollie@moe.edu.sg](mailto:harinder_kaur_dollie@moe.edu.sg) | 
+|   | Mr | Chang Seow Kuen | [chang\_seow\_kuen@moe.edu.sg](mailto:chang_seow_kuen@moe.edu.sg) | 
+|   | Mdm | Yin Siew Yi (Mrs Michelle Chu) | [yin\_siew\_yi\_michelle@moe.edu.sg](mailto:yin_siew_yi_michelle@moe.edu.sg) |
+| 3 Integrity | Ms | Lee Su-Min Jeanette | [lee\_su-min\_jeanette@moe.edu.sg](mailto:lee_su-min_jeanette@moe.edu.sg) | 
+|   | Mdm | Saliha Parveen Bte Mohd Ismail | [saliha\_parveen\_mohamed\_ismail@moe.edu.sg](mailto:saliha_parveen_mohamed_ismail@moe.edu.sg) |
+| 3 Determination | Mr | Tay Eng Leng | [tay\_eng\_leng@moe.edu.sg](mailto:tay_eng_leng@moe.edu.sg) | 
+|   | Mrs | Joanne Gan-Quek Li Yi | [joanne\_quek\_li\_yi@moe.edu.sg](mailto:joanne_quek_li_yi@moe.edu.sg) |
+| 3 Diligence | Mdm | Jassika Murni Bte Jasni | [jassika\_murni\_jasni@moe.edu.sg](mailto:jassika_murni_jasni@moe.edu.sg) | 
+|   | Mr | Ang Chip Pin | [ang\_chip\_pin@moe.edu.sg](mailto:ang_chip_pin@moe.edu.sg) | 
+| 3 Discipline | Mr | Tong Keh Huei Adrian | [tong\_keh\_huei@moe.edu.sg](mailto:tong_keh_huei@moe.edu.sg) | 
+|   | Mdm | Jainul Banu d/o Shahul Hameed | [jainul\_banu\_shahul\_hameed@moe.edu.sg](mailto:jainul_banu_shahul_hameed@moe.edu.sg) | 
+| 3 Dedication | Mr | Gan Hsia Liang Clarence |  [gan\_hsia\_liang\_clarence@moe.edu.sg](mailto:gan_hsia_liang_clarence@moe.edu.sg) |
+|   | Ms |  Yee Puay Ping Joyce | [yee\_puay\_ping\_joyce@moe.edu.sg](mailto:yee_puay_ping_joyce@moe.edu.sg) | 
+|   | Mr | Wong Choo Kok | [wong\_choo\_kok@moe.edu.sg](mailto:wong_choo_kok@moe.edu.sg) | 
+| 3 Graciousness | Ms | Nur Azlina Bee D/O Ana Shaik A | [nur\_azlina\_shaik\_ahamed@moe.edu.sg](mailto:nur_azlina_shaik_ahamed@moe.edu.sg) | 
+|   | Mr | Lim Jun Yu | [lim\_jun\_yu@moe.edu.sg](mailto:lim_jun_yu@moe.edu.sg) |
+| 3 Resilience | Ms | Chew Soo Qing | [chew\_soo\_qing@moe.edu.sg](mailto:chew_soo_qing@moe.edu.sg) | 
+|   | Mrs | Harmit Singh Nee G Kaur | [gurminderpal\_kaur@moe.edu.sg](mailto:gurminderpal_kaur@moe.edu.sg) |
+| | | | |
+
