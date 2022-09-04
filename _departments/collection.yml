@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - Humanities.md
       - Teaching & Learning Framework.md
       - English Language.md
       - Mother Tongue.md
       - Mathematics.md
       - Science.md
+      - Humanities.md
