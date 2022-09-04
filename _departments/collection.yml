@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Physical Education.md
       - Teaching & Learning Framework.md
       - English Language.md
       - Mother Tongue.md
@@ -10,3 +9,4 @@ collections:
       - Science.md
       - Humanities.md
       - Craft & Technology.md
+      - Physical Education.md
