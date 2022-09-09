@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Visual and Performing Arts/.keep
       - CCA Main Page.md
