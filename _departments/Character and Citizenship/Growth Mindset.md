@@ -16,6 +16,6 @@ American psychologist Prof. Carol Dweck, one of the world’s leading researcher
 The Growth Mindset modules that are carried out during CCE lessons, seek to instil in our students habits and strategies for them to take on challenges, overcome obstacles, develop grit, appreciate feedback positively, and see the success of others as an inspiration rather than threat. The strategies taught will enable our students to break away from their fixed mindsets and reap higher growth in their learning. Students learn that the brain is malleable and therefore, intelligence is not fixed. They are equipped with the skills to examine their methods, in tandem to their effort, in order to achieve high growth.
 
 <img src="/images/Growth%20Mindset.jpg" 
-    style="width:70%">
+    style="width:50%">
 
 As Deyians approach learning and their future endeavours with a Growth Mindset, they will be able to focus more on their personal growth and find joy in their learning. This will help Deyians bounce back stronger and strengthen their mental health.
