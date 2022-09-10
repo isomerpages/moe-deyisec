@@ -9,8 +9,9 @@ third_nav_title: Visual and Performing Arts
 
 <center> One of the key things I've learnt in Choir is to sing confidently. Through various public performances, me and my peers have become more confident choristers. With the help of my friends, conductor and teachers, I've learnt new vocal techniques which have developed my passion for singing.
 <br><br>
-<strong> Sherry Tee </strong></center>
+<strong> Sherry Tee </strong> </center>
 	
+
 Deyi Choir aims for our students to appreciate the rich traditions of choral music, demonstrate a strong sense of responsibility, camaraderie, discipline, passion for singing, and develop as student leaders to manage the CCA administratively as well as provide musical directions. They also get to experience what it is like to perform within and outside of school as they strive towards achieving excellent results in competitions.
   
 **Teacher -in-charge:** <br>
