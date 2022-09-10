@@ -4,8 +4,7 @@ permalink: /cca/uniformed-groups/st-john-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<img src="/images/UG-SJB.jpg" 
-    style="width:70%">
+<img style="width:70%" src="/images/UG-SJB.jpg">
 
 <center>
 "Although I started out as a reserved and timid person, SJB has provided a wide range of opportunities for me to grow. Such opportunities include participating in the Zonal and National First Aid Competition as well as rendering first aid assistance in various school events. Despite the tough training during competition seasons, our teachers and alumni always motivate us to achieve our fullest potential. Thus far, all these efforts were successful in helping Deyi SJB achieve the Champion award in the Zonal Competition and 4th place in the National Competition. Most importantly, discipline has been instilled in all SJB cadets effectively, and this significantly improved my self-discipline, which also enabled me to perform exceptionally well in my studies. I would like to express gratitude for my parents' support in my decisions to participate in events hosted by SJB and their encouragement for me to persevere during challenging periods. I would also like to thank the Teachers-in-charge and alumni for investing much time in meticulously planning for various events and assisting us during CCA sessions. Lastly, I am grateful for my fellow CCA mates who have gone through thick and thin together with me during these 4 years."  
@@ -13,7 +12,7 @@ third_nav_title: Uniformed Groups
 <strong> Rosanne Sim Tong En (407) <br>
 SJB Head of Training Department </strong></center>
 	
-St. John Brigade is an organisation, which specializes in teaching teenagers basic first aid skills such as CPR and AED. Our Objective is to let every cadet be able to manifest in all aspects, in their moral, cognitive, physical, social and aesthetic developments, and ultimately be successful individuals.
+St. John Brigade is an organisation, which specializes in teaching teenagers basic first aid skills such as CPR and AED. Our Objective is to let every cadet be able to&nbsp;manifest in all aspects, in their moral, cognitive, physical, social and aesthetic developments, and ultimately be successful individuals.
 
 We want our leaders to have integrity, supplemented by order of responsibility and mission throughout all sorts of training, events and courses. In addition, St. John Headquarters organises leadership courses such as Basic and Advanced Non- Commissioned Officer Course for the cadets. We also train and cultivate cadets in their leadership qualities. This is because we believe that a leader should be able to manage oneself. Therefore, everyone has an obligation to learn self-management skills.
 
@@ -21,7 +20,7 @@ Throughout the years, Deyi St. John has nurtured and guided many cadets who even
   
 This program aims to enable cadets to explore, grow and learn, not only as a leader, but also in integrates individual values teaching relevant soft skills to be applied in both school and workplace environment in the future. Through this program, we seek to provide a platform for every cadet to learn within a stress-free environment and inspire them to bring out the best qualities that they have.  
 
-Teachers-in-charge: <br>
+Teachers-in-charge:&nbsp;<br>
 Mr. Chang Seow Kuen (OIC) <br>
 Ms. Chew Soo Qing (AIC) <br>
 Mr. Koh Yu Han <br>
@@ -29,7 +28,7 @@ Miss Shereen Seah <br>
 Miss Claire  
   
 **Weekly Schedule:** <br>
-Every Tuesday & Thursday 2.45 pm – 5.45 pm  
+Every Tuesday &amp; Thursday 2.45 pm – 5.45 pm  
   
 **Achievements and Highlights:**  
 * Corp Achievement Award 2013-2020 – Gold
@@ -45,3 +44,4 @@ Every Tuesday & Thursday 2.45 pm – 5.45 pm
 * SSG Suhana Yonjan Tamang (406)
 * SSG Rosanne Sim Tong En (407)
 
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQUib-OEUVhNgwcuAvnWWvoPhAFsxDCEABITLA91g8jtEDKbpcWopRFICYM0WCsvnp-YkTm1loxaAzt/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
