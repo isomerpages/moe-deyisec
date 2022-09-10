@@ -4,16 +4,15 @@ permalink: /cca/uniformed-groups/national-cadet-corps-land/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<img src="/images/UG-NCC.jpeg" 
-    style="width:70%">
+<img style="width:70%" src="/images/UG-NCC.jpeg">
 
 <center>
-"I learnt to be resilient in NCC. During my PDS course, I struggled with learning 21 different drills, but with the help of my friends, I persevered and received my basic PDS badge. We must have the confidence in whatever we do and be a leader who leads by example."
-<br><Br>
+"I learnt to be resilient in NCC.&nbsp;During my PDS course, I struggled with learning 21 different drills, but with the help of my friends, I persevered and received my basic PDS badge. We must have the confidence in whatever we do and be a leader who leads by example."
+<br><br>
 <strong> Brayden Baey Ying Zheng (306) <br>
 PDS OIC </strong></center>
 
-Deyi Secondary School National Cadet Corps seeks to nurture inspiring leaders and committed citizens. Guided by the NCC key thrusts of Leadership, Fitness and Commitment to Singapore; we are driven by the Corps’ eight core values of Loyalty to Singapore, Uprightness, Leadership, Discipline, Commitment & Responsibility, Care for Fellow Cadets, Adventurous Spirit and Safety.  
+Deyi Secondary School National Cadet Corps seeks to nurture inspiring leaders and committed citizens. Guided by the NCC key thrusts of Leadership, Fitness and Commitment to Singapore; we are driven by the Corps’ eight core values of Loyalty to Singapore, Uprightness, Leadership, Discipline, Commitment &amp; Responsibility, Care for Fellow Cadets, Adventurous Spirit and Safety.  
   
 We are the designated NCC Centre of Excellence for Precision-Drill Squad (PDS) in Central District. Our cadets conduct regular PDS courses for all NCC cadets within the District.  
   
@@ -33,13 +32,14 @@ Mr Adrian Chong <br>
 Mr Lim Jun Yu  
   
 **Weekly Schedule:** <br>
-Every Tuesday & Thursday 2.45 pm – 5.30 pm
+Every Tuesday &amp; Thursday 2.45 pm – 5.30 pm
 
 **Achievements and Highlights** 
-* NCC Unit Recognition Award 2018 & 2019 - DISTINCTION
-* NCC Best Unit Competition NCC Land Boys 2016 & 2017 – Gold Award
-* NCC Road Relay (National) 2018 & 2019 – 2nd Runner-up
+* NCC Unit Recognition Award 2018 &amp; 2019 - DISTINCTION
+* NCC Best Unit Competition NCC Land Boys 2016 &amp; 2017 – Gold Award
+* NCC Road Relay (National) 2018 &amp; 2019 – 2nd Runner-up
 * HQ NCC PDS Centre of Excellence since 2014
 * Deyi Secondary School Best Cadet 2019 – MSG Ashton Ong (407)
 * HQ NCC Outstanding Cadet Award 2020 – MSG Jerome Oh (408)
 
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpLepmQJf-KjZFbsqSXGtN3fBs5V4Ji0ElsEex4XmjE0Qx_86Eahi77koPe7gNB93r0eggHBv8jr1I/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
