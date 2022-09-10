@@ -12,7 +12,7 @@ third_nav_title: Sports and Clubs
 Although coaches and teachers are strict, they are very supportive of our needs and training. The main focus of our training is on developing our fundamental badminton skills and techniques.
 
 I am glad I chose badminton as my CCA. In my 3 years in this CCA, I have become a much better and confident player. I have also grown stronger, fitter and more agile. I have learnt sportsmanship, discipline and teamwork and most importantly I have acquired the range of badminton skills from my coaches to be a good badminton player. I am keen to continue in my journey to improve my skills and enjoy this beautiful game of badminton even after I leave school."
-
+<br><Br>
 <strong>Jonas Choo Zi Jun (307) <br>
 Sec 3 level captain </strong> </center>
 
