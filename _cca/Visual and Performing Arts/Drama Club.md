@@ -4,18 +4,17 @@ permalink: /cca/visual-and-performing-arts/drama-club/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-<img src="/images/PAG-DramaClub3.jpg" 
-    style="width:70%">
+<img style="width:70%" src="/images/PAG-DramaClub3.jpg">
 
 <center>
 "I am grateful for the opportunities Deyi English Drama Club has given me. This club has given me another family. I have been given opportunities to grow and discover my talents, such as SYF and the NIE Teachers Day Video. I feel that this CCA has allowed me to grow and to help my friends grow as well."
 <br><br>
-<strong> A. Sai Gughan (Class 305) <br>
+<strong> A. Sai Gughan&nbsp;(Class 305) <br>
 Drama Club EXCO </strong> </center>
 
-Drama, as an art form, transcends all barriers of race, culture and language. Deyi English Drama Club has had many precious memories to experience this diversity in our craft as we explore the human condition in our dramatic works. 
+Drama, as an art form, transcends all barriers of race, culture and language. Deyi English Drama Club has had many precious memories to experience this diversity in our craft as we explore the human condition in our dramatic works.&nbsp;
 
-Students were given the opportunity to broaden their horizons, experience a variety of theatre forms ranging from Forum Theatre to Shakespearean sonnets. Other than taking part in school programmes and concerts, The English Drama Club has performed to a public audience for events like ‘SYF Celebrations in the Community- Let’s Play@ Jurong Regional Library’ and Fairytale Trails at various community libraries. Other notable experiences would be mastering the songs and dance for the performance of the musical ‘Matilda’ and ‘Mulan’ at the library for a public audience. Despite the challenges that COVID-19 presented, the Drama Club students were still able to hone their skills and perform to a wider audience by pivoting towards online performances. 
+Students were given the opportunity to broaden their horizons, experience a variety of theatre forms ranging from Forum Theatre to Shakespearean sonnets. Other than taking part in school programmes and concerts, The English Drama Club has performed to a public audience for events like ‘SYF Celebrations in the Community- Let’s Play@ Jurong Regional Library’ and Fairytale Trails at various community libraries. Other notable experiences would be mastering the songs and dance for the performance of the musical ‘Matilda’ and ‘Mulan’ at the library for a public audience. Despite the challenges that COVID-19 presented, the Drama Club students were still able to hone their skills and perform to a wider audience by pivoting towards online performances.&nbsp;
 
 These meaningful opportunities to showcase as well as cultivate one’s skills as actors and actresses mean a lot to the members of the club. In the varied roles and personas that we assume, both on and off the stage, the language used to portray and empathise with the human condition is a universal one. Embracing this fact, Deyi English Drama Club would like to continue embarking on the journey to discover more characters and chart more possibilities to play on stage.
 
@@ -40,3 +39,4 @@ Every Tuesday and Thursday 2.40 pm – 5.15 pm
 * SYF 2018 Celebrations: Play! @ the library
 * Fairytale Trials 2018: Matilda the Musical
 
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS19tU7HwKYJZfa2-aN21T-k6Jn-1Csqrf1HltZMTrd04aDyWUNYAE8qjwVrpUUJPEMioydPHSehI7K/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
