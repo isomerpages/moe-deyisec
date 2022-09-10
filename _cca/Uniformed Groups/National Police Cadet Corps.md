@@ -38,6 +38,6 @@ Every Tuesday and Thursday 2.40 pm – 5.45 pm
 	* SSgt (NPCC) Tan Wilbyn (405)
 * Unit Overall Proficiency Award 2017 - GOLD
 
-
+</insert video>
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTm4JsNZq_ywXVwzmQGMCFwweNxzDey4HatbTSa1XiwnKr98q92-tPC2RLczdb3DyOVxfcrr8aNC6Rk/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
