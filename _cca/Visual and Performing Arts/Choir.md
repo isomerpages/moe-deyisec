@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Visual and Performing Arts
 ---
 <div style="float: left">  
-<img src="/images/20220811_150650.jpg" 
-    style="width:50%"> 
+<img style="width:50%" src="/images/20220811_150650.jpg"> 
 
 <center> One of the key things I've learnt in Choir is to sing confidently. Through various public performances, me and my peers have become more confident choristers. With the help of my friends, conductor and teachers, I've learnt new vocal techniques which have developed my passion for singing.
 <br><br>
@@ -23,10 +22,12 @@ Ms Xu Sihui
 Every Tuesday and Thursday at 2.45 pm - 5.45 pm  
   
 **Achievements and Highlights:**  
-* Participated in Singapore Youth Festival Arts Presentation  in 2021
+* Participated in Singapore Youth Festival Arts Presentation&nbsp; in 2021
 * 2 groups of students featured in SYFgoesOnline! 2021 ‘ Let’s Jam Together’
 * Attained the Certificate of Accomplishment at Singapore Youth Festival Arts Presentation in 2017 and 2019
 * In-house Production of Choir Concert “ Joyeux” series
 * Performed at Voices of Singapore Festival at CHIJMES Hall in 2017 and 2019
 * Performed at the school’s CCA Orientation Day, National Day, Chinese New Year Celebration, Speech Day and Art’s Fiesta
 * Performed at Passion Arts Festival 2018
+	
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTIn2M3FJnUtfU4dAcur699S0lBwIj_SwcP5EDtZLGohKb-6iWa01idNZSG4MhhLDAbebBPLeOgHD0p/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe></div>
