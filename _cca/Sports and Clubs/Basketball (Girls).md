@@ -4,8 +4,7 @@ permalink: /cca/sports-and-clubs/basketball-girls/
 description: ""
 third_nav_title: Sports and Clubs
 ---
-<img src="/images/CAPTAIN%20PICTURE.jpeg" 
-    style="width:50%">
+<img style="width:50%" src="/images/CAPTAIN%20PICTURE.jpeg">
 		
 <center>		
 “Basketball had taught me the importance of determination and teamwork. Through my basketball journey in Deyi, I was given many opportunities to work with my teammates and we forged meaningful friendships during our time together. The teachers and friends gave me a strong sense of belonging.”
@@ -36,3 +35,5 @@ Every Tuesday and Thursday 2.40pm – 5.45pm
 * Zonal Inter-school Competitions 2019 B Division Girls – Top 8
 * T- Net Competition C Division Basketball Girls – Second Placing  
 * T- Net Competition B Division Basketball Girls – Third Placing
+
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIo9gA74iqV1qow_3TLfciZoRDyMh2tgbzzb1e1zwyB2EgYALueswq_oCPnZUokpYB1gzxm_rarNfx/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
