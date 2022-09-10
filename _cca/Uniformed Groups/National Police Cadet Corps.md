@@ -4,8 +4,7 @@ permalink: /cca/uniformed-groups/national-police-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<img src="/images/UG-NPCC.jpeg" 
-    style="width:70%">
+<img style="width:70%" src="/images/UG-NPCC.jpeg">
 
 <center>
 "As the training head for the Secondary 2 squad in Deyi NPCC, I have learnt how to communicate effectively with my junior cadets and squad mates. Moreover, I have learnt how to work effectively as a team in the face of challenges. I appreciate how my squad mates support me when I need help and the valuable advice my teacher officers and cadet inspectors have given me throughout my NPCC journey so far. I have learnt to be more matured and patient as compared to my old self in lower Secondary and I owe this to my CCA in providing me with the opportunities to grow."  
@@ -38,3 +37,7 @@ Every Tuesday and Thursday 2.40 pm – 5.45 pm
 	* SSgt (NPCC) Regina Santi (401)
 	* SSgt (NPCC) Tan Wilbyn (405)
 * Unit Overall Proficiency Award 2017 - GOLD
+
+
+
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTm4JsNZq_ywXVwzmQGMCFwweNxzDey4HatbTSa1XiwnKr98q92-tPC2RLczdb3DyOVxfcrr8aNC6Rk/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
