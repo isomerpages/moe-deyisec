@@ -4,7 +4,8 @@ permalink: /cca/sports-and-clubs/volleyball-boys/
 description: ""
 third_nav_title: Sports and Clubs
 ---
-<img style="width:50%" src="/images/Sports-Volleyball.jpeg">
+<img src="/images/Sports-Volleyball.jpeg" 
+    style="width:30%">
 
 <center>
 Volleyball has inculcated in me a sense of determination. Being new to the sport, I was initially worried about my progress in terms of skills. I stayed focused and was determined to catch up with my teammates who spurred me on. During training, I will chase after every ball and keep it up, even if it flies out of court. I am thankful to my teachers and teammates who have helped me on this enjoyable journey thus far.  
