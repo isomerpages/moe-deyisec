@@ -42,3 +42,12 @@ Every Tuesday and Thursday 2.40 pm – 5.15 pm
 
 <u> <strong> 3. The following students won the grand prize in the ‘My Home My Town’ drawing contest organized by Toa Payoh Central Community in Aug 2021 </strong></u>
 
+<figure>  
+<img src="/images/ART%20CLUB%20%202.jpeg">  
+	<figcaption> <strong> Nelly Khoo Shi Xuan </strong> (Class 2 Integrity) </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/ART%20CLUB%20%203.jpeg">  
+	<figcaption> <strong> Jesslyn Laurencia Oktavianto  </strong> (Class 303) </figcaption>  
+</figure>
