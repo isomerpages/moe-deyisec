@@ -8,8 +8,8 @@ third_nav_title: Sports and Clubs
 
 <center>
 I am forever grateful for my team. After all the sweat and tears we went through, the key takeaway was not being the most skilled but improving oneself and being united with the help of my coach and teachers.  
-
-<strong> Pyarises Pharja Ale&nbsp;(406)&nbsp;<br>
+<br><br>
+<strong> Pyarises Pharja Ale (406) <br>
 Football Captain </strong></center>
 	
 **Sportsmanship and Excellence** <br>
