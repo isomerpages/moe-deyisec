@@ -4,13 +4,12 @@ permalink: /cca/sports-and-clubs/football-girls/
 description: ""
 third_nav_title: Sports and Clubs
 ---
-<img src="/images/Sports-Football.png" 
-    style="width:30%">
+<img style="width:30%" src="/images/Sports-Football.png">
 
 <center>
 I am forever grateful for my team. After all the sweat and tears we went through, the key takeaway was not being the most skilled but improving oneself and being united with the help of my coach and teachers.  
 
-<strong> Pyarises Pharja Ale (406) <br>
+<strong> Pyarises Pharja Ale&nbsp;(406)&nbsp;<br>
 Football Captain </strong></center>
 	
 **Sportsmanship and Excellence** <br>
@@ -23,3 +22,5 @@ Ms Jassika
   
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.40pm - 5.45pm
+
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTV5RzMbBXDDsWxcS3D4R4m-RuNjRxv3BKj6IcVjPT_ukjzkY5dqLJ5CWwrBsej8t4vGfontHw_TsHg/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
