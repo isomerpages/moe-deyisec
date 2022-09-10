@@ -4,7 +4,7 @@ permalink: /cca/uniformed-groups/st-john-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<img style="width:70%" src="/images/UG-SJB.jpg">
+<img style="width:50%" src="/images/UG-SJB.jpg">
 
 <center>
 "Although I started out as a reserved and timid person, SJB has provided a wide range of opportunities for me to grow. Such opportunities include participating in the Zonal and National First Aid Competition as well as rendering first aid assistance in various school events. Despite the tough training during competition seasons, our teachers and alumni always motivate us to achieve our fullest potential. Thus far, all these efforts were successful in helping Deyi SJB achieve the Champion award in the Zonal Competition and 4th place in the National Competition. Most importantly, discipline has been instilled in all SJB cadets effectively, and this significantly improved my self-discipline, which also enabled me to perform exceptionally well in my studies. I would like to express gratitude for my parents' support in my decisions to participate in events hosted by SJB and their encouragement for me to persevere during challenging periods. I would also like to thank the Teachers-in-charge and alumni for investing much time in meticulously planning for various events and assisting us during CCA sessions. Lastly, I am grateful for my fellow CCA mates who have gone through thick and thin together with me during these 4 years."  
