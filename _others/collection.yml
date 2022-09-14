@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Snacks For Break Time.md
       - Straits Times School Pocket Money Fund.md
       - N Level Release of Results.md
       - School General Information/.keep
