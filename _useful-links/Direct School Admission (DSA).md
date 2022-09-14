@@ -9,7 +9,7 @@ description: ""
 * [Centralised DSA-Sec Application Process](#CentralisedDSA-SecApplicationProcess)
 * [Specific Talent Areas offered by Deyi](#SpecificTalentAreasofferedbyDeyi)
 * [Admission Criteria](#AdmissionCriteria)
-* Selection Process
+* [Selection Process](#SelectionProcess) 
 * Key Activities and Dates
 * Frequently Asked Questions
 
@@ -76,3 +76,28 @@ Student must pass an audition/trial, in the relevant areas of Specific Talent, c
 Trials and auditions will usually be conducted on **Tuesdays** and **Thursdays** as these are the school’s designated CCA Days.
 
 ![](/images/dsa.png)
+
+**5. Panel Interview** <br>
+Student must pass an interview conducted by a panel made up of: Vice–Principal, HOD/SH of the relevant talent area (e.g. Aesthetics, English, Student Leadership Physical Education) and the CCA Teacher-In-Charge of the specific talent area.
+
+### Selection Process <a name="SelectionProcess"></a>
+
+The selection criteria and process for the talent areas will be updated by early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+
+ **Stage 1 – Short-listing**
+
+Candidates will first be short-listed based on **Criteria 1–3**.
+
+All shortlisted candidates after Stage 1 will be informed by **15 July 2022** of their interview and audition dates. Non-shortlisted candidates will also be informed that they are unsuccessful in their application.
+
+**Stage 2 – Audition/Trial**
+
+Short-listed candidates will be required to undergo an audition/trial.
+
+**Stage 3 – Panel Interview**
+
+Shortlisted candidates will be interviewed by a panel made up of: Vice–Principal, HOD/SH of the relevant talent area (e.g. Aesthetics, English, Student Leadership, Physical Education) and the CCA Teacher-In-Charge of the specific talent area.
+
+After Stage 2 (Audition/Trial) and Stage 3 (Panel Interview), the results will be compiled and all shortlisted candidates will be notified by **12 Sep 2022** if they have been given a Confirmed Offer, put on the Waiting List or if the school is unable to offer them a place.
+
+Those given a Confirmed Offer are guaranteed a place in the school in a course \[Express, Normal (Academic) or Normal (Technical)\] which the student is eligible for. This is based on the PSLE aggregate of the student.
