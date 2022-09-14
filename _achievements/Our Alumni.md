@@ -25,19 +25,27 @@ Read about [Brian Xie Zhao Yu](https://deyisec.moe.edu.sg/qql/slot/u503/Deyi%20
 ![](/images/Jingli%20Kixon%20&%20Min%20Fay.jpg)
 Read about [Min Fay](https://deyisec.moe.edu.sg/qql/slot/u503/Deyi%20Revamp%202019/Achievements/Our%20Alumni/Jingli%20Kixon%20&%20Min%20Fay.jpg) who achieved outstanding academic performance.  
 
+![](/images/Chan%20Shi%20Pei%20Victoria.jpg)
 Read about [Chan Shi Pei Victoria](https://deyisec.moe.edu.sg/qql/slot/u503/Deyi%20Revamp%202019/Achievements/Our%20Alumni/Chan%20Shi%20Pei%20Victoria.jpg) who achieved outstanding academic performance.  
  
+![](/images/Tino%20Cheong%20Woon%20Huai.jpg)
 Read about [Tino Cheong Woon Huai](https://deyisec.moe.edu.sg/qql/slot/u503/Deyi%20Revamp%202019/Achievements/Our%20Alumni/Tino%20Cheong%20Woon%20Huai.jpg) who displayed care in his achievements.  
 
+![](/images/Lim%20Qing%20Hui.jpg)
 Read about [Lim Qing Hui](https://deyisec.moe.edu.sg/qql/slot/u503/Deyi%20Revamp%202019/Achievements/Our%20Alumni/Lim%20Qing%20Hui.jpg) who displayed care in her achievements.
 
+![](/images/isabel%20lim.jpg) ![](/images/SET%2031.jpg)
 Read about [Isabel Lim Xin Hui(1)](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/isabel%20lim.jpg) [(2)](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/SET%203.1.jpg) who displayed care in her achievements.  
 
+![](/images/ngiawenxin.jpg)
 Read about [Ngia Wen Xin](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/ngiawenxin.jpg) who displayed care in her achievements.  
 
+![](/images/SET%2012.jpg)
 Read about [Tan Wilbyn](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/SET%201.2.jpg) who displayed care in his achievements.  
 
+![](/images/SET%2013.jpg)
 Read about [L Keerthnah](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/SET%201.3.jpg) who displayed care in her achievements.  
+
 
 Read about [Li Sitong](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/SET%202.0.jpg) who displayed care in her achievements.  
 
