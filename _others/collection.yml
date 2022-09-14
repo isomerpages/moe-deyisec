@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Snacks For Break Time.md
       - Straits Times School Pocket Money Fund.md
       - N Level Release of Results.md
       - School General Information/.keep
@@ -12,3 +11,4 @@ collections:
       - School textbooks and School Attires.md
       - School Group Student Protection Plan Claim Procedure (Schools).md
       - Termly Infosheet.md
+      - Snacks For Break Time.md
