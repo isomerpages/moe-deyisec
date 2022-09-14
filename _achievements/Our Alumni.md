@@ -24,17 +24,13 @@ Read about [Tino Cheong Woon Huai](https://staging.d3sil9pzbw3lij.amplifyapp.co
 
 Read about [Lim Qing Hui](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Lim%20Qing%20Hui.jpg) who displayed care in her achievements.
 
-![](/images/isabel%20lim.jpg) ![](/images/SET%2031.jpg)
-Read about [Isabel Lim Xin Hui(1)](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/isabel%20lim.jpg) [(2)](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/SET%203.1.jpg) who displayed care in her achievements.  
+Read about [Isabel Lim Xin Hui(1)](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/isabel%20lim.jpg) [(2)](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/SET%2031.jpg) who displayed care in her achievements.  
 
-![](/images/ngiawenxin.jpg)
-Read about [Ngia Wen Xin](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/ngiawenxin.jpg) who displayed care in her achievements.  
+Read about [Ngia Wen Xin](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/ngiawenxin.jpg) who displayed care in her achievements.  
 
-![](/images/SET%2012.jpg)
-Read about [Tan Wilbyn](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/SET%201.2.jpg) who displayed care in his achievements.  
+Read about [Tan Wilbyn](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/SET%2012.jpg) who displayed care in his achievements.  
 
-![](/images/SET%2013.jpg)
-Read about [L Keerthnah](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/SET%201.3.jpg) who displayed care in her achievements.  
+Read about [L Keerthnah](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/SET%2013.jpg) who displayed care in her achievements.  
 
 ![](/images/SET%2020.jpg)
 Read about [Li Sitong](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/SET%202.0.jpg) who displayed care in her achievements.  
