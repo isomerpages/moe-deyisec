@@ -5,7 +5,8 @@ description: ""
 ---
 ### Achievements for School Website
 
-Read about [Lim Qi Zhen](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/Alumni%202020%20Lim%20Qi%20Zhen.jpg) who achieved outstanding academic performance.  
+![](/images/Alumni%202020%20Lim%20Qi%20Zhen.jpg)
+Read about **Lim Qi Zhen** who achieved outstanding academic performance.  
 
 Read about [Abdul Rahim B MD Hamsani](https://deyisec.moe.edu.sg/qql/slot/u503/Deyi%20Revamp%202019/Achievements/Our%20Alumni/Abdul%20Rahim%20B%20MD%20Hamsani.jpg) who displayed resilience and determination in his achievements.  
 
