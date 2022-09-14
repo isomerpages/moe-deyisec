@@ -3,19 +3,12 @@ title: Direct School Admission (DSA)
 permalink: /useful-links/direct-school-admission-dsa/
 description: ""
 ---
-[Word that will appear on site](#word that website will look for):
-E.g. [Pookie](#pookie)
-
-Put at where you want it to be:
-E.g. <a name="pookie"></a>
-
-If header: 
-### <a name="pookie"></a>Pookie
+### Direct School Admission (DSA)
 
 * [Background](#Background)
 * [Centralised DSA-Sec Application Process](#CentralisedDSA-SecApplicationProcess)
 * [Specific Talent Areas offered by Deyi](#SpecificTalentAreasofferedbyDeyi)
-* Admission Criteria
+* [Admission Criteria](#AdmissionCriteria)
 * Selection Process
 * Key Activities and Dates
 * Frequently Asked Questions
@@ -62,3 +55,27 @@ The following is the write up of the various specific talent areas offered by De
 | Leadership | In Deyi, we are committed to developing leaders who are active contributors to the community, equipped with 21st century’s skills, and possess a passion to serve. We will be looking for individuals who have shown aptitude in service and leadership in their primary schools or one who has keen interest in community service and would like to lead in this aspect.<br><br>Students who are selected can expect to have their leadership skills and values developed through a mentoring programme. They will be paired with our Student Council Exco members to plan and execute a project to influence our community in exhibiting kindness. The project will be guided by teachers in-charged of student leadership and regular reflections will be facilitated to help them crystalise their learning.   <br><br>Our Uniformed Groups (NCC, NPCC & SJB) are all sustained Gold Units which have achieved outstanding performance in Zonal & National Competitions [e.g. Precision Drill Squad competition (NCC) and 1st Aid & Home Nursing competition (SJB).] |
 | Sports and Games | The Deyi student athlete is a sportsperson of character whose pursuit of excellence is unwavering. By participating in sports, students can develop enduring positive character traits and sportsmanship which can prepare them for future, authentic situations. The Deyi athlete is the embodiment of the school values - dedication, diligence, determination, discipline, care and integrity.<br><br>The school has traditionally done well in Zonal and National competitions. The Basketball Girls team has won the Zonal title 3 times in the past decade. The Table Tennis (Girls) came in 4th in the Zonal tournament in 2019. Additionally, our Handball Girls team (made up of students from the various sports groups) has won the National title a total of 9 times (Under-15/Under-17 Division) since its inaugural season in 2012. Student athletes who join our sports development programme can look forward to many opportunities to represent our school in both MOE-sanctioned and external competitions. In doing so, Deyi has nurtured many future leaders who went on to captain their various sports teams in their tertiary institutions as well as represent Singapore in the various international tournaments. |
 | | | |
+
+### Admission Criteria <a name="AdmissionCriteria"></a>
+
+**1.**    **Academic Qualifications**
+
+Student must show diligence and positive attitude towards academic work.
+
+**2.**    **Ability in relevant areas of Specific Talent selected**
+
+**3.**    **Accomplishments in relevant areas of Specific Talent selected  
+**Accomplishments in the relevant areas will be taken into consideration. For example:
+
+o     Achievement in intra-school, inter-schools or equivalent competitions and performances. 
+
+o     Experience of performance, choreography work, scriptwriting, journalistic work, multi-media production etc.; for class, school, community outreach concerts, etc. (if any)
+
+o     Participation and level of representation (e.g. school/club/country) in events (e.g. public concerts, national/international tournaments, Community/Grassroots events, cultural exchanges, etc.) (if any)
+
+o     Leadership appointments held in CCAs or Student Leadership Groups
+
+**4.**    **Audition/Trial**  
+Student must pass an audition/trial, in the relevant areas of Specific Talent, conducted by the school. The following is a brief description of the various auditions/trials.  
+
+Trials and auditions will usually be conducted on **Tuesdays** and **Thursdays** as these are the school’s designated CCA Days.
