@@ -17,6 +17,5 @@ f. Has not been a STSPMF beneficiary for 24 months for the whole schooling years
 
 The closing date to submit the application to the school’s General Office is 9 September 2022 (Friday).
 
-[STSPMF Application Form](https://deyisec.moe.edu.sg/qql/slot/u503/Others/straits%20time%20school%20pocket%20money/Annex%20A%20-%202022%20STSPMF%20Application%20Form%20for%20schools%20REVISED%202023%20Cycle%201.pdf)   
-
-[Income Declaration Form](https://deyisec.moe.edu.sg/qql/slot/u503/Others/straits%20time%20school%20pocket%20money/Annex%20B%20-%20Income%20declaration%20form_2022%20REVISED%202023%20Cycle%201.pdf)
+[STSPMF Application Form](/files/Annex%20A%20-%202022%20STSPMF%20Application%20Form%20for%20schools%20REVISED%202023%20Cycle%201.pdf) <br>
+[Income Declaration Form](/files/Annex%20B%20-%20Income%20declaration%20form_2022%20REVISED%202023%20Cycle%201.pdf)
