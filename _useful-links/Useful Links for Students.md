@@ -5,7 +5,7 @@ description: ""
 ---
 #### Administrative Links:  
 
-* [School Rules and Regulations](https://deyisec.moe.edu.sg/about-us/our-school/school-rules-and-regulation)   
+* [School Rules and Regulations](https://staging.d3sil9pzbw3lij.amplifyapp.com/about-us/our-school/school-rules-and-regulation/)   
 * [Transport Subsidy - Transitlink eVoucher Redemption Procedure](https://deyisec.moe.edu.sg/qql/slot/u503/Deyi%20Revamp%202019/Useful%20Links/Useful%20Links%20for%20Students/Transport%20Subsidy/TL_EVO~1.DOC)
 * [Straits Times School Pocket Money Fund](https://deyisec.moe.edu.sg/others/straits-times-school-pocket-money-fund)
 * [Cybrary Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/deyisec)
