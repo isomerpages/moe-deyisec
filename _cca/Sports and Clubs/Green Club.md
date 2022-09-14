@@ -16,7 +16,7 @@ We joined Green Club(GC) for the love of our only earth and to contribute whatev
 <strong>Adelle:&nbsp; </strong>“I learnt to take initiative and be responsible. GC has given me many opportunities to make me a better me.”
 
 "We are thankful to GC teachers and members for the wonderful CCA experience."
-
+<br><br>
 Joey Lim <strong>(405) </strong> <br>
 Ivan Edrimin <strong>(401) </strong> <br>
 Adelle Yip <strong>(406) </strong> <br>
