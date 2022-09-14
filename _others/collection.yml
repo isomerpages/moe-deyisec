@@ -2,5 +2,6 @@ collections:
   others:
     output: true
     order:
+      - School General Information/.keep
       - N Level Release of Results.md
       - Straits Times School Pocket Money Fund.md
