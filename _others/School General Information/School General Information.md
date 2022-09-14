@@ -38,3 +38,8 @@ Currently, all Singaporean students studying full-time in Governemnt or Governme
 
 ### School Services
 
+| Type of Services/Products | Name of Company | Venue   | Telephone | Operating Hours |
+|---|---|---|---|---|
+| Sales of Sec 1-5 Textbooks, Writing Materials, stationery   | Casco Educational Supply Pte Ltd | School Canteen | Tel:  67483101  Fax: 67489139 | 7am to 3pm (during school days) |
+| Sales of Uniforms, PE Attire,  House T-shirts, School Tie  and Apron | Shanghai School Uniforms Pte Ltd | School bookshop | Tel:  63522741 | School uniforms are available for sale at the school bookshop during school terms and the supplier’s outlet at Bras Basah Complex.<br>(Operating Days/Hours: Mon - Sat & From 10.30am to 6.30pm) |
+| | | | | |
