@@ -8,7 +8,7 @@ description: ""
 * [School Rules and Regulations](https://staging.d3sil9pzbw3lij.amplifyapp.com/about-us/our-school/school-rules-and-regulation/)   
 * [School General Information](https://staging.d3sil9pzbw3lij.amplifyapp.com/others/school-general-information/)  
 * [Financial Assistance](https://staging.d3sil9pzbw3lij.amplifyapp.com/others/financial-assistance-scheme)  
-* [School textbooks and School attires](https://deyisec.moe.edu.sg/others/school-textbooks-and-school-attires)
+* [School textbooks and School attires](https://staging.d3sil9pzbw3lij.amplifyapp.com/others/school-textbooks-and-school-attires)
 * [School Group Student Protection Plan Claim Procedure (Schools)](https://deyisec.moe.edu.sg/others/school-group-student-protection-plan-claim-procedure-schools)
 * [Parent Gateway Installation Guide](https://deyisec-moe-edu-sg-admin.cwp.sg/qql/slot/u503/Deyi%20Revamp%202019/Useful%20Links/Useful%20Links%20for%20Parents/parentgateway/Parents%20Gateway_installation%20guide.pdf)    
 * [Dengue Prevention](https://deyisec-moe-edu-sg-admin.cwp.sg/qql/slot/u503/Deyi%20Revamp%202019/Useful%20Links/Useful%20Links%20for%20Parents/Working%20Together%20to%20Prevent%20Dengue.pdf)
