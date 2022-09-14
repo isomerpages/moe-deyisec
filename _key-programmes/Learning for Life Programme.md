@@ -23,3 +23,17 @@ Arts Education is the focus of Deyi’s Learning for Life Programme (LLP). Throu
 **Dance, Music and Art Enrichment Programme**&nbsp;- The Learning for Life Programme seeks to provide Deyians with access to quality arts education programmes to nurture students’ interest and passion in the arts.
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTnc5YEPwGYiZIObo5r4eb1tQ1SQtPKtU8PbxIc2X4KCtxy4rj_hd_gE_pI0VuBCqFpwrUXNyhVep5-/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+
+**Arts Ambassador Programme (AAP)** \- In the Arts Ambassador Programme, students get to hone their leadership skills with the involvement in planning of schools events such as DGT, to lead, manage and collaborate meaningfully with their peers and rally Deyians to build a vibrant arts culture.  
+  
+**Deyi Arts 2021 Accomplishment** <br>
+\- Distinction Award in the Live On Design Competition 2021 organized by Ministry of Health - National Organ Transplant Unit (NOTU) by Foo Wen Qi, class 408.
+
+<img src="/images/Foo%20Wen%20Qi.jpg" 
+    style="width:70%">
+
+\- Deyi Choir is featured in SYFgoesOnline 2021, ‘Let’s Jammed Together’ on a virtual performance with the Singapore artists, MICapella. <br>
+Group 1: Lu Valyn, Cheong Charis, Zhao Jing Han and Melvin Yeo Wei Liang <br>
+Group 2: Chong Yan Ting Melody, Goh Zi Ning and Cheok Rui Wen
+
+<//insert video>
