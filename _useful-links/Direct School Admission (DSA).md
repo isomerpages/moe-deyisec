@@ -10,7 +10,7 @@ description: ""
 * [Specific Talent Areas offered by Deyi](#SpecificTalentAreasofferedbyDeyi)
 * [Admission Criteria](#AdmissionCriteria)
 * [Selection Process](#SelectionProcess) 
-* Key Activities and Dates
+* [Key Activities and Dates](#KeyActivitiesandDates) 
 * Frequently Asked Questions
 
 ________
@@ -84,20 +84,19 @@ Student must pass an interview conducted by a panel made up of: Vice–Principa
 
 The selection criteria and process for the talent areas will be updated by early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
- **Stage 1 – Short-listing**
-
+**Stage 1 – Short-listing** <br>
 Candidates will first be short-listed based on **Criteria 1–3**.
 
 All shortlisted candidates after Stage 1 will be informed by **15 July 2022** of their interview and audition dates. Non-shortlisted candidates will also be informed that they are unsuccessful in their application.
 
-**Stage 2 – Audition/Trial**
-
+**Stage 2 – Audition/Trial** <br>
 Short-listed candidates will be required to undergo an audition/trial.
 
-**Stage 3 – Panel Interview**
-
+**Stage 3 – Panel Interview** <br>
 Shortlisted candidates will be interviewed by a panel made up of: Vice–Principal, HOD/SH of the relevant talent area (e.g. Aesthetics, English, Student Leadership, Physical Education) and the CCA Teacher-In-Charge of the specific talent area.
 
 After Stage 2 (Audition/Trial) and Stage 3 (Panel Interview), the results will be compiled and all shortlisted candidates will be notified by **12 Sep 2022** if they have been given a Confirmed Offer, put on the Waiting List or if the school is unable to offer them a place.
 
 Those given a Confirmed Offer are guaranteed a place in the school in a course \[Express, Normal (Academic) or Normal (Technical)\] which the student is eligible for. This is based on the PSLE aggregate of the student.
+
+### Key Activities and Dates <a name="KeyActivitiesandDates"></a>
