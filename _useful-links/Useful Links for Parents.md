@@ -21,25 +21,25 @@ description: ""
 ### Academic Links:
 
 * [National Examination Timetable](https://www.seab.gov.sg/)  
-* [Sexuality Education](https://deyisec.moe.edu.sg/others/school-general-information/moe-sexuality-education-in-schools)
-* [Cyber wellness Parenting Tips](https://deyisec.moe.edu.sg/qql/slot/u503/Deyi%20Revamp%202019/Useful%20Links/Useful%20Links%20for%20Parents/Cyber%20wellness%20Parenting%20Tips/PARENTing%20Tips_Template.pdf)
+* [Sexuality Education](https://staging.d3sil9pzbw3lij.amplifyapp.com/others/school-general-information/moe-sexuality-education-in-schools/)
+* [Cyber wellness Parenting Tips](/files/PARENTing%20Tips_Template.pdf)
 * Sec 2 Streaming
-	* [Sec 2E Briefing Slides](https://deyisec.moe.edu.sg/qql/slot/u503/useful%20links/parents/sec%202%20streaming/Sec%202EXP%20Streaming%20Briefing%202022%20-%20Final.pdf)
-	* [Sec 2E Booklets](https://deyisec.moe.edu.sg/qql/slot/u503/useful%20links/parents/sec%202%20streaming/Streaming%202022%20-%20Express%20Handout.pdf)
-	* [Sec 2NA Briefing Slides](https://deyisec.moe.edu.sg/qql/slot/u503/useful%20links/parents/sec%202%20streaming/Sec%202NA%20Streaming%20Briefing%202022%20-%20Final.pdf)
-	* [Sec 2NA Booklets](https://deyisec.moe.edu.sg/qql/slot/u503/useful%20links/parents/sec%202%20streaming/Streaming%202022%20-%20Normal%20Academic%20Handout.pdf)
-	* [Sec 2NT Briefing Slides](https://deyisec.moe.edu.sg/qql/slot/u503/useful%20links/parents/sec%202%20streaming/Sec%202NT%20Streaming%20Briefing%202022%20-%20Final.pdf)
-	* [Sec 2NT Booklets](https://deyisec.moe.edu.sg/qql/slot/u503/useful%20links/parents/sec%202%20streaming/Streaming%202022%20-%20Normal%20Technical%20Handout.pdf)
+	* [Sec 2E Briefing Slides](/files/Sec%202EXP%20Streaming%20Briefing%202022%20-%20Final.pdf)
+	* [Sec 2E Booklets](/files/Streaming%202022%20-%20Express%20Handout.pdf)
+	* [Sec 2NA Briefing Slides](/files/Sec%202NA%20Streaming%20Briefing%202022%20-%20Final.pdf)
+	* [Sec 2NA Booklets](/files/Streaming%202022%20-%20Normal%20Academic%20Handout.pdf)
+	* [Sec 2NT Briefing Slides](/files/Sec%202NT%20Streaming%20Briefing%202022%20-%20Final.pdf)
+	* [Sec 2NT Booklets](/files/Streaming%202022%20-%20Normal%20Technical%20Handout.pdf)
 
 * Prelim 2022 Timetable
-	* [Sec 4E/5N](https://deyisec.moe.edu.sg/qql/slot/u503/useful%20links/parents/Prelim%20Exam%202022%20Timetable%204E5N.pdf)
-	* [Sec 4NA](https://deyisec.moe.edu.sg/qql/slot/u503/useful%20links/parents/Prelim%20Exam%202022%20Timetable%204NA.pdf)
-	* [Sec 4NT](https://deyisec.moe.edu.sg/qql/slot/u503/useful%20links/parents/Prelim%20Exam%202022%20Timetable%204NT.pdf)
+	* [Sec 4E/5N](/files/Prelim%20Exam%202022%20Timetable%204E5N.pdf)
+	* [Sec 4NA](/files/Prelim%20Exam%202022%20Timetable%204NA.pdf)
+	* [Sec 4NT](/files/Prelim%20Exam%202022%20Timetable%204NT.pdf)
 
 * End-Of-Year Exam Timetable 2022
-	* [Sec 1](https://deyisec.moe.edu.sg/qql/slot/u503/useful%20links/parents/Sec%201_EOY%20Timetable%202022_final.pdf)  
-	* [Sec 2](https://deyisec.moe.edu.sg/qql/slot/u503/useful%20links/parents/Sec%202_EOY%20Timetable%202022_final.pdf)
-	* [Sec 3](https://deyisec.moe.edu.sg/qql/slot/u503/useful%20links/parents/Sec%203_EOY%20Timetable%202022_final.pdf)
+	* [Sec 1](/files/Sec%201_EOY%20Timetable%202022_final.pdf)  
+	* [Sec 2](/files/Sec%202_EOY%20Timetable%202022_final.pdf)
+	* [Sec 3](/files/Sec%203_EOY%20Timetable%202022_final.pdf)
 
 ### Partnership Links:
 
