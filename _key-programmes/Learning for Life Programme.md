@@ -12,9 +12,12 @@ Arts Education is the focus of Deyi’s Learning for Life Programme (LLP). Throu
   
 ![](/images/Lower%20Secondary%20Drama-in-curriculum%20DIC.jpg)
 
-**Arts Fiesta**&nbsp;-&nbsp;Deyi’s Arts Fiesta is a biennial concert that showcases Deyians’ artistic expression and excellence through the presentation of our visual and performing art forms.
+**Arts Fiesta** - Arts Fiesta is a biennial concert that showcases Deyians’ artistic expression and excellence through the presentation of our visual and performing art forms.
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTApOLGOCwsftB-8iAtlb6UjxfaJvWipgSxd76lzmVi8cys7gEXu2pYuNdER8fEx2Zl8_MkUpM7iBdi/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
-**Deyi’s Got Talent (DGT)**&nbsp;- Deyi’s Got Talent is a platform for students to display their talents in dance, music, vocals and visual arts.
+**Deyi’s Got Talent (DGT)** - Deyi’s Got Talent is a platform for students to display their talents in dance, music, vocals and visual arts.
 
+</insert video>
+
+**Dance, Music and Art Enrichment Programme** - The Learning for Life Programme seeks to provide Deyians with access to quality arts education programmes to nurture students’ interest and passion in the arts.
