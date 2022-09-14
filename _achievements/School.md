@@ -57,3 +57,17 @@ Deyi Secondary School is awarded the National Arts Education Award (Blaze) in 20
 Deyi Secondary achieved its third consecutive Lotus Award in 2015 and for the achievement the school was awarded the **Lotus Sustained Achievement Award**. Deyi carried out school environmental projects and participated in environmental education activities in partnership with external organisations and the neighboring community to promote Singapore’s sustainability    
 
 ### 2014
+
+<img src="/images/CCE.jpg" 
+    style="width:40%">
+		
+To better engage students, the Character and Citizenship Department in Deyi Secondary school initiated the ‘SEL Through Sports’ program. The process of acquiring a sports skill provides an excellent experiential learning platform for the inculcation of values and acquisition of social emotional competencies through authentic, teachable moments. A combination of approaches through experiential learning and teachable moments allows teachers to make use of meaningful contexts to frame social emotional learning for students. 
+
+### 2013
+
+<img src="/images/SEC-StarhubSchoolGreen2013.jpg" 
+    style="width:60%">
+		
+The SEC-StarHub School Green Awards (SGA) encourages students to take part in a holistic approach to raise environmental awareness within communities and organisations. 
+
+Deyi Secondary School has received the Lotus Award for the past two consecutive years (2013 & 2014). This is in recognition of sustained efforts to encourage students to take on greater ownership in environmental activities and management.
