@@ -9,7 +9,7 @@ description: ""
 * [Transport Subsidy - Transitlink eVoucher Redemption Procedure](/files/TL_EVO_1.pdf)
 * [Straits Times School Pocket Money Fund](https://staging.d3sil9pzbw3lij.amplifyapp.com/others/straits-times-school-pocket-money-fund)
 * [Cybrary Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/deyisec)
-* [Information Note on Singpass Accounts for Eligible Students Taking The 2022 GCE O-Level Examination](https://deyisec.moe.edu.sg/qql/slot/u503/useful%20links/students/Information%20Note%20on%20Singpass%20for%20Sec4E%205NA%20IP%20students%20Secondary%20School.pdf)
+* [Information Note on Singpass Accounts for Eligible Students Taking The 2022 GCE O-Level Examination](/files/Information%20Note%20on%20Singpass%20for%20Sec4E%205NA%20IP%20students%20Secondary%20School.pdf)
 * N level Release of Results
 	* [Useful Information](https://deyisec-moe-edu-sg-admin.cwp.sg/others/n-level-release-of-results)
 * [BL Schedule 2022](https://docs.google.com/spreadsheets/d/1a8lmYrrACrkNoN-c0l8N5rBeW4cB0ugEmWOqYV5FcL0/edit?usp=sharing)
