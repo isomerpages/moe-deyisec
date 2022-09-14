@@ -41,3 +41,19 @@ Deyi Secondary attained the Lotus Sustained Achievement award in 2017 after atta
 ### 2016
  
 **National Arts Education Award 2015 to 2019**
+
+<img src="/images/nationalArtsEducation2016.jpg" 
+    style="width:30%">
+		
+Deyi Secondary School is awarded the National Arts Education Award (Blaze) in 2015. This award is presented on an annual basis, in recognition of schools that provide opportunities to students to be involved and excel in the arts.
+
+### 2015
+
+**Lotus Sustained Achievement Award 2015**
+
+<img src="/images/lotus%20achievement%202017.jpg" 
+    style="width:80%">
+		
+Deyi Secondary achieved its third consecutive Lotus Award in 2015 and for the achievement the school was awarded the **Lotus Sustained Achievement Award**. Deyi carried out school environmental projects and participated in environmental education activities in partnership with external organisations and the neighboring community to promote Singapore’s sustainability    
+
+### 2014
