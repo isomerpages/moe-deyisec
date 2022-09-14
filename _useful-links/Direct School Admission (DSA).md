@@ -11,7 +11,7 @@ description: ""
 * [Admission Criteria](#AdmissionCriteria)
 * [Selection Process](#SelectionProcess) 
 * [Key Activities and Dates](#KeyActivitiesandDates) 
-* Frequently Asked Questions
+* [Frequently Asked Questions](#FrequentlyAskedQuestions) 
 
 ________
 
@@ -78,7 +78,7 @@ Trials and auditions will usually be conducted on **Tuesdays** and **Thursday
 ![](/images/dsa.png)
 
 **5. Panel Interview** <br>
-Student must pass an interview conducted by a panel made up of: Vice–Principal, HOD/SH of the relevant talent area (e.g. Aesthetics, English, Student Leadership Physical Education) and the CCA Teacher-In-Charge of the specific talent area.
+Student must pass an interview conducted by a panel made up of: <u>Vice–Principal, HOD/SH </u> of the relevant talent area (e.g. Aesthetics, English, Student Leadership Physical Education) and the <u> CCA Teacher-In-Charge </u> of the specific talent area.
 
 ### Selection Process <a name="SelectionProcess"></a>
 
@@ -93,10 +93,22 @@ All shortlisted candidates after Stage 1 will be informed by **15 July 2022** 
 Short-listed candidates will be required to undergo an audition/trial.
 
 **Stage 3 – Panel Interview** <br>
-Shortlisted candidates will be interviewed by a panel made up of: Vice–Principal, HOD/SH of the relevant talent area (e.g. Aesthetics, English, Student Leadership, Physical Education) and the CCA Teacher-In-Charge of the specific talent area.
+Shortlisted candidates will be interviewed by a panel made up of: <u> Vice–Principal, HOD/SH </u> of the relevant talent area (e.g. Aesthetics, English, Student Leadership, Physical Education) and the <u> CCA Teacher-In-Charge </u> of the specific talent area.
 
 After Stage 2 (Audition/Trial) and Stage 3 (Panel Interview), the results will be compiled and all shortlisted candidates will be notified by **12 Sep 2022** if they have been given a Confirmed Offer, put on the Waiting List or if the school is unable to offer them a place.
 
 Those given a Confirmed Offer are guaranteed a place in the school in a course \[Express, Normal (Academic) or Normal (Technical)\] which the student is eligible for. This is based on the PSLE aggregate of the student.
 
 ### Key Activities and Dates <a name="KeyActivitiesandDates"></a>
+
+| Timeline | Key Activities |
+|---|---|
+| 5 May –  1 Jun, 3.00pm | Online Application Stage. (Through centralised DSA-Sec Portal)<br>  |
+| By 15 Jul | All shortlisted applicants will be informed of their Assessment date. |
+| 20 Jun – 12 Sep | Selection Stage. Trials and auditions will usually be conducted on Tuesdays and Thursdays as these are the school’s designated CCA Days.  |
+| By 12 Sep | All shortlisted candidates will be notified by post as to whether he/she is on the confirmed, waiting or rejected list. |
+| 31 Oct – 4 Nov | Exercise School Preference Stage. |
+| Nov | Results Release Stage. |
+| | |
+
+### Frequently Asked Questions <a name="FrequentlyAskedQuestions"></a>
