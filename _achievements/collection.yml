@@ -1,5 +1,5 @@
 collections:
-  school:
+  achievements:
     output: true
     order:
       - School.md
