@@ -32,14 +32,10 @@ Read about [Tan Wilbyn](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/SE
 
 Read about [L Keerthnah](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/SET%2013.jpg) who displayed care in her achievements.  
 
-![](/images/SET%2020.jpg)
-Read about [Li Sitong](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/SET%202.0.jpg) who displayed care in her achievements.  
+Read about [Li Sitong](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/SET%2020.jpg) who displayed care in her achievements.  
 
-![](/images/SET%2032.jpg)
-Read about [Li Kangli](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/SET%203.2.jpg) who displayed care in his achievements. 
+Read about [Li Kangli](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/SET%2032.jpg) who displayed care in his achievements. 
 
-![](/images/Esther%20Saroja.jpg)
-Read about [Esther Saroja](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/Esther%20Saroja.jpg) who has displayed commitment and care in her contributions to the community. 
+Read about [Esther Saroja](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Esther%20Saroja.jpg) who has displayed commitment and care in her contributions to the community. 
 
-![](/images/Lai%20Zhiyuan2010.jpg)
-Read about [Lai Zhiyuan](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/Lai%20Zhiyuan2010.jpg) who displayed care in his achievements.
+Read about [Lai Zhiyuan](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Lai%20Zhiyuan2010.jpg) who displayed care in his achievements.
