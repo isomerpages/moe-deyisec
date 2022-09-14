@@ -9,7 +9,8 @@ Read about [Lim Qi Zhen](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/A
 
 Read about [Abdul Rahim B MD Hamsani](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Abdul%20Rahim%20B%20MD%20Hamsani.jpg) who displayed resilience and determination in his achievements.  
 
-Read about [Koh Yee Ru](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Koh%20Yee%20Ru.jpg) who displayed diligence and discipline in her achievements.  
+Read about [Koh Yee Ru](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Koh%20Yee%20Ru.jpg) who displayed diligence and discipline in her achievements. 
+
 Read about [Lee Shu Xian Anna](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Abdul%20Rahim%20B%20MD%20Hamsani%20&%20Lee%20Shu%20Xian%20Anna.jpg) who displayed care and determination in her achievements.  
 
 Read about [Priyadharshini D/O Sengutuven](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Priyadharshini%20DO%20Sengutuven.jpg) who displayed dedication in her achievements.  
