@@ -14,7 +14,7 @@ description: ""
 * [Dengue Prevention](/files/Working%20Together%20to%20Prevent%20Dengue.pdf)
 * [Enhanced school measures for novel coronavirus](/files/nCoV%20update%20to%20parents%2027%20Jan_updated%20deyi.pdf)
 * [Our Deyi Stories](/files/Our%20Deyi%20Stories.pdf)
-* [Termly Info-sheet](https://deyisec-moe-edu-sg-admin.cwp.sg/others/termly-infosheet)
+* [Termly Info-sheet](https://staging.d3sil9pzbw3lij.amplifyapp.com/others/termly-infosheet)
 * [Application Form for Leave of Absence](https://form.gov.sg/60f7c115f516090011db8018)
 * [Minister Chan's visit, 18 May 2022](https://www.facebook.com/100044242728598/posts/561195995365153/?d=n)
 
