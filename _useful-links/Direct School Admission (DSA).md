@@ -58,24 +58,21 @@ The following is the write up of the various specific talent areas offered by De
 
 ### Admission Criteria <a name="AdmissionCriteria"></a>
 
-**1.**    **Academic Qualifications**
-
+**1. Academic Qualifications** <br>
 Student must show diligence and positive attitude towards academic work.
 
-**2.**    **Ability in relevant areas of Specific Talent selected**
+**2. Ability in relevant areas of Specific Talent selected**
 
-**3.**    **Accomplishments in relevant areas of Specific Talent selected  
-**Accomplishments in the relevant areas will be taken into consideration. For example:
+**3. Accomplishments in relevant areas of Specific Talent selected** <br>
+Accomplishments in the relevant areas will be taken into consideration. For example:
+* Achievement in intra-school, inter-schools or equivalent competitions and performances. 
+* Experience of performance, choreography work, scriptwriting, journalistic work, multi-media production etc.; for class, school, community outreach concerts, etc. (if any)
+* Participation and level of representation (e.g. school/club/country) in events (e.g. public concerts, national/international tournaments, Community/Grassroots events, cultural exchanges, etc.) (if any)
+* Leadership appointments held in CCAs or Student Leadership Groups
 
-o     Achievement in intra-school, inter-schools or equivalent competitions and performances. 
-
-o     Experience of performance, choreography work, scriptwriting, journalistic work, multi-media production etc.; for class, school, community outreach concerts, etc. (if any)
-
-o     Participation and level of representation (e.g. school/club/country) in events (e.g. public concerts, national/international tournaments, Community/Grassroots events, cultural exchanges, etc.) (if any)
-
-o     Leadership appointments held in CCAs or Student Leadership Groups
-
-**4.**    **Audition/Trial**  
+**4. Audition/Trial** <br> 
 Student must pass an audition/trial, in the relevant areas of Specific Talent, conducted by the school. The following is a brief description of the various auditions/trials.  
 
 Trials and auditions will usually be conducted on **Tuesdays** and **Thursdays** as these are the school’s designated CCA Days.
+
+![](/images/dsa.png)
