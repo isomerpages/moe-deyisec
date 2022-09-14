@@ -112,3 +112,36 @@ Those given a Confirmed Offer are guaranteed a place in the school in a course \
 | | |
 
 ### Frequently Asked Questions <a name="FrequentlyAskedQuestions"></a>
+
+**1\. What type of students are you looking for?** <br>
+We are looking for students who have relevant experience and achievement in the various Specific Talent Areas offered. He/She must also possess diligence and a positive attitude in academic work.
+
+**2\. Is there a minimum requirement?** <br>
+Accomplishments in the various Specific Talent Areas offered will be an advantage. All students who can fulfil the criteria listed in the section on Admission Criteria will be eligible. 
+
+**3\. How will you select students?** <br>
+Shortlisted applicants will undergo an audition/trial and an interview. A panel comprising the Vice–Principal, Key personnel and Teachers in-charge of the related CCAs will make the selection.
+
+**4\. Beyond the Specific Talent Areas stated, what else does Deyi Secondary offer for my child?** <br>
+In line with the school's vision, Deyians must be equipped with the necessary skills, knowledge and attitudes to face the challenges of the world, be 'agile' in their response to changes and have the courage to explore new frontiers. Underlying all these is the courage to make a difference to the community.
+
+Our school’s Applied Learning Programme (ALP) is Broadcast Journalism which seeks to develop confident and articulate speakers. Our Learning for Life Programme (LLP) is Visual and Performing Arts which seeks to nurture confident communicators and gracious citizens.
+
+As part of our IT Enrichment Programme, students can also look forward to creating a Dashboard to help users make sense of large data using the Power BI Business Analytics Software or building a Clinometer with trigonometry concepts using MakeCode for micro:bit and using it to measure structures in the school.
+
+Our comprehensive range of core and enrichment programmes also include the Character Development Programme, Science Enrichment Programme and various others will expose students to experiences that provide them with opportunities to learn new skills, develop resilience and form a social conscience.
+
+**5\. How heavily involved will my child be in this CCA and what academic assistance will you provide my child?** <br>
+Training and practices for the various CCAs are held 2 times a week. The frequency and intensity will increase nearing competition season. The school has an academic monitoring system in place to identify students that require remediation and academic guidance. 
+
+**6\. Will there be additional fees?** <br>
+There will not be any additional fees beyond our current standard practice:
+
+The school will provide for the basic requirements (e.g. musical instruments, costumes, etc).
+
+Additional items such as special training courses, overseas cultural exchanges, etc will be heavily subsidised by the school, but students will be expected to bear a certain percentage of the costs. The students' Edusave funds can usually be tapped for this purpose.
+
+The school will ensure that no one is denied any opportunity due to financial difficulties. We will endeavour to work out a suitable arrangement to ensure that anyone who qualifies on merit for any opportunity is able to take it up.
+
+**7\. If my child does not progress up to expectation, what will the school do?** <br>
+The school will assess the situation and discuss the matter with you (parents/guardian) to ensure that your child progresses at a pace he/she is comfortable with.
