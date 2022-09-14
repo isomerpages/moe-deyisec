@@ -14,3 +14,14 @@ third_nav_title: School General Information
 |  IS | $1110  | $1250  | $1400  |
 | Miscellaneous Fees Rate:<br>• Standard miscellaneous fees:$10.00<br>• Second-Tier miscellaneous fees: $10.00<br><br>Singaporean students can use their Edusave Accounts to pay the 2nd-tier Miscellaneous Fee. Application Form is available in School General Office. |  |  |  |
 | | | |
+
+<u> Note:</u> Annual fee payable is spread over 12 months of the academic year. Students who join on or before 5th February will have to pay fees for January. Those who leave on or after 5th October will have to pay fees for November and December.
+
+1\. Join the GIRO scheme <br>
+For payment of fees using GIRO, please download the [GIRO Application Form](/files/giroform.pdf). GIRO deduction is on the 26 th of each month from February to December. School fees for the month of January will be deducted only in February. Hence for February, the deduction will be for both January and February fees.
+
+Please maintain sufficient funds in your bank account for GIRO deductions. If GIRO fails in one month, the balance will be carried forward to be deducted with the next month’s fees. The GIRO account will be suspended if it fails in the next month or have arrears exceeding 2 consecutive months’ fees.
+
+2\. Pay via AXS ◦AXS e-Station \[internet\] (eNETS / Mastercard / Masterpass / PayLah!) 
+* AXS m-Station \[mobile app\] – by selecting "eServices", followed by "MOE" (eNETS / Mastercard / Masterpass / PayLah!) 
+* At any AXS Stations by selecting "Education", followed by "MOE" (NETS). To locate the nearest AXS Station, please visit http://www.axs.com.sg/axsStation\_locations.php 3.Pay at their child's school (cash, cheque or cashier's order)Please write the student's name, NRIC number and school name on the reverse side of the cheque.
