@@ -3,7 +3,7 @@ title: Direct School Admission (DSA)
 permalink: /useful-links/direct-school-admission-dsa/
 description: ""
 ---
-### Direct School Admission (DSA)
+### Direct School Admission (DSA) <a name="backtotop"></a>
 
 * [Background](#Background)
 * [Centralised DSA-Sec Application Process](#CentralisedDSA-SecApplicationProcess)
@@ -15,11 +15,15 @@ description: ""
 
 ________
 
-### Background <a name="Background"></a>
+### Background <a name="Background"></a> 
+
+[Back to top](#backtotop)
 
 Starting from the 2018 DSA Exercise (for the 2018 P6 cohort), secondary schools will be able to take in up to 20% of their intake through the DSA. This expansion allows more students to be admitted directly into schools that can better nurture their strengths and interests through specific programmes.
 
 ### Centralised DSA-Sec Application Process <a name="CentralisedDSA-SecApplicationProcess"></a>
+
+[Back to top](#backtotop)
 
 (NOT applicable for School of the Arts (SOTA) and Singapore Sports School (SSP))
   
@@ -32,6 +36,8 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 **In addition, they will NOT be allowed to transfer to another school after the release of the PSLE results.**
 
 ### Specific Talent Areas offered by Deyi <a name="SpecificTalentAreasofferedbyDeyi"></a>
+
+[Back to top](#backtotop)
 
 The following are the various specific talent areas offered by Deyi for the Direct School Admission (DSA) exercise.
 
@@ -58,6 +64,8 @@ The following is the write up of the various specific talent areas offered by De
 
 ### Admission Criteria <a name="AdmissionCriteria"></a>
 
+[Back to top](#backtotop)
+
 **1. Academic Qualifications** <br>
 Student must show diligence and positive attitude towards academic work.
 
@@ -82,6 +90,8 @@ Student must pass an interview conducted by a panel made up of: <u>Vice–Princ
 
 ### Selection Process <a name="SelectionProcess"></a>
 
+[Back to top](#backtotop)
+
 The selection criteria and process for the talent areas will be updated by early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
 **Stage 1 – Short-listing** <br>
@@ -101,6 +111,8 @@ Those given a Confirmed Offer are guaranteed a place in the school in a course \
 
 ### Key Activities and Dates <a name="KeyActivitiesandDates"></a>
 
+[Back to top](#backtotop)
+
 | Timeline | Key Activities |
 |---|---|
 | 5 May –  1 Jun, 3.00pm | Online Application Stage. (Through centralised DSA-Sec Portal)<br>  |
@@ -112,6 +124,8 @@ Those given a Confirmed Offer are guaranteed a place in the school in a course \
 | | |
 
 ### Frequently Asked Questions <a name="FrequentlyAskedQuestions"></a>
+
+[Back to top](#backtotop)
 
 **1\. What type of students are you looking for?** <br>
 We are looking for students who have relevant experience and achievement in the various Specific Talent Areas offered. He/She must also possess diligence and a positive attitude in academic work.
@@ -183,4 +197,4 @@ As there is a cap of 20% for Deyi Secondary's enrolment under DSA-Sec exercise
 | Direct to DSA-Sec Portal<br>(Non Mainstream Students) | https://go.gov.sg/apply-dsa-sec-nms |
 | DSA-Sec iFAQs | https://go.gov.sg/dsa-secfaqs |
 | DSA-Sec School Finder | https://go.gov.sg/dsa-secschfinder |
-| | | 
+| | |
