@@ -11,9 +11,9 @@ Our Deyi Student Leadership Development Framework aims to develop every&nbsp;Dey
 
 <img style="width:70%" src="/images/Student%20Leadership%20Mindmap.jpg">
 
-The training programme is structured according to the Student Leadership Challenge Model by Jim Kouzes and Barry Posner. The 5 practices of exemplary leadership summarised as&nbsp;**Embody**,&nbsp;**Encourage**,&nbsp;**Enable**, Striving for&nbsp;**Excellence**&nbsp;and&nbsp;**Envision**&nbsp;capture the essence of the training principles towards student leadership development in Deyi.
+The training programme is structured according to the Student Leadership Challenge Model by Jim Kouzes and Barry Posner. The 5 practices of exemplary leadership summarised: **Embody**,**Encourage**,**Enable**, Striving for **Excellence** and **Envision** capture the essence of the training principles towards student leadership development in Deyi.
 
-<img style="width:70%" src="/images/Studentleadershiptable.jpg">
+<img style="width:60%" src="/images/Studentleadershiptable.jpg">
 		
 <u><strong> Student Leadership Training Programme </strong></u><br>
 Deyi Leadership Training Programme is a four-year programme spanning from Secondary 1 to Secondary 4.&nbsp; Deyians will be trained in leadership knowledge and skills as well as providing them with opportunities to apply what they have learnt. The training programmes are designed to develop servant leadership attributes in line with our school values of Integrity, Care, Determination, Diligence, Dedication and Discipline.
