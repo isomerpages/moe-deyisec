@@ -5,8 +5,8 @@ description: ""
 ---
 ### Administrative Links:  
 
-* [School Rules and Regulations](https://deyisec.moe.edu.sg/about-us/our-school/school-rules-and-regulation)   
-* [School General Information](https://deyisec.moe.edu.sg/others/school-general-information)  
+* [School Rules and Regulations](https://staging.d3sil9pzbw3lij.amplifyapp.com/about-us/our-school/school-rules-and-regulation/)   
+* [School General Information](https://staging.d3sil9pzbw3lij.amplifyapp.com/others/school-general-information/)  
 * [Financial Assistance](https://deyisec.moe.edu.sg/others/financial-assistance-scheme)  
 * [School textbooks and School attires](https://deyisec.moe.edu.sg/others/school-textbooks-and-school-attires)
 * [School Group Student Protection Plan Claim Procedure (Schools)](https://deyisec.moe.edu.sg/others/school-group-student-protection-plan-claim-procedure-schools)
