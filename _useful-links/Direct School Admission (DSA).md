@@ -145,3 +145,29 @@ The school will ensure that no one is denied any opportunity due to financial di
 
 **7\. If my child does not progress up to expectation, what will the school do?** <br>
 The school will assess the situation and discuss the matter with you (parents/guardian) to ensure that your child progresses at a pace he/she is comfortable with.
+
+##### General FAQs on the DSA – Sec Exercise
+
+**1\. What is DSA - Sec Exercise?** <br>
+The DSA-Sec Exercise was first introduced in 2004 as part of MOE's move towards a more flexible and broad-based education system. Under the DSA-Sec Exercise, schools will be able to select a percentage of their students for admission outside of the centralised posting system, via their own selection criteria. These criteria can include diverse academic and non-academic achievements and talents.
+
+**2\. How much flexibility is given to schools to select their students?** <br>
+In general, schools can decide on their admission criteria, so long as they are meritocratic and transparent.
+
+**3\. How will the students be admitted into the participating schools?** <br>
+Students who meet the school-based admission criteria will be made a Confirmed Offer or placed on the Waiting List by the school. Students given a Confirmed Offer are guaranteed a place in the school, in a course \[Express, Normal (Academic) or Normal (Technical)\] which the student is eligible for. This is based on the PSLE aggregate of the student.
+
+Students placed on the Waiting List are not guaranteed a place and their admission will be based on available vacancies.
+
+Students on the Rejected List are deemed rejected by the school. However, they may still opt for the school during the S1 Posting Exercise.
+
+**4\. Can a student receive more than 1 confirmed offer?** <br>
+Yes. MOE will consolidate all the offers the student has received from the various schools in the School Preference Form which will be sent to the student. Candidates who have been identified under the Confirmed List and the Waiting List of a school will be asked to indicate their preference for up to a maximum of 3 schools. This will be done at their Primary schools. Amendments or cancellations will not be allowed after the closure of the Exercise School Preference Stage.
+
+**5\. When will the student know the outcome of his choice?** <br>
+Candidates currently studying in our MOE schools will be informed of their DSA allocation results together with the release of PSLE results through their primary schools. Other candidates (currently not studying in our MOE schools) will have to collect their DSA allocation results from MOE HQ Customer Service Centre, located in 1 North Buona Vista Drive, Podium Block MOE Building, S(138675).
+
+Successful DSA Candidates will be issued with a Direct Admission Slip, informing them of the school that had accepted them. These students will not be allowed to make any school selection in the centralised S1 Posting Exercise. Unsuccessful DSA Candidates will also be issued with a S1 Option Form, informing them that their DSA application had been unsuccessful. These students must complete their S1 Option Form and submit it to their primary school.
+
+**6\. Will there be enough places for students who wish to enrol in the school via the Sec 1 Posting Exercise?** <br>
+As there is a cap of 20% for Deyi Secondary's enrolment under DSA-Sec exercise there will still be 80% of places available for enrolment under the Sec 1 Posting Exercise.
