@@ -18,7 +18,7 @@ Arts Education is the focus of Deyi’s Learning for Life Programme (LLP). Throu
 
 **Deyi’s Got Talent (DGT)** - Deyi’s Got Talent is a platform for students to display their talents in dance, music, vocals and visual arts.
 
-
+<//insert video>
 
 **Dance, Music and Art Enrichment Programme**&nbsp;- The Learning for Life Programme seeks to provide Deyians with access to quality arts education programmes to nurture students’ interest and passion in the arts.
 
