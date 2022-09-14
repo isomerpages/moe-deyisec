@@ -14,7 +14,7 @@ If header:
 
 * [Background](#Background)
 * [Centralised DSA-Sec Application Process](#CentralisedDSA-SecApplicationProcess)
-* Specific Talent Areas offered by Deyi
+* [Specific Talent Areas offered by Deyi](#SpecificTalentAreasofferedbyDeyi)
 * Admission Criteria
 * Selection Process
 * Key Activities and Dates
@@ -37,3 +37,7 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 **Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.**
   
 **In addition, they will NOT be allowed to transfer to another school after the release of the PSLE results.**
+
+### Specific Talent Areas offered by Deyi <a name="SpecificTalentAreasofferedbyDeyi"></a>
+
+The following are the various specific talent areas offered by Deyi for the Direct School Admission (DSA) exercise.
