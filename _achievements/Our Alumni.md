@@ -46,11 +46,14 @@ Read about [Tan Wilbyn](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/SET%201
 ![](/images/SET%2013.jpg)
 Read about [L Keerthnah](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/SET%201.3.jpg) who displayed care in her achievements.  
 
-
+![](/images/SET%2020.jpg)
 Read about [Li Sitong](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/SET%202.0.jpg) who displayed care in her achievements.  
 
+![](/images/SET%2032.jpg)
 Read about [Li Kangli](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/SET%203.2.jpg) who displayed care in his achievements. 
 
+![](/images/Esther%20Saroja.jpg)
 Read about [Esther Saroja](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/Esther%20Saroja.jpg) who has displayed commitment and care in her contributions to the community. 
 
+![](/images/Lai%20Zhiyuan2010.jpg)
 Read about [Lai Zhiyuan](https://deyisec.moe.edu.sg/qql/slot/u503/alumni/Lai%20Zhiyuan2010.jpg) who displayed care in his achievements.
