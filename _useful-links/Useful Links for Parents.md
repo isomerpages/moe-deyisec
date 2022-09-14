@@ -43,4 +43,4 @@ description: ""
 
 ### Partnership Links:
 
-* [Snacks for Break Time](https://deyisec.moe.edu.sg/others/home-tabs/other-tabs/snacks-for-break-time)
+* [Snacks for Break Time](https://staging.d3sil9pzbw3lij.amplifyapp.com/others/snacks-for-break-time)
