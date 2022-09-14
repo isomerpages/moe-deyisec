@@ -15,12 +15,12 @@ Students are encouraged to develop advanced media and technical skill-sets (Tier
 **Nurturing Deyians to be Confident and Effective Communicators** <br>
 In 2019, Deyi’s ALP received MOE’s Innergy Award (Bronze) for school innovation. Our students have successfully gained Early Admission into all 5 tertiary institutions (e.g., Ngee Ann, Singapore and Temasek Polytechnics’ Mass Communications, Film and Media courses) with the broadcast journalism skill-sets honed at Deyi.
 
+<//insert video>
 
+<//insert video>
 
+<//insert video>
 
-
-
-
-
+<// insert video>
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNVC5bHtqGRSaEou_XdZzT0NCjuotSW4l2daeActmzGMt_gvW4M0iRMhottx4P4n_EE7mjev8vPZ2i/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
