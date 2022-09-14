@@ -25,3 +25,16 @@ Please maintain sufficient funds in your bank account for GIRO deductions. If GI
 2\. Pay via AXS ◦AXS e-Station \[internet\] (eNETS / Mastercard / Masterpass / PayLah!) 
 * AXS m-Station \[mobile app\] – by selecting "eServices", followed by "MOE" (eNETS / Mastercard / Masterpass / PayLah!) 
 * At any AXS Stations by selecting "Education", followed by "MOE" (NETS). To locate the nearest AXS Station, please visit http://www.axs.com.sg/axsStation\_locations.php 3.Pay at their child's school (cash, cheque or cashier's order)Please write the student's name, NRIC number and school name on the reverse side of the cheque.
+
+### Edusave Pupil Fund
+
+Currently, all Singaporean students studying full-time in Governemnt or Government-aided school, an international school or institution will receive a yearly contribution of $240 for secondary level. The fund can be used for
+* enrichment programmes organised by school
+* 2nd-tier miscellaenous fees in government or government-aided school
+
+**Withdrawal for enrichment programmes** \- School will issue a consent form for parents to authorise the withdrawal of funds from his/her child's  Edusave account to pay for enrichment programmes.
+
+**Withdrawal for 2nd-tier miscellanoues** \- Please complete the [form](/files/Standing%20Order%20for%20Payment%20of%202nd%20Tier%20Misc%20Fees.pdf) duly in ink and submit it to School General Office during office hours.
+
+### School Services
+
