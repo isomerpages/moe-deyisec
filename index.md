@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Deyi Good Stories
           description: Please click on the link
-          url: https://deyisec.moe.edu.sg/useful-links/useful-links-for-parents
+          url: https://staging.d3sil9pzbw3lij.amplifyapp.com/useful-links/useful-links-for-parents/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
