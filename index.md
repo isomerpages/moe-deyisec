@@ -11,7 +11,7 @@ sections:
       subtitle: Active Learners, Gracious Citizens
       background: /images/ezgif2.gif
       button: Contact Us
-      url: /contact-us/
+      url: /about-us/contact-us/
       key_highlights:
         - title: Deyi Good Stories
           description: Please click on the link
