@@ -4,8 +4,8 @@ permalink: /about-us/our-school/our-aspirations/
 description: ""
 third_nav_title: Our School
 ---
-<center> _TODAY I AM PROUD TO BE A DEYIAN._ <br>
-_TOMORROW DEYI WILL BE PROUD OF ME._ </center>
+<center> <i> TODAY I AM PROUD TO BE A DEYIAN. <br>
+	TOMORROW DEYI WILL BE PROUD OF ME. </i></center>
 
 </insert video>
 
