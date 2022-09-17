@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Deyi Good Stories
           description: Please click on the link
-          url: https://staging.d3sil9pzbw3lij.amplifyapp.com/useful-links/useful-links-for-parents/
+          url: https://staging.d3sil9pzbw3lij.amplifyapp.com/files/Our%20Deyi%20Stories.pdf
   - infobar:
       title: Infobar title
       subtitle: Subtitle
