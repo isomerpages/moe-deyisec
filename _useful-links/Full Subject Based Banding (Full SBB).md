@@ -26,6 +26,6 @@ For all other subjects, they will be grouped into classes according to the level
 
 For more information on how our school would implement Full SBB, you can contact us at **deyi_ss@moe.edu.sg.**
 
-Read more about Deyi’s FSBB Journey on MOE Facebook [Here](https://www.facebook.com/6788957003/posts/10160301478897004/?d=n)
+Read more about Deyi’s FSBB Journey on MOE Facebook [here](https://www.facebook.com/6788957003/posts/10160301478897004/?d=n)
 
 ![](/images/FSBB%20PicLatest25May21.jpg)
