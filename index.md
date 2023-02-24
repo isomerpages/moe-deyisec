@@ -18,6 +18,8 @@ sections:
         - title: Dengue Prevention
           description: Click to read the message
           url: https://staging.d3sil9pzbw3lij.amplifyapp.com/files/Working%20Together%20to%20Prevent%20Dengue.pdf
+      title: Online@Deyi
+      subtitle: "Welocme to Deyi Secondary School's Website "
   - infopic:
       title: Visit to Deyi Secondary School by Minister Chan
       subtitle: ANNOUNCMENTS
