@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner Gif Original Size.gif
+      background: /images/determinationv4.jpeg
       key_highlights:
         - title: Cybrary Online Public Access Catalogue (OPAC)
           description: Click for catalogue
