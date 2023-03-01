@@ -22,6 +22,5 @@ Every Deyian must have a sense appreciation and consideration for others. With o
 Mrs Lim Ai Poo
 Principal
 Deyi Secondary School
-Mrs Lim Ai Poo <br>
-Principal <br>
+
 Deyi Secondary School
