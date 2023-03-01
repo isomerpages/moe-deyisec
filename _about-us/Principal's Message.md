@@ -8,9 +8,7 @@ develop their intrinsic motivation to learn for life.
 
 We will continue to anchor our decision making on our values and our belief that everyone matters and can and wants to learn. We are proud that Deyi is a safe and conducive place for learning, and we will continue to enhance the teaching and learning experiences and environment for all.  With our participation in Personalized Digital Learning Programme (PDLP), our students can look forward to more opportunities and experiences in self-directed learning in line with our vision of ‘Active Learners, Gracious Citizens”. Deyians will continue to be developed to be self-disciplined, civic-minded, respectful, and empathetic. Our school curriculum and co-curriculum programmes will continue to be values-driven and future-focused, so that our students are equipped with the 21st Century Competencies (21 CC) and skills to be future-ready. 
 ![](/images/mrs%20lim.jpg)
-
-
-   
+  
 
 This year, we will focus more on developing self-directed learners who take initiative and persevere in the face of challenges. We believe that skills and habits of mind can be cultivated, enabling students to shift from being passive observers to active agents, who make guided decisions about their learning for self-growth and development. Students must persist in the face of challenges to exercise initiative and manage student life without overly relying on their teachers.  For this, our students will need to exercise discipline and be equipped with good decision-making skills to navigate the increasingly complex world. With more frequent usage and exposure to social media, we also need our parents to lay down expectations and boundaries for social media use even with the deployment of DMA. This would neatly complement the habits of mind that our teachers will endeavor to inculcate in all students.
 
