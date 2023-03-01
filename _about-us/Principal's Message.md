@@ -19,8 +19,9 @@ As our teachers are the key to unlocking our students’ potential, we will focu
 
 Every Deyian must have a sense appreciation and consideration for others. With opportunities to have their voices heard while they work in teams to problem-solve and develop communication skills, we are certain that we can develop Deyians into citizens whom we can be proud of. We look forward to our students’ full participation in their educational journey to realize their dreams, undaunted by challenges and steadfast and resilient in their pursuit.
 
-Mrs Lim Ai Poo
-Principal
+Mrs Lim Ai Poo  
+Principal     
 Deyi Secondary School
+
 
 Deyi Secondary School
