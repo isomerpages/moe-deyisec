@@ -3,9 +3,6 @@ title: Contact Us
 permalink: /contact-us/
 description: ""
 ---
-
-
-
 #### How to get here:
 
 Address: 1, ANG MO KIO STREET 42 (569277) <br>
@@ -26,7 +23,7 @@ Email us at [deyi\_ss@moe.edu.sg](mailto:deyi_ss@moe.edu.sg)
 | Humanities | Ms Shahrulhana Mohamed (HOD) | [shahrulhana\_mohamed@moe.edu.sg](mailto:shahrulhana_mohamed@moe.edu.sg) |
 | Craft and Technology | Mr Teng Chion Wee (HOD) | [teng\_chion\_wee@moe.edu.sg](mailto:teng_chion_wee@moe.edu.sg) |
 | Information & Communication Technology | Mr Lau Jeng Sang (HOD) | [lau\_jeng\_sang@moe.edu.sg](mailto:lau_jeng_sang@moe.edu.sg) |
-| Student Well Being | Ms Geraldine Boey (SH) | [boey\_yin\_yee\_geraldene@moe.edu.sg](mailto:boey_yin_yee_geraldene@moe.edu.sg) |
+| Student Well Being | Mr Wong Jinfa (SH) | [boey\_yin\_yee\_geraldene@moe.edu.sg](mailto:boey_yin_yee_geraldene@moe.edu.sg) |
 | Character and Citizenship Education | Mr Neo Say Chuan (HOD) | [neo\_say\_chuan@moe.edu.sg](mailto:neo_say_chuan@moe.edu.sg)  |
 | School Staff Developer | Mrs Patty Gan (SSD) | [tan\_yew\_ping@moe.edu.sg](mailto:tan_yew_ping@moe.edu.sg) |
 | PE/CCA | Mr Tan Hwi Kiat (HOD) | [tan\_hwi\_kiat@moe.edu.sg](mailto:tan_hwi_kiat@moe.edu.sg) |
