@@ -19,6 +19,7 @@ sections:
           url: https://staging.d3sil9pzbw3lij.amplifyapp.com/files/Working%20Together%20to%20Prevent%20Dengue.pdf
       title: Discover@Deyi
       subtitle: Your journey begins here at Deyi Secondary School
+      background: /images/Banner 02B.png
   - infopic:
       title: Visit to Deyi Secondary School by Minister Chan
       subtitle: ANNOUNCMENTS
