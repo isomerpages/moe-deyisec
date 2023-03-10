@@ -57,8 +57,10 @@ School rules apply within the school premises at all times and during school fun
 * All students must be punctual when reporting for class or any school activity. Students who do not have a valid reason for being late will face disciplinary action.
 * Attendance for CCA is compulsory.
 
-1.  If a student is absent from school in the morning, his/her CCA Attendance Status will follow the morning Attendance Status.
-2.  If a student has to leave school before 5.30pm on a CCA Day, he/she must have a valid reason. Students not feeling well must be accompanied by his/her chaperone (parents, guardian or appointed adults). Acceptable valid reasons (i.e. MOE programmes, representation at national events) must be accompanied by official supporting documents.
+
+1\.  If a student is absent from school in the morning, his/her CCA Attendance Status will follow the morning Attendance Status.
+
+2\.  If a student has to leave school before 5.30pm on a CCA Day, he/she must have a valid reason. Students not feeling well must be accompanied by his/her chaperone (parents, guardian or appointed adults). Acceptable valid reasons (i.e. MOE programmes, representation at national events) must be accompanied by official supporting documents.
 
 * Students are not allowed to leave Singapore during term time <u>unless supported with a valid reason that is endorsed by the school.</u>
 
@@ -73,20 +75,22 @@ Students need to exercise self-discipline, integrity and care when using their m
 * Students are to use their mobile phones in a <u>socially responsible manner.</u> All content shared and communicated via the mobile phone should be respectful, considerate and appropriate <u>towards others.</u>
 * Students are allowed to bring their mobile phones to school under the following conditions:
 
-1. The use of mobile phone is confined to the _4_ designated areas for the whole day. This will be in force the moment the student arrives in school.
+1\. The use of mobile phone is confined to the _4_ designated areas for the whole day. This will be in force the moment the student arrives in school.
 * Area 1: Canteen  
 * Area 2: Sports Area (courts, fitness area and indoor sports area) 
 * Area 3: Study Pavillion 
 * Area 4: Foyer
     
-2. The mobile phone must be switched on during curriculum time for students using the TraceTogether App to allow for effective contact tracing. The phone will be placed in silent mode. The mobile phone may be placed in the student’s pocket or near him/her. It should not serve as a potential distraction to learning in class.
+2\. The mobile phone must be switched on during curriculum time for students using the TraceTogether App to allow for effective contact tracing. The phone will be placed in silent mode. The mobile phone may be placed in the student’s pocket or near him/her. It should not serve as a potential distraction to learning in class.
 3. The mobile phone must not be used to take photos or videos in school, unless permission is given by the school authorities.
 
 * <u>Students who do not comply with the above conditions on the use of mobile phone would have the privilege withdrawn.</u>
 
-1. The mobile phone inclusive of sim card will be retained by the school for 1 week for 1st violation of mobile phone rules, 2 weeks for 2nd violation and 3 weeks for 3rd violation.
-2. Parent/Guardian is required to collect the mobile phone inclusive of sim card personally after <u>1 week</u> for the 1st violation, 2 weeks for 2nd violation and 3 weeks for 3rd violation.
-3. _Recalcitrant offenders will have the privilege to bring mobile phone to school <u>withdrawn.</u>_
+1\. The mobile phone inclusive of sim card will be retained by the school for 1 week for 1st violation of mobile phone rules, 2 weeks for 2nd violation and 3 weeks for 3rd violation.
+
+2\. Parent/Guardian is required to collect the mobile phone inclusive of sim card personally after <u>1 week</u> for the 1st violation, 2 weeks for 2nd violation and 3 weeks for 3rd violation.
+
+3\. _Recalcitrant offenders will have the privilege to bring mobile phone to school <u>withdrawn.</u>_
 * Please take note that the students are responsible for their own mobile phone. The school will not be held responsible for any loss or theft of the mobile phone.
 
 **5.   CONDUCT** <br>
