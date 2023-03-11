@@ -98,21 +98,17 @@ b. Character and Citizenship Education (CCE)
   
 **At Deyi Secondary School, the eTeens programme will be implemented as follows in 2023:**
 
-| Topics/Lessons | Programme Learning Objectives | Time Period<br>(e.g. Term 3 Week 9) |
+| Topics/Lessons | Programme Learning Objectives | Time Period |
 |---|---|---|
-| Mass Talk by HPB appointed vendor | • Awareness of the different STIs and HIV/AIDS<br>• Modes of transmission<br>• Modes of protection, specifically on how the condom is used Consequences and impact of STIs/HIV | Term 3 Week 9* |
-| Classroom-based Lesson | • Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision making. | Term 3 Week 9* |
-| | | |
-
-\*Tentative dates. Dates will be updated after confirmation of booking of talk with HPB appointed vendor.  
+| Mass Talk by HPB appointed vendor | • Awareness of the different STIs and HIV/AIDS<br>• Modes of transmission<br>• Modes of protection, specifically on how the condom is used Consequences and impact of STIs/HIV | Term 3 Week 9 |
+| Classroom-based Lesson | • Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision making. | Term 4 Week 2 |
+| | | | 
 
 **Information for Parents** <br>
 10.   Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.  
   
-11.    Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SE%20Annex%20A.pdf). The completed form is to be submitted by **04/02/2022**.  
+11.    Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SE%20Annex%20A.pdf). The completed form is to be submitted by **03/02/2023**.  
   
-12.    Parents who wish to opt their children out of the **e_T_eens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SEDAnnexB.pdf). The completed form is to be submitted by **04/02/2022**.  
+12.    Parents who wish to opt their children out of the **e_T_eens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SEDAnnexB.pdf). The completed form is to be submitted by **03/02/2023**.  
   
-13.    Parents can contact the school at **deyi\_ss@moe.edu.sg** or call us at 6456 1565 for discussion or to seek clarification about the school’s sexuality education programme.  
-  
-14.    Parents, who wish to attend the school sexuality education programmes, should also contact the school to make the necessary arrangements.
+13.    Parents can contact the school at deyi_ss@moe.edu.sg or call us at 6456 1565 for discussion or to seek clarification about the school’s sexuality education programme.  
