@@ -11,8 +11,9 @@ description: ""
 * [Cybrary Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/deyisec)
 * [Information Note on Singpass Accounts for Eligible Students Taking The 2022 GCE O-Level Examination](/files/Information%20Note%20on%20Singpass%20for%20Sec4E%205NA%20IP%20students%20Secondary%20School.pdf)
 * [N level Release of Results Useful Information](https://staging.d3sil9pzbw3lij.amplifyapp.com/others/n-level-release-of-results)
-* [BL Schedule 2022](https://docs.google.com/spreadsheets/d/1a8lmYrrACrkNoN-c0l8N5rBeW4cB0ugEmWOqYV5FcL0/edit?usp=sharing)
+* [BL Schedule](https://docs.google.com/spreadsheets/d/1a8lmYrrACrkNoN-c0l8N5rBeW4cB0ugEmWOqYV5FcL0/edit?usp=sharing)
 * [Microsoft Office 365 ProPlus Apps](/files/Microsoft_Office_365_ProPlus_Apps_Student_Guide.pdf)
+* [Microsoft Editor Guide for Students](/files/Microsoft%20Editor%20Guide%20for%20Students.pdf)
 
 #### Academic Links:
 
