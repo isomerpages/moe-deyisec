@@ -88,7 +88,7 @@ b. Character and Citizenship Education (CCE)
 
 | Unit | Lesson Title / Duration |Lesson Overview| Lesson Objectives<br>At the end of the lesson, students will be able to: | Time Period |
 |---|---|---|---|---|
-| Respectful Relationships & Safety | This is Where I draw the Line<br>Lesson 1<br>(60 mins) | In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.| • Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>• Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>• Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | Term 2 Week 3 |
+| Respectful Relationships & Safety | This is Where I draw the Line<br>Lesson 1<br>(60 mins) | In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.| • Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. | Term 2 Week 3 |
 | | | | | 
 
 **eTeens Programme:** <br>
@@ -111,4 +111,4 @@ b. Character and Citizenship Education (CCE)
   
 12.    Parents who wish to opt their children out of the **e_T_eens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SEDAnnexB.pdf). The completed form is to be submitted by **03/02/2023**.  
   
-13.    Parents can contact the school at deyi_ss@moe.edu.sg or call us at 6456 1565 for discussion or to seek clarification about the school’s sexuality education programme.  
+13.    Parents can contact the school at deyi_ss@moe.edu.sg or call us at 6456 1565 for discussion or to seek clarification about the school’s sexuality education programme.
