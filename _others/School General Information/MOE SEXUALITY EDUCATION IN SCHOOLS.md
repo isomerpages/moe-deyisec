@@ -86,18 +86,17 @@ b. Character and Citizenship Education (CCE)
 
 <center><strong><u> Secondary 5 </u></strong></center>
 
-| UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to: | TIME PERIOD |
-|---|---|---|---|
-| Respectful Relationships & Safety | 1<br>(60 mins) | • Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>• Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>• Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | Term 2 Week 3 |
+| Unit | Lesson Title / Duration |Lesson Overview| Lesson Objectives<br>At the end of the lesson, students will be able to: | Time Period |
+|---|---|---|---|---|
+| Respectful Relationships & Safety | This is Where I draw the Line<br>Lesson 1<br>(60 mins) | In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.| • Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>• Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>• Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | Term 2 Week 3 |
 | | | | | 
 
-_\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._   
-  
 **eTeens Programme:** <br>
-8.    eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.  
+8.    eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. 
+<br><br>
 9.    Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.  
   
-**At Deyi Secondary School, the eTeens programme will be implemented as follows in 2022:**
+**At Deyi Secondary School, the eTeens programme will be implemented as follows in 2023:**
 
 | Topics/Lessons | Programme Learning Objectives | Time Period<br>(e.g. Term 3 Week 9) |
 |---|---|---|
