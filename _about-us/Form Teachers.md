@@ -53,50 +53,46 @@ description: ""
 | 3 Integrity | Mr | Lim Yu Sim | [lim\_yu\_sim@moe.edu.sg](mailto:lim_yu_sim@moe.edu.sg) | 
 |   | Miss | Geetha Salgunan | [geetha\_salgunan@moe.edu.sg](mailto:geetha_salgunan@moe.edu.sg) | 
 | 3 Care | Mr | Gan Hsia Liang Clarence | [gan\_hsia\_liang\_clarence@moe.edu.sg](mailto:gan_hsia_liang_clarence@moe.edu.sg) | 
-|   | Mdm | Saliha Parveen Bte Mohd Ismail | [saliha\_parveen\_mohamed\_ismail@moe.edu.sg](mailto:saliha_parveen_mohamed_ismail@moe.edu.sg) |
-| 3 Determination | Mr | Tay Eng Leng | [tay\_eng\_leng@moe.edu.sg](mailto:tay_eng_leng@moe.edu.sg) | 
-|   | Mrs | Joanne Gan-Quek Li Yi | [joanne\_quek\_li\_yi@moe.edu.sg](mailto:joanne_quek_li_yi@moe.edu.sg) |
-| 3 Diligence | Mdm | Jassika Murni Bte Jasni | [jassika\_murni\_jasni@moe.edu.sg](mailto:jassika_murni_jasni@moe.edu.sg) | 
-|   | Mr | Ang Chip Pin | [ang\_chip\_pin@moe.edu.sg](mailto:ang_chip_pin@moe.edu.sg) | 
-| 3 Discipline | Mr | Tong Keh Huei Adrian | [tong\_keh\_huei@moe.edu.sg](mailto:tong_keh_huei@moe.edu.sg) | 
-|   | Mdm | Jainul Banu d/o Shahul Hameed | [jainul\_banu\_shahul\_hameed@moe.edu.sg](mailto:jainul_banu_shahul_hameed@moe.edu.sg) | 
-| 3 Dedication | Mr | Gan Hsia Liang Clarence |  [gan\_hsia\_liang\_clarence@moe.edu.sg](mailto:gan_hsia_liang_clarence@moe.edu.sg) |
-|   | Ms |  Yee Puay Ping Joyce | [yee\_puay\_ping\_joyce@moe.edu.sg](mailto:yee_puay_ping_joyce@moe.edu.sg) | 
-|   | Mr | Wong Choo Kok | [wong\_choo\_kok@moe.edu.sg](mailto:wong_choo_kok@moe.edu.sg) | 
-| 3 Graciousness | Ms | Nur Azlina Bee D/O Ana Shaik A | [nur\_azlina\_shaik\_ahamed@moe.edu.sg](mailto:nur_azlina_shaik_ahamed@moe.edu.sg) | 
-|   | Mr | Lim Jun Yu | [lim\_jun\_yu@moe.edu.sg](mailto:lim_jun_yu@moe.edu.sg) |
-| 3 Resilience | Ms | Chew Soo Qing | [chew\_soo\_qing@moe.edu.sg](mailto:chew_soo_qing@moe.edu.sg) | 
-|   | Mrs | Harmit Singh Nee G Kaur | [gurminderpal\_kaur@moe.edu.sg](mailto:gurminderpal_kaur@moe.edu.sg) |
+|   | Miss | Siti Farhanah Binte Mohd Nasir | [siti\_farhanah\_mohd\_nasir@moe.edu.sg](mailto:siti_farhanah_mohd_nasir@moe.edu.sg) |
+| 3 Resilience | Mrs | Lee Tan Boon Jer | [tan\_boon\_jer@moe.edu.sg](mailto:tan_boon_jer@moe.edu.sg)| 
+|   | Miss | Claire Soh | [claire\_elizabeth\_soh\_yunhui@moe.edu.sg](mailto:claire_elizabeth_soh_yuahui@moe.edu.sg) |
+| 3 Graciousness | Miss | Bertha Kwok | [bertha\_kwok@moe.edu.sg](mailto:bertha_kwok@moe.edu.sg) | 
+|   | Ms | Dolley Tan | [dolley\_tan@moe.edu.sg](mailto:dolley_tan@moe.edu.sg)| 
+| 3 Dedication | Ms | Gladys Wee Pei Xi | [wee\_pei\_xi\_gladys@moe.edu.sg](mailto:wee_pei_xi_gladys@moe.edu.sg) | 
+|   | Miss | Zhang Qianwei | [zhang\_qianwei@moe.edu.sg](mailto:zhang_qianwei@moe.edu.sg) | 
+| 3 Diligence | Mdm | Lim Eng Choo |  [lim\_eng\_choo@moe.edu.sg](mailto:lim_eng_choo@moe.edu.sg) |
+|   | Mr | Daniel Pflug | [pflug\_daniel@moe.edu.sg](mailto:pflug_daniel@moe.edu.sg)| 
+| 3 Discipline | Miss | Nur'ain Bte Abidin | [nurain\_abidin@moe.edu.sg](mailto:nurain_abidin@moe.edu.sg)| 
+|   | Mr | Tan Kok Meng, Paul | [tan\_kok\_meng\_paul@moe.edu.sg](mailto:tan_kok_meng_paul@moe.edu.sg) |
+| 3 Determination | Mr | Lee Uei Suen Wilson | [lee\_uei\_suen@moe.edu.sg](mailto:lee_uei_suen@moe.edu.sg) | 
+|   | Miss | Eleanor Wong Kai Ping | [kai\_ping\_eleanor\_wong@moe.edu.sg](mailto:kai_ping_eleanor_wong@moe.edu.sg) |
 | | | | |
 
 ### Sec 4 Form Teachers
 
 | Class |  | Form Teacher | Email-Address |
 |---|---|---|---|
-| 3 Care | Ms | Harinder Kaur Dollie | [harinder\_kaur\_dollie@moe.edu.sg](mailto:harinder_kaur_dollie@moe.edu.sg) | 
+| 4 Integrity | Mdm | Saliha Parveen Bte Mohd Ismail | [saliha\_parveen\_mohamed\_ismail@moe.edu.sg](mailto:saliha_parveen_mohamed_ismail@moe.edu.sg) |
+|   | Mr | Chen Yi Zhou | [chen\_yizhou@moe.edu.sg](mailto:chen_yizhou@moe.edu.sg) | 
+| 4 Care | Ms | Harinder Kaur Dollie | [harinder\_kaur\_dollie@moe.edu.sg](mailto:harinder_kaur_dollie@moe.edu.sg) | 
 |   | Mr | Chang Seow Kuen | [chang\_seow\_kuen@moe.edu.sg](mailto:chang_seow_kuen@moe.edu.sg) | 
-|   | Mdm | Yin Siew Yi (Mrs Michelle Chu) | [yin\_siew\_yi\_michelle@moe.edu.sg](mailto:yin_siew_yi_michelle@moe.edu.sg) |
-| 3 Integrity | Ms | Lee Su-Min Jeanette | [lee\_su-min\_jeanette@moe.edu.sg](mailto:lee_su-min_jeanette@moe.edu.sg) | 
-|   | Mdm | Saliha Parveen Bte Mohd Ismail | [saliha\_parveen\_mohamed\_ismail@moe.edu.sg](mailto:saliha_parveen_mohamed_ismail@moe.edu.sg) |
-| 3 Determination | Mr | Tay Eng Leng | [tay\_eng\_leng@moe.edu.sg](mailto:tay_eng_leng@moe.edu.sg) | 
-|   | Mrs | Joanne Gan-Quek Li Yi | [joanne\_quek\_li\_yi@moe.edu.sg](mailto:joanne_quek_li_yi@moe.edu.sg) |
-| 3 Diligence | Mdm | Jassika Murni Bte Jasni | [jassika\_murni\_jasni@moe.edu.sg](mailto:jassika_murni_jasni@moe.edu.sg) | 
-|   | Mr | Ang Chip Pin | [ang\_chip\_pin@moe.edu.sg](mailto:ang_chip_pin@moe.edu.sg) | 
-| 3 Discipline | Mr | Tong Keh Huei Adrian | [tong\_keh\_huei@moe.edu.sg](mailto:tong_keh_huei@moe.edu.sg) | 
-|   | Mdm | Jainul Banu d/o Shahul Hameed | [jainul\_banu\_shahul\_hameed@moe.edu.sg](mailto:jainul_banu_shahul_hameed@moe.edu.sg) | 
-| 3 Dedication | Mr | Gan Hsia Liang Clarence |  [gan\_hsia\_liang\_clarence@moe.edu.sg](mailto:gan_hsia_liang_clarence@moe.edu.sg) |
-|   | Ms |  Yee Puay Ping Joyce | [yee\_puay\_ping\_joyce@moe.edu.sg](mailto:yee_puay_ping_joyce@moe.edu.sg) | 
-|   | Mr | Wong Choo Kok | [wong\_choo\_kok@moe.edu.sg](mailto:wong_choo_kok@moe.edu.sg) | 
-| 3 Graciousness | Ms | Nur Azlina Bee D/O Ana Shaik A | [nur\_azlina\_shaik\_ahamed@moe.edu.sg](mailto:nur_azlina_shaik_ahamed@moe.edu.sg) | 
-|   | Mr | Lim Jun Yu | [lim\_jun\_yu@moe.edu.sg](mailto:lim_jun_yu@moe.edu.sg) |
-| 3 Resilience | Ms | Chew Soo Qing | [chew\_soo\_qing@moe.edu.sg](mailto:chew_soo_qing@moe.edu.sg) | 
+| 4 Resilience | Ms | Chew Soo Qing | [chew\_soo\_qing@moe.edu.sg](mailto:chew_soo_qing@moe.edu.sg) | 
 |   | Mrs | Harmit Singh Nee G Kaur | [gurminderpal\_kaur@moe.edu.sg](mailto:gurminderpal_kaur@moe.edu.sg) |
+| 4 Graciousness | Ms | Nur Azlina Bee D/O Ana Shaik A | [nur\_azlina\_shaik\_ahamed@moe.edu.sg](mailto:nur_azlina_shaik_ahamed@moe.edu.sg) | 
+|   | Mr | Lim Jun Yu | [lim\_jun\_yu@moe.edu.sg](mailto:lim_jun_yu@moe.edu.sg) |
+| 4 Dedication | Mr | Wong Choo Kok | [wong\_choo\_kok@moe.edu.sg](mailto:wong_choo_kok@moe.edu.sg) | 
+|   | Ms |  Yee Puay Ping Joyce | [yee\_puay\_ping\_joyce@moe.edu.sg](mailto:yee_puay_ping_joyce@moe.edu.sg) | 
+| 4 Diligence | Mr | Ang Chip Pin | [ang\_chip\_pin@moe.edu.sg](mailto:ang_chip_pin@moe.edu.sg) | 
+|   | Mdm | Jassika Murni Bte Jasni | [jassika\_murni\_jasni@moe.edu.sg](mailto:jassika_murni_jasni@moe.edu.sg) | 
+| 4 Discipline  | Mdm | Jainul Banu d/o Shahul Hameed | [jainul\_banu\_shahul\_hameed@moe.edu.sg](mailto:jainul_banu_shahul_hameed@moe.edu.sg) | 
+|    | Mr | Tong Keh Huei Adrian | [tong\_keh\_huei@moe.edu.sg](mailto:tong_keh_huei@moe.edu.sg) | 
+| 4 Determination | Mr | Tay Eng Leng | [tay\_eng\_leng@moe.edu.sg](mailto:tay_eng_leng@moe.edu.sg) | 
+|    | Miss | Tan Boon Yen | [tan\_boon\_yen@moe.edu.sg](mailto:tan_boon_yen@moe.edu.sg) | 
 | | | | |
 
 ### Sec 5 Form Teachers
 
 | Class |  | Form Teacher | Email-Address |
 |---|---|---|---|
-| 501 | Miss | Dolley Tan Geok Hua  | [dolley\_tan@moe.edu.sg](mailto:dolley_tan@moe.edu.sg) |
-|   | Ms | Thambusamy Gayathiri | [thambusamy\_gayathiri@moe.edu.sg](mailto:thambusamy_gayathiri@moe.edu.sg) |
+| 5 Resilience | Mdm | Ng Hwei Sung  | [ng\_hwei\_sung@moe.edu.sg](mailto:ng_hwei_sung@moe.edu.sg) |
 | | | | |
