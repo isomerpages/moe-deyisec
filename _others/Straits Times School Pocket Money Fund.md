@@ -3,7 +3,6 @@ title: Straits Times School Pocket Money Fund
 permalink: /others/straits-times-school-pocket-money-fund/
 description: ""
 ---
-
 Straits Times School Pocket Money Fund 
 
 The application period for The Straits Times School Pocket Money Fund (STSPMF) is now open for students who will be continuing their studies in Deyi Secondary School next year. Students who are successful in their applications will receive the monthly school pocket money of $95 through the school from January 2023 onwards. 
@@ -16,7 +15,7 @@ d. Student is receiving full-time formal education at a mainstream primary/secon
 e. Is not concurrently receiving school pocket money from another STSPMF disbursing agency or receiving monthly school pocket money from other schemes, excluding MOE FAS; and <br>
 f. Has not been a STSPMF beneficiary for 24 months for the whole schooling years of primary and secondary school and 48 months for post-secondary school. 
 
-The closing date to submit the application to the school’s General Office is 9 September 2022 (Friday).
+The closing date to submit the application to the school’s General Office is 14 February 2023 (Tuesday).
 
 [STSPMF Application Form](/files/Annex%20A%20-%202022%20STSPMF%20Application%20Form%20for%20schools%20REVISED%202023%20Cycle%201.pdf) <br>
 [Income Declaration Form](/files/Annex%20B%20-%20Income%20declaration%20form_2022%20REVISED%202023%20Cycle%201.pdf)
