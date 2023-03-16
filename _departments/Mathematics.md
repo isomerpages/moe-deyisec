@@ -28,4 +28,14 @@ For Principles of Accounts, the focus was on the use of gamification and employi
 
 **14th&nbsp;position for Individual Award -**&nbsp;(Lower Secondary Normal Academic Category) in 2022 for All Singapore Secondary Mathematics Competition for Normal Course Students &nbsp;organised by Clementi Town Secondary School.
 
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQwsQ8mWHyv4Vw2FQGabSpJ1i_60C_sJvcVlRk3z0XFpKWUDvil2CwUkXBQuR9oz_s6lyXYaCPVEVRL/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+![Learning Fest](/images/Departments/Mathematics/1_Learning_Fest_new.jpg)
+
+![Financial Litercacy](/images/Departments/Mathematics/2_Financial_Literacy_new.jpg)
+
+![](/images/Departments/Mathematics/3_Financial_Literacy_new.jpeg)
+
+![Second Runner Up](/images/Departments/Mathematics/6_Second_Runner_Up_National_Financial_Literacy_2022_new.jpeg)
+
+![Digital Literacy Kourney](/images/Departments/Mathematics/7_Digital_Literacy.jpg)
+
+![](/images/Departments/Mathematics/8_FLY%20Deyi.jpg)
