@@ -10,7 +10,8 @@ Arts Education is the focus of Deyi’s Learning for Life Programme (LLP). Throu
   
 **Lower Secondary Drama-in-curriculum (DIC)**&nbsp;- The Drama curriculum involves the stimulation and training of both cognitive and affective domains of a child. It not only gives the students the opportunity to look at issues critically, but also develops their socio-emotional skills which will prepare them for life beyond school.  
   
-![](/images/Lower%20Secondary%20Drama-in-curriculum%20DIC.jpg)
+![Drama](/images/Key%20Program/LLP/Drama%20Cir%202a.jpg)
+![Drama](/images/Key%20Program/LLP/Drama%20Cir%201a.jpg)
 
 **Arts Fiesta** - Arts Fiesta is a biennial concert that showcases Deyians’ artistic expression and excellence through the presentation of our visual and performing art forms.
 
