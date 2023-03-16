@@ -23,7 +23,8 @@ With the easing of COVID-19 Safe Management Measures, IT Club members were able 
 **Teacher-in-charge:** <br>
 Mr Ang Chip Pin (OIC) <br>
 Mr Wong Choo Kok (AIC) <br>
-Mr Reeve Ng (AIC)
+Mr Reeve Ng (AIC) <br>
+Mr Jamil (AV Tech) <br>
 
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.40 pm – 5.15 pm  
