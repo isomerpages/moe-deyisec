@@ -38,4 +38,4 @@ For Principles of Accounts, the focus was on the use of gamification and employi
 
 ![Digital Literacy Kourney](/images/Departments/Mathematics/7_Digital_Literacy.jpg)
 
-![](/images/Departments/Mathematics/8_FLY%20Deyi.jpg)
+![Deyi Financial Literacy Youth Series](/images/Departments/Mathematics/8_FLY%20Deyi.jpg)
