@@ -16,12 +16,12 @@ Students are encouraged to develop advanced media and technical skill-sets (Tier
 In 2019, Deyi’s ALP received MOE’s Innergy Award (Bronze) for school innovation. Our students have successfully gained Early Admission into all 5 tertiary institutions (e.g., Ngee Ann, Singapore and Temasek Polytechnics’ Mass Communications, Film and Media courses) with the broadcast journalism skill-sets honed at Deyi.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/fa6M9nH-UOo" title="2023 ALP1 Have You Ever   Deyi Sec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      
+
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/69XBXKJxfG0" title="2023 ALP2 National Day Lion City Justin Ang and Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-     
+
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/fu3lfVIV0-8" title="2023 ALP3 Int Botany Mon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-     
+
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNVC5bHtqGRSaEou_XdZzT0NCjuotSW4l2daeActmzGMt_gvW4M0iRMhottx4P4n_EE7mjev8vPZ2i/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
