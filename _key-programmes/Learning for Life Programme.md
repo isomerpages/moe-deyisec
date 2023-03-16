@@ -13,30 +13,32 @@ Arts Education is the focus of Deyi’s Learning for Life Programme (LLP). Throu
 ![Drama](/images/Key%20Program/LLP/Drama%20Cir%202a.jpg)
 ![Drama](/images/Key%20Program/LLP/Drama%20Cir%201a.jpg)
 
-**Arts Fiesta** - Arts Fiesta is a biennial concert that showcases Deyians’ artistic expression and excellence through the presentation of our visual and performing art forms.
+**Arts Hour** - At Deyi, we believe that arts are an essential medium of expression. This year, we employed different platforms for our students to showcase their talents in our biennial event - Arts Hour. Students were first treated to thrilling live performances by our Deyi Band and Movement and Dance CCA. This is followed by a showcase of recorded performances and presentations by our Drama Club, Choir and Art Club, which allowed students in our arts CCAs to showcase their talents. The celebration of Arts Hour embodies the objectives of Deyi’s Arts Education.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTApOLGOCwsftB-8iAtlb6UjxfaJvWipgSxd76lzmVi8cys7gEXu2pYuNdER8fEx2Zl8_MkUpM7iBdi/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="600" height="500" allowfullscreen="true"></iframe>
+![Arts Hour](/images/Key%20Program/LLP/Art%20Hr%201.png)
+![Arts Hour](/images/Key%20Program/LLP/Art%20Hr%202.jpg)
+![Arts Hour](/images/Key%20Program/LLP/Art%20Hr%203.jpg)
 
-**Deyi’s Got Talent (DGT)** - Deyi’s Got Talent is a platform for students to display their talents in dance, music, vocals and visual arts.
+**Deyi’s Got Talent (DGT)** - Deyi’s Got Talent is a creative platform for Deyians to showcase their talents in different areas like dance, music, vocals and digital art. This year, we debuted a new category of performance whereby each class put together a show. In the individual and group categories, the contestants faced fierce competitions during the auditions and the finals. We are proud to see Deyians pursuing their passions and inspiring others to do the same as well.
 
+![Deyi Got Talent](/images/Key%20Program/LLP/DY%20Talent1a.jpg)
+![Deyi Got Talent](/images/Key%20Program/LLP/DY%20Talent2.jpg)
+![Deyi Got Talent](/images/Key%20Program/LLP/DY%20Talent3.jpg)
+![Deyi Got Talent](/images/Key%20Program/LLP/DY%20Talent8.jpg)
 
 <iframe width="636" height="360" src="https://www.youtube.com/embed/ZPLpMEXznio" title="2023 LLP1 Arts Enrich vid1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+**Aesthetic Assembly Programme**&nbsp;- Aesthetic Assembly Programme aims to provide students a broarder persepctive of traditional and contemporary arts, practices, giving them the tools to sustain a lifelong pursuit of the arts. Students are equipped with knowledge and skills needed in their pursuit of educational and career pathways in the arts. This programme also aims to reinforce character building and promote expliration of post-secondary pathways by having real time connection with artists of various arts forms. 
+![Aesthetic Assembly Programme](/images/Key%20Program/LLP/Aes%20Assb%201.jpg)
+![Aesthetic Assembly Programme](/images/Key%20Program/LLP/Aes%20Assb%202.jpg)
+![Aesthetic Assembly Programme](/images/Key%20Program/LLP/Aes%20Assb%205.jpg)
 
-**Dance, Music and Art Enrichment Programme**&nbsp;- The Learning for Life Programme seeks to provide Deyians with access to quality arts education programmes to nurture students’ interest and passion in the arts.
+**Arts Enrichment Programme**&nbsp;- The Learning for Life Programme seeks to provide students access to quality Arts Education. Deyians can engage and develop a keen sense of aesthetics and an appreciation for the arts. Equip themselves with knowledge and skills through the experience of traditional, cultural, and contemporary arts. (Sec 1-3 Dance Programme, Dance @Learning Festival, Music Around the World Programme, Elective Music for ABRSM, Elective Drama for Trinity Guildhall, Values-in-Art and Manga Mural Art Programme.)
+![Arts Enrichment Programme](/images/Key%20Program/LLP/Arts%20Enrich9.jpg)
 
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTnc5YEPwGYiZIObo5r4eb1tQ1SQtPKtU8PbxIc2X4KCtxy4rj_hd_gE_pI0VuBCqFpwrUXNyhVep5-/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+![Arts Enrichment Programme](/images/Key%20Program/LLP/Arts%20Enrich2.jpg)
 
-**Arts Ambassador Programme (AAP)** \- In the Arts Ambassador Programme, students get to hone their leadership skills with the involvement in planning of schools events such as DGT, to lead, manage and collaborate meaningfully with their peers and rally Deyians to build a vibrant arts culture.  
-  
-**Deyi Arts 2021 Accomplishment** <br>
-\- Distinction Award in the Live On Design Competition 2021 organized by Ministry of Health - National Organ Transplant Unit (NOTU) by Foo Wen Qi, class 408.
 
-<img src="/images/Foo%20Wen%20Qi.jpg" 
-    style="width:70%">
-
-\- Deyi Choir is featured in SYFgoesOnline 2021, ‘Let’s Jammed Together’ on a virtual performance with the Singapore artists, MICapella. <br>
-Group 1: Lu Valyn, Cheong Charis, Zhao Jing Han and Melvin Yeo Wei Liang <br>
-Group 2: Chong Yan Ting Melody, Goh Zi Ning and Cheok Rui Wen
-
-<//insert video>
+**Arts Ambassador Programme (AAP)** \- Arts Ambassador Programme is a platform to encourage students’ involvement in the Learning for Life Programme. Arts Ambassadors get to hone their leadership skills in school events like Deyi’s Got Talent as they are part of the planning and implementation of the event. They lead and collaborate meaningfully with their peers, creating a vibrant arts culture and bringing arts in Deyi to new heights.  
+![Arts Ambassador Programme](/images/Key%20Program/LLP/Arts%20Amb01.jpg)
+![Arts Ambassador Programme](/images/Key%20Program/LLP/Arts%20Amb02.jpg)
