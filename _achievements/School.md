@@ -3,6 +3,20 @@ title: School
 permalink: /achievements/school/
 description: ""
 ---
+### 2022
+
+**2022 Innergy Bronze Award**
+The team wanted to explore how the affordance of e-Pedagogy such as ArcGIS and SLS can be used to enhance: 
+
+1.  the teaching and of Geographical Investigation (GI) and
+    
+2.  students’ quality of learning in terms of student’s spatial thinking and analysis. 
+    
+
+This e-pedagogical innovation uses ArcGIS to facilitate students’ collaborative efforts to collect weather data from 4 identified locations from around the school (i.e. the futsal court, driveway, school field and quadrangle) and present the consolidated data on a base map of the school. This helped students in the spatial visualisation of data and to make sense of spatial patterns observed.
+
+![2022 Innergy Awardees](/images/Achievements/2022_Innergy%20Awardees.jpeg)
+
 ### 2019
 
 **Vanda Miss Joaquim Award 2019**
