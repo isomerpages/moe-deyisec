@@ -17,6 +17,8 @@ This e-pedagogical innovation uses ArcGIS to facilitate students’ collaborativ
 
 ![2022 Innergy Awardees](/images/Achievements/2022_Innergy%20Awardees.jpeg)
 
+*Congratulations to the PLC team led by Mr Lim Jun Yu, with team members Mr Tan Yoke Jun Aloysius, Ms Lee Su-Min Jeanette, Ms Tan Boon Yen, Mr Freddy Goh and Ms Wong Kai Ping Eleanor, for winning the 2022 Innergy Bronze Award!*
+
 ### 2019
 
 **Vanda Miss Joaquim Award 2019**
