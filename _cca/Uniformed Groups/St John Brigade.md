@@ -24,24 +24,30 @@ Teachers-in-charge:&nbsp;<br>
 Mr. Chang Seow Kuen (OIC) <br>
 Ms. Chew Soo Qing (AIC) <br>
 Mr. Koh Yu Han <br>
-Miss Shereen Seah <br>
-Miss Claire  
+Mr Paul Tan  
   
 **Weekly Schedule:** <br>
 Every Tuesday &amp; Thursday 2.45 pm – 5.45 pm  
   
 **Achievements and Highlights:**  
-* Corp Achievement Award 2013-2020 – Gold
-* Champion for Zonal FAC 2019 Ambulance Cadet Team Category
-* Champion for Zonal FAC 2019 Nursing Cadet Team Category
-* Merit Award, National Basic Drill Instructor Course 2021 - Hsu Yong Xin Andrea (305).
-* Best In Drill Proficiency, National Basic Drill Instructor Course 2020 – Natasha Jia Yi Zainol
-* Chief Commissioner Badge Recipients 2021
-* SSG Bernice Tan Xuan Rong (405)
-* SSG Felice Sim Yi Jia (405)
-* SSG Natasha Jia Yi Zainol (405)
-* SSG Jolene Ng Xin Yi (405)
-* SSG Suhana Yonjan Tamang (406)
-* SSG Rosanne Sim Tong En (407)
+*   Corp Achievement Award 2013-2020 – Gold  
+*   Best in Footdrill for National FAC 2022 Nursing Cadet Team Category   
+*   3rd Runner-Up for District FAC 2022 Ambulance Cadet Team Category     
+*   Champion for District FAC 2022 Nursing Cadet Team Category      
+*   Merit Award, National Basic Drill Instructor Course 2022 - Yu Xuan Ying (3 DT)   
+*   Chief Commissioner Badge Recipients 2022    
+	*   SSG Shoniya D/O Krishnasamy (402)
+	*   SSG Lim Jia En (403)
+	*   SSG Adelina Clarice Ng Jia Yi  (404)
+	*   SSG Koo Qi Xuan, Cassandra (404)
+	*   SSG Hsu Yong Xin Andrea (405)
+	*   SSG Tan Yu Xuan (405)
+	*   SSG Tan Ler Yang Justin (407)
+*   Passed Corps Home Nursing Instructor Course 2022 - Lim Jia Xuan (3 CR), Tan Jia Qi (3 GC)
+*   Passed Corps First Aid Instructor Course 2022 - Ng Xiwen (3 DT)  
+    
+*   Cadets participated in Public Duty for NDP Heartland Fireworks  
+    
+*   Cadets participated in Public Duty for Gardens@Bishan Family Day Walkathon
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQUib-OEUVhNgwcuAvnWWvoPhAFsxDCEABITLA91g8jtEDKbpcWopRFICYM0WCsvnp-YkTm1loxaAzt/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
