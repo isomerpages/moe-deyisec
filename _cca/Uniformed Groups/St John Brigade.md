@@ -45,9 +45,6 @@ Every Tuesday &amp; Thursday 2.45 pm – 5.45 pm
 	*   SSG Tan Ler Yang Justin (407)
 *   Passed Corps Home Nursing Instructor Course 2022 - Lim Jia Xuan (3 CR), Tan Jia Qi (3 GC)
 *   Passed Corps First Aid Instructor Course 2022 - Ng Xiwen (3 DT)  
-    
 *   Cadets participated in Public Duty for NDP Heartland Fireworks  
-    
 *   Cadets participated in Public Duty for Gardens@Bishan Family Day Walkathon
 
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQUib-OEUVhNgwcuAvnWWvoPhAFsxDCEABITLA91g8jtEDKbpcWopRFICYM0WCsvnp-YkTm1loxaAzt/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
