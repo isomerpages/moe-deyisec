@@ -31,7 +31,7 @@ School rules apply within the school premises at all times and during school fun
 * Hair must not be tinted or dyed.
 * No punky (eg: undercut), spiky and permed hairstyles are allowed.
 * Ear accessories are not allowed.
-* Clean-shaven and neat in appearance.
+* Facial hair is not allowed. Boys are expected to keep a clean-shaven look at all times.
 
 **(ii)  Girls**
 * Hair must not be tinted or dyed.
