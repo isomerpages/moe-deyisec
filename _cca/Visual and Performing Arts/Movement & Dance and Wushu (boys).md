@@ -32,7 +32,8 @@ Our students participated in the 2021 SYF Arts Presentation with a total of 4 da
 Mrs Lee Boon Jer (OIC) <br>
 Mdm Wee Wan Eng (AIC) <br>
 Mdm Jainul Banu <br>
-Miss Zhang Qianwei
+Miss Zhang Qianwei <br>
+Miss Claire Soh
 
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.45 pm – 5.45 pm
