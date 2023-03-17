@@ -23,8 +23,8 @@ Miss Bertha Kwok (OIC)
 Mr Daniel Pflug (OIC)  
 Miss Ho Si Liang (AIC)  
 Miss Pua Jia Ying  
-Mr Alvin Khoo  
-Mr Koh Jireh&nbsp;
+Miss Guo Zhen  
+Mr Wong Jinfa&nbsp;
 
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.40 pm – 6.00 pm
