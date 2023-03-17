@@ -48,3 +48,10 @@ Every Tuesday &amp; Thursday 2.45 pm – 5.45 pm
 *   Cadets participated in Public Duty for NDP Heartland Fireworks  
 *   Cadets participated in Public Duty for Gardens@Bishan Family Day Walkathon
 
+![](/images/CCA/Uniform%20Groups/St%20John%20Brigade/2022%20Chief%20Commissioner%20Badge%20Recipients.jpg) <br>
+![](/images/CCA/Uniform%20Groups/St%20John%20Brigade/2022%20District%20FA%20Competition%20Ambulance%20Cadet%20Team%202nd%20Runner-Up.jpg) <br>
+![](/images/CCA/Uniform%20Groups/St%20John%20Brigade/2022%20District%20FA%20Competition%20Nursing%20Cadet%20Team%20Champion.jpg) <br>
+![](/images/CCA/Uniform%20Groups/St%20John%20Brigade/2022%20Group%20Photo%20without%20Sec%201s.jpg) <br>
+![](/images/CCA/Uniform%20Groups/St%20John%20Brigade/2022%20National%20FA%20Competition%20NC%20Team%20Best%20in%20Footdrill.jpg) <br>
+![](/images/CCA/Uniform%20Groups/St%20John%20Brigade/2022%20Our%20Officers%20Alumnus.jpg) <br>
+![](/images/CCA/Uniform%20Groups/St%20John%20Brigade/2022%20Public%20DutyAMK%20Park.jpeg)
