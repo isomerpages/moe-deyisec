@@ -10,6 +10,7 @@ Confident Deyians who embrace their own ethnic identity.
 To develop and stretch students’ language competencies so that they will connect with their own cultural heritage and also appreciate the cultural diversities in Singapore.  
   
 **MTL Department Key Programmes** <br>
+
 **MTL Fortnight** <br>
 The Mother Tongue Language Fortnight aims to create an immersive environment for students in the learning and usage of the mother tongue languages as well as to show appreciation of the three different cultures.
   
