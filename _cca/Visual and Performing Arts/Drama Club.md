@@ -20,9 +20,9 @@ These meaningful opportunities to showcase as well as cultivate one’s skills a
 
 **Teacher-in-charge:** <br>
 Miss Nurain (OIC) <br>
-Miss Anita Set (AIC) <br>
 Mdm Abirami <br>
-  
+Mdm Rajakumari <br>
+
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.40 pm – 5.15 pm  
   
