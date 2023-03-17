@@ -27,17 +27,39 @@ Mr Derek Lim
 Every Tuesday and Thursday 2.40 pm – 5.45 pm  
   
 **Achievements and Highlights:**  
-* Unit Overall Proficiency Award 2019 - GOLD
-* Annual 38 Shooting Competition (Preliminary ) 2019 - 2nd Runner up in Male Cadet Inspector Team
-	* Yeo Si Jie
-* Biannual Inter-Unit Drill Competition Finals 2019 - 9th Position Nationwide
-* SPF-NPCC Badge Awardees 2018SI (NPCC)
-	* Lau Zhan You (405)
-	* SSgt (NPCC) Tan Wilbyn (405)
-* Best Unit Cadet Awardees 2018
-	* SSgt (NPCC) Regina Santi (401)
-	* SSgt (NPCC) Tan Wilbyn (405)
-* Unit Overall Proficiency Award 2017 - GOLD
+
+*   SPF-NPCC Badge Awardees 2022
+	*   SI (NPCC) Sean Ethan Cheo Wei Jet (405)
+*   Best Unit Cadet Awardees 2022
+	*   SSgt (NPCC) Ng Kar Suen Nichelle (401)
+	*   Sgt (NPCC) Tay Kaiqing Wisely (401)
+*   Area NPCC Knowledge Quiz Competition 2022 - 1st Position
+*   Area NPCC Campcraft Quiz Competition 2022 - 1st Position
+*   Area NPCC Npaire Quiz Competition 2022 - 2nd Position
+*   Area Scavenger Hunt Competition 2022 - 3rd Position
+*   Unit Overall Proficiency Award 2021 - GOLD
+*   SPF-NPCC Badge Awardees 2021
+	*   SI (NPCC) Choo Jun Qi Jacques (404)
+*   Best Unit Cadet Awardees 2021
+	*   SI (NPCC) Choo Jun Qi Jacques (404)
+	*   SSgt (NPCC) Nur Humaira Binte Yusof (401)
+*   Area NPCC Npaire Quiz Competition 2021 - 3rd Position
+*   Unit Overall Proficiency Award 2020 - SUSPENDED
+*   SPF-NPCC Badge Awardees 2020
+	*   SSgt (NPCC) Cheryl Seng Zhi Yi (403)
+*   Best Unit Cadet Awardees 2020
+	*   SI (NPCC) Damus Neo Zhi Xuan (401)
+	*   SSgt (NPCC) Sandy Tan Zhi Mei (403)
+*   Unit Overall Proficiency Award 2019 - GOLD
+*   SPF-NPCC Badge Awardees 2019
+	*   SSgt (NPCC) Yap Li Ying (407)
+*   Best Unit Cadet Awardees 2019
+	*   SSgt (NPCC) Sandoval Ahren Pantoja (403)
+	*   SSgt (NPCC) Chin Si Yu (405)
+*   Annual 38 Shooting Competition (Preliminary ) 2019 - 2nd Runner up in Male Cadet Inspector Team
+	*   Yeo Si Jie
+*   Biannual Inter-Unit Drill Competition Finals 2019 - National 9th Position
+*   Area Darts Competition 2019 - 3rd Position
 
 <iframe width="653" height="359" src="https://www.youtube.com/embed/b28-Wj-DVMw" title="range" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
