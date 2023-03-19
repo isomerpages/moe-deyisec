@@ -18,7 +18,7 @@ Miscellaneous Fees Rate:<br>• Standard miscellaneous fees:$10.00<br>• Second
 <u> Note:</u> Annual fee payable is spread over 12 months of the academic year. Students who join on or before 5th February will have to pay fees for January. Those who leave on or after 5th October will have to pay fees for November and December.
 
 1\. Join the GIRO scheme <br>
-For payment of fees using GIRO, please download the [GIRO Application Form](/files/giroform.pdf). GIRO deduction is on the 26 th of each month from February to December. School fees for the month of January will be deducted only in February. Hence for February, the deduction will be for both January and February fees.
+For payment of fees using GIRO, please download the [GIRO Application Form](/files/Useful%20Links/UL%20Parents/2023giro_application_form_oct%202021.pdf). GIRO deduction is on the 26 th of each month from February to December. School fees for the month of January will be deducted only in February. Hence for February, the deduction will be for both January and February fees.
 
 Please maintain sufficient funds in your bank account for GIRO deductions. If GIRO fails in one month, the balance will be carried forward to be deducted with the next month’s fees. The GIRO account will be suspended if it fails in the next month or have arrears exceeding 2 consecutive months’ fees.
 
