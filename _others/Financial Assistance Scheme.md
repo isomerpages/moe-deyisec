@@ -44,4 +44,5 @@ b)    The family’s Per Capita Income (PCI) does not exceed $825\*.
 Students who wish to apply for the scheme can:
 * Obtain the application form from General Office or download a copy of the [MOE FAS Application Form.](/files/MOE%20FAS%20Application%20Form%20Aug%2021%20FINAL.pdf) 
 * Submit online via https://go/gov.sg/moe-efas
-![](/images/Useful%20Links/UL%20Parents/2022%20FAS%20QR%20Code.jpg)
+
+<img src="/images/Useful%20Links/UL%20Parents/2022%20FAS%20QR%20Code.jpg" style="width:30%">
