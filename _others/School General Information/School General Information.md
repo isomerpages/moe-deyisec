@@ -33,4 +33,4 @@ Currently, all Singaporean students studying full-time in Governemnt or Governme
 
 **Withdrawal for enrichment programmes** \- School will issue a consent form for parents to authorise the withdrawal of funds from his/her child's  Edusave account to pay for enrichment programmes.
 
-**Withdrawal for 2nd-tier miscellanoues** \- Please complete the [form](/files/Standing%20Order%20for%20Payment%20of%202nd%20Tier%20Misc%20Fees.pdf) duly in ink and submit it to School General Office during office hours.
+**Withdrawal for 2nd-tier miscellanoues** \- Please complete the [form](/files/Useful%20Links/UL%20Parents/2023Edusave_Application_Form_revisedSep19.pdf) duly in ink and submit it to School General Office during office hours.
