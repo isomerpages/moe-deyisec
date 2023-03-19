@@ -12,6 +12,7 @@ third_nav_title: School General Information
 |  PR | $460  | $520 | 
 | IS (ASEAN) | $860 | $930 | 
 |  IS | $1620  | $1790  | 
+
 Miscellaneous Fees Rate:<br>• Standard miscellaneous fees:$10.00<br>• Second-Tier miscellaneous fees: $10.00<br><br>Singaporean students can use their Edusave Accounts to pay the 2nd-tier Miscellaneous Fee. Application Form is available in School General Office. 
 
 <u> Note:</u> Annual fee payable is spread over 12 months of the academic year. Students who join on or before 5th February will have to pay fees for January. Those who leave on or after 5th October will have to pay fees for November and December.
