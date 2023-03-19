@@ -5,12 +5,8 @@ description: ""
 ---
 **Purchase of School Textbooks / Attires** <br>
 Please click --> for textbook list. <br>
-[DYSS 2022 Textbooks and Stationery List (Sec 2 to 5)](/files/DYSS%20S2-S5%20262021%20Final%20amended.pdf) / [DYSS 2022 Textbooks and Stationery List (Sec 1)](/files/2022%20DYSS%20S1%20Booklist.pdf) <br>
-[DYSS Textbooks and Stationery List Instruction Sheet for 2022 Sec 4](/files/DYSS%20Instructions%20Sheet%20for%202022%20Sec%204%20Finalised%20Version.pdf) <br>
-[DYSS Textbooks and Stationery List Instruction Sheet for 2022 Sec 3](/files/DYSS%20Instructions%20Sheet%20for%202022%20Sec%203%20Finalised%20Version.pdf) <br>
-[DYSS Textbooks and Stationery List Instruction Sheet for 2022 Sec 2](/files/DYSS%20Instructions%20Sheet%20for%202022%20Sec%202.pdf) <br>
-[DYSS Textbooks and Stationery List Instruction Sheet for 2022 Sec 1](/files/DYSS%20Instructions%20Sheet%20for%202022%20Sec%201.pdf)
-
+[DYSS 2023 Textbooks and Stationery List (Sec 2 to 5) ](/files/Useful%20Links/UL%20Parents/2023%20DYSS%20Textbook%20and%20Stationery%20List%20for%20Sec%202%20to%205%20.pdf)
+[DYSS Textbooks and Stationery List Instruction Sheet for 2023 Sec 2, 3 and 4](/files/Useful%20Links/UL%20Parents/2023%20DYSS%20Instructions%20Sheet%20for%20Sec%202%20to%204%20.pdf)
 
 For enquires on the <u>sales of books</u>, please contact Popular Book Co (Pte) Ltd <br>
 Address: Popular Book Co (Pte) Ltd  
