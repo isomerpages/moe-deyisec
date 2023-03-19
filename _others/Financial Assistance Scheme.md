@@ -7,7 +7,7 @@ MOE has many schemes to support the educational needs of Singaporean students e
 
 Parents with children studying in different schools need to complete only one application form for all school-going Singaporean children and submit it to the school of any child. The school receiving the application form will process the application. If the application meets the MOE FAS income criterion, all the children indicated in the form will be granted the MOE FAS. The school will inform the parents of the outcome via a letter. If your child’s MOE FAS application is approved by the other school, parents are required to provide us a copy of the successful letter.  For unsuccessful MOE FAS applications, the school will assess your child/children studying in our school for their eligibility for school-based FAS. For the student’s siblings, parents will have to approach the other schools directly for school-based financial assistance.  
 
-You may refer to the [MOE FAS Pamphlet 2022](/files/MOE_FAS_Pamphlet_2022.pdf) or click [here](https://www.moe.gov.sg/financial-matters/financial-assistance) for more information on the available schemes to support our Singaporean Students.
+You may refer to the [MOE FAS Pamphlet](/files/Useful%20Links/UL%20Parents/2023%20MOE%20FAS%20pamphlet%20EL%20for%20schools.pdf) or click [here](https://www.moe.gov.sg/financial-matters/financial-assistance) for more information on the available schemes to support our Singaporean Students.
 
 ### Eligibility Criteria for MOE FAS
 
