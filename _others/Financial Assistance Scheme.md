@@ -23,9 +23,8 @@ d) The student is a resident in one of the approved welfare homes.
 | Standard Miscellaneous Fees  | Full waiver of $10.00 per month  |  |
 | Textbooks  | Free textbooks include writing materials and art and craft materials and stationery items shown in the school booklist |  |
 | School Attire | Free school uniform, PE attire, shoes and socks |  |
-| Transport<br>(Wef 1 April 2020) | Students taking public transport: $180 transport credit per annum<br>(If the FAS application approval is not from Jan, the transport subsidy will be pro- rated accordingly from the month after the application is approved to December of the same year.) |  |
-| School meals<br>(Wef 1 April 2020) | $2.90 per meal for 10 school meals in a week (Total: $29 per week) |  |
-| | | |
+| Transport<br>(Wef 1 April 2020) | $17 transport subsidy per month from month of approval, up to $204 per annum for students taking public transport |  |
+| School meals<br>(Wef 1 April 2020) | Subsidy for 10 meals per 5-day school week from month of approval, for up to 40 school weeks per annum
 
 ### Eligibility Criteria for SAC FAS
 
@@ -37,9 +36,12 @@ b)    The family’s Per Capita Income (PCI) does not exceed $825\*.
 |---|---|---|
 | School Fees  | Full waiver of $5.00 per month  |  |
 | Standard Miscellaneous Fees  | Full waiver of $10.00 per month |  |
-| Textbooks  | Free textbooks include writing materials and art and craft materials and stationery items shown in the school booklist  |  |
-| School Attire  | Free school uniform, PE attire, shoes and socks  |  |
-| Transport<br>(Wef 1 April 2020) | Students taking public transport: $180 transport credit per annum <br>(If the FAS application approval is not from Jan, the transport subsidy will be pro- rated accordingly from the month after the application is approved to December of the same year.) |  |
+| Textbooks  | Free textbooks |  |
+| School Attire  | Free school attire |  |
+| Transport<br>(Wef 1 April 2020) | $17 transport subsidy per month from month of approval, up to $204 per annum for students taking public transport |  |
 | | | |
 
-Students who wish to apply for the scheme can obtain the application form from General Office, or download a copy of the [MOE-fas-application-form.](/files/MOE%20FAS%20Application%20Form%20Aug%2021%20FINAL.pdf) All application forms must be submitted together with the relevant documents to the schools directly.
+Students who wish to apply for the scheme can:
+* Obtain the application form from General Office or download a copy of the [MOE FAS Application Form.](/files/MOE%20FAS%20Application%20Form%20Aug%2021%20FINAL.pdf) 
+* Submit online via https://go/gov.sg/moe-efas
+![](/images/Useful%20Links/UL%20Parents/2022%20FAS%20QR%20Code.jpg)
