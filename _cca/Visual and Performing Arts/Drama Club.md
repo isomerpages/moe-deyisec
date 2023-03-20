@@ -19,7 +19,7 @@ Students were given the opportunity to broaden their horizons, experience a vari
 These meaningful opportunities to showcase as well as cultivate one’s skills as actors and actresses mean a lot to the members of the club. In the varied roles and personas that we assume, both on and off the stage, the language used to portray and empathise with the human condition is a universal one. Embracing this fact, Deyi English Drama Club would like to continue embarking on the journey to discover more characters and chart more possibilities to play on stage.
 
 **Teacher-in-charge:** <br>
-Miss Nurain (OC) <br>
+Miss Nurain (OIC) <br>
 Mdm Abirami <br>
 Mdm Rajakumari <br>
 
