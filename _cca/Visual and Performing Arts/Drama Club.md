@@ -9,7 +9,7 @@ third_nav_title: Visual and Performing Arts
 <center>
 "I am grateful for the opportunities Deyi English Drama Club has given me. This club has given me another family. I have been given opportunities to grow and discover my talents, such as SYF and the NIE Teachers Day Video. I feel that this CCA has allowed me to grow and to help my friends grow as well."
 <br><br>
-<strong> A. Sai Gughan&nbsp;(Class 305) <br>
+<strong> A. Sai Gughan &nbsp;(Class 305) <br>
 Drama Club EXCO </strong> </center>
 
 Drama, as an art form, transcends all barriers of race, culture and language. Deyi English Drama Club has had many precious memories to experience this diversity in our craft as we explore the human condition in our dramatic works.&nbsp;
