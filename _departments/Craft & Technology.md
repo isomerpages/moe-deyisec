@@ -22,7 +22,7 @@ To develop our students’ ability to empathise with a range of perspectives as 
 **Lower Secondary Music Programme:**&nbsp;<br>
 To develop our students in music appreciation and provide the platform for them to experience critical inquiry through music making. The curriculum provides students with informal practices where they are given the opportunity to mirror the way popular musicians learn and from there, developing the joy of learning on their own using online resources.  
  
-<iframe width="653" height="367" src="https://www.youtube.com/embed/RPOmFrMe0Ww" title="Deyi Secondary 2 Covers Project 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="653" height="367" src="https://www.youtube.com/embed/AoiJbXYy3Bs" title="Deyi Secondary 2 Covers Project 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
 **Design and Technology:** <br>
 To develop our students with the ability to solve real-life issues through empathy where they are able to generalise creative and innovative ideas. The curriculum will equip students with the Design Thinking Skills in ideation and development; traditional and digital sketching skills; 3D design and prototyping skills; and technological skills to handle common tools and equipment.
