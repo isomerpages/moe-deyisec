@@ -1,0 +1,18 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our School/.keep
+      - Our School/Our School.md
+      - Our School/Vision and Mission.md
+      - Our School/School Motto and Values.md
+      - Our School/Our Growing Years.md
+      - Our School/Our Aspirations.md
+      - Our School/School Song.md
+      - Our School/School Rules and Regulation.md
+      - SAC.md
+      - School Management Committee.md
+      - Form Teachers.md
+      - Parent Support Group.md
+      - Contact Us.md

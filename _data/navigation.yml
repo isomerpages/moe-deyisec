@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/image-removebg-preview.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Departments
+    collection: departments
+  - title: CCA
+    collection: cca
+  - title: Key Programmes
+    collection: key-programmes
+  - title: Achievements
+    collection: achievements
+  - title: Useful Links
+    collection: useful-links

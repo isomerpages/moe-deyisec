@@ -2,12 +2,49 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
+**Terms of Use**
 
-#### **General Legal Information**
+_Thank you for visiting Deyi Secondary School’s website._ <br>
+1. This is the Official School Website of Deyi Secondary School. By accessing this website, you agree to the Terms of Use. Should you disagree to these terms of use, please do not use this website.
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+**General** <br>
+2. Terms of Use may be subjected to change by the school. Changes will be posted on this page. Do take note that continual usage of the website would constitute your agreement to the modified Terms of Use.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+ **Proprietary Rights**<br> 
+3. This website is maintained and owned by Deyi Secondary School.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+4. All materials located on this website are protected by copyright, trademark and other forms of proprietary rights. Take note that all content is licensed to or controlled by Deyi Secondary School.  
+
+ **Privacy Policy** <br>
+5.      Deyi Secondary School’s website privacy statement is found in the next section.
+
+ **Restrictions on Use of Materials** <br>
+6.     All contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed without the prior permission of Deyi Secondary School. Do seek permission in writing, stating the contents for use; the intent of use; manner of use; time frame of use and identity of the use to use any parts of the contents of this site. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by a user is deemed insufficient.
+
+7.  Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Deyi Secondary School’s copyright and other intellectual property rights. All graphics and images on this website are protected and may not be reproduced or appropriated in any manner without written permission of Deyi Secondary School.
+
+ **Right of Access** <br>
+8.      Deyi Secondary School reserves all rights to deny or restrict access to this website to any particular person at any time, without ascribing any reasons whatsoever.
+
+ **Disclaimer of Warranties and Liability** <br>
+9.  The Contents of this website are provided on an "as is" basis without warranties of any kind. To the fullest extent, Deyi Secondary School does not warrant and hereby disclaims any warranty:
+
+(a)  as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this website;
+
+(b)  that the Contents available through this website or any functions associated therewith will be uninterrupted or error-free.
+
+10.  Deyi Secondary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the website.
+
+  **Links from this website to other websites** <br>
+11.  This website may contain hyperlinks to websites which are not maintained by Deyi Secondary School. Hence, Deyi Secondary School is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
+
+12.  Except as set forth below, caching and links to, and the framing of this website or any of the contents are prohibited.
+
+13.  Permission from Deyi Secondary School prior to hyperlinking to, or framing, this Web Site or any of the Contents must be secured. Deyi Secondary School reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Web Site or any of the Contents.
+
+14.  Deyi Secondary School reserves all rights to remove any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
+
+15.  Deyi Secondary School reserves the right to remove any unauthorized links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this School Website or any of the Contents.
+
+ **Governing Law** <br>
+16.  The Terms of Use at our school website shall be governed and construed in accordance with laws of the Republic of Singapore.
