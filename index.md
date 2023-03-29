@@ -30,7 +30,7 @@ sections:
       alt: 2019 Arts Fiesta
   - infopic:
       title: Visit to Deyi Secondary School by Minister Chan
-      subtitle: ANNOUNCMENTS
+      subtitle: ANNOUNCEMENTS
       description: Click for more details.
       button: Link to post
       url: https://www.facebook.com/100044242728598/posts/561195995365153/?d=n
