@@ -13,3 +13,5 @@ If you would like to attend the celebration of our students in the upcoming Deyi
 Link: [Deyi Arts Fiesta 2023 Registration](https://forms.gle/ixVRAc7LCoRGo7vo8)
 
 <img src="/images/Main%20Page%20(Announcements)/2023%20Arts%20Fiesta%20Reg.png" style="width:50%">
+
+	Date: **28 Apr**
