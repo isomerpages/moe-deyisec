@@ -21,14 +21,6 @@ sections:
       subtitle: Your journey begins here at Deyi Secondary School
       background: /images/Main Banner/2023 School Banner GIF.gif
   - infopic:
-      title: Visit to Deyi Secondary School by Minister Chan
-      subtitle: ANNOUNCMENTS
-      description: Click for more details.
-      button: Link to post
-      url: https://www.facebook.com/100044242728598/posts/561195995365153/?d=n
-      image: /images/282756009_561196555365097_3401749942582365950_n.jpg
-      alt: Image alt text
-  - infopic:
       title: Arts Fiesta 2023
       subtitle: Announcements
       description: Click for more information
@@ -36,4 +28,12 @@ sections:
       url: /others/artsfiesta2023reg/
       image: /images/Main Page (Announcements)/2019 Arts Fiesta.jpg
       alt: 2019 Arts Fiesta
+  - infopic:
+      title: Visit to Deyi Secondary School by Minister Chan
+      subtitle: ANNOUNCMENTS
+      description: Click for more details.
+      button: Link to post
+      url: https://www.facebook.com/100044242728598/posts/561195995365153/?d=n
+      image: /images/282756009_561196555365097_3401749942582365950_n.jpg
+      alt: Image alt text
 ---
