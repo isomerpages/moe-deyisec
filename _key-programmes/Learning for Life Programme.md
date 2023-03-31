@@ -26,7 +26,8 @@ Arts Education is the focus of Deyi’s Learning for Life Programme (LLP). Throu
 ![Deyi Got Talent](/images/Key%20Program/LLP/DY%20Talent3.jpg)
 ![Deyi Got Talent](/images/Key%20Program/LLP/DY%20Talent8.jpg)
 
-<iframe width="636" height="360" src="https://www.youtube.com/embed/ZPLpMEXznio" title="2023 LLP1 Arts Enrich vid1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rYUsSDLekC4" title="Aesthetics Wall, Behind the scenes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Aesthetic Assembly Programme**&nbsp;- Aesthetic Assembly Programme aims to provide students a broarder persepctive of traditional and contemporary arts, practices, giving them the tools to sustain a lifelong pursuit of the arts. Students are equipped with knowledge and skills needed in their pursuit of educational and career pathways in the arts. This programme also aims to reinforce character building and promote expliration of post-secondary pathways by having real time connection with artists of various arts forms. 
 ![Aesthetic Assembly Programme](/images/Key%20Program/LLP/Aes%20Assb%201.jpg)
