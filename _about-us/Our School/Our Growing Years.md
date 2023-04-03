@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our School
 ---
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/eiRD7EYxkhs" title="Our Growing Years" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P0QV9zsJSh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 _INSPIRING LIVES, NURTURING TALENT, REALISING DREAMS_
 

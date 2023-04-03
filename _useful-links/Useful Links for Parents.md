@@ -24,6 +24,8 @@ description: ""
 * [Cyber wellness Parenting Tips](/files/PARENTing%20Tips_Template.pdf)
 * [PDLP briefing - Sec1](/files/Useful%20Links/UL%20Parents/2023%20PDLP%20Briefing%20-%20Sec%201.pdf)
 * [Blended Learning Briefing - Sec 1](/files/Useful%20Links/UL%20Parents/2023%20Blended%20Learning%20Briefing%20-%20Sec%201.pdf)
+* [Parents’ handbook on learning with PLD I](/files/Useful%20Links/UL%20Parents/2023%20Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD.pdf)
+* [Parents’ handbook on learning with PLD II](/files/Useful%20Links/UL%20Parents/2023%20Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD.pdf)
 
 
 ### Partnership Links:

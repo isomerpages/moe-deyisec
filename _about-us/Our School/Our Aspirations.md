@@ -7,7 +7,7 @@ third_nav_title: Our School
 <center> <i> TODAY I AM PROUD TO BE A DEYIAN. <br>
 	TOMORROW DEYI WILL BE PROUD OF ME. </i></center>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/RjXKLmujmLo" title="Sand Art Animation with Cluster Principals Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N24_3dnBFwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Deyi is about our people.
 
