@@ -4,7 +4,6 @@ permalink: /cca/visual-and-performing-arts/art-club/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
 <img style="width:25%" src="/images/CCA/Visual%20Perf%20Arts/Art%20Club/2022_art%20club_pic1_pag-art%20club.jpg">
 
 
@@ -49,9 +48,11 @@ Art Sports Relay
 <u> <strong> 3.&nbsp;The following students won the grand prize in the ‘My Home My Town’ drawing contest organized by Toa Payoh&nbsp;Central&nbsp;Community in Aug 2021 </strong></u>
 
 <figure>  
-<img src="/images/ART%20CLUB%20%202.jpeg">  
+<img src="/images/CCA/Visual%20Perf%20Arts/Art%20Club/ART%20CLUB%20%202.jpeg">  
 	<figcaption> <strong> Nelly Khoo Shi Xuan </strong>&nbsp;(Class 2 Integrity) </figcaption>  
 </figure>
+![](/images/CCA/Visual%20Perf%20Arts/Art%20Club/ART%20CLUB%20%202.jpeg)
+
 
 <figure>  
 <img src="/images/ART%20CLUB%20%203.jpeg">  
