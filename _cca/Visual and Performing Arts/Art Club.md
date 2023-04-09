@@ -4,14 +4,15 @@ permalink: /cca/visual-and-performing-arts/art-club/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-<img style="width:25%" src="/images/PAG-Art%20club.jpg">
 
-<center>
+<img style="width:25%" src="/images/CCA/Visual%20Perf%20Arts/Art%20Club/2022_art%20club_pic1_pag-art%20club.jpg">
+
+
 "Before becoming the Art club president, one of the challenges I faced was my doubts. I was lucky enough to have met my friends, despite the different classes and levels and they were very supportive. With this leadership opportunity, I grew confident and courageous to lead and guide my peers in our artistic journey together." 
 <br><br> 
 <strong> Yeoh Liu Ying&nbsp;(Class 404) <br> Art Club President </strong>
 	
-</center>
+
 
 The Art Club is built on a commitment to foster and inspire the young and talented artists. Art Club provides various avenues and platforms for the holistic development of students with a common interest in Art.
 
