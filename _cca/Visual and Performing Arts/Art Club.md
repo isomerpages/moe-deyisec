@@ -37,13 +37,13 @@ Art Sports Relay
 **National Day Exhibition**
 <u><strong> 1.  ARTs Club National Day Standees (with collaboration with Cheng San CC) displayed opposite Nanyang&nbsp; Polytechnic </strong></u>
 
-![](/images/art%20club.jpg)
+![National Day Exhibition](/images/art%20club.jpg)
 
 <u><strong> 2. Racial Harmony Day Standees in School </strong></u>
 	
 ![](/images/ART%20CLUB%20%208.jpeg)
+![Racial Harmony Day](/images/CCA/Visual%20Perf%20Arts/Art%20Club/ART%20CLUB%20%202.jpeg)
 
-![](/images/ART%20CLUB%20%205.jpeg)
 
 <u> <strong> 3.&nbsp;The following students won the grand prize in the ‘My Home My Town’ drawing contest organized by Toa Payoh&nbsp;Central&nbsp;Community in Aug 2021 </strong></u>
 
