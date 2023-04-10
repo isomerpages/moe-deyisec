@@ -42,7 +42,6 @@ Art Sports Relay
 <u><strong> 2. Racial Harmony Day Standees in School </strong></u>
 	
 ![](/images/ART%20CLUB%20%208.jpeg)
-![Racial Harmony Day](/images/CCA/Visual%20Perf%20Arts/Art%20Club/ART%20CLUB%20%202.jpeg)
 
 
 <u> <strong> 3.&nbsp;The following students won the grand prize in the ‘My Home My Town’ drawing contest organized by Toa Payoh&nbsp;Central&nbsp;Community in Aug 2021 </strong></u>
@@ -51,7 +50,7 @@ Art Sports Relay
 <img src="/images/CCA/Visual%20Perf%20Arts/Art%20Club/ART%20CLUB%20%202.jpeg">  
 	<figcaption> <strong> Nelly Khoo Shi Xuan </strong>&nbsp;(Class 2 Integrity) </figcaption>  
 </figure>
-![](/images/CCA/Visual%20Perf%20Arts/Art%20Club/ART%20CLUB%20%202.jpeg)
+
 
 
 <figure>  
