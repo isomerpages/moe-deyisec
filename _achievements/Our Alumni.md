@@ -5,7 +5,6 @@ description: ""
 ---
 ### Achievements for School Website
 
-Read about [Lim Qi Zhen](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Alumni%202020%20Lim%20Qi%20Zhen.jpg) who achieved outstanding academic performance.
 
 
 Read about [Lim Qi Zhen](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2020%20alumni%20lim%20qi%20zhen.jpg) who achieved outstanding academic performance.
