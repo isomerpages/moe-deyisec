@@ -7,6 +7,11 @@ description: ""
 
 Read about [Lim Qi Zhen](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Alumni%202020%20Lim%20Qi%20Zhen.jpg) who achieved outstanding academic performance.
 
+
+Read about [Lim Qi Zhen](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2020%20alumni%20lim%20qi%20zhen.jpg) who achieved outstanding academic performance.
+
+![](/images/Achievements/2020%20alumni%20lim%20qi%20zhen.jpg)
+
 Read about [Abdul Rahim B MD Hamsani](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Abdul%20Rahim%20B%20MD%20Hamsani.jpg) who displayed resilience and determination in his achievements.  
 
 Read about [Koh Yee Ru](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Koh%20Yee%20Ru.jpg) who displayed diligence and discipline in her achievements. 
