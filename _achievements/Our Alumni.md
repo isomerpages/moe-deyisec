@@ -26,7 +26,8 @@ Read about [Tino Cheong Woon Huai](https://staging.d3sil9pzbw3lij.amplifyapp.co
 
 Read about [Lim Qing Hui](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2022%20alumni%20lim%20qing%20hui.jpg) who displayed care in her achievements.
 
-Read about [Isabel Lim Xin Hui(1)](https://staging.d3sil9pzbw3lij.amplifyapp.com(/images/Achievements/2022%20alumni%20brian%20xie%20zhao%20yu.jpg) [(2)](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2022%20alumni%20isabel%20lim2.jpg) who displayed care in her achievements.  
+Read about [Isabel Lim Xin Hui(1)](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2022%20alumni%20isabel%20lim.jpg) [(2)](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2022%20alumni%20isabel%20lim2.jpg) who displayed care in her achievements.  
+
 
 Read about [Ngia Wen Xin](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2022%20alumni%20ngia%20wen%20xin.jpg) who displayed care in her achievements.  
 
