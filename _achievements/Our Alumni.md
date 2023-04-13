@@ -32,9 +32,11 @@ Read about [Isabel Lim Xin Hui(1)](https://staging.d3sil9pzbw3lij.amplifyapp.co
 Read about [Ngia Wen Xin](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2022%20alumni%20ngia%20wen%20xin.jpg) who displayed care in her achievements.  
 
 ********
-Read about [Tan Wilbyn](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/SET%2012.jpg) who displayed care in his achievements.  
+Read about [Tan Wilbyn](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2022%20alumni%20tan%20wilbyn.jpg) who displayed care in his achievements.  
 
-Read about [L Keerthnah](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2022%20alumni%20tan%20wilbyn.jpg) who displayed care in her achievements.  
+
+
+Read about [L Keerthnah](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2022%20alumni%20keerthnah.jpg) who displayed care in her achievements.  
 
 Read about [Li Sitong](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2022%20alumni%20lee%20sitong.jpg) who displayed care in her achievements.  
 
