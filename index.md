@@ -23,8 +23,8 @@ sections:
   - infopic:
       title: Arts Fiesta 2023
       subtitle: Announcements
-      description: Click for more information
-      button: Register here
+      description: "28 April 2023 "
+      button: Click for More Information
       url: /others/artsfiesta2023reg/
       image: /images/Main Page (Announcements)/2019 Arts Fiesta.jpg
       alt: 2019 Arts Fiesta
