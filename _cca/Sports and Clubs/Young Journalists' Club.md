@@ -27,7 +27,6 @@ Every Tuesday and Thursday 2.45 pm – 5.15 pm
 
   
 **Achievements and Highlights**
-**
 
 *   Participation in the National ‘Our Schools, Our Stories’ Photography Competition 2023&nbsp;
 
