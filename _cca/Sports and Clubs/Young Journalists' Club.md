@@ -31,7 +31,7 @@ Every Tuesday and Thursday 2.40 pm – 5.15 pm
 
 *   Participation in the National ‘Our Schools, Our Stories’ Photography Competition 2023&nbsp;
 
-*   Participation in the Earth Day Art Competition 2023 organised by Consevation International Singapore&nbsp;
+*   Participation in the Earth Day Art Competition 2023 organised by Conservation International Singapore&nbsp;
     
 *   Participation in SYF 2023 Celebrations Open Call-Photo and Video Challenge
     
