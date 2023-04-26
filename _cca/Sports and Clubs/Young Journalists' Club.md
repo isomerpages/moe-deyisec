@@ -40,4 +40,3 @@ Every Tuesday and Thursday 2.45 pm – 5.15 pm
     
 *   Support for School Publicity
 
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4HkHWyPE_vNbAD6aIcwGtIvTLs3py-8cpWlvPX62eA7zxm2rvZqP4gPu92BW_1w-RE4C3Y5Mbp0hT/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
