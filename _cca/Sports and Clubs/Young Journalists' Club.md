@@ -40,3 +40,10 @@ Every Tuesday and Thursday 2.45 pm – 5.15 pm
     
 *   Support for School Publicity
 
+![](/images/CCA/Sports%20and%20Clubs/YJC/yjc%20group%20photo%202023%20.png)<br>
+![](/images/CCA/Sports%20and%20Clubs/YJC/building%20skillset.jpg) <br>
+![](/images/CCA/Sports%20and%20Clubs/YJC/camera%20in%20action.png) <br>
+![](/images/CCA/Sports%20and%20Clubs/YJC/live%20reporting%20of%20school%20event.JPG) <br>
+![](/images/CCA/Sports%20and%20Clubs/YJC/outdoor%20interview.jpg) <br>
+![](/images/CCA/Sports%20and%20Clubs/YJC/team%20work%20.jpg) <br>
+![](/images/CCA/Sports%20and%20Clubs/YJC/yjc%20in%20action.png)
