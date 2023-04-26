@@ -23,7 +23,7 @@ Ms Thambusamy Gayathiri <br>
 
   
 **Weekly Schedule:** <br>
-Every Tuesday and Thursday 2.40 pm – 5.15 pm
+Every Tuesday and Thursday 2.45 pm – 5.15 pm
 
   
 **Achievements and Highlights**
