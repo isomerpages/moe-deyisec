@@ -49,5 +49,6 @@ Every Tuesday and Thursday 2.40 pm – 5.15 pm
 * Vanda Miss Joaquim Award 2019 
 * Vanda Miss Joaquim Award 2018
 
+![](/images/CCA/Sports%20and%20Clubs/Green%20Club/2022%20green%20club_vanda%20miss%20joaquim%20award%202022%20.jfif) <br>
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqBRAbnTdl14GCQZUk_pKy1ayaelR54IDDJFA6yGnkRVmwTO373BKyK1QgADkico8xs_jOj7roG5yW/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
