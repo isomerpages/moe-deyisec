@@ -4,12 +4,12 @@ permalink: /cca/sports-and-clubs/football-girls/
 description: ""
 third_nav_title: Sports and Clubs
 ---
-<img style="width:30%" src="/images/Sports-Football.png">
+<img style="width:30%" src="/images/CCA/Sports%20and%20Clubs/Football/2023_football_captain1%20.jpg">
 
 <center>
-I am forever grateful for my team. After all the sweat and tears we went through, the key takeaway was not being the most skilled but improving oneself and being united with the help of my coach and teachers.  
-<br><br>
-<strong> Pyarises Pharja Ale (406) <br>
+The teachers and coaches taught my team and I to dribble, pass and shoot. Football taught us perseverance, unity, and communication. My teammates taught us to motivate and inspire one another.
+<br>
+<strong> Dinesh Kumar Shree Nithi (4IT) <br>
 Football Captain </strong></center>
 	
 **Sportsmanship and Excellence** <br>
@@ -23,4 +23,6 @@ Ms Jassika
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.40pm - 5.45pm
 
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTV5RzMbBXDDsWxcS3D4R4m-RuNjRxv3BKj6IcVjPT_ukjzkY5dqLJ5CWwrBsej8t4vGfontHw_TsHg/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+![](/images/CCA/Sports%20and%20Clubs/Football/2023_football_b%20div%20nsg_2.jpg) <br>
+![](/images/CCA/Sports%20and%20Clubs/Football/2023_football_competition3.jpg) <br>
+![](/images/CCA/Sports%20and%20Clubs/Football/2023_football_bonding4.jpeg)
