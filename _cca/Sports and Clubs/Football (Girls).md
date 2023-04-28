@@ -9,7 +9,7 @@ third_nav_title: Sports and Clubs
 <center>
 The teachers and coaches taught my team and I to dribble, pass and shoot. Football taught us perseverance, unity, and communication. My teammates taught us to motivate and inspire one another.
 <br>
-<strong> Pyarises Pharja Ale (406) <br>
+<strong> Dinesh Kumar Shree Nithi (4IT) <br>
 Football Captain </strong></center>
 	
 **Sportsmanship and Excellence** <br>
