@@ -87,6 +87,8 @@ Trials and auditions will usually be conducted on&nbsp;**Tuesdays**&nbsp;and&nbs
 **5. Panel Interview** <br>
 Student must pass an interview conducted by a panel made up of:&nbsp;<u>Vice–Principal,&nbsp;HOD/SH&nbsp;</u> of the relevant talent area (e.g. Aesthetics, English, Student Leadership Physical Education) and the&nbsp;<u> CCA Teacher-In-Charge </u>&nbsp;of the specific talent area.
 
+**Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.**
+
 ### Selection Process <a name="SelectionProcess"></a>
 
 [Back to top](#backtotop)
