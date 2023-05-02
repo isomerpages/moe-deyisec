@@ -98,7 +98,7 @@ The selection criteria and process for the talent areas&nbsp;will&nbsp;be update
 **Stage 1 – Short-listing** <br>
 Candidates will first be short-listed based on&nbsp;**Criteria 1–3**.
 
-All shortlisted candidates after Stage 1 will be informed by&nbsp;**15 July 2022**&nbsp;of their interview and audition dates. Non-shortlisted candidates will also be informed that they are unsuccessful in their application.
+All shortlisted candidates after Stage 1 will be informed by&nbsp;**24 July 2023**&nbsp;of their interview and audition dates. Non-shortlisted candidates will also be informed that they are unsuccessful in their application.
 
 **Stage 2 – Audition/Trial** <br>
 Short-listed candidates will be required to undergo an audition/trial.
@@ -106,7 +106,7 @@ Short-listed candidates will be required to undergo an audition/trial.
 **Stage 3 – Panel Interview** <br>
 Shortlisted candidates will be interviewed by a panel made up of:&nbsp;<u> Vice–Principal,&nbsp;HOD/SH </u>&nbsp;of the relevant talent area (e.g. Aesthetics, English, Student Leadership, Physical Education) and the&nbsp;<u> CCA Teacher-In-Charge </u>&nbsp;of the specific talent area.
 
-After Stage 2 (Audition/Trial) and Stage 3 (Panel Interview), the results will be compiled and all shortlisted candidates will be notified by&nbsp;**12 Sep 2022**&nbsp;if they have been given a Confirmed Offer, put on the Waiting List or if the school is unable to offer them a place.
+After Stage 2 (Audition/Trial) and Stage 3 (Panel Interview), the results will be compiled and all shortlisted candidates will be notified by&nbsp;**11 Sep 2023**&nbsp;if they have been given a Confirmed Offer, put on the Waiting List or if the school is unable to offer them a place.
 
 Those given a Confirmed Offer are guaranteed a place in the school in a course \[Express, Normal (Academic) or Normal (Technical)\] which the student is eligible for. This is based on the PSLE aggregate of the student.
 
@@ -116,11 +116,11 @@ Those given a Confirmed Offer are guaranteed a place in the school in a course \
 
 | Timeline | Key Activities |
 |---|---|
-| 5 May –  1 Jun, 3.00pm | Online Application Stage. (Through centralised DSA-Sec Portal)<br>  |
-| By 15 Jul | All shortlisted applicants will be informed of their Assessment date. |
-| 20 Jun – 12 Sep | Selection Stage. Trials and auditions will usually be conducted on Tuesdays and Thursdays as these are the school’s designated CCA Days.  |
-| By 12 Sep | All shortlisted candidates will be notified by post as to whether he/she is on the confirmed, waiting or rejected list. |
-| 31 Oct – 4 Nov | Exercise School Preference Stage. |
+| 4 May –  31 May, 3.00pm | Online Application Stage. (Through centralised DSA-Sec Portal)<br>  |
+| By 24 Jul | All shortlisted applicants will be informed of their Assessment date. |
+| 26 Jun – 11 Sep | Selection Stage. Trials and auditions will usually be conducted on **Tuesdays** and **Thursdays** as these are the school’s designated CCA Days.  |
+| By 11 Sep | All shortlisted candidates will be notified by post as to whether he/she is on the confirmed, waiting or rejected list. |
+| 23 Oct – 27 Oct | Exercise School Preference Stage. |
 | Nov | Results Release Stage. |
 | | |
 
@@ -129,7 +129,7 @@ Those given a Confirmed Offer are guaranteed a place in the school in a course \
 [Back to top](#backtotop)
 
 **1\. What type of students are you looking for?** <br>
-We are looking for students who have relevant experience and achievement in the various Specific Talent Areas offered. He/She must also possess diligence and a positive attitude in academic work.
+We are looking for students who have relevant experience and achievement in the various Specific Talent Areas offered. He/She must also possess diligence and a positive attitude in schoolwork.
 
 **2\. Is there a minimum requirement?** <br>
 Accomplishments in the various Specific Talent Areas offered will be an advantage. All students who can fulfil the criteria listed in the section on Admission Criteria will be eligible.&nbsp;
