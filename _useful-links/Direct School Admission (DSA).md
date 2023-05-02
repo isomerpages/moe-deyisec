@@ -188,7 +188,6 @@ Successful DSA Candidates will be issued with a Direct Admission Slip, informing
 As there is a cap of&nbsp;20%&nbsp;for Deyi Secondary's enrolment under DSA-Sec exercise there will still be 80% of places available for enrolment under the Sec 1 Posting Exercise.
 
 **7\. Useful Links**
-
 |  |  |
 |---|---|
 | DSA-Sec Main Webpage | https://www.moe.gov.sg/dsa-sec |
