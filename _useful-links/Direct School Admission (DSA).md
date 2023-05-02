@@ -65,8 +65,8 @@ The table below gives more details of the specific talent areas offered by Deyi 
 
 [Back to top](#backtotop)
 
-**1. Academic Qualifications** <br>
-Student must show diligence and positive attitude towards academic work.
+**1. Learning Disposition** <br>
+Student must show diligence and positive attitude towards schoolwork.
 
 **2. Ability in relevant areas of Specific Talent selected**
 
