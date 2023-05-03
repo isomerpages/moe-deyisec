@@ -75,4 +75,3 @@ Besides Career’s Day, Below Photographs Capturing Our Ex-Deyian Kenzo in Eunoi
 
 ![Eunoia JC Sharing by Kenzo Wong Our (Ex-Deyian) on 31 March 2023](/images/Departments/CCE/2023%20cce%20ecg%20pic8.jpg)
 Eunoia JC Sharing by Kenzo Wong Our (Ex-Deyian) on 31 March 2023
-
