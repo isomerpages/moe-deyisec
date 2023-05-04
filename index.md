@@ -25,7 +25,7 @@ sections:
       subtitle: Announcements
       description: Direct School Admission
       button: Click for More Information
-      url: /oth/useful-links/direct-school-admission-dsa/
+      url: /useful-links/direct-school-admission-dsa/
       image: /images/Main Page (Announcements)/2023 dsa.jpeg
       alt: 2019 Arts Fiesta
   - infopic:
