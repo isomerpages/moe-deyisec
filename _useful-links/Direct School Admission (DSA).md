@@ -188,20 +188,13 @@ Successful DSA Candidates will be issued with a Direct Admission Slip, informing
 As there is a cap of&nbsp;20%&nbsp;for Deyi Secondary's enrolment under DSA-Sec exercise there will still be 80% of places available for enrolment under the Sec 1 Posting Exercise.
 
 **7\. Useful Links**
-|  |  |
-|---|---|
-| DSA-Sec Main Webpage | https://www.moe.gov.sg/dsa-sec |
-| Instructions on Application<br>(Mainstream students) | https://go.gov.sg/dsa-sec-application |
-| Instructions on Application<br>(Non Mainstream Students) | https://go.gov.sg/nmsdsa-sec-application |
-| Direct to DSA-Sec Portal<br>(Mainstream Students) | https://go.gov.sg/apply-dsa-sec |
-| Direct to DSA-Sec Portal<br>(Non Mainstream Students) | https://go.gov.sg/apply-dsa-sec-nms |
-| DSA-Sec iFAQs | https://go.gov.sg/dsa-secfaqs |
-| DSA-Sec School Finder | https://go.gov.sg/dsa-secschfinder |
-
-
-
-| Column 1 | Column 2 | 
+|  | | 
 | -------- | -------- | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
+| DSA-Sec Main Webpage    | https://www.moe.gov.sg/dsa-sec     | 
+| Instructions on Application<br>(Mainstream students)     | https://go.gov.sg/dsa-sec-application    | 
+| Instructions on Application<br>(Non Mainstream Students)    | https://go.gov.sg/nmsdsa-sec-application  |
+| Direct to DSA-Sec Portal<br>(Mainstream Students)    | https://go.gov.sg/apply-dsa-sec     |
+| Direct to DSA-Sec Portal<br>(Non Mainstream Students)      | https://go.gov.sg/apply-dsa-sec-nms     |
+| DSA-Sec iFAQs     | https://go.gov.sg/dsa-secfaqs     |
+| DSA-Sec School Finder     | https://go.gov.sg/dsa-secschfinder     |
+
