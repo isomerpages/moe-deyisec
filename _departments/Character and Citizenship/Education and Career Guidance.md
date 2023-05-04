@@ -38,7 +38,8 @@ Students can make an appointment with the ECG Counsellor via the booking link at
 
 **Career’s Day 2023 : Our Focus**<br>
 1. To enable students to explore, discover and create meaningful careers.
-2. To allow students:<br>
+
+3. To allow students:<br>
     (a)	To have more career options beyond their familiarity and knowledge.<br>
     (b)	To have a better sense of the possible education pathways.
 
