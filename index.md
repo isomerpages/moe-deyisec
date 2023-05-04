@@ -21,12 +21,12 @@ sections:
       subtitle: Your journey begins here at Deyi Secondary School
       background: /images/Main Banner/2023 HD-web.gif
   - infopic:
-      title: Arts Fiesta 2023
+      title: DSA 2023
       subtitle: Announcements
-      description: "28 April 2023 "
+      description: Direct School Admission
       button: Click for More Information
       url: /others/artsfiesta2023reg/
-      image: /images/Main Page (Announcements)/2019 Arts Fiesta.jpg
+      image: /images/Main Page (Announcements)/2023 dsa.jpeg
       alt: 2019 Arts Fiesta
   - infopic:
       title: Visit to Deyi Secondary School by Minister Chan
