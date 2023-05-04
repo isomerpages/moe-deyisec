@@ -197,4 +197,11 @@ As there is a cap of&nbsp;20%&nbsp;for Deyi Secondary's enrolment under DSA-Sec 
 | Direct to DSA-Sec Portal<br>(Non Mainstream Students) | https://go.gov.sg/apply-dsa-sec-nms |
 | DSA-Sec iFAQs | https://go.gov.sg/dsa-secfaqs |
 | DSA-Sec School Finder | https://go.gov.sg/dsa-secschfinder |
-| | |
+
+
+
+| Column 1 | Column 2 | 
+| -------- | -------- | 
+| Text     | Text     | 
+| Text     | Text     | 
+| Text     | Text     | 
