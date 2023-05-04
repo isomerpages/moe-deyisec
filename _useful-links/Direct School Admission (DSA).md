@@ -190,10 +190,10 @@ As there is a cap of&nbsp;20%&nbsp;for Deyi Secondary's enrolment under DSA-Sec 
 **7\. Useful Links**
 | Column 1 | Column 2 | 
 | -------- | -------- | 
-| DSA-Sec Main Webpage    | https://www.moe.gov.sg/dsa-sec     | 
-| Instructions on Application<br>(Mainstream students)     | https://go.gov.sg/dsa-sec-application    | 
-| Instructions on Application<br>(Non Mainstream Students)    | https://go.gov.sg/nmsdsa-sec-application  |
-| Direct to DSA-Sec Portal<br>(Mainstream Students)    | https://go.gov.sg/apply-dsa-sec     |
-| Direct to DSA-Sec Portal<br>(Non Mainstream Students)      | https://go.gov.sg/apply-dsa-sec-nms     |
-| DSA-Sec iFAQs     | https://go.gov.sg/dsa-secfaqs     |
-| DSA-Sec School Finder     | https://go.gov.sg/dsa-secschfinder     |
+| DSA-Sec Main Webpage | https://www.moe.gov.sg/dsa-sec  | 
+| Instructions on Application (Mainstream students)     | https://go.gov.sg/dsa-sec-application    | 
+| Instructions on Application (Non Mainstream Students)    | https://go.gov.sg/nmsdsa-sec-application  |
+| Direct to DSA-Sec Portal (Mainstream Students)    | https://go.gov.sg/apply-dsa-sec     |
+| Direct to DSA-Sec Portal (Non Mainstream Students)      | https://go.gov.sg/apply-dsa-sec-nms     |
+| DSA-Sec iFAQs | https://go.gov.sg/dsa-secfaqs|
+| DSA-Sec School Finder| https://go.gov.sg/dsa-secschfinder  |
