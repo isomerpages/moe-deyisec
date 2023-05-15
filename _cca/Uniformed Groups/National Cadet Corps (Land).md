@@ -4,7 +4,7 @@ permalink: /cca/uniformed-groups/national-cadet-corps-land/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<img style="width:70%" src="/images/UG-NCC.jpeg">
+![](/images/CCA/Uniform%20Groups/NCC/2023%20ncc%20last%20frame%20-%20clarence%20gan.jpg)
 
 <center>
 "I learnt to be resilient in NCC.&nbsp;During my PDS course, I struggled with learning 21 different drills, but with the help of my friends, I persevered and received my basic PDS badge. We must have the confidence in whatever we do and be a leader who leads by example."
@@ -12,10 +12,10 @@ third_nav_title: Uniformed Groups
 <strong> Brayden Baey Ying Zheng (306) <br>
 PDS OIC </strong></center>
 
-Deyi Secondary School National Cadet Corps seeks to nurture inspiring leaders and committed citizens. Guided by the NCC key thrusts of Leadership, Fitness and Commitment to Singapore; we are driven by the Corps’ eight core values of Loyalty to Singapore, Uprightness, Leadership, Discipline, Commitment &amp; Responsibility, Care for Fellow Cadets, Adventurous Spirit and Safety.  
-  
-We are the designated NCC Centre of Excellence for Precision-Drill Squad (PDS) in Central District. Our cadets conduct regular PDS courses for all NCC cadets within the District.  
-  
+Deyi Secondary School National Cadet Corps seeks to nurture inspiring leaders and committed citizens. Guided by the NCC key thrusts of Leadership, Fitness and Commitment to Singapore; we are driven by the Corps’ eight core values of Loyalty to Singapore, Uprightness, Leadership, Discipline, Commitment &amp; Responsibility, Care for Fellow Cadets, Adventurous Spirit and Safety.
+
+We are the designated NCC Centre of Excellence for Precision-Drill Squad (PDS) in Central District. Our cadets conduct regular PDS courses for all NCC cadets within the District.
+
 Our first year cadets begin their leadership training by learning to be responsible for their personal bearing. Cadets are also introduced to PDS and Free-style Drill (FSD).  
   
 In their second year, cadets would be further challenged by the Orienteering programme, enhanced PDS and FSD. As part of the training syllabus, our cadets will get to experience abseiling as well as learn the basics of handling the SAR 21.  
@@ -35,7 +35,7 @@ Mr Lim Jun Yu
 Every Tuesday &amp; Thursday 2.45 pm – 5.30 pm
 
 **Achievements and Highlights** 
-* NCC Unit Recognition Award 2018 &amp; 2019 - DISTINCTION
+* NCC Unit Recognition Award 2018 to 2022 - DISTINCTION
 * NCC Best Unit Competition NCC Land Boys 2016 &amp; 2017 – Gold Award
 * NCC Road Relay (National) 2018 &amp; 2019 – 2nd Runner-up
 * HQ NCC PDS Centre of Excellence since 2014
