@@ -17,7 +17,7 @@ ECG aims to:
 A team of ECG teachers 2023
 
 **Front row (from left): Ms Dolley Tan, Ms Geetha, Ms Banu   
- Back row (from left): Ms Saliha, Ms Joyce Yee, Ms Linda (ECG Counsellor), Mrs Angie Ho**<br>
+Back row (from left): Ms Saliha, Ms Joyce Yee, Ms Linda (ECG Counsellor), Mrs Angie Ho**<br>
 <br><br>
 
 
