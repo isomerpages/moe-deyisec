@@ -16,7 +16,7 @@ ECG aims to:
 <img src="/images/Departments/CCE/2023%20cce%20ecg%20pic1.jpg" style="width:60%">
 A team of ECG teachers 2023
 
-**Front row (from left): Ms Dolly, Ms Geetha, Mdm Jainul
+**Front row (from left): Ms Dolley Tan, Ms Geetha, Ms Banu   
 Back row (from left): Ms Saliha, Ms Joyce Yee, Ms Linda (ECG Counsellor), Mrs Angie Ho**<br>
 <br><br>
 
