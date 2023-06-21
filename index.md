@@ -27,6 +27,7 @@ sections:
       image: /images/Main Page (Announcements)/Perf Arts Website - 31 May Announcement
         2023 Updated - Chew Yi Ni.jpg
       alt: Image alt text
+      subtitle: ANNOUNCEMENTS
   - infopic:
       title: DSA 2023
       subtitle: Announcements
