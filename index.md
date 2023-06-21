@@ -21,6 +21,13 @@ sections:
       subtitle: Your journey begins here at Deyi Secondary School
       background: /images/Main Banner/2023 HD-web.gif
   - infopic:
+      title: Performing Arts Group Achievements
+      description: SYF 2023
+      button: Button Text
+      image: /images/Main Page (Announcements)/Perf Arts Website - 31 May Announcement
+        2023 Updated - Chew Yi Ni.jpg
+      alt: Image alt text
+  - infopic:
       title: DSA 2023
       subtitle: Announcements
       description: Direct School Admission
