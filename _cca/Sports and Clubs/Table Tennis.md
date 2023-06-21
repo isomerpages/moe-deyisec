@@ -4,7 +4,7 @@ permalink: /cca/sports-and-clubs/table-tennis/
 description: ""
 third_nav_title: Sports and Clubs
 ---
-<img style="width:50%" src="![Karl, Table Tennis Boys Captain 2023](/images/CCA/Sports%20and%20Clubs/Table%20Tennis/karl%20boys%20captain%202023.jpg)">
+![Karl, 2023 Captain](/images/CCA/Sports%20and%20Clubs/Table%20Tennis/karl%20boys%20captain%202023.jpg)
 
 <center>
 "Although I started as a beginner player, the guidance from my teachers, coach, and seniors significantly improved my skills. This CCA developed me as a skillful player and honed my leadership skills as a captain. Training together with my peers have taught me the importance of determination and teamwork."  
