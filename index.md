@@ -44,4 +44,10 @@ sections:
       url: https://www.facebook.com/100044242728598/posts/561195995365153/?d=n
       image: /images/282756009_561196555365097_3401749942582365950_n.jpg
       alt: Image alt text
+  - infopic:
+      title: Uniformed Group Achievements
+      subtitle: Announcements
+      description: "2023"
+      image: /images/Main Page (Announcements)/2023 ug awards.jpg
+      alt: Image alt text
 ---
