@@ -29,6 +29,18 @@ sections:
       alt: Image alt text
       subtitle: ANNOUNCEMENTS
   - infopic:
+      title: Sports Achievements
+      subtitle: announcements
+      description: NSG 2023
+      image: /images/Main Page (Announcements)/2023 sports awards.jpg
+      alt: Image alt text
+  - infopic:
+      title: Uniformed Group Achievements
+      subtitle: Announcements
+      description: "2023"
+      image: /images/Main Page (Announcements)/2023 ug awards.jpg
+      alt: Image alt text
+  - infopic:
       title: DSA 2023
       subtitle: Announcements
       description: Direct School Admission
