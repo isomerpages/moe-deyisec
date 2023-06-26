@@ -5,8 +5,8 @@ description: ""
 ---
 ### Term 3, 2023
 
-* [Secondary 1](/files/Useful%20Links/UL%20Parents/2023%20sem2%20sec%201%20term%203%20letter_updated.pdf)
-* [sec 1111](/files/Useful%20Links/UL%20Parents/2023%20sec%201%20term%203%20letter.pdf)
+* [Secondary 1](/files/Useful%20Links/UL%20Parents/2023%20sec%201%20term%203%20letter.pdf)
+
 * [Secondary 2](/files/Useful%20Links/UL%20Parents/2023%20sem2%20sec%202%20term%203%20letter_updated.pdf)
 
 * [Secondary 3](/files/Useful%20Links/UL%20Parents/2023%20sem2%20sec%203%20term%203%20letter_updated.pdf)
