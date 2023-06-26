@@ -3,7 +3,7 @@ title: Termly Infosheet
 permalink: /others/termly-infosheet/
 description: ""
 ---
-### Term 2, 2023
+### Term 3, 2023
 
 * [Secondary 1](/files/Useful%20Links/UL%20Parents/2023%20sem2%20sec%201%20term%203%20letter_updated.pdf)
 
