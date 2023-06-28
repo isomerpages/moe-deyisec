@@ -15,15 +15,15 @@ description: ""
 | Mdm Chan Swee Yin Adeline | HOD / English Language & Literature |
 | Ms Chia Shu Fen Eileen | HOD / Mother Tongue  |
 | Mr Leong Wei Yuan | HOD / Mathematics |
-| Mrs Joanne Gan  | HOD / Science  |
+| Mrs Joanne Gan  | HOD / Science (covering)  |
 | Mdm Faizah Binte Abu Bakar   | HOD / Humanities |
 | Mr Neo Say Chuan  | School Staff Developer  |
 | Mr Tan Hwi Kiat   | HOD / Physical Education & CCA  |
 | Mr Lau Jeng Sang | HOD / Information and Communication Technology  |
 | Mr Teng Chion Wee  | HOD / Craft & Technology  |
-| Mrs Cheam Lian Tee  | Year Head 1 (Upper Secondary)  |
-| Mrs Patty Gan  | Year Head 2 (Upper Secondary)  |
+| Mrs Patty Gan  | Year Head (Upper Secondary)  |
 | Mdm Chen Bi Jun April  | Year Head (Lower Secondary)   |
+| Miss Bertha Kwok  | Assitant Year Head (Upper Secondary)  |
 | Mr Derek Lim Liang Hao   | Assistant Year Head (Lower Secondary)  |
 | Ms Ho Su Hwei  | Subject Head / Student Management  |
 | Mr Neo Gim Koon  | Subject Head / Information and Communication Technology  |
