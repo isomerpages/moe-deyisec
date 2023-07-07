@@ -15,7 +15,7 @@ Deyi Choir aims for our students to appreciate the rich traditions of choral mus
 **Teacher -in-charge:** <br>
 Mdm Ng Hwei Sung (OIC) <br>
 Ms Harinder Kaur Dollie (AIC) <br>
-Ms Xu Sihui  
+Ms Yvon Chew <br>
 
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday at 2.45 pm - 5.45 pm  
@@ -29,4 +29,4 @@ Every Tuesday and Thursday at 2.45 pm - 5.45 pm
 * Performed at the school’s CCA Orientation Day, National Day, Chinese New Year Celebration, Speech Day and Art’s Fiesta
 * Performed at Passion Arts Festival 2018
 	
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTIn2M3FJnUtfU4dAcur699S0lBwIj_SwcP5EDtZLGohKb-6iWa01idNZSG4MhhLDAbebBPLeOgHD0p/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe></div>
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTIn2M3FJnUtfU4dAcur699S0lBwIj_SwcP5EDtZLGohKb-6iWa01idNZSG4MhhLDAbebBPLeOgHD0p/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>

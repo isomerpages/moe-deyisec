@@ -39,7 +39,7 @@ description: ""
 | 2 Dedication | Mr | Tan Yoke Jun Aloysius | [aloysius\_tan\_yoke\_jun@moe.edu.sg](mailto:aloysius_tan_yoke_jun@moe.edu.sg) |
 |  | Mdm | Wee Wan Eng | [wee\_wan\_eng@moe.edu.sg](mailto:wee_wan_eng@moe.edu.sg) |
 | 2 Diligence | Mr | Chong Fook Weng Adrian | [chong\_fook\_weng\_adrian@moe.edu.sg](mailto:chong_fook_weng_adrian@moe.edu.sg) |
-|  | Mdm | Xu Sihui | [xu\_sihui@moe.edu.sg](mailto:xu_sihui@moe.edu.sg) |
+|  | Ms | T Gayathiri | [thambusamy\_gayathiri@moe.edu.sg](mailto:thambusamy_gayathiri@moe.edu.sg) |
 | 2 Discipline | Mdm | Kavitha Kanniah | [kanniah\_kavitha@moe.edu.sg](mailto:kanniah_kavitha@moe.edu.sg) |
 |   | Ms | Guo Zhen | [guo\_zhen@moe.edu.sg](mailto:guo_zhen@moe.edu.sg) |
 | 2 Determination | Ms | Loh En Qi Angie (Mrs Angie Ho) | [loh\_en\_qi\_angie@moe.edu.sg](mailto:loh_en_qi_angie@moe.edu.sg) |
@@ -63,7 +63,7 @@ description: ""
 | 3 Diligence | Mdm | Lim Eng Choo |  [lim\_eng\_choo@moe.edu.sg](mailto:lim_eng_choo@moe.edu.sg) |
 |   | Mr | Daniel Pflug | [pflug\_daniel@moe.edu.sg](mailto:pflug_daniel@moe.edu.sg)| 
 | 3 Discipline | Miss | Nur'ain Bte Abidin | [nurain\_abidin@moe.edu.sg](mailto:nurain_abidin@moe.edu.sg)| 
-|   | Mr | Tan Kok Meng, Paul | [tan\_kok\_meng\_paul@moe.edu.sg](mailto:tan_kok_meng_paul@moe.edu.sg) |
+|  | Mr | Chia Seng Mui | [chia\_seng\_mui@moe.edu.sg](mailto:chia_seng_mui@moe.edu.sg) | 
 | 3 Determination | Mr | Lee Uei Suen Wilson | [lee\_uei\_suen@moe.edu.sg](mailto:lee_uei_suen@moe.edu.sg) | 
 |   | Miss | Eleanor Wong Kai Ping | [kai\_ping\_eleanor\_wong@moe.edu.sg](mailto:kai_ping_eleanor_wong@moe.edu.sg) |
 | | | | |
