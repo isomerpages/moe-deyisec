@@ -63,7 +63,7 @@ description: ""
 | 3 Diligence | Mdm | Lim Eng Choo |  [lim\_eng\_choo@moe.edu.sg](mailto:lim_eng_choo@moe.edu.sg) |
 |   | Mr | Daniel Pflug | [pflug\_daniel@moe.edu.sg](mailto:pflug_daniel@moe.edu.sg)| 
 | 3 Discipline | Miss | Nur'ain Bte Abidin | [nurain\_abidin@moe.edu.sg](mailto:nurain_abidin@moe.edu.sg)| 
-|   | Mr | Chia Seng Mui | [chia\_seng\_mui\_paul@moe.edu.sg](mailto: chia\_seng\_mui@moe.edu.sg) |
+|  | Mr | Chia Seng Mui | [chia\_seng\_mui@moe.edu.sg](mailto:chia_seng_mui@moe.edu.sg) | 
 | 3 Determination | Mr | Lee Uei Suen Wilson | [lee\_uei\_suen@moe.edu.sg](mailto:lee_uei_suen@moe.edu.sg) | 
 |   | Miss | Eleanor Wong Kai Ping | [kai\_ping\_eleanor\_wong@moe.edu.sg](mailto:kai_ping_eleanor_wong@moe.edu.sg) |
 | | | | |
