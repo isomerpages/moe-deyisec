@@ -24,7 +24,7 @@ Teachers-in-charge:&nbsp;<br>
 Mr. Chang Seow Kuen (OIC) <br>
 Ms. Chew Soo Qing (AIC) <br>
 Mr. Koh Yu Han <br>
-Mr Paul Tan  
+  
   
 **Weekly Schedule:** <br>
 Every Tuesday &amp; Thursday 2.45 pm – 5.45 pm  
@@ -32,20 +32,20 @@ Every Tuesday &amp; Thursday 2.45 pm – 5.45 pm
 **Achievements and Highlights:**  
 *   Corp Achievement Award 2013-2020 – Gold  
 *   Best in Footdrill for National FAC 2022 Nursing Cadet Team Category   
-*   3rd Runner-Up for District FAC 2022 Ambulance Cadet Team Category     
+*   3rd&nbsp;Runner-Up for District FAC 2022 Ambulance Cadet Team Category     
 *   Champion for District FAC 2022 Nursing Cadet Team Category      
 *   Merit Award, National Basic Drill Instructor Course 2022 - Yu Xuan Ying (3 DT)   
-*   Chief Commissioner Badge Recipients 2022    
+*   Chief Commissioner Badge Recipients 2022&nbsp; &nbsp;&nbsp;
 	*   SSG Shoniya D/O Krishnasamy (402)
 	*   SSG Lim Jia En (403)
-	*   SSG Adelina Clarice Ng Jia Yi  (404)
+	*   SSG Adelina Clarice Ng Jia Yi&nbsp; (404)
 	*   SSG Koo Qi Xuan, Cassandra (404)
 	*   SSG Hsu Yong Xin Andrea (405)
 	*   SSG Tan Yu Xuan (405)
 	*   SSG Tan Ler Yang Justin (407)
 *   Passed Corps Home Nursing Instructor Course 2022 - Lim Jia Xuan (3 CR), Tan Jia Qi (3 GC)
 *   Passed Corps First Aid Instructor Course 2022 - Ng Xiwen (3 DT)  
-*   Cadets participated in Public Duty for NDP Heartland Fireworks  
+*   Cadets&nbsp;participated in Public Duty for NDP Heartland Fireworks  
 *   Cadets participated in Public Duty for Gardens@Bishan Family Day Walkathon
 
 ![](/images/CCA/Uniform%20Groups/St%20John%20Brigade/2022%20Chief%20Commissioner%20Badge%20Recipients.jpg) <br>
