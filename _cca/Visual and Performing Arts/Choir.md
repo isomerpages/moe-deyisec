@@ -15,7 +15,7 @@ Deyi Choir aims for our students to appreciate the rich traditions of choral mus
 **Teacher -in-charge:** <br>
 Mdm Ng Hwei Sung (OIC) <br>
 Ms Harinder Kaur Dollie (AIC) <br>
-
+Ms Yvon Chew <br>
 
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday at 2.45 pm - 5.45 pm  
