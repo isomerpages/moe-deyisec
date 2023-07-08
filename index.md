@@ -19,7 +19,7 @@ sections:
           url: https://staging.d3sil9pzbw3lij.amplifyapp.com/files/Working%20Together%20to%20Prevent%20Dengue.pdf
       title: Discover@Deyi
       subtitle: Your journey begins here at Deyi Secondary School
-      background: /images/Main Banner/2023 HD-web.gif
+      background: /images/Main Banner/2024 school banner .gif
   - infopic:
       title: Performing Arts Group Achievements
       description: SYF 2023
