@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main Banner/one bg.png
+      background: /images/Main Banner/one bg 2.png
       button: Begin your journey with us
       url: https://www.deyisec.moe.edu.sg/key-programmes/applied-learning-programme/
       title: Discover@Deyi
