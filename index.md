@@ -10,7 +10,7 @@ sections:
       background: /images/Main Banner/i lead.png
       button: Begin your journey with us
       url: https://www.deyisec.moe.edu.sg/key-programmes/applied-learning-programme/
-      title: Discover@DEYI
+      title: Discover@Deyi
   - infopic:
       title: Performing Arts Group Achievements
       description: SYF 2023
