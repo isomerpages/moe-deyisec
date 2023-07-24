@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Main Banner/2023 HD-web.gif
-      button: Begin your journey with us
-      url: https://www.deyisec.moe.edu.sg/key-programmes/applied-learning-programme/
       title: Discover@Deyi
       subtitle: Your journey begins here at Deyi Secondary School
       key_highlights:
