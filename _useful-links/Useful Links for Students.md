@@ -16,6 +16,7 @@ description: ""
 * [Microsoft Editor Guide for Students](/files/Microsoft%20Editor%20Guide%20for%20Students.pdf)
 * [2023 MTL Prelim Timetable](/files/Useful%20Links/UL%20Students/2023%20MTL%20Prelim%20Timetable.pdf)
 * [2023 Prelim Timetable](/files/Useful%20Links/UL%20Students/2023%20prelim%20timetable%20(v18jul).pdf)
+* [Student Self-Service Password Reset](https://mims.moe.gov.sg/sspr)
 
 #### Academic Links:
 

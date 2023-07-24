@@ -42,7 +42,7 @@ description: ""
 |  | Ms | T Gayathiri | [thambusamy\_gayathiri@moe.edu.sg](mailto:thambusamy_gayathiri@moe.edu.sg) |
 | 2 Discipline | Mdm | Kavitha Kanniah | [kanniah\_kavitha@moe.edu.sg](mailto:kanniah_kavitha@moe.edu.sg) |
 |   | Ms | Guo Zhen | [guo\_zhen@moe.edu.sg](mailto:guo_zhen@moe.edu.sg) |
-| 2 Determination | Ms | Loh En Qi Angie (Mrs Angie Ho) | [loh\_en\_qi\_angie@moe.edu.sg](mailto:loh_en_qi_angie@moe.edu.sg) |
+| 2 Determination | Mrs | Angie Ho | [loh\_en\_qi\_angie@moe.edu.sg](mailto:loh_en_qi_angie@moe.edu.sg) |
 |  | Miss | Oh Wei Ru Jocelyn | [oh\_wei\_ru\_jocelyn@moe.edu.sg](mailto:oh_wei_ru_jocelyn@moe.edu.sg) | 
 | | | | |
 

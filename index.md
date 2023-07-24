@@ -7,19 +7,19 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: Cybrary Online Public Access Catalogue (OPAC)
-          description: Click for catalogue
-          url: https://schoolibrary.moe.edu.sg/deyisec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
-        - title: Deyi Good Stories
-          description: Click for stories
-          url: https://staging.d3sil9pzbw3lij.amplifyapp.com/files/Our%20Deyi%20Stories.pdf
-        - title: Dengue Prevention
-          description: Click to read the message
-          url: https://staging.d3sil9pzbw3lij.amplifyapp.com/files/Working%20Together%20to%20Prevent%20Dengue.pdf
+      background: /images/Main Banner/2023 HD-web.gif
       title: Discover@Deyi
       subtitle: Your journey begins here at Deyi Secondary School
-      background: /images/Main Banner/2023 HD-web.gif
+      key_highlights:
+        - title: CYBRARY ONLINE PUBLIC ACCESS CATALOGUE (OPAC)
+          description: Click for catalogue
+          url: https://schoolibrary.moe.edu.sg/deyisec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+        - title: DEYI GOOD STORIES
+          description: Click for stories
+          url: https://staging.d3sil9pzbw3lij.amplifyapp.com/files/Our%20Deyi%20Stories.pdf
+        - title: DENGUE PREVENTION
+          description: Click to read message
+          url: https://staging.d3sil9pzbw3lij.amplifyapp.com/files/Working%20Together%20to%20Prevent%20Dengue.pdf
   - infopic:
       title: Performing Arts Group Achievements
       description: SYF 2023
