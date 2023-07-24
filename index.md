@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Main Banner/2023 banner-final-combined.gif
-      title: Discover@Deyi
-      subtitle: Your journey begins here at Deyi Secondary School
       key_highlights:
         - title: CYBRARY ONLINE PUBLIC ACCESS CATALOGUE (OPAC)
           description: Click for catalogue
