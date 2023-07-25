@@ -12,5 +12,5 @@ links:
     collection: achievements
   - title: Useful Links
     collection: useful-links
-  - title: Integrated Programmes
-    resource_room: true
+  - title: Integrated Programme
+    collection: integrated-programme
