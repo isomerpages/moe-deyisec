@@ -12,3 +12,6 @@ links:
     collection: achievements
   - title: Useful Links
     collection: useful-links
+  - title: Integrated Programmes
+    url: /iprogramme
+    sublinks: []
