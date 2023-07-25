@@ -13,7 +13,4 @@ links:
   - title: Useful Links
     collection: useful-links
   - title: Integrated Programmes
-    url: /iprogramme
-    sublinks:
-      - title: Integrated Programme
-        url: /Ipprogramme
+    resource_room: true
