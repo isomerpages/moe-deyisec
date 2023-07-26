@@ -22,4 +22,3 @@ Through these concerted efforts, we are committed to maximizing the potential of
 Events : A. 1st Meeting (Term 1 2023)
 
 B. 2nd Activity: Learning Journey to Kampong Glam (Term 2 2023)
-
