@@ -20,7 +20,7 @@ Lastly, one of our primary goals is to instill a profound emotional attachment a
 Through these concerted efforts, we are committed to maximizing the potential of every student, empowering them to become successful individuals who can contribute positively to society.
 
 Events : A. 1st Meeting (Term 1 2023)
-![International students and their buddies searching the web to find meanings of their names](/images/Integrated%20Programme/1ip_a_.jpg)
+![International students and their buddies searching the web to find meanings of their names](/images/Integrated%20Programme/1ip_a_.jpg) 
 
 ![Going on the Virtual Fieldtrip to the Singapore River to know the history of Singapore better](/images/Integrated%20Programme/2a_ip_b.jpg)
 
