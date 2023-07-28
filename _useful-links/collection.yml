@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Integration Programme/Integration programme.md
       - Integration Programme/.keep
       - Direct School Admission (DSA).md
       - School Calendar.md
