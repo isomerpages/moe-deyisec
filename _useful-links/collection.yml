@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Integration Programme.md
-      - Integration Programme/.keep
       - Direct School Admission (DSA).md
       - School Calendar.md
       - Useful Links for Students.md
