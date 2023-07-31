@@ -28,7 +28,7 @@ Events : A. 1st Meeting (Term 1 2023)
 
 ![Enjoying the local cuisines](/images/Integrated%20Programme/4ip-a-.jpg)
 
-B. 2nd Activity: Learning Journey to Kampong Glam (Term 2 2023)
+B. 2nd Activity: Learning Journey to Kampong Glam (Term 2 2023).
 
 ![At one of the oldest mosque in Singapore](/images/Integrated%20Programme/5-ip-a.jpg)
 
