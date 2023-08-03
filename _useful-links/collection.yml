@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Canteen Stall Advertisement.md
       - Integration Programme.md
       - Direct School Admission (DSA).md
       - School Calendar.md
