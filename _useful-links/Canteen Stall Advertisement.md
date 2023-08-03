@@ -45,7 +45,8 @@ Requirements           :           Noodles Stall are accepta
 
 ·         Singapore Citizens or Singapore Permanent Residents (SPR) for stall holder and stall assistant.
 
-·         Able to provide food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see link: https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme).
+·         Able to provide food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see link: 
+[https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme).
 
 ·         Able to maintain high standard of food safety and personal hygiene.
 
