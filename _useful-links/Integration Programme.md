@@ -1,6 +1,6 @@
 ---
 title: Integration Programme
-permalink: /useful-links/permalink/
+permalink: /useful-links/integration-programme/
 description: ""
 ---
 # Integration Programme 

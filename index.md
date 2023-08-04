@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main Banner/2023 banner-final-combined.gif
+      background: /images/Main Banner/banner-final-combined-vs.gif
       key_highlights:
         - title: CYBRARY ONLINE PUBLIC ACCESS CATALOGUE (OPAC)
           description: Click for catalogue
