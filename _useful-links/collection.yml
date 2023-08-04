@@ -2,11 +2,11 @@ collections:
   useful-links:
     output: true
     order:
-      - Integration Programme.md
-      - Direct School Admission (DSA).md
-      - School Calendar.md
       - Useful Links for Students.md
       - Useful Links for Parents.md
       - Useful Links for Teachers.md
+      - School Calendar.md
+      - Direct School Admission (DSA).md
+      - Integration Programme.md
       - Full Subject Based Banding (Full SBB).md
       - Canteen Stall Advertisement.md
