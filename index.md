@@ -27,6 +27,7 @@ sections:
       button: Click here
       url: https://www.youtube.com/watch?v=tjvZZtaLPcI&list=PLVMTx4B-jXS9f08SFPkuhSprohH-FU72S
       alt: Image alt text
+      image: /images/CCA/Visual Perf Arts/School Band/NDP2023.jpeg
   - infopic:
       title: Performing Arts Group Achievements
       description: SYF 2023
