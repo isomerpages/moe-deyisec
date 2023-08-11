@@ -24,7 +24,7 @@ sections:
       description: "Deyi Band and Movement & Dance graced the 2023 National Day Parade
         with their vibrant rendition of BTS' Dynamite! Re-live their performance
         here:"
-      button: Button Text
+      button: Click here
       url: https://www.youtube.com/watch?v=tjvZZtaLPcI&list=PLVMTx4B-jXS9f08SFPkuhSprohH-FU72S
       alt: Image alt text
   - infopic:
