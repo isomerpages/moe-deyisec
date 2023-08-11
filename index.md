@@ -19,6 +19,15 @@ sections:
           description: Click to read message
           url: https://staging.d3sil9pzbw3lij.amplifyapp.com/files/Working%20Together%20to%20Prevent%20Dengue.pdf
   - infopic:
+      title: Deyi's National Day Parade 2023 Journey
+      subtitle: Announcements
+      description: "Deyi Band and Movement & Dance graced the 2023 National Day Parade
+        with their vibrant rendition of BTS' Dynamite! Re-live their performance
+        here:"
+      button: Button Text
+      url: https://www.youtube.com/watch?v=tjvZZtaLPcI&list=PLVMTx4B-jXS9f08SFPkuhSprohH-FU72S
+      alt: Image alt text
+  - infopic:
       title: Performing Arts Group Achievements
       description: SYF 2023
       button: Button Text
@@ -53,14 +62,5 @@ sections:
       button: Link to post
       url: https://www.facebook.com/100044242728598/posts/561195995365153/?d=n
       image: /images/282756009_561196555365097_3401749942582365950_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: Deyi's National Day Parade 2023 Journey
-      subtitle: Announcements
-      description: "Deyi Band and Movement & Dance graced the 2023 National Day Parade
-        with their vibrant rendition of BTS' Dynamite! Re-live their performance
-        here:"
-      button: Button Text
-      url: https://www.youtube.com/watch?v=tjvZZtaLPcI&list=PLVMTx4B-jXS9f08SFPkuhSprohH-FU72S
       alt: Image alt text
 ---
