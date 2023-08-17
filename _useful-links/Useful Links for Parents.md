@@ -27,6 +27,8 @@ description: ""
 * [Parents’ handbook on learning with PLD I](/files/Useful%20Links/UL%20Parents/2023%20Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD.pdf)
 * [Parents’ handbook on learning with PLD II](/files/Useful%20Links/UL%20Parents/2023%20Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD.pdf)
 * [2NT Streaming Briefing 2023](/files/Useful%20Links/UL%20Parents/sec%202nt%20streaming%20briefing%202023%20-%20final.pdf)
+* [2NA Streaming Briefing 2023](/files/Useful%20Links/UL%20Parents/sec%202na%20streaming%20briefing%202023%20-%20final.pdf)
+* [2E Streaming Briefing 2023](/files/Useful%20Links/UL%20Parents/sec%202exp%20streaming%20briefing%202023%20-%20final.pdf)
 
 
 ### Partnership Links:
