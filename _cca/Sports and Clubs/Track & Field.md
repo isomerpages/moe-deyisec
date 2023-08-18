@@ -32,5 +32,3 @@ Every Tuesday and Thursday 2.40pm – 5.15pm
 ![](/images/CCA/Sports%20and%20Clubs/Track%20and%20Field/2023/image4.jpeg)
 
 ![](/images/CCA/Sports%20and%20Clubs/Track%20and%20Field/2023/image5.jpeg)
-
-
