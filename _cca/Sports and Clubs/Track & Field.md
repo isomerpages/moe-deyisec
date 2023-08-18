@@ -17,6 +17,12 @@ Guri
 Every Tuesday and Thursday 2.40pm – 5.15pm  
 
 **Achievements and Highlights:** <br>
+* SSSC Sportsmanship Award (NSG 2023): ANISHA ZAHRA MOHAMED SULAIMAN  
+* National School Games 2023 C Girls 100m Semi Finalist: SEAH YU EN KAYLA (XIE YU'EN)  
+* National School Games 2023 C Boys 200m Semi Finalist: CHING WEI ZHI  
+* National School Games 2023 C Girls 200m Semi Finalist: CHUA KAI KHI (CAI JIAQI)  
+* National School Games 2023 C Boys 4X100m Semi Finalist  
+* National School Games 2023 B Boys 4X100m Semi Finalist
 * National School Games 2022 B Boys 800m Finals: 3rd Position: Nicholas Koh Sheng Kai&nbsp;
 * National School Games 2022 B Boys 1500m Finals: 5th Position: Nicholas Koh Sheng Kai
 * National School Games 2022 B Boys 4X100m Semi Finalist
