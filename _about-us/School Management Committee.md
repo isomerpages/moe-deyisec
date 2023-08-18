@@ -30,6 +30,7 @@ description: ""
 | Mdm Lim Eng Choo  | Subject Head / Mathematics  |
 | Ms Yvon Chew Yi Ni  | Subject Head / Aesthetics  |
 | Miss Geetha Salgunan  | Subject Head / Character & Citizenship Education  |
+| Mr Lee Ing Chye  | Subject Head / Chinese Language  |
 | Miss Eleanor  | Subject Head / Geography  |
 | Mr Wong Jinfa  | Subject Head / Student Well-being  |
 | | |
