@@ -11,7 +11,7 @@ Track and Field is a CCA that offers its members a myriad of activities to engag
 **Teacher-in-charge:** <br>
 Mr Chia Seng Mui (OIC) <br>
 Mr Lee Ing Chye (AIC) <br>
-Guri  
+Mrs Singh  
   
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.40pm – 5.15pm  
