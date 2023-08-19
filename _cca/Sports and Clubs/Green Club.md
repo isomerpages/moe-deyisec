@@ -48,9 +48,9 @@ Every Tuesday and Thursday 2.40 pm – 5.15 pm
 * 37 students participated in the Green Wave Competition organised by Sembcorp Marine in 2021. 
 * Vanda Miss Joaquim Award 2018, 2019 and 2022. 
 
-![](/images/CCA/Sports%20and%20Clubs/Green%20Club/2023_green_club%20hdb%20(foh)%20individual%20silver%20award_16%20students.jpg)
-
 ![](/images/CCA/Sports%20and%20Clubs/Green%20Club/2022%20green%20club_vanda%20miss%20joaquim%20award%202022%20.jfif)
+
+![](/images/CCA/Sports%20and%20Clubs/Green%20Club/2023_green_club%20hdb%20(foh)%20individual%20silver%20award_16%20students.jpg)
 
 ![](/images/CCA/Sports%20and%20Clubs/Green%20Club/2023_green_club_friends%20of%20our%20heartlands%20gold%20award.jpg)
 
