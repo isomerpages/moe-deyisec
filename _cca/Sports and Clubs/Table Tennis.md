@@ -31,4 +31,12 @@ Training Details: Every Tuesday and Thursday, 2.50-5.30 pm
 * 2022 South Zone B Division National School Games Competition B Division Girls and Boys - 4th Placing&nbsp;
 * 2019 North Zone C Division&nbsp;Table&nbsp;Tennis&nbsp;Competition&nbsp;C Division Girls - 4th&nbsp;Placing
 
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7V7v_irBVAMiEug_RCgXcPiXjxXV7R-_hsw4KSL08JvpPzX5QLS4uiD6jTYmv7P2_X7-kVZ_801kR/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+![](/images/CCA/Sports%20and%20Clubs/Table%20Tennis/2023_table%20tennis_competition1%20-%20aloysius%20tan%20yoke%20jun.jfif)
+
+![](/images/CCA/Sports%20and%20Clubs/Table%20Tennis/2023_table%20tennis_competition2%20-%20aloysius%20tan%20yoke%20jun.jfif)
+
+![](/images/CCA/Sports%20and%20Clubs/Table%20Tennis/2023_table%20tennis_competition3%20-%20aloysius%20tan%20yoke%20jun.jpeg)
+
+![](/images/CCA/Sports%20and%20Clubs/Table%20Tennis/2023_table%20tennis_team%20bonding.jpeg)
+
+![](/images/CCA/Sports%20and%20Clubs/Table%20Tennis/2023_table%20tennis_friendly%20match.jpeg)

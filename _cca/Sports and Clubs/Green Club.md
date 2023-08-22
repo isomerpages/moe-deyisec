@@ -4,8 +4,7 @@ permalink: /cca/sports-and-clubs/green-club/
 description: ""
 third_nav_title: Sports and Clubs
 ---
-<img style="width:70%" src="/images/Clubs-Green%20Club.jpg">
-
+![](/images/CCA/Sports%20and%20Clubs/Green%20Club/Clubs-Green%20Club.jpg)
 <center>
 We joined Green Club(GC) for the love of our only earth and to contribute whatever we can for the environment. During our three-year journey with GC, we learnt so much about living sustainably and are given the opportunity for self-development.  
 <br><br>
@@ -38,7 +37,8 @@ Miss&nbsp;Tan Shu Fang Vion
 Every Tuesday and Thursday 2.40 pm – 5.15 pm   
 
 **Achievement and Highlights**<br>
-* Received Friends of Our Heartlands Gold Organisation Award 2022. 
+* Received Friends of Our Heartlands Gold Organisation Award 2022 and 2023. 
+* 16 Green Club students were awarded the HDB Friends of Our Heartlands (FOH) Individual Silver Award 2023
 * Participated in the National Youth Environment Conference (NYEC) Position Papers Competition.&nbsp;Participated in HDB’s Friends of Our Heartlands Volunteer Engagement Day as ushers.
 * Participated in HDB Friends of Our Heartlands Training Programme to make eco-friendly crafts for the Elderly.
 * Participated in the National Youth Environment Conference (NYEC) organised by Nan Hua High School. 
@@ -46,9 +46,12 @@ Every Tuesday and Thursday 2.40 pm – 5.15 pm
 * Participated in harvesting of vegetables for the underprivileged families under Cheng San Community Centre. 
 * 36 students from Green Club participated in the ViaRT Award ( a Children’s Recycled Art Competition) in 2020.  
 * 37 students participated in the Green Wave Competition organised by Sembcorp Marine in 2021. 
-* Vanda Miss Joaquim Award 2019 
-* Vanda Miss Joaquim Award 2018
+* Vanda Miss Joaquim Award 2018, 2019 and 2022. 
 
-![](/images/CCA/Sports%20and%20Clubs/Green%20Club/2022%20green%20club_vanda%20miss%20joaquim%20award%202022%20.jfif) <br>
+![](/images/CCA/Sports%20and%20Clubs/Green%20Club/2022%20green%20club_vanda%20miss%20joaquim%20award%202022%20.jfif)
 
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqBRAbnTdl14GCQZUk_pKy1ayaelR54IDDJFA6yGnkRVmwTO373BKyK1QgADkico8xs_jOj7roG5yW/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+![](/images/CCA/Sports%20and%20Clubs/Green%20Club/2023_green_club%20hdb%20(foh)%20individual%20silver%20award_16%20students.jpg)
+
+![](/images/CCA/Sports%20and%20Clubs/Green%20Club/2023_green_club_friends%20of%20our%20heartlands%20gold%20award.jpg)
+
+<!--<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqBRAbnTdl14GCQZUk_pKy1ayaelR54IDDJFA6yGnkRVmwTO373BKyK1QgADkico8xs_jOj7roG5yW/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="600" height="500" allowfullscreen="true"></iframe>  -->
