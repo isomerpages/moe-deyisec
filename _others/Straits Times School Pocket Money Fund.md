@@ -18,4 +18,4 @@ Students have to meet the following criteria:
 
 <b>Application: <br></b>
 [Annex A:STSPMF 2023 FORM](/files/stspmf_2023.pdf) <br>
-[Annex B: Income Declaration Form]()
+[Annex B: Income Declaration Form](/files/income_declaration_2023.pdf)
