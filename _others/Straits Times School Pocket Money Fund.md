@@ -16,6 +16,6 @@ Students have to meet the following criteria:
 * g.	Has not received the maximum 24 months of STSPMF assistance during their entire primary to secondary schooling years or 48 months for post-secondary schooling years. 
 * The closing date to submit the application to the school’s General Office is 11 Sep 2023 (Monday).
 
-
+<b>Application: <br></b>
 [Annex A: STSPMF 2023 Form]() <br>
 [Annex B: Income Declaration Form]()
