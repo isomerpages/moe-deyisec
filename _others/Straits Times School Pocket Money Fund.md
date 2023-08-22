@@ -17,5 +17,5 @@ Students have to meet the following criteria:
 * The closing date to submit the application to the school’s General Office is 11 Sep 2023 (Monday).
 
 <b>Application: <br></b>
-[Annex A: STSPMF 2023 Form]() <br>
+[Annex A:STSPMF 2023 FORM](/files/stspmf_2023.pdf) <br>
 [Annex B: Income Declaration Form]()
