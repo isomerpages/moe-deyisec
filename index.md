@@ -9,16 +9,13 @@ sections:
   - hero:
       background: /images/Main Banner/banner-final-combined-vs.gif
       key_highlights:
-        - title: CYBRARY ONLINE PUBLIC ACCESS CATALOGUE (OPAC)
-          description: Click for catalogue
-          url: https://schoolibrary.moe.edu.sg/deyisec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
-        - title: DEYI GOOD STORIES
-          description: Click for stories
-          url: https://staging.d3sil9pzbw3lij.amplifyapp.com/files/Our%20Deyi%20Stories.pdf
-        - title: DENGUE PREVENTION
-          description: Click to read message
-          url: https://staging.d3sil9pzbw3lij.amplifyapp.com/files/Working%20Together%20to%20Prevent%20Dengue.pdf
         - title: For Students
+          description: ""
+          url: ""
+        - title: For Teachers
+          description: ""
+          url: ""
+        - title: For Parents
           description: ""
           url: ""
   - infopic:
