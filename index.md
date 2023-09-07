@@ -17,7 +17,7 @@ sections:
           url: /useful-links/useful-links-for-teachers/
         - title: For Parents
           description: ""
-          url: https://www.deyisec.moe.edu.sg/useful-links/useful-links-for-parents/
+          url: /useful-links/useful-links-for-parents/
   - resources:
       title: ANNOUNCEMENTS
       button: more
