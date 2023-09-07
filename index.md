@@ -19,7 +19,7 @@ sections:
           description: ""
           url: /useful-links/useful-links-for-parents/
   - resources:
-      title: ANNOUNCEMENTS
+      title: DEYI MEDIA
       button: more
   - infopic:
       title: Deyi's National Day Parade 2023 Journey
