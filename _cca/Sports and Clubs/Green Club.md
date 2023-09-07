@@ -48,6 +48,22 @@ Every Tuesday and Thursday 2.40 pm – 5.15 pm
 * 37 students participated in the Green Wave Competition organised by Sembcorp Marine in 2021. 
 * Vanda Miss Joaquim Award 2018, 2019 and 2022. 
 
+![2022 Tree Planting 1](/images/CCA/Sports%20and%20Clubs/Green%20Club/2023%20green%20club%20tree%20planting%201_23%20july%202022.jfif)
+
+![2022 Tree Planting 2](/images/CCA/Sports%20and%20Clubs/Green%20Club/2023%20green%20club%20tree%20planting%202_23%20july%202022.jfif)
+
+![2022 Tree Planting with PM Mr Lee](/images/CCA/Sports%20and%20Clubs/Green%20Club/2023%20green%20club%20tree%20planting%20at%20amk%20w%20pm%20mr%20lee.jfif)
+
+![](/images/CCA/Sports%20and%20Clubs/Green%20Club/2023%20green%20club%20planting%20of%20npark%20shrubs%20in%20the%20butterfly%20garden.jfif)
+
+![](/images/CCA/Sports%20and%20Clubs/Green%20Club/2023%20green%20club%20hdb%20project%20preparation.jfif)
+
+![](/images/CCA/Sports%20and%20Clubs/Green%20Club/2023%20green%20club%20gold%20org%20award%20fr%20hdb%20friends%20of%20our%20heartlands.jfif)
+
+![](/images/CCA/Sports%20and%20Clubs/Green%20Club/2023%20green%20club%20happy%20receiver%20pass-it-forward%20donation%20drive.jfif )
+
+
+
 ![](/images/CCA/Sports%20and%20Clubs/Green%20Club/2022%20green%20club_vanda%20miss%20joaquim%20award%202022%20.jfif)
 
 ![](/images/CCA/Sports%20and%20Clubs/Green%20Club/2023_green_club%20hdb%20(foh)%20individual%20silver%20award_16%20students.jpg)
