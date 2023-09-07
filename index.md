@@ -18,6 +18,9 @@ sections:
         - title: For Parents
           description: ""
           url: https://www.deyisec.moe.edu.sg/useful-links/useful-links-for-parents/
+  - resources:
+      title: ANNOUNCEMENTS
+      button: more
   - infopic:
       title: Deyi's National Day Parade 2023 Journey
       subtitle: Announcements
