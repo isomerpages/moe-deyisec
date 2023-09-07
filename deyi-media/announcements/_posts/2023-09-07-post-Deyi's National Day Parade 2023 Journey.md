@@ -7,6 +7,6 @@ image: ""
 external: www.youtube.com/watch?v=tjvZZtaLPcI&list=PLVMTx4B-jXS9f08SFPkuhSprohH-FU72S
 permalink: /deyi-media/announcements/permalink/
 ---
-Deyi Band and Movement &amp; Dance graced the 2023 National Day Parade with their vibrant rendition of BTS' Dynamite! Re-live their performance here:
+Deyi Band and Movement &amp; Dance graced the 2023 National Day Parade with their vibrant rendition of BTS' Dynamite! Re-live their performance here:  [CR3 Behind the Scenes](https://www.youtube.com/watch?v=tjvZZtaLPcI&amp;list=PLVMTx4B-jXS9f08SFPkuhSprohH-FU72S)
 <br>
-<iframe width="653" height="359" src="https://www.youtube.com/watch?v=tjvZZtaLPcI&amp;list=PLVMTx4B-jXS9f08SFPkuhSprohH-FU72S" title="range" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+![](/images/CCA/Visual%20Perf%20Arts/School%20Band/NDP2023.jpeg)
