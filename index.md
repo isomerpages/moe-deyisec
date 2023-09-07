@@ -18,6 +18,9 @@ sections:
         - title: DENGUE PREVENTION
           description: Click to read message
           url: https://staging.d3sil9pzbw3lij.amplifyapp.com/files/Working%20Together%20to%20Prevent%20Dengue.pdf
+        - title: For Students
+          description: ""
+          url: ""
   - infopic:
       title: Deyi's National Day Parade 2023 Journey
       subtitle: Announcements
