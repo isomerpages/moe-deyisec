@@ -52,10 +52,54 @@ Art Sports Relay
 </figure>
 
 
-
 <figure>  
 <img src="/images/ART%20CLUB%20%203.jpeg">  
 	<figcaption> <strong> Jesslyn Laurencia Oktavianto&nbsp;</strong>&nbsp;(Class 303) </figcaption>  
 </figure>
 
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSo7yhX8NuBa6XLzzRkzDh46pHlud8M-5SU48rfsejN8WuAVT5o05VjlC-yCsJOIMvyn46fwSLc7xTu/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+
+<!--<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSo7yhX8NuBa6XLzzRkzDh46pHlud8M-5SU48rfsejN8WuAVT5o05VjlC-yCsJOIMvyn46fwSLc7xTu/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="600" height="500" allowfullscreen="true"></iframe>
+-->
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+The Deyi Art Club is a welcoming and safe haven for students talented in visual arts to gather and stretch their artistic potential via meaningful art experiences. Opportunities are given to our students to explore new art forms and techniques. Traditional and non-traditional mediums are offered to allow our students to express themselves freely and expand their creativity and resourcefulness. Platforms to hone public-speaking skills, appreciate different art forms and collaborate as a team on school projects are always provided to our members, as we recognize the importance of inculcating 21-Century Competencies in our talents. 
+
+**Teachers-in-charge:**  
+Mr Alvin Khoo (OIC)  
+Miss Carol Chong (AIC)  
+Ms Oh Jia Ling Amelia  
+  
+
+**Weekly Schedule:**  
+Odd Week Tuesdays, Even Week Tuesdays and Even Week Thursdays
+2.40 pm – 5.15 pm
+
+**Achievements and Highlights:**
+* Niche Programme: Sand Art 
+
+Under tutelage of Ms Oscar Ng, our Sand Art artists demonstrated their talents in front of a live audience during Arts Fiesta concert, a biennial and ticketed event held by our school.
+![Sand Art 1](/images/CCA/Visual%20Perf%20Arts/Art%20Club/2023%20art%20club%20pic01.png)
+
+![Sand Art 2](/images/CCA/Visual%20Perf%20Arts/Art%20Club/2023%20art%20club%20pic02.png)
+
+![Sand Art 3](/images/CCA/Visual%20Perf%20Arts/Art%20Club/2023%20art%20club%20pic03.png)
+
+![Sand Art 4](/images/CCA/Visual%20Perf%20Arts/Art%20Club/2023%20art%20club%20pic04.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
