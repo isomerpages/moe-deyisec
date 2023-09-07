@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: For Students
           description: ""
-          url: ""
+          url: https://www.deyisec.moe.edu.sg/useful-links/useful-links-for-students/
         - title: For Teachers
           description: ""
           url: ""
