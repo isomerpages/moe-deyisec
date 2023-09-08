@@ -9,45 +9,18 @@ sections:
   - hero:
       background: /images/Main Banner/banner-final-combined-vs.gif
       key_highlights:
-        - title: CYBRARY ONLINE PUBLIC ACCESS CATALOGUE (OPAC)
-          description: Click for catalogue
-          url: https://schoolibrary.moe.edu.sg/deyisec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
-        - title: DEYI GOOD STORIES
-          description: Click for stories
-          url: https://staging.d3sil9pzbw3lij.amplifyapp.com/files/Our%20Deyi%20Stories.pdf
-        - title: DENGUE PREVENTION
-          description: Click to read message
-          url: https://staging.d3sil9pzbw3lij.amplifyapp.com/files/Working%20Together%20to%20Prevent%20Dengue.pdf
-  - infopic:
-      title: Deyi's National Day Parade 2023 Journey
-      subtitle: Announcements
-      description: "Deyi Band and Movement & Dance graced the 2023 National Day Parade
-        with their vibrant rendition of BTS' Dynamite! Re-live their performance
-        here:"
-      button: Click here
-      url: https://www.youtube.com/watch?v=tjvZZtaLPcI&list=PLVMTx4B-jXS9f08SFPkuhSprohH-FU72S
-      alt: Image alt text
-      image: /images/CCA/Visual Perf Arts/School Band/NDP2023.jpeg
-  - infopic:
-      title: Performing Arts Group Achievements
-      description: SYF 2023
-      button: Button Text
-      image: /images/Main Page (Announcements)/Perf Arts Website - 31 May Announcement
-        2023 Updated - Chew Yi Ni.jpg
-      alt: Image alt text
-      subtitle: ANNOUNCEMENTS
-  - infopic:
-      title: Sports Achievements
-      subtitle: announcements
-      description: NSG 2023
-      image: /images/Main Page (Announcements)/2023 sports awards.jpg
-      alt: Image alt text
-  - infopic:
-      title: Uniformed Group Achievements
-      subtitle: Announcements
-      description: "2023"
-      image: /images/Main Page (Announcements)/2023 ug awards.jpg
-      alt: Image alt text
+        - title: For Students
+          description: ""
+          url: /useful-links/useful-links-for-students/
+        - title: For Teachers
+          description: ""
+          url: /useful-links/useful-links-for-teachers/
+        - title: For Parents
+          description: ""
+          url: /useful-links/useful-links-for-parents/
+  - resources:
+      title: DEYI MEDIA
+      button: more
   - infopic:
       title: DSA 2023
       subtitle: Announcements
