@@ -8,6 +8,7 @@ description: ""
 * [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 * [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)
 * [SEAB iExam 2](https://iexams.seab.gov.sg/sso/login)
+* [SEAB Exam Personnel Portal](https://myexamduty.seab.gov.sg)
 * [HR Portal](https://www.hrp.gov.sg/hrp/)
 * [Google Workspace](https://workspace.google.com/dashboard)
 * [Student Learning Space](https://vle.learning.moe.edu.sg/login)
