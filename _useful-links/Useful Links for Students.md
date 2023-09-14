@@ -14,6 +14,14 @@ description: ""
 * [BL Schedule](https://docs.google.com/spreadsheets/d/1a8lmYrrACrkNoN-c0l8N5rBeW4cB0ugEmWOqYV5FcL0/edit?usp=sharing)
 * [Microsoft Office 365 ProPlus Apps](/files/Microsoft_Office_365_ProPlus_Apps_Student_Guide.pdf)
 * [Microsoft Editor Guide for Students](/files/Microsoft%20Editor%20Guide%20for%20Students.pdf)
+
+* [2023 EOY Timetable Sec 1](/files/Useful%20Links/UL%20Students/2023%20eoy%20timetable%20sec%201.pdf)
+
+* [2023 EOY Timetable Sec 2](/files/Useful%20Links/UL%20Students/2023%20eoy%20timetable%20sec%202.pdf)
+
+* [2023 EOY Timetable Sec 3](/files/Useful%20Links/UL%20Students/2023%20eoy%20timetable%20sec%203.pdf)
+
+
 * [2023 MTL Prelim Timetable](/files/Useful%20Links/UL%20Students/2023%20MTL%20Prelim%20Timetable.pdf)
 * [2023 Prelim Timetable](/files/Useful%20Links/UL%20Students/2023%20prelim%20timetable%20(v18jul).pdf)
 * [Student Self-Service Password Reset](https://mims.moe.gov.sg/sspr)
