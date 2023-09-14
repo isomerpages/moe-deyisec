@@ -10,7 +10,7 @@ description: ""
 | 1 Integrity | Miss | Sharmiila Singh-Gruber | [sharmiila\_singh@moe.edu.sg](mailto:sharmiila_singh@moe.edu.sg) |
 |   | Miss | Shereen Seah | [seah\_hui\_ling\_shereen@moe.edu.sg](mailto:seah_hui_ling_shereen@moe.edu.sg) |
 | 1 Care | Miss | Carol Chong | [carol\_chong\_chwee\_har@moe.edu.sg](mailto:carol_chong_chwee_har@moe.edu.sg) |
-|   | Mr | Wong Jinfa | [wong\_jinfa@moe.edu.sg](mailto:wong_jingfa@moe.edu.sg) |
+|   | Mr | Wong Jinfa | [jinfa\_wong@moe.edu.sg](mailto:jinfa_wong@moe.edu.sg) |
 | 1 Resilience | Ms | Oh Jia Ling Amelia | [oh\_jia\_ling\_amelia@moe.edu.sg](mailto:oh_jia_ling_amelia@moe.edu.sg) |
 |   | Mdm | Wong Toi Kuan | [wong\_toi\_kuan@moe.edu.sg](mailto:wong_toi_kuan@moe.edu.sg)|
 | 1 Dedication | Mr | Lim Heng Lai | [lim\_heng\_lai@moe.edu.sg](mailto:lim_heng_lai@moe.edu.sg) |
