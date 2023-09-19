@@ -19,7 +19,7 @@ description: ""
 | 1 Diligence | Mr | M Ravinthran | [m\_ravinthran@moe.edu.sg](mailto:m_ravinthran@moe.edu.sg) |
 |   | Mdm | Neo Poh Hong Nathline | [nathline\_neo\_poh\_hong@moe.edu.sg](mailto:nathline_neo_poh_hong@moe.edu.sg) |
 | 1 Discipline | Mr | Derrick Tan | [tan\_tien\_kai@moe.edu.sg](mailto:tan_tien_kai@moe.edu.sg) |
-|  | Miss | Eileen Tan | [tan\_eileen@moe.edu.sg](mailto:tan_eileen@moe.edu.sg)|
+|  | Ms | Eileen Tan | [tan\_eileen@moe.edu.sg](mailto:tan_eileen@moe.edu.sg)|
 | 1 Determination | Mdm | Norayu Omar Latiff | [norayu\_omar\_latiff@moe.edu.sg](mailto:norayu_omar_latiff@moe.edu.sg) |
 |   | Miss | Tay Wan Ling | [wan\_ling\_tay@moe.edu.sg](mailto:wan_ling_tay@moe.edu.sg) |
 | | | | |
