@@ -23,7 +23,7 @@ description: ""
 | Mr Teng Chion Wee Chris  | HOD / Craft & Technology  |
 | Mrs Patty Gan  | Year Head (Upper Secondary)  |
 | Mdm Chen Bi Jun April  | Year Head (Lower Secondary)   |
-| Miss Bertha Kwok  | Assitant Year Head (Upper Secondary)  |
+| Ms Bertha Kwok  | Assitant Year Head (Upper Secondary)  |
 | Mr Derek Lim Liang Hao   | Assistant Year Head (Lower Secondary)  |
 | Ms Ho Su Hwei  | Subject Head / Student Management  |
 | Mr Neo Gim Koon  | Subject Head / Information and Communication Technology  |
