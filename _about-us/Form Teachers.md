@@ -7,16 +7,17 @@ description: ""
 
 | Class |  | Form Teacher | Email-Address |
 |---|---|---|---|
-| 1 Integrity | Miss | Sharmiila Singh-Gruber | [sharmiila\_singh@moe.edu.sg](mailto:sharmiila_singh@moe.edu.sg) |
-|   | Miss | Shereen Seah | [seah\_hui\_ling\_shereen@moe.edu.sg](mailto:seah_hui_ling_shereen@moe.edu.sg) |
-| 1 Care | Miss | Carol Chong | [carol\_chong\_chwee\_har@moe.edu.sg](mailto:carol_chong_chwee_har@moe.edu.sg) |
+| 1 Integrity | Mrs | Sharmiila Singh-Gruber | [sharmiila\_singh@moe.edu.sg](mailto:sharmiila_singh@moe.edu.sg) |
+|   | Ms | Shereen Seah | [seah\_hui\_ling\_shereen@moe.edu.sg](mailto:seah_hui_ling_shereen@moe.edu.sg) |
+|   | Miss | Nurul Ubaidah Bte Mohd Izam | [nurul_ubaidah_mohammed_izam@moe.edu.sg](mailto:nurul_ubaidah_mohammed_izam@moe.edu.sg) |
+| 1 Care | Ms | Carol Chong | [carol\_chong\_chwee\_har@moe.edu.sg](mailto:carol_chong_chwee_har@moe.edu.sg) |
 |   | Mr | Wong Jinfa | [jinfa\_wong@moe.edu.sg](mailto:jinfa_wong@moe.edu.sg) |
 | 1 Resilience | Ms | Oh Jia Ling Amelia | [oh\_jia\_ling\_amelia@moe.edu.sg](mailto:oh_jia_ling_amelia@moe.edu.sg) |
-|   | Mdm | Wong Toi Kuan | [wong\_toi\_kuan@moe.edu.sg](mailto:wong_toi_kuan@moe.edu.sg)|
+|   | Mdm | Wong Toi Kuan Susan | [wong\_toi\_kuan@moe.edu.sg](mailto:wong_toi_kuan@moe.edu.sg)|
 | 1 Dedication | Mr | Lim Heng Lai | [lim\_heng\_lai@moe.edu.sg](mailto:lim_heng_lai@moe.edu.sg) |
 |   | Mdm | Siti Norashikin Hassan | [siti\_norashikin\_hassan@moe.edu.sg](mailto:siti_norashikin_hassan@moe.edu.sg) |
 | 1 Diligence | Mr | M Ravinthran | [m\_ravinthran@moe.edu.sg](mailto:m_ravinthran@moe.edu.sg) |
-|   | Ms | Guo Zhen | [guo\_zhen@moe.edu.sg](mailto:guo_zhen@moe.edu.sg) |
+|   | Mdm | Neo Poh Hong Nathline | [nathline\_neo\_poh\_hong@moe.edu.sg](mailto:nathline_neo_poh_hong@moe.edu.sg) |
 | 1 Discipline | Mr | Derrick Tan | [tan\_tien\_kai@moe.edu.sg](mailto:tan_tien_kai@moe.edu.sg) |
 |  | Miss | Eileen Tan | [tan\_eileen@moe.edu.sg](mailto:tan_eileen@moe.edu.sg)|
 | 1 Determination | Mdm | Norayu Omar Latiff | [norayu\_omar\_latiff@moe.edu.sg](mailto:norayu_omar_latiff@moe.edu.sg) |
