@@ -63,10 +63,10 @@ description: ""
 |   | Miss | Zhang Qianwei | [zhang\_qianwei@moe.edu.sg](mailto:zhang_qianwei@moe.edu.sg) | 
 | 3 Diligence | Mdm | Lim Eng Choo |  [lim\_eng\_choo@moe.edu.sg](mailto:lim_eng_choo@moe.edu.sg) |
 |   | Mr | Daniel Pflug | [pflug\_daniel@moe.edu.sg](mailto:pflug_daniel@moe.edu.sg)| 
-| 3 Discipline | Miss | Nur'ain Bte Abidin | [nurain\_abidin@moe.edu.sg](mailto:nurain_abidin@moe.edu.sg)| 
+| 3 Discipline | Ms | Nur'ain Bte Abidin | [nurain\_abidin@moe.edu.sg](mailto:nurain_abidin@moe.edu.sg)| 
 |  | Mr | Chia Seng Mui | [chia\_seng\_mui@moe.edu.sg](mailto:chia_seng_mui@moe.edu.sg) | 
 | 3 Determination | Mr | Lee Uei Suen Wilson | [lee\_uei\_suen@moe.edu.sg](mailto:lee_uei_suen@moe.edu.sg) | 
-|   | Miss | Eleanor Wong Kai Ping | [kai\_ping\_eleanor\_wong@moe.edu.sg](mailto:kai_ping_eleanor_wong@moe.edu.sg) |
+|   | Ms | Eleanor Wong Kai Ping | [kai\_ping\_eleanor\_wong@moe.edu.sg](mailto:kai_ping_eleanor_wong@moe.edu.sg) |
 | | | | |
 
 ### Sec 4 Form Teachers
@@ -82,13 +82,13 @@ description: ""
 | 4 Graciousness | Ms | Nur Azlina Bee D/O Ana Shaik A | [nur\_azlina\_shaik\_ahamed@moe.edu.sg](mailto:nur_azlina_shaik_ahamed@moe.edu.sg) | 
 |   | Mr | Lim Jun Yu | [lim\_jun\_yu@moe.edu.sg](mailto:lim_jun_yu@moe.edu.sg) |
 | 4 Dedication | Mr | Wong Choo Kok | [wong\_choo\_kok@moe.edu.sg](mailto:wong_choo_kok@moe.edu.sg) | 
-|   | Ms |  Yee Puay Ping Joyce | [yee\_puay\_ping\_joyce@moe.edu.sg](mailto:yee_puay_ping_joyce@moe.edu.sg) | 
+|   | Ms |  Hannah Liu Yunling | [liu\_yunling@moe.edu.sg](mailto:liu_yunling@moe.edu.sg) | 
 | 4 Diligence | Mr | Ang Chip Pin | [ang\_chip\_pin@moe.edu.sg](mailto:ang_chip_pin@moe.edu.sg) | 
-|   | Mdm | Jassika Murni Bte Jasni | [jassika\_murni\_jasni@moe.edu.sg](mailto:jassika_murni_jasni@moe.edu.sg) | 
+|   | Ms | Jassika Murni Bte Jasni | [jassika\_murni\_jasni@moe.edu.sg](mailto:jassika_murni_jasni@moe.edu.sg) | 
 | 4 Discipline  | Mdm | Jainul Banu d/o Shahul Hameed | [jainul\_banu\_shahul\_hameed@moe.edu.sg](mailto:jainul_banu_shahul_hameed@moe.edu.sg) | 
 |    | Mr | Tong Keh Huei Adrian | [tong\_keh\_huei@moe.edu.sg](mailto:tong_keh_huei@moe.edu.sg) | 
 | 4 Determination | Mr | Tay Eng Leng | [tay\_eng\_leng@moe.edu.sg](mailto:tay_eng_leng@moe.edu.sg) | 
-|    | Miss | Tan Boon Yen | [tan\_boon\_yen@moe.edu.sg](mailto:tan_boon_yen@moe.edu.sg) | 
+|    | Mdm | Tan Boon Yen | [tan\_boon\_yen@moe.edu.sg](mailto:tan_boon_yen@moe.edu.sg) | 
 | | | | |
 
 ### Sec 5 Form Teachers
