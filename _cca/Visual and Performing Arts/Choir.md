@@ -33,4 +33,3 @@ Presentation in 2023, 2019 and 2017
 * In-house Production of Choir Concert “ Joyeux” series
 * Performed at Voices of Singapore Festival at CHIJMES Hall in 2017 and 2019
 * Performed at the school’s CCA Orientation Day, National Day, Chinese New Year Celebration, Speech Day and Art’s Fiesta
-
