@@ -4,7 +4,6 @@ permalink: /cca/visual-and-performing-arts/choir/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-<img style="width:50%" src="/images/20220811_150650.jpg"> 
 
 <center> “In choir I have learnt new singing skills and vocal techniques that greatly improved my
 singing .With the support from my CCA friends, teachers and conductor, I have overcome
@@ -33,3 +32,4 @@ Presentation in 2023, 2019 and 2017
 * In-house Production of Choir Concert “ Joyeux” series
 * Performed at Voices of Singapore Festival at CHIJMES Hall in 2017 and 2019
 * Performed at the school’s CCA Orientation Day, National Day, Chinese New Year Celebration, Speech Day and Art’s Fiesta
+
