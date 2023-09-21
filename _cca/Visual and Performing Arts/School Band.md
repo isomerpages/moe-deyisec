@@ -37,4 +37,3 @@ Every Tuesday and Thursday 2.40 pm – 6.00 pm
 * Teck Ghee National Day Carnival 
 * National Day Parade 2019 @ The Padang
 * Deyi Homecoming 2018
-
