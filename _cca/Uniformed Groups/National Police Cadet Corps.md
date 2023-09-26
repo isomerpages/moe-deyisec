@@ -53,7 +53,7 @@ Every Tuesday and Thursday 2.40 pm – 5.45 pm
 	* Shooting Competition – 2nd&nbsp;Position
 	* Bean Bag Toss Competition – 3rd&nbsp;Position
 
-* Area 11 Adventure Training Camper
+* Area 11 Adventure Training Camper 2023
 	* Best Male Camper – LCpl(NPCC) Su Xiangjun Win (Class: 2IT)
 
 
