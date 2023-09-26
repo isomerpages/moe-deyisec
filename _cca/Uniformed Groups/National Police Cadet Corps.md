@@ -7,9 +7,9 @@ third_nav_title: Uniformed Groups
 <img style="width:70%" src="/images/UG-NPCC.jpeg">
 
 <center>
-"Here in the National Police Cadet Corps, I feel that we are expanding our knowledge every training by stepping out of our comfort zone and pushing our boundaries. Through this, we learn resilience, courage and to adapt along the way, I feel that this is useful as these are skills that we need in the future. I appreciate the emphasis on these values and with guidance from our Instructors and Teacher Officers, it helps us be better people with good character.
+"Here in the National Police Cadet Corps, I feel that we are expanding our knowledge&nbsp;every training by stepping out of our comfort zone and pushing our boundaries. Through&nbsp;this, we learn resilience, courage and to adapt along the way, I feel that this is useful as&nbsp;these are skills that we need in the future. I appreciate the emphasis on these values&nbsp;and with guidance from our Instructors and Teacher Officers, it helps us be better&nbsp;people with good character.
 <br><br>
-I am glad that I joined this CCA as I have met a unique group of people that I work well with and will remember for life. I will forever treasure the memories, skills, and lessons taught to me. Despite a plethora of CCAs to choose from, I cannot imagine myself in another CCA but NPCC."  
+I am glad that I joined this CCA as I have met a unique group of people that I work well&nbsp;with and will remember for life. I will forever treasure the memories, skills, and lessons taught to me. Despite a plethora of CCAs to choose from, I cannot imagine myself in&nbsp;another CCA but NPCC."  
 <br><br>
 <strong> Ang Yu Heng (2GC) </strong></center>
 	
@@ -28,39 +28,35 @@ Every Tuesday and Thursday 2.40 pm – 5.45 pm
   
 **Achievements and Highlights:**  
 
-*   SPF-NPCC Badge Awardees 2022
-	*   SI (NPCC) Sean Ethan Cheo Wei Jet (405)
-*   Best Unit Cadet Awardees 2022
-	*   SSgt (NPCC) Ng Kar Suen Nichelle (401)
-	*   Sgt (NPCC) Tay Kaiqing Wisely (401)
-*   Area NPCC Knowledge Quiz Competition 2022 - 1st Position
-*   Area NPCC Campcraft Quiz Competition 2022 - 1st Position
-*   Area NPCC Npaire Quiz Competition 2022 - 2nd Position
-*   Area Scavenger Hunt Competition 2022 - 3rd Position
-*   Unit Overall Proficiency Award 2021 - GOLD
-*   SPF-NPCC Badge Awardees 2021
-	*   SI (NPCC) Choo Jun Qi Jacques (404)
-*   Best Unit Cadet Awardees 2021
-	*   SI (NPCC) Choo Jun Qi Jacques (404)
-	*   SSgt (NPCC) Nur Humaira Binte Yusof (401)
-*   Area NPCC Npaire Quiz Competition 2021 - 3rd Position
-*   Unit Overall Proficiency Award 2020 - SUSPENDED
-*   SPF-NPCC Badge Awardees 2020
-	*   SSgt (NPCC) Cheryl Seng Zhi Yi (403)
-*   Best Unit Cadet Awardees 2020
-	*   SI (NPCC) Damus Neo Zhi Xuan (401)
-	*   SSgt (NPCC) Sandy Tan Zhi Mei (403)
-*   Unit Overall Proficiency Award 2019 - GOLD
-*   SPF-NPCC Badge Awardees 2019
-	*   SSgt (NPCC) Yap Li Ying (407)
-*   Best Unit Cadet Awardees 2019
-	*   SSgt (NPCC) Sandoval Ahren Pantoja (403)
-	*   SSgt (NPCC) Chin Si Yu (405)
-*   Annual 38 Shooting Competition (Preliminary ) 2019 - 2nd Runner up in Male Cadet Inspector Team
-	*   Yeo Si Jie
-*   Biannual Inter-Unit Drill Competition Finals 2019 - National 9th Position
-*   Area Darts Competition 2019 - 3rd Position
+  
+* Unit Overall Proficiency Award 2023:&nbsp;Distinction Award
 
-<iframe width="653" height="359" src="https://www.youtube.com/embed/u633iNEwsYY" title="range" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+* Station Inspector 2023:
+	* SI (NPCC) Danneth Neo Zhi Yuan (Class: 4DL)
+	* SI (NPCC) Law Yu Hang (Class: 4DT)
+
+* SPF-NPCC badge 2023:
+	* SSgt (NPCC) Emma Goh Yi Hern (Class: 4DL)
+	* SSgt (NPCC) Leon Kang (Class: 4IT)
+
+* Best Unit Cadet 2023:
+	*   SSgt (NPCC) Emma Goh Yi Hern (Class: 4DL)
+	*   SSgt (NPCC) Soo Jun Xi (Class: 4DT)
+
+* Revolver 0.38 Shooting Competition:&nbsp;Male Officers’ Team – 5th&nbsp;Position
+
+* Deyi Secondary School Outstanding Cadet Award: SI(NPCC) Sean Ethan Wei Jet (2022, Class: 406)
+
+* NPCC Area Games 2023
+	* Catchy Ball Competition – 1st&nbsp;Position
+	* Tic Tac Toe Competition – 2nd&nbsp;Position
+	* Shooting Competition – 2nd&nbsp;Position
+	* Bean Bag Toss Competition – 3rd&nbsp;Position
+
+* Area 11 Adventure Training Camper
+	* Best Male Camper – LCpl(NPCC) Su Xiangjun Win (Class: 2IT)
+
+
+<iframe width="653" height="359" src="https://www.youtube.com/embed/u633iNEwsYY" title="range" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTm4JsNZq_ywXVwzmQGMCFwweNxzDey4HatbTSa1XiwnKr98q92-tPC2RLczdb3DyOVxfcrr8aNC6Rk/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
