@@ -38,3 +38,4 @@ description: ""
 ### Partnership Links:
 
 * [Snacks for Break Time](https://staging.d3sil9pzbw3lij.amplifyapp.com/others/snacks-for-break-time)
+* [NIE Caring Teacher Award 2024](https://www.cta.nie.edu.sg)
