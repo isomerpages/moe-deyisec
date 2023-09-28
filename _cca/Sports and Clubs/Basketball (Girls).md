@@ -25,7 +25,7 @@ We look forward to the continued growth of the Deyi Basketball Girls Team.
 **Teacher-in-charge:** <br>
 Mr Derrick Tan (OIC) <br>
 Ms Gladys Wee (AIC) <br>
-Mr Neo Ghim Koon <br>
+Mr Neo Gim Koon <br>
 
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.40pm – 5.45pm
