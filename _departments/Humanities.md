@@ -35,6 +35,16 @@ In addition, by incorporating inquiry-based learning as a key pedagogy, we empow
 The geography unit set up a booth to encourage students to be environmental stewards by spreading environmental messages to fellow Deyians and to consider the importance of sustainable living. They were given the opportunity to express their creativity in delivering such environmental messages through an artform painted on pebbles given to them. <br><br>
 The history unit set up a booth to  let the students bask in a board game that is created in house by Deyi’s Secondary a while ago,. This game encourages students to learn more about Singapore’s history and development based on the familiar snakes and ladders game. Students get to learn more Singapore’s exciting journey from a Settlement to a City through by moving through the spaces and through the ‘Uniquely Home’ cards.
 
+**Other Programmes to excite students in the learning of Humanities:** <br>
+
+**Learning Festival** <br>
+The geography unit set up a booth to encourage students to be environmental stewards by spreading environmental messages to fellow Deyians and to consider the importance of sustainable living. They were given the opportunity to express their creativity in delivering such environmental messages through an artform painted on pebbles given to them.
 
 
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0D3cygKbHMZVs8bA023PMa6cVPUSUfmCBhyn05vKVDDCJXqgS3lOrr26JmANnVOYwLvcbaKq5Zv59/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+
+
+
+
+
+
+
