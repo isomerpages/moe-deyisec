@@ -10,15 +10,11 @@ Students appreciative of a changing world, past and present
 To engage students in an innovative teaching and learning environment  
   
 **Programmes** <br> 
-To foster critical thinking skills, we adopt an inquiry-based learning approach in our teaching of the Humanities.
-  
-The approach consists of 4 main areas of inquiry:  
-* Sparking Curiosity
-* Gathering Data
-* Reflective Thinking
-* Exercise Reasoning
-  
-To actively engage our students in the inquiry process, Geographical Investigations (GI) and Historical Investigations (HI) of formulating hypothesis, collecting and analysing data and reflection are integral part of our pedagogy. In addition, local and oversea learning journeys (cultural immersion) are also organised to promote authentic and experiential learning.  
+Made up of subjects such as History, Geography, and Social Studies, the Humanities curriculum offers students a rich tapestry of knowledge about the world and human societies. Our department adopts a holistic approach that enables learners to connect the past, present, and future, fostering a deep understanding of the forces that shape our societies, countries, and the world. 
+<br><br>
+In addition, by incorporating inquiry-based learning as a key pedagogy, we empower students to become active seekers of knowledge, encouraging critical thinking and problem-solving skills. Another key aspect of the learning in Humanities is the Learning Journeys and Fieldwork which enable the students to explore and apply their learning in authentic and practical contexts.  
+
+
   
 **Learning Journeys organised:** <br>
 * Bishan Park ABC Water Trail for Sec. 2 students.
