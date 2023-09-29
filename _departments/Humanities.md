@@ -9,27 +9,32 @@ Students appreciative of a changing world, past and present
 **Mission:** <br>
 To engage students in an innovative teaching and learning environment  
   
-**Programmes** <br> 
+**Programmes:** <br> 
 Made up of subjects such as History, Geography, and Social Studies, the Humanities curriculum offers students a rich tapestry of knowledge about the world and human societies. Our department adopts a holistic approach that enables learners to connect the past, present, and future, fostering a deep understanding of the forces that shape our societies, countries, and the world. 
 <br><br>
 In addition, by incorporating inquiry-based learning as a key pedagogy, we empower students to become active seekers of knowledge, encouraging critical thinking and problem-solving skills. Another key aspect of the learning in Humanities is the Learning Journeys and Fieldwork which enable the students to explore and apply their learning in authentic and practical contexts.  
 
 
-  
-**Learning Journeys organised:** <br>
-* Bishan Park ABC Water Trail for Sec. 2 students.
-* GI Fieldwork on coast at ECP for Sec. 3 Pure Geog. students.
-* GI Fieldwork on tourism at Chinatown for Sec. 4 Elective and Pure Geog. students
-* GI Fieldwork on weather and climate within school compound for Sec. 3 Elective students.
-* Marine Conservation Experience on board the yacht MY ASEAN LADY hosted by the International Seakeepers Society Floating Classroom.
-* iHT Trail for NT classes
-* iHT Trail for Sec.
-* iHT Trail for Sec. 2
-* 2020 : Teacher-designed virtual Learning Journeys on SLS based on the Fieldwork and Learning Journeys above
+**Learning Journeys:** <br>
+* Learning Journey to Sustainable Singapore Gallery for Sec 1 students
+* Learning Journey to Singapore Mobility Gallery for Sec 2 students
+* GI Fieldwork on Tourism at Kampong Glam (for Pure Geography students)
+* GI Fieldwork to Sungei Buloh Wetland Nature Reserve (for Geography Elective students)
+* GI Fieldwork on Tourism at Chinatown for Sec 4 Geography Students
 
-**Deyians are also given opportunities to participate in the following competitions:**  
-* NUS Geography Challenge
+
+**Participation in Competition/Dialogues and Forums:**  <br>
+* Raffles Policy Dialogue 2023 on the Hustle culture
+* RGS Southeast Asia Symposium
+* Historical Scene Investigation Challenge 2023
+* Humanities-In-Action (HIA) Challenge 2023 by Serangoon Garden Secondary School
 * MOE History Challenge
-* Historical Scene Investigation Challenge 2020 by NLB
+
+
+**Learning Festival – Humanities Booth** <br>
+The geography unit set up a booth to encourage students to be environmental stewards by spreading environmental messages to fellow Deyians and to consider the importance of sustainable living. They were given the opportunity to express their creativity in delivering such environmental messages through an artform painted on pebbles given to them. <br><br>
+The history unit set up a booth to  let the students bask in a board game that is created in house by Deyi’s Secondary a while ago,. This game encourages students to learn more about Singapore’s history and development based on the familiar snakes and ladders game. Students get to learn more Singapore’s exciting journey from a Settlement to a City through by moving through the spaces and through the ‘Uniquely Home’ cards.
+
+
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0D3cygKbHMZVs8bA023PMa6cVPUSUfmCBhyn05vKVDDCJXqgS3lOrr26JmANnVOYwLvcbaKq5Zv59/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
