@@ -7,28 +7,79 @@ description: ""
 Confident Deyians who embrace their own ethnic identity.  
   
 **Mission:** <br>
-To develop and stretch students’ language competencies so that they will connect with their own cultural heritage and also appreciate the cultural diversities in Singapore.  
+To develop and deepen students’ Mother Tongue language skills and appreciation of
+their roots and cultures through a wide range of programmes and activities, which allow
+them to apply their language skills as well as to connect with their own cultural heritage. 
   
-**MTL Department Key Programmes** <br>
+**MTL Department Key Programmes and Events:**<br>
 
-**MTL Fortnight** <br>
-The Mother Tongue Language Fortnight aims to create an immersive environment for students in the learning and usage of the mother tongue languages as well as to show appreciation of the three different cultures.
-  
-Some of the key programmes and activities organised during the MTL Fortnight include:  
-* Lunar New Year Celebration
-* MTL Language-related competitions such as Karaoke Competition, language and cultural quiz
-* MTL Language Song Dedication
-* Chinese Tea Appreciation Workshop
-* Chinese Calligraphy Workshop
-* Traditional Chinese Medicine Workshop
-* Learning Journey to Tea Chapter
-* Learning Journey to Indian Heritage Centre
-* Learning Journey to Kampong Glam
-* African Students’ Visit
-* Hari Raya Concert
-* Mid-Autumn Festival
-* Introduction to Jawi Calligraphy
+1.  Mother Tongue Fortnight
+    
+Students are exposed to the Chinese, Malay and Indian cultures through a variety of activities for example, calligraphy, opera mask making, Chinese knot-tying, traditional food tasting, dikir barat, kolam art, playing diabolo, etc. These fun, meaningful and authentic learning experiences will help to deepen students’ understanding of their mother tongue languages and enhance their appreciation for the other cultures.
 
-These fun, meaningful and authentic learning experiences will help to deepen students’ understanding of MTL and appreciation of the different cultures.
+2.  ALP (Journalism and Broadcasting) related project work
+    
 
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcFGuDmu6fmct4ooZoq05IAeg7UdEEPwaR7Q7okxXUQNzJgwkC1JCrVNa8Z6V2KyhouJ3Pye1_1gYu/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+*   Radio drama production
+    
+*   Current affairs video clip production
+    
+*   BookTuber
+    
+
+3.  Celebration of traditional festivals:
+    
+
+*   Lunar New Year Celebration
+    
+*   Hari Raya
+    
+*   Mid Autumn Festival&nbsp;
+    
+*   Deepavali
+    
+
+4.  Participation in National Competitions:
+    
+
+*   Create Your Own Newspaper Competition 2023 (Certificate of Participation)
+    
+*   National Chinese Riddle Workshop 2023 (Certificate of Participation)
+    
+*   National Chinese Challenge 2023 (Certificate of Participation)
+    
+*   “Xin Lei Jiang” 21st National Secondary School Chinese Creative Writing Competition (Certificate of Participation)
+    
+*   Raffles Instituition Literary Competition 2023 Category – Monologue (1st Prize)
+    
+*   Raffles Instituition Literary Competition 2023 Category – Singing (3rd Prize)
+    
+*   NPS Imayam Tamil Language Festival Competition (Motivational Prize)
+    
+*   Kavimaalai Singapore - Poetry Translation Workshop (Certificate of Recognition)
+    
+*   Kavimaalai Singapore - Poetry Writing Workshop (Certificate of Recognition)
+    
+*   Naanum Oru Padaipaali - Budding Writers (Certificate of Participation)
+    
+*   Malay Teevers Competition 2023 (1st Prize)
+    
+*   Malay Language Fiesta 2023 – Aksi 1, 2, 3 ! Malay Short Skit Competition (2nd Prize)
+    
+
+
+5.  Participation in the activities organised by external organisations:
+    
+
+*   “Script-It-Right” Chinese Radio Drama Workshop by UFM 100.3
+    
+*   “Xin Kong Xia” Xinyao Music Appreciation Session
+    
+*   Theatre experience&nbsp;
+    
+*   MediaCorp News in Tamil Workshop
+    
+*   Fiesta Bahasa&nbsp;
+    
+*   Ria 897 Radio Workshop
+    
