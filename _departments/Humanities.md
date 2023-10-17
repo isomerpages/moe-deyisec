@@ -8,6 +8,8 @@ Students appreciative of a changing world, past and present
   
 **Mission:** <br>
 To engage students in an innovative teaching and learning environment  
+
+![](/images/Departments/Humanities/image01.jpg)
   
 **Programmes:** <br> 
 Made up of subjects such as History, Geography, and Social Studies, the Humanities curriculum offers students a rich tapestry of knowledge about the world and human societies. Our department adopts a holistic approach that enables learners to connect the past, present, and future, fostering a deep understanding of the forces that shape our societies, countries, and the world. 
@@ -39,12 +41,3 @@ The history unit set up a booth to  let the students bask in a board game that i
 
 **Learning Festival** <br>
 The geography unit set up a booth to encourage students to be environmental stewards by spreading environmental messages to fellow Deyians and to consider the importance of sustainable living. They were given the opportunity to express their creativity in delivering such environmental messages through an artform painted on pebbles given to them.
-
-
-
-
-
-
-
-
-
