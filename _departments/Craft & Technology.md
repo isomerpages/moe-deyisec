@@ -40,4 +40,4 @@ To equip our students with the knowledge about issues on food, health and nutrit
 6.&nbsp;Elective Music for ABRSM&nbsp;Programme (_Associated Board of the Royal Schools of Music_) <br>
 7.&nbsp;&nbsp;Elective Drama for Trinity Guildhall Exams Preparation (Trinity College London)
 
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSWndRBiAh9_NodgtPhlRT1okfDZPCZ-kk5FUzyjH1dF_wYPoC2BYeVQ7JX-h54GvTAPr4NqWg3D1He/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSrJwR1fD6o7sNiqMKqEGrBG4l68cL90U1wkZ31IQr_UOWFPgaqsok4YZZ9z7Qwp27rLf9F_OZkzWHU/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="600" height="500" allowfullscreen="true"></iframe>
