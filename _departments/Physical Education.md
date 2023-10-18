@@ -4,17 +4,17 @@ permalink: /departments/physical-education/
 description: ""
 ---
 <img src="/images/Play%20and%20Experience%20-%20Deyi%20PE.png" style="width:70%">
-<center>
-	
+
+
 **MISSION** <br>
 To teach and engage through&nbsp;**Play**. To develop skills and nurture character through&nbsp;**Experience**. 
-	
+
 **VISION** <br>
 Confident and Active Lifelong Athletes of Character.  
 
 **MOTTO** <br>
 Play &amp; Experience
-</center>
+
 
 **Department Philosophy** <br>
 Our department believes that students can be engaged through Play and learn through Experience without Learning. Through playing, the department hopes to achieve 100% engagement from both students as well as staff. The department believes that if everyone finds it fun to engage in physical activities, there is a greater chance for all to pursue a healthy lifestyle beyond school. Through experiences in sports participation, students can develop enduring positive character traits and sportsmanship which will help them deal with future real-life situations that require dedication, diligence, determination, discipline, care and integrity.  
