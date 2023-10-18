@@ -11,7 +11,7 @@ Exploring new Angles through Mathematics
 
 The Mathematics Department plans for learning opportunities where students can appreciate the relevance of math in real-world situations. For example, to broaden students’ learning experiences and foster students’ interest in the subject, the Secondary 2 students are challenged to design Math games, culminating in a game carnival for their peers.
 
-There were opportunities for Secondary 1 students to stretch their learning. Our students participated in the Learning Festivals Activities such as Scratch Coding and Logic Games Competition. These activities helped students to strengthen their logical thinking and problem solving skills. They also extended students’ learning in class such as the topic on Number Pattern in a different environment through a different experience.  
+There were opportunities for Secondary 1 students to stretch their learning. Our students participated in the Learning Festivals Activities such as&nbsp;Scratch Coding and Logic Games Competition. These activities helped students to strengthen their logical thinking and problem solving skills. They also extended students’ learning in class such&nbsp;as the topic on Number Pattern in a different environment through a different experience.  
 
 Our students embarked on a Financial Literacy Youth Series Programme at the year-end Learning Festival. The Secondary 1 students learnt about the importance of saving while the Secondary 2 students learnt about the importance of budgeting. The Secondary 3 students had the opportunity to catch a glimpse of their post-secondary pathways and careers  
 
@@ -27,6 +27,8 @@ For Principles of Accounts, the focus was on the use of gamification and employi
 **14th&nbsp;position for Individual Award -**&nbsp;(Lower Secondary Normal Technical Category) in 2021 for All Singapore Secondary Mathematics Competition for Normal Course Students &nbsp;organised by Clementi Town Secondary School.
 
 **14th&nbsp;position for Individual Award -**&nbsp;(Lower Secondary Normal Academic Category) in 2022 for All Singapore Secondary Mathematics Competition for Normal Course Students &nbsp;organised by Clementi Town Secondary School.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRz_oyUcih43P_uC35hbdfq_6bVSSHojQgefpZdBAnjm_5lKoL2-atYupGZAbQVcU2f1Oo8-YDxHSt0/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ![Learning Fest](/images/Departments/Mathematics/1_Learning_Fest_new.jpg)
 
