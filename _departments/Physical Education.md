@@ -6,13 +6,13 @@ description: ""
 <img src="/images/Play%20and%20Experience%20-%20Deyi%20PE.png" style="width:70%">
 <center>
 	
-### MISSION
+**MISSION** <br>
 To teach and engage through&nbsp;**Play**. To develop skills and nurture character through&nbsp;**Experience**. 
 	
-### VISION
+**VISION** <br>
 Confident and Active Lifelong Athletes of Character.  
 
-### MOTTO
+**MOTTO** <br>
 Play &amp; Experience
 </center>
 
