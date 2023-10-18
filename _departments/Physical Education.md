@@ -7,8 +7,8 @@ description: ""
 <center>
 	
 ### MISSION
-To teach and engage through&nbsp;**Play**. To develop skills and nurture character through&nbsp;**Experience**.  
-  
+To teach and engage through&nbsp;**Play**. To develop skills and nurture character through&nbsp;**Experience**. 
+	
 ### VISION
 Confident and Active Lifelong Athletes of Character.  
 
