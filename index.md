@@ -22,14 +22,6 @@ sections:
       title: DEYI MEDIA
       button: more
   - infopic:
-      title: DSA 2023
-      subtitle: Announcements
-      description: Direct School Admission
-      button: Click for More Information
-      url: /useful-links/direct-school-admission-dsa/
-      image: /images/Main Page (Announcements)/2023 dsa.jpeg
-      alt: 2019 Arts Fiesta
-  - infopic:
       title: Visit to Deyi Secondary School by Minister Chan
       subtitle: ANNOUNCEMENTS
       description: Click for more details.
