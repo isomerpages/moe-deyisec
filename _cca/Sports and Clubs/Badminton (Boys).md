@@ -4,8 +4,6 @@ permalink: /cca/sports-and-clubs/badminton-boys/
 description: ""
 third_nav_title: Sports and Clubs
 ---
-<img style="width:50%" src="/images/Sports-Badminton.jpg">
-
 <center>
 "I love badminton! I am really glad that I chose it as my CCA. It has become my passion. I had a lot of fun playing and training with my fellow CCA mates. I always look forward to my badminton CCA sessions on Tuesday and Thursday.
 
@@ -17,6 +15,17 @@ I have the coaches and our CCA teachers to thank for inspiring me in my journey 
 <br><br>
 <strong>Kenneth Haurisa  (3 Diligence)<br>
 ‘B’ Boys captain</strong> </center>
+<br><center>
+Badminton has played an important part in my life. I joined the CCA in Secondary one without proper fundamentals and I was also grossly overweight. Since then, the passion for badminton has driven me ‘crazy’. &nbsp;In just 2 years of regular and rigorous training, I have not only become a more complete player with proper footwork and techniques, I have also lost 30 kg.**
+
+The sport has changed me physically and mentally. It keeps me fit and disciplined and is one of the main things which has kept me energetic and spirited. While playing the sport, I had many experiences, sometimes happiness of success and sometimes feeling of failure which I learn to deal with both situations.&nbsp;&nbsp;&nbsp;&nbsp;
+
+In my badminton journey, I played at the school level as well as at other local tournament levels. My proudest moment was when I won the 2022 Deyi Badminton Championship in the singles event. &nbsp;I was awarded a Victor badminton racket which I was very happy to give it to my father as a present.
+
+**Jayden Lew (3 Graciousness)**<br>
+**2022 Deyi Singles Champion**</center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjFyay7mU6z8MPq7sNhcL_zhQ3HQ5JvqykwprI8gK_SQhT_pOkXoRUAAjgtAC_2PIxvl1R-88wABCL/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 The Deyi Secondary School Badminton CCA is one of the most popular sports in Deyi Secondary school. Badminton is a rigorous and fast-paced sport that develop in our students physical agility, stamina and mental strength which can help them overcome challenges. The sports also help to instil in our students the core schools values of integrity, care and diligence.
 
@@ -54,5 +63,3 @@ The players are taught to be persistent in terms of perfecting their skills, imp
 
 * Zonal Inter-school Competition 2021 B Division Boys - Top 8
 * Zonal Inter-school Competitions 2019 C Division Boys - Top 8
-
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1B_ub1Dn3-pNc7Rs7jtlUv1IPoQKZMhMkhpd3QHoo5S4KB7I6nyxVPp22WIDcY4SXSh_UBAdll2Ur/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
