@@ -10,7 +10,9 @@ Confident Deyians who embrace their own ethnic identity.
 To develop and deepen students’ Mother Tongue language skills and appreciation of
 their roots and cultures through a wide range of programmes and activities, which allow
 them to apply their language skills as well as to connect with their own cultural heritage. 
-  
+
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdMMHMx1Eoj0XFOQc5Migl6z39rgBfsaonj9fllquNsmtTcmBF8Y4-z2BlEGBo-uENE3HIJKADj0Ym/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+	
 **MTL Department Key Programmes and Events:**<br>
 
 1.  Mother Tongue Fortnight
@@ -82,4 +84,3 @@ Students are exposed to the Chinese, Malay and Indian cultures through a variety
 *   Fiesta Bahasa&nbsp;
     
 *   Ria 897 Radio Workshop
-    
