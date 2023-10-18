@@ -5,39 +5,27 @@ description: ""
 ---
 **Vision:** <br>
 To nurture Passionate Learners, Creative Thinkers and Effective Problem Solvers
-
-**Mission:** <br>
+<br>
+**Mission:**<br>
 Exploring new Angles through Mathematics
+<br>
 
-The Mathematics Department plans for learning opportunities where students can appreciate the relevance of math in real-world situations. For example, to broaden students’ learning experiences and foster students’ interest in the subject, the Secondary 2 students are challenged to design Math games, culminating in a game carnival for their peers.
+The Mathematics Department plans for learning opportunities where students can stretch their learning. Our Lower Secondary students participated in the Learning Festivals Activities such as 3D Tic Tac Toe Competition and Tower of Hanoi Competition where students competed on their logical thinking and problem solving skills. These activities extended students’ learning in class such as the topic on Number Pattern in a different environment through a different experience.
 
-There were opportunities for Secondary 1 students to stretch their learning. Our students participated in the Learning Festivals Activities such as&nbsp;Scratch Coding and Logic Games Competition. These activities helped students to strengthen their logical thinking and problem solving skills. They also extended students’ learning in class such&nbsp;as the topic on Number Pattern in a different environment through a different experience.  
+Secondary 3 students also had the opportunity to catch a glimpse of their post-secondary pathways and careers through a Financial Literacy Programme.
 
-Our students embarked on a Financial Literacy Youth Series Programme at the year-end Learning Festival. The Secondary 1 students learnt about the importance of saving while the Secondary 2 students learnt about the importance of budgeting. The Secondary 3 students had the opportunity to catch a glimpse of their post-secondary pathways and careers  
+For Principles of Accounts (POA), the focus was on the use of gamification and employing real-life scenarios to increase students' engagement and motivation in the learning of the subject.
 
-The Secondary 3, 4 and 5 students went through a Digital Literacy Programme which equipped them with skills for the Digitalisation Industry. They learnt programming and data analytics skills.  
+&nbsp;**POA Quest 2023**
+ 
+A total of 80 Superheroes from 20 secondary schools gathered at Deyi Secondary for a POA Quest on 31 May to flaunt their amazing accounting knowledge and abilities. They surmounted challenges like Jewel Heist, Wheels of Assets, POAkemon, Online Escape Rooms, POA Pinballs and Debate to show their accounting prowess.
 
-For Principles of Accounts, the focus was on the use of gamification and employing real-life scenarios to increase students' engagement and motivation in the learning of the subject. This year, Deyi hosted 10 Secondary Schools in its inaugural National POA Quest 2022. Our Secondary 4s POA students facilitated the sessions which included debates and game stations.&nbsp;
+Each station was designed and helmed by our Deyi Sec 4 Game Masters who led each team with enthusiasm and zest.
 
-**The achievements are :** <br>
-**1st Runner Up for Build Your Own Business Game (BYOB) Competition 2021 -**&nbsp;organised by Republic Polytechnic.
+Great hospitality was extended by our Sec 3 POA Chaperones to every team and they were also inspired seeing their seniors in action.
 
-**2nd Runner Up for National Fnancial Literacy Competition 2022 -**&nbsp;organised by Outram Secondary School in collaboration with SMU Accountancy Society (Project Moolah).
+Everyone was soaked in the accounting atmosphere and at the end of a 3-hour battle, 3 winners emerged!
 
-**14th&nbsp;position for Individual Award -**&nbsp;(Lower Secondary Normal Technical Category) in 2021 for All Singapore Secondary Mathematics Competition for Normal Course Students &nbsp;organised by Clementi Town Secondary School.
+Congratulations to Bukit Merah Sec (Champion), New Town Sec (First Runner-Up) and Bedok Green Sec (Second Runner-Up). Felicitations, once again, to them and kudos to all our sec 3 and 4 accounting students for making this memorable experience possible!
 
-**14th&nbsp;position for Individual Award -**&nbsp;(Lower Secondary Normal Academic Category) in 2022 for All Singapore Secondary Mathematics Competition for Normal Course Students &nbsp;organised by Clementi Town Secondary School.
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRz_oyUcih43P_uC35hbdfq_6bVSSHojQgefpZdBAnjm_5lKoL2-atYupGZAbQVcU2f1Oo8-YDxHSt0/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
-![Learning Fest](/images/Departments/Mathematics/1_Learning_Fest_new.jpg)
-
-![Financial Litercacy](/images/Departments/Mathematics/2_Financial_Literacy_new.jpg)
-
-![](/images/Departments/Mathematics/3_Financial_Literacy_new.jpeg)
-
-![Second Runner Up](/images/Departments/Mathematics/6_Second_Runner_Up_National_Financial_Literacy_2022_new.jpeg)
-
-![Digital Literacy Kourney](/images/Departments/Mathematics/7_Digital_Literacy.jpg)
-
-![Deyi Financial Literacy Youth Series](/images/Departments/Mathematics/8_FLY%20Deyi.jpg)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRz_oyUcih43P_uC35hbdfq_6bVSSHojQgefpZdBAnjm_5lKoL2-atYupGZAbQVcU2f1Oo8-YDxHSt0/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="860" height="569" allowfullscreen="true"></iframe>
