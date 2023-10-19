@@ -12,12 +12,12 @@ sections:
         - title: For Students
           description: ""
           url: /useful-links/useful-links-for-students/
-        - title: For Teachers
-          description: ""
-          url: /useful-links/useful-links-for-teachers/
         - title: For Parents
           description: ""
           url: /useful-links/useful-links-for-parents/
+        - title: For Teachers
+          description: ""
+          url: /useful-links/useful-links-for-teachers/
   - resources:
       title: DEYI MEDIA
       button: more
