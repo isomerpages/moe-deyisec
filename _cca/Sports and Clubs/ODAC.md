@@ -4,7 +4,7 @@ permalink: /cca/sports-and-clubs/odac/
 description: ""
 third_nav_title: Sports and Clubs
 ---
-<img style="width:70%" src="/images/Sports-ODAC.jpg">
+<img src="/images/Sports-ODAC.jpg" style="width:70%">
 
 <center>
 "Over my three years in ODAC, I have learned to be resilient despite the various challenges I faced, such as the Inter-School Dragon Boat Competition which made me think of giving up multiple times. However, I did not give up and instead remained resilient and continued to do my best."  
@@ -26,4 +26,4 @@ Mr Lim Yu Sim
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.50pm – 5.15pm
 
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKBEcxuLgRhUS1DaVo-wAh7RF33uCqnS0FDFwOUmRKF8UZYk0ylBC-sADt1zZQr7oAW8WAYyywFIF3/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhbuT0e1gHZC_RSJqLWoUPaiVbkNtf8_8a2lwFfBCzNVolntyweJX-xeqgNdBwgyjwvTsBlNc-OUDc/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
