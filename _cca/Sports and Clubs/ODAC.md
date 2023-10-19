@@ -4,7 +4,8 @@ permalink: /cca/sports-and-clubs/odac/
 description: ""
 third_nav_title: Sports and Clubs
 ---
-<img src="/images/Sports-ODAC.jpg" style="width:70%">
+
+![](/images/CCA/Sports%20and%20Clubs/ODAC/2023%20odac%20cover%20image.jpeg)
 
 <center>
 "Over my three years in ODAC, I have learned to be resilient despite the various challenges I faced, such as the Inter-School Dragon Boat Competition which made me think of giving up multiple times. However, I did not give up and instead remained resilient and continued to do my best."  
