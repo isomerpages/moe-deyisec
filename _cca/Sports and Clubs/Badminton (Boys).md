@@ -4,7 +4,6 @@ permalink: /cca/sports-and-clubs/badminton-boys/
 description: ""
 third_nav_title: Sports and Clubs
 ---
-<center>
 "I love badminton! I am really glad that I chose it as my CCA. It has become my passion. I had a lot of fun playing and training with my fellow CCA mates. I always look forward to my badminton CCA sessions on Tuesday and Thursday.
 
 My training comprises of a good variety of drills and exercises. It allows me to improve different aspects of my game from footwork to techniques. Sometimes our coaches and teachers would partner us and give us pieces of advice during the games to improve our techniques as well as to motivate us.&nbsp;
@@ -14,16 +13,16 @@ I feel honoured to be selected as the captain of the school badminton team. To f
 I have the coaches and our CCA teachers to thank for inspiring me in my journey to becoming an awesome player.”
 <br><br>
 <strong>Kenneth Haurisa  (3 Diligence)<br>
-‘B’ Boys captain</strong> </center>
-<br><center>
-Badminton has played an important part in my life. I joined the CCA in Secondary one without proper fundamentals and I was also grossly overweight. Since then, the passion for badminton has driven me ‘crazy’. &nbsp;In just 2 years of regular and rigorous training, I have not only become a more complete player with proper footwork and techniques, I have also lost 30 kg.**
+‘B’ Boys captain</strong> 
+<br>
+Badminton has played an important part in my life. I joined the CCA in Secondary one without proper fundamentals and I was also grossly overweight. Since then, the passion for badminton has driven me ‘crazy’. &nbsp;In just 2 years of regular and rigorous training, I have not only become a more complete player with proper footwork and techniques, I have also lost 30 kg.
 
-The sport has changed me physically and mentally. It keeps me fit and disciplined and is one of the main things which has kept me energetic and spirited. While playing the sport, I had many experiences, sometimes happiness of success and sometimes feeling of failure which I learn to deal with both situations.&nbsp;&nbsp;&nbsp;&nbsp;
+The sport has changed me physically and mentally. It keeps me fit and disciplined and is one of the main things which has kept me energetic and spirited. While playing the sport, I had many experiences, sometimes happiness of success and sometimes feeling of failure which I learn to deal with both situations.
 
-In my badminton journey, I played at the school level as well as at other local tournament levels. My proudest moment was when I won the 2022 Deyi Badminton Championship in the singles event. &nbsp;I was awarded a Victor badminton racket which I was very happy to give it to my father as a present.
+In my badminton journey, I played at the school level as well as at other local tournament levels. My proudest moment was when I won the 2022 Deyi Badminton Championship in the singles event. I was awarded a Victor badminton racket which I was very happy to give it to my father as a present.
 
 **Jayden Lew (3 Graciousness)**<br>
-**2022 Deyi Singles Champion**</center>
+**2022 Deyi Singles Champion**<br>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjFyay7mU6z8MPq7sNhcL_zhQ3HQ5JvqykwprI8gK_SQhT_pOkXoRUAAjgtAC_2PIxvl1R-88wABCL/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
