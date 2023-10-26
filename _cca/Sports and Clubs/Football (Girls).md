@@ -13,7 +13,9 @@ The teachers and coaches taught my team and I to dribble, pass and shoot. Footba
 Football Captain </strong></center>
 	
 **Sportsmanship and Excellence** <br>
-The Girls’ Football team was introduced as a CCA in 2006. Our training emphasises on discipline, teamwork and commitment, which are important values on and off the field. The girls are taught football skills in a safe and friendly environment under the guidance of a dedicated coach. Our ‘B’ and ‘C’ division girls compete in football matches at national level in interschool tournaments organised by the Football Association of Singapore.  
+The Girls’ Football team was introduced as a CCA in 2006. Our training emphasises on discipline, teamwork and commitment, which are important values on and off the field. The girls are taught football skills in a safe and friendly environment under the guidance of a dedicated coach. Our ‘B’ and ‘C’ division girls compete in football matches at national level in interschool tournaments organised by the Football Association of Singapore. 
+
+We were awarded the 'Fair Play Award' for both NSG B and C Division, 2023
 
 **Teacher-in-charge:** <br>
 Miss Jocelyn Oh (OIC) <br>
