@@ -23,13 +23,8 @@ In addition, by incorporating inquiry-based learning as a key pedagogy, we empow
 The Singapore Mobility Gallery provide students with an overview of transport planning in Singapore. Students will enjoy hands-on experience at different interactive exhibits while increasing their awareness of different transport initiatives in Singapore. <br><br>
 
 * GI Fieldwork on Tourism at Kampong Glam (for Pure Geography students)
-
-
-
-
-
-
-
+![](/images/Departments/Humanities/2023%20gi%20fieldwork%20on%20tourism%20at%20kampong%20glam.png)
+Extended Fieldwork is a crucial component in the geography syllabus. Students will learn how to conduct research on the topic of Tourism. This learning journey will provide students with an authentic experience of carrying out the geographical fieldwork methods with tourists in Kampong Glam. <br><br>
 
 * GI Fieldwork to Sungei Buloh Wetland Nature Reserve (for Geography Elective students)
 * GI Fieldwork on Tourism at Chinatown for Sec 4 Geography Students
