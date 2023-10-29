@@ -37,7 +37,7 @@ The history unit set up a booth to  let the students bask in a board game that i
 ![](/images/Departments/Humanities/2023%20learning%20festival%202.png)
 
 
-<u>**Raffles Policy Dialogue 2023** </u><br>
+<u><b>Raffles Policy Dialogue 2023</b></u><br>
 Theme: Hustle Culture <br>
 A group of student councillors participated in the Raffles Policy Dialogue on 8 March 2023. With the theme of ‘Hustle Culture’, the dialogue enabled our student councillors to have the opportunity to understand more about hustle culture – how it manifests not just at work but even through the education system, as well as its impacts on society. 
 Our student councillors had the chance to exchange ideas and collaborate with student representatives from other schools to come up with solutions to address the challenges presented by hustle culture. This was a step in the right direction for concerned citizens and budding future leaders of society.
