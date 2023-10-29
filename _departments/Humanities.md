@@ -32,7 +32,7 @@ In addition, by incorporating inquiry-based learning as a key pedagogy, we empow
 **Other Programmes to excite students in the learning of Humanities:**  <br>
 <u><b>Learning Festival</b></u><br>
 The geography unit set up a booth to encourage students to be environmental stewards by spreading environmental messages to fellow Deyians and to consider the importance of sustainable living. They were given the opportunity to express their creativity in delivering such environmental messages through an artform painted on pebbles given to them.
-![](/images/Departments/Humanities/2023%20learning%20festival%201.png) 
+![](/images/Departments/Humanities/2023%20learning%20festival%201.png)
 
 The history unit set up a booth to  let the students bask in a board game that is created in house by Deyi’s Secondary a while ago,. This game encourages students to learn more about Singapore’s history and development based on the familiar snakes and ladders game. Students get to learn more Singapore’s exciting journey from a Settlement to a City through by moving through the spaces and through the ‘Uniquely Home’ cards.
 ![](/images/Departments/Humanities/2023%20learning%20festival%202.png)
