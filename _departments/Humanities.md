@@ -45,10 +45,10 @@ Our student councillors had the chance to exchange ideas and collaborate with st
 Deyi Secondary School submitted 3 projects for the RGS Southeast Asia symposium organized in October 2023 by Raffles to promote students agency and interest in Southeast Asia. This symposium showcases students’ artefacts, research work, reflections on Southeast Asia topics. 
 ![](/images/Departments/Humanities/2023%20raffles%20policy%20dialogue.png)
 
-The 3 entries from Deyi Secondary School covers the following topic:
-1. Volunteerism or Obligation? Exploring the motivations of Southeast Asian youths in giving back to the society.
-2. Conflict arising from Natural Disasters in Southeast Asia
-3. Has ASEAN protected refugees?
+The 3 entries from Deyi Secondary School covers the following topic: <br>
+Group 1: Volunteerism or Obligation? Exploring the motivations of Southeast Asian youths in giving back to the society. <br>
+Group 2: Conflict arising from Natural Disasters in Southeast Asia <br>
+Group 3: Has ASEAN protected refugees?
 
 
 
