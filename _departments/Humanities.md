@@ -27,6 +27,9 @@ The Singapore Mobility Gallery provide students with an overview of transport pl
 Extended Fieldwork is a crucial component in the geography syllabus. Students will learn how to conduct research on the topic of Tourism. This learning journey will provide students with an authentic experience of carrying out the geographical fieldwork methods with tourists in Kampong Glam. <br><br>
 
 * GI Fieldwork to Sungei Buloh Wetland Nature Reserve (for Geography Elective students)
+![](/images/Departments/Humanities/2023%20sungei%20buloh%20wetland%20nature%20reserve.png)
+A cross-department learning journey planned by the Biology and Geography Unit for Secondary 3 Pure Biology and Elective Geography students. The learning journey to Sungei Buloh Wetland Reserve will help students gain a deeper appreciation for nature i.e. the adaptive features and biodiversity found at the mangrove. <br><br>
+
 * GI Fieldwork on Tourism at Chinatown for Sec 4 Geography Students
 
 **Participation in Competition/Dialogues and Forums:**  <br>
