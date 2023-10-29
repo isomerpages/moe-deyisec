@@ -30,7 +30,7 @@ In addition, by incorporating inquiry-based learning as a key pedagogy, we empow
 <br><br>
 
 **Other Programmes to excite students in the learning of Humanities:**  <br>
-<u>**Learning Festival** </u><br>
+<u><b>Learning Festival</b></u><br>
 The geography unit set up a booth to encourage students to be environmental stewards by spreading environmental messages to fellow Deyians and to consider the importance of sustainable living. They were given the opportunity to express their creativity in delivering such environmental messages through an artform painted on pebbles given to them.
 ![](/images/Departments/Humanities/2023%20learning%20festival%201.png) 
 
