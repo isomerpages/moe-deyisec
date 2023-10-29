@@ -31,6 +31,9 @@ Extended Fieldwork is a crucial component in the geography syllabus. Students wi
 A cross-department learning journey planned by the Biology and Geography Unit for Secondary 3 Pure Biology and Elective Geography students. The learning journey to Sungei Buloh Wetland Reserve will help students gain a deeper appreciation for nature i.e. the adaptive features and biodiversity found at the mangrove. <br><br>
 
 * GI Fieldwork on Tourism at Chinatown for Sec 4 Geography Students
+![](/images/Departments/Humanities/2023%20gi%20fieldwork%20on%20tourism%20at%20chinatown.png)
+Geographical Investigation is a crucial component in the Geography syllabus. Students will learn how to conduct research on the topic of Tourism. This learning journey will provide students with an authentic experience of carrying out the fieldwork methods with tourists in Chinatown.
+
 
 **Participation in Competition/Dialogues and Forums:**  <br>
 * Raffles Policy Dialogue 2023 on the Hustle culture
