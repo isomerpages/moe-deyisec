@@ -49,8 +49,6 @@ Deyi Secondary School submitted 3 projects for the RGS Southeast Asia symposium 
 
 
 
-| Group | Submission | 
-| -- | -------- |
-|1 |![](/images/Departments/Humanities/2023%20rgs%20symposium%202.png) | 
-|2|![](/images/Departments/Humanities/2023%20rgs%20symposium%203.png)|
-|3|![](/images/Departments/Humanities/2023%20rgs%20symposium%204.png)|
+| Group 1 | Group 2 | Group 3 |
+| -------- | -------- | -------- |
+| ![](/images/Departments/Humanities/2023%20rgs%20symposium%202.png) | ![](/images/Departments/Humanities/2023%20rgs%20symposium%203.png) | ![](/images/Departments/Humanities/2023%20rgs%20symposium%204.png) |
