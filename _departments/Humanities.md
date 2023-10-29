@@ -11,7 +11,7 @@ To engage students in an innovative teaching and learning environment
  
 **Programmes:** <br> 
 Made up of subjects such as History, Geography, and Social Studies, the Humanities curriculum offers students a rich tapestry of knowledge about the world and human societies. Our department adopts a holistic approach that enables learners to connect the past, present, and future, fostering a deep understanding of the forces that shape our societies, countries, and the world. 
-<br>
+<br><br>
 In addition, by incorporating inquiry-based learning as a key pedagogy, we empower students to become active seekers of knowledge, encouraging critical thinking and problem-solving skills. Another key aspect of the learning in Humanities is the Learning Journeys and Fieldwork which enable the students to explore and apply their learning in authentic and practical contexts.  
 
 **Learning Journeys:** <br>
