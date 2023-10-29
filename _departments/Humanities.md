@@ -19,7 +19,18 @@ In addition, by incorporating inquiry-based learning as a key pedagogy, we empow
 ![](/images/Departments/Humanities/2023%20learning%20journey%20to%20sustainable%20singapore%20gallery%20for%20sec%201%20students.png) The Sustainable Singapore Gallery is an interactive gallery showcasing Singapore’s sustainable development. The gallery offers an eco-educational programme designed to introduce students to sustainable issues, solutions, and action plans in a gamified manner with hands-on interactive activities.
 <br><br>
 * Learning Journey to Singapore Mobility Gallery for Sec 2 students
+![](/images/Departments/Humanities/2023%20singapore%20mobility%20gallery.png)
+The Singapore Mobility Gallery provide students with an overview of transport planning in Singapore. Students will enjoy hands-on experience at different interactive exhibits while increasing their awareness of different transport initiatives in Singapore. <br><br>
+
 * GI Fieldwork on Tourism at Kampong Glam (for Pure Geography students)
+
+
+
+
+
+
+
+
 * GI Fieldwork to Sungei Buloh Wetland Nature Reserve (for Geography Elective students)
 * GI Fieldwork on Tourism at Chinatown for Sec 4 Geography Students
 
