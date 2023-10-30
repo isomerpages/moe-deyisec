@@ -41,6 +41,9 @@ Geographical Investigation is a crucial component in the Geography syllabus. Stu
 * Historical Scene Investigation Challenge 2023
 * Humanities-In-Action (HIA) Challenge 2023 by Serangoon Garden Secondary School
 * MOE History Challenge
+* NUS GeoChallenge
+* iTourism by Republic Polytechnic
+* Historical Scene Investigation Challenge 2023 (Silver award)
 <br><br>
 
 **Other Programmes to excite students in the learning of Humanities:**  <br>
