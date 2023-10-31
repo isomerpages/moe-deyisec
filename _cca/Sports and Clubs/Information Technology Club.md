@@ -39,8 +39,8 @@ Every Tuesday and Thursday 2.40 pm – 5.15 pm
     
 **External Events:** 
 * Robocup Singapore 2023 - 1st Placing in Rescue Line Entry U19
-* Innovation, Design and Engineering (IDE) – Robotics 2023
-* National Robotics Competition (NRC) – Sprint and Sumobot 2023
+* Innovation, Design and Engineering (IDE) Robotics - Top 8 position (IDE Sprint)
+* National Robotics Competition (NRC) 2023
 * Our Schools, Our Stories(OSOS) Photo and Video Contest 2022 
 * SenseTime Artificial Intelligence (A.I.) Bootcamp 2022&nbsp;
 * First Lego League (FLL) 2022
