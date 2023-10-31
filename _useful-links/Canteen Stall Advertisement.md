@@ -60,7 +60,7 @@ Requirements           :           Noodles Stall are accepta
 
 ·         Possess catering experience or experience operating in a school environment.
 
-*   Successful applicant will need to apply for a food stall license from Singapore Food Agency (SFA).
-*   Applicants with catering experience or experience operating in a school environment are preferred.
+·         Successful applicant will need to apply for a food stall license from Singapore Food Agency (SFA).
+·         Applicants with catering experience or experience operating in a school environment are preferred.
 
 **Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.**
