@@ -38,7 +38,6 @@ Geographical Investigation is a crucial component in the Geography syllabus. Stu
 **Participation in Competition/Dialogues and Forums:**  <br>
 * Raffles Policy Dialogue 2023 on the Hustle culture
 * RGS Southeast Asia Symposium
-* Historical Scene Investigation Challenge 2023
 * Humanities-In-Action (HIA) Challenge 2023 by Serangoon Garden Secondary School
 * MOE History Challenge
 * NUS GeoChallenge
