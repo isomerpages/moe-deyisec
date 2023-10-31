@@ -5,9 +5,11 @@ description: ""
 ---
 **SCHOOL SITE: SCHOOL CANTEEN ADVERTISEMENT**
 
-Type of Stall              :           Halal Noodles Stall
+Type of Stall 1           :           Halal Noodles Stall
 
-Closing Date             :           16 Aug 2023
+Type of Stall 2           :           Halal Rice Stall
+
+Closing Date             :           8 Dec 2023
 
 Requirements           :           Noodles Stall are acceptable
 
