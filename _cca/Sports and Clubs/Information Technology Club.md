@@ -38,7 +38,7 @@ Every Tuesday and Thursday 2.40 pm – 5.15 pm
 * Hari Raya Celebrations 2022
     
 **External Events:** 
-* Robocup Singapore 2023 - 1ST Placing in Rescue Line Entry U19
+* Robocup Singapore 2023 - 1st Placing in Rescue Line Entry U19
 * Innovation, Design and Engineering (IDE) – Robotics 2023
 * National Robotics Competition (NRC) – Sprint and Sumobot 2023
 * Our Schools, Our Stories(OSOS) Photo and Video Contest 2022 
