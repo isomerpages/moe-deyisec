@@ -38,13 +38,13 @@ Every Tuesday and Thursday 2.40 pm – 5.15 pm
 * Hari Raya Celebrations 2022
     
 **External Events:** 
+* Robocup Singapore 2023 - 1ST Placing in Rescue Line Entry U19
+* Innovation, Design and Engineering (IDE) – Robotics 2023
+* National Robotics Competition (NRC) – Sprint and Sumobot 2023
 * Our Schools, Our Stories(OSOS) Photo and Video Contest 2022 
 * SenseTime Artificial Intelligence (A.I.) Bootcamp 2022&nbsp;
 * First Lego League (FLL) 2022
-* Innovation, Design and Engineering (IDE) – Robotics 2022
-* National Robotics Competition (NRC) – CoderZ Coding Challenge 2022
 * IgnITE Challenge 2021 – Finalist
-* First Lego League 2021
 * &nbsp;Amazon Web Services Data Science Bootcamp 2021
 * Campus Legends Secondary School Esports Competition 2021
 * Nanyang Polytechnic (NYP) e-Science and Technology Challenge 2021
