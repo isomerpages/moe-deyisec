@@ -24,6 +24,7 @@ sections:
       id: infopic
       description: Click the link below for more information
       alt: Image alt text
+      image: /images/Main Page (Announcements)/2024 deyi_open house 2023.jpg
   - resources:
       title: DEYI MEDIA
       button: more
