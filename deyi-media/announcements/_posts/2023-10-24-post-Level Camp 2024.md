@@ -24,6 +24,7 @@ Refer to the links below for more details. <br>
 <br>
 
 # Sec 4/5 Level Camp
-<br>
+Refer to the link below for more details. <br>
+[Sec 4 Camp Briefing Slides (2024)](/files/Useful%20Links/UL%20Parents/Level%20Camps/2024%20sec%204%20level%20camp%20briefing%20slides.pdf)
 <br>
 <br>
