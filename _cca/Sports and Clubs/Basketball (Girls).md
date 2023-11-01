@@ -14,7 +14,7 @@ Left: Outgoing Captain, Shafika Gurung<br>
 
 </p><p align="left">
 "As the basketball captain of Deyi’s team, I am not just a team player but part of a big, supportive family.  I carry a significant responsibility in motivating my teammates. I wouldn’t have been able to lead without the assurance and guidance of my team. I was once fresh, new, and unsure of how I could lead and what it meant to be carrying such a great role. But with communication and assistance from one another, there is nothing we cannot get past. Being a leader has taught me patience but most of all, I learnt how to bring my team together."<br>
-	</p><p align="right">** ~ Shafika Gurung**<br>
+</p><p align="right">** ~ Shafika Gurung**<br>
 
 ![](/images/CCA/Sports%20and%20Clubs/Basketball/2023%20basketball%20team%20and%20alumni.png)<br>
 
