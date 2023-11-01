@@ -5,9 +5,11 @@ description: ""
 ---
 **SCHOOL SITE: SCHOOL CANTEEN ADVERTISEMENT**
 
-Type of Stall              :           Halal Noodles Stall
+Type of Stall 1           :           Halal Noodles Stall
 
-Closing Date             :           16 Aug 2023
+Type of Stall 2           :           Halal Rice Stall
+
+Closing Date             :           8 Dec 2023
 
 Requirements           :           Noodles Stall are acceptable
 
@@ -58,7 +60,8 @@ Requirements           :           Noodles Stall are accepta
 
 ·         Possess catering experience or experience operating in a school environment.
 
-*   Successful applicant will need to apply for a food stall license from Singapore Food Agency (SFA).
-*   Applicants with catering experience or experience operating in a school environment are preferred.
+·         Successful applicant will need to apply for a food stall license from Singapore Food Agency (SFA).
+
+·         Applicants with catering experience or experience operating in a school environment are preferred.
 
 **Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.**
