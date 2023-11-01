@@ -4,7 +4,7 @@ title: Deyi Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Deyi Open House 25th November (Sat) 8am - 3pm (More Information Below)
 sections:
   - hero:
       background: /images/Main Banner/banner-final-combined-vs.gif
