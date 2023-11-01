@@ -23,6 +23,7 @@ sections:
       subtitle: Announcements
       id: infopic
       description: Have a question?
+      alt: Open House
       image: /images/Main Page (Announcements)/2024 deyi_open house 2023.jpg
   - resources:
       title: DEYI MEDIA
