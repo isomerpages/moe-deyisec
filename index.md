@@ -19,11 +19,10 @@ sections:
           description: ""
           url: /useful-links/useful-links-for-teachers/
   - infopic:
-      title: DEYI Open House
+      title: "DEYI Open House "
       subtitle: Announcements
       id: infopic
-      description: Click the link below for more information
-      alt: Image alt text
+      description: Have a question?
       image: /images/Main Page (Announcements)/2024 deyi_open house 2023.jpg
   - resources:
       title: DEYI MEDIA
