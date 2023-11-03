@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Useful Links for Parents.md
-      - Useful Links for Parents/.keep
       - Useful Links for Students.md
       - Useful Links for Teachers.md
       - School Calendar.md
