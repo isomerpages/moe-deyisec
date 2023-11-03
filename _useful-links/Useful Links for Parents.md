@@ -2,6 +2,7 @@
 title: Useful Links for Parents
 permalink: /useful-links/useful-links-for-parents/
 description: ""
+variant: markdown
 ---
 ### Administrative Links:  
 
