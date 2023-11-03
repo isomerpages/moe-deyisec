@@ -9,9 +9,11 @@ variant: markdown
 ---
 # NDP 2023
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="🇸🇬 #NDP2023 🇸🇬: Drum major Caspar and the Deyi Secondary School band #singapore" src="https://www.youtube.com/embed/Gu75wXFKLFQ" height="772" width="1280"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="NDP 2023 Deyi" src="https://www.youtube.com/embed/FlCUjRYMfdc" height="502" width="893"></iframe>
 
-<br><br>
+<br>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Art fiesta 2023" src="https://www.youtube.com/embed/aTjo6kHdj40" height="720" width="1280"></iframe>
+# Art Fiesta 2023
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Art fiesta 2023" src="https://www.youtube.com/embed/aTjo6kHdj40" height="502" width="893"></iframe>
 
