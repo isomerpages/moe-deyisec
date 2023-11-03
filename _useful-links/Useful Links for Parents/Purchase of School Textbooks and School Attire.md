@@ -17,10 +17,8 @@ Website:&nbsp;[http://www.pacificbookstores.com/](http://www.pacificbookstores.c
 					<br>
 					For enquires on the&nbsp;**sales of school attire**, please contact Shanghai School Uniform Pte Ltd.  
 Outlet Address:&nbsp;&nbsp;Shanghai School Uniforms Pte Ltd  
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;63 Ubi Ave 1  
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;#04-01  
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;63@Ubi  
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Singapore 408937  
-Website:&nbsp;&nbsp;[https://shop.shanghai-uniforms.com/product-category/deyi-secondary/](https://shop.shanghai-uniforms.com/product-category/deyi-secondary/)&nbsp;  
+63 Ubi Ave 1 , #04-01  <br>
+63@Ubi  Singapore 408937<br>  
+Website:[https://shop.shanghai-uniforms.com/product-category/deyi-secondary/](https://shop.shanghai-uniforms.com/product-category/deyi-secondary/)&nbsp;  
 Operating Hours: Mon-Sat, 10am - 6pm (Lunch break 1-2pm)  
 Close on Sun, Public Holidays
