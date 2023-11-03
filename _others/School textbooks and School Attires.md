@@ -7,7 +7,7 @@ variant: markdown
 **Purchase of School Textbooks / Attires**  
 Please click –&gt; for textbook list.&nbsp;  
 [DYSS 2024 Textbooks and Stationery List (Sec 2 to 5)](/files/Useful%20Links/UL%20Parents/2024%20dyss%20booklist%20(sec%202%20to%20sec%204).pdf)<br>
-[DYSS Textbooks and Stationery List Instruction Sheet for 2024 Sec 2, 3 and 4](/files/Useful%20Links/UL%20Parents/2024%20dyss%20instructions%20sheet_pg.pdf)
+[DYSS Textbooks and Stationery List Instruction Sheet for 2024 Sec 2, 3 and 4](/files/Useful%20Links/UL%20Parents/2024%20dyss%20instructions%20sheet_pg.pdf) <br>
 For enquires on the&nbsp;**sales of books**, please contact Pacific Bookstores Pte. Ltd<br>
 Address:&nbsp;14 ARUMUGAM ROAD #08-01. LTC BUILDING C, SINGAPORE 409959  
 Website:&nbsp;[http://www.pacificbookstores.com/](http://www.pacificbookstores.com/)  
