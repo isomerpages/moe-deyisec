@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Useful Links for Parents.md
       - UL for Parents/Purchase of School Textbooks and School Attire.md
       - UL for Parents/.keep
       - Useful Links for Students.md
