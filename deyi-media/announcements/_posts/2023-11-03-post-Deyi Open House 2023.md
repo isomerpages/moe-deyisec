@@ -24,6 +24,8 @@ After months of hard work, our Band and Movement &amp; Dance members took at the
 
 
 
-<b><u>Art Fiesta 2023</u></b>
+<b><u>Art Fiesta 2023</u></b><br>
+Deyi’s biennial Arts Fiesta made a spectacular return in April this year. After a pandemic-related hiatus, our performing arts groups were joined by the Art Club and NCC cadets for an evening of stunning and creative performances. 
+
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Art fiesta 2023" src="https://www.youtube.com/embed/aTjo6kHdj40" height="502" width="893"></iframe>
