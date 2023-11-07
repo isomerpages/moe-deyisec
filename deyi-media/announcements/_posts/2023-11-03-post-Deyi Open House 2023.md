@@ -10,6 +10,13 @@ variant: markdown
 Ready to find out more about the Deyi Experience? <br>
 Mark your calendars for 25th November (Sat) 8am – 3pm, and join us at our annual Open House!
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Publicity Video 2023" src="https://www.youtube.com/embed/Ko7z1ygyt38" height="502" width="893"></iframe>
+
+
+
+
+
+
 # NDP 2023
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="NDP 2023 Deyi" src="https://www.youtube.com/embed/FlCUjRYMfdc" height="502" width="893"></iframe>
