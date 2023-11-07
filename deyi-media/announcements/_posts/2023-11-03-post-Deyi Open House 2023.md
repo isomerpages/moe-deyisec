@@ -12,17 +12,17 @@ Mark your calendars for 25th November (Sat) 8am – 3pm, and join us at our annu
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Publicity Video 2023" src="https://www.youtube.com/embed/Ko7z1ygyt38" height="502" width="893"></iframe>
 
+In these videos, our graduating Deyians share some of their favourite memories from their time in our school and what makes the Deyi experience so unique!
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Student Interview Video 2023" src="https://www.youtube.com/embed/h6q7fXqTgf4" height="502" width="893"></iframe>
 
-
-
-
-# NDP 2023
+Other highlights: <br>
+<b><u>NDP 2023</u></b>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="NDP 2023 Deyi" src="https://www.youtube.com/embed/FlCUjRYMfdc" height="502" width="893"></iframe>
 
-<br>
 
-# Art Fiesta 2023
+
+<b><u>Art Fiesta 2023</u></b>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Art fiesta 2023" src="https://www.youtube.com/embed/aTjo6kHdj40" height="502" width="893"></iframe>
