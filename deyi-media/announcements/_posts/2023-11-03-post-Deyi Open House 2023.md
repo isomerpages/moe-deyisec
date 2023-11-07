@@ -7,6 +7,9 @@ description: ""
 image: /images/Main Page (Announcements)/2024 deyi_open house 2023.jpg
 variant: markdown
 ---
+Ready to find out more about the Deyi Experience? <br>
+Mark your calendars for 25th November (Sat) 8am – 3pm, and join us at our annual Open House!
+
 # NDP 2023
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="NDP 2023 Deyi" src="https://www.youtube.com/embed/FlCUjRYMfdc" height="502" width="893"></iframe>
@@ -16,4 +19,3 @@ variant: markdown
 # Art Fiesta 2023
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Art fiesta 2023" src="https://www.youtube.com/embed/aTjo6kHdj40" height="502" width="893"></iframe>
-
