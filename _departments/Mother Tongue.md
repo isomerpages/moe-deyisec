@@ -2,6 +2,7 @@
 title: Mother Tongue
 permalink: /departments/mother-tongue/
 description: ""
+variant: markdown
 ---
 **Vision:** <br>
 Confident Deyians who embrace their own ethnic identity.  
