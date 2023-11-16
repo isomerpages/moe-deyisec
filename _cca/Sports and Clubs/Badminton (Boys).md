@@ -67,4 +67,3 @@ The players are taught to be persistent in terms of perfecting their skills, imp
 
 * Zonal Inter-school Competition 2021 B Division Boys - Top 8
 * Zonal Inter-school Competitions 2019 C Division Boys - Top 8
-
