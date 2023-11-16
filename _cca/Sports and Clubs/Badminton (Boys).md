@@ -25,9 +25,10 @@ In my badminton journey, I played at the school level as well as at other local 
 **Jayden Lew (3 Graciousness)**<br>
 **2022 Deyi Singles Champion**<br>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjFyay7mU6z8MPq7sNhcL_zhQ3HQ5JvqykwprI8gK_SQhT_pOkXoRUAAjgtAC_2PIxvl1R-88wABCL/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjFyay7mU6z8MPq7sNhcL_zhQ3HQ5JvqykwprI8gK_SQhT_pOkXoRUAAjgtAC_2PIxvl1R-88wABCL/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="540" allowfullscreen="true"></iframe>
 
 ![](/images/CCA/Sports%20and%20Clubs/Badminton/IMG_6680.JPG)
+
 ![](/images/CCA/Sports%20and%20Clubs/Badminton/IMG_6704.JPG)
 
 The Deyi Secondary School Badminton CCA is one of the most popular sports in Deyi Secondary school. Badminton is a rigorous and fast-paced sport that develop in our students physical agility, stamina and mental strength which can help them overcome challenges. The sports also help to instil in our students the core schools values of integrity, care and diligence.
