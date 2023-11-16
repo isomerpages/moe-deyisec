@@ -2,6 +2,7 @@
 title: Mother Tongue
 permalink: /departments/mother-tongue/
 description: ""
+variant: markdown
 ---
 **Vision:** <br>
 Confident Deyians who embrace their own ethnic identity.  
@@ -15,11 +16,11 @@ them to apply their language skills as well as to connect with their own cultura
 	
 **MTL Department Key Programmes and Events:**<br>
 
-1.  Mother Tongue Fortnight
+1\.  Mother Tongue Fortnight
     
 Students are exposed to the Chinese, Malay and Indian cultures through a variety of activities for example, calligraphy, opera mask making, Chinese knot-tying, traditional food tasting, dikir barat, kolam art, playing diabolo, etc. These fun, meaningful and authentic learning experiences will help to deepen students’ understanding of their mother tongue languages and enhance their appreciation for the other cultures.
 
-2.  ALP (Journalism and Broadcasting) related project work
+2\.  ALP (Journalism and Broadcasting) related project work
     
 
 *   Radio drama production
@@ -29,7 +30,7 @@ Students are exposed to the Chinese, Malay and Indian cultures through a variety
 *   BookTuber
     
 
-3.  Celebration of traditional festivals:
+3\.  Celebration of traditional festivals:
     
 
 *   Lunar New Year Celebration
@@ -41,7 +42,7 @@ Students are exposed to the Chinese, Malay and Indian cultures through a variety
 *   Deepavali
     
 
-4.  Participation in National Competitions:
+4\.  Participation in National Competitions:
     
 
 *   Create Your Own Newspaper Competition 2023 (Certificate of Participation)
@@ -70,7 +71,7 @@ Students are exposed to the Chinese, Malay and Indian cultures through a variety
     
 
 
-5.  Participation in the activities organised by external organisations:
+5\.  Participation in the activities organised by external organisations:
     
 
 *   “Script-It-Right” Chinese Radio Drama Workshop by UFM 100.3

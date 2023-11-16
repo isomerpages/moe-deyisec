@@ -3,6 +3,7 @@ title: Badminton (Boys)
 permalink: /cca/sports-and-clubs/badminton-boys/
 description: ""
 third_nav_title: Sports and Clubs
+variant: markdown
 ---
 "I love badminton! I am really glad that I chose it as my CCA. It has become my passion. I had a lot of fun playing and training with my fellow CCA mates. I always look forward to my badminton CCA sessions on Tuesday and Thursday.
 
@@ -24,7 +25,6 @@ In my badminton journey, I played at the school level as well as at other local 
 **Jayden Lew (3 Graciousness)**<br>
 **2022 Deyi Singles Champion**<br>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjFyay7mU6z8MPq7sNhcL_zhQ3HQ5JvqykwprI8gK_SQhT_pOkXoRUAAjgtAC_2PIxvl1R-88wABCL/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 The Deyi Secondary School Badminton CCA is one of the most popular sports in Deyi Secondary school. Badminton is a rigorous and fast-paced sport that develop in our students physical agility, stamina and mental strength which can help them overcome challenges. The sports also help to instil in our students the core schools values of integrity, care and diligence.
 
@@ -62,3 +62,5 @@ The players are taught to be persistent in terms of perfecting their skills, imp
 
 * Zonal Inter-school Competition 2021 B Division Boys - Top 8
 * Zonal Inter-school Competitions 2019 C Division Boys - Top 8
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjFyay7mU6z8MPq7sNhcL_zhQ3HQ5JvqykwprI8gK_SQhT_pOkXoRUAAjgtAC_2PIxvl1R-88wABCL/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="540" allowfullscreen="true"></iframe>
