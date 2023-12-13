@@ -35,7 +35,7 @@ sections:
       id: infopic
       description: Want to know more?
       button: Click here to find out
-      url: fe
+      url: /deyi-media/announcements/permalink/sec1eregistration2024/
       image: /images/Main Page (Announcements)/2024_Sec_1_e_Registration.JPG
       alt: Image alt text
 ---
