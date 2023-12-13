@@ -7,4 +7,4 @@ variant: markdown
 ### Useful Information
 
 [2023 Student Resource N Level](/files/Useful%20Links/UL%20Students/2023_Student_Resource_N_Level.pdf)<br>
-[2024 Open House Summary](/files/Useful%20Links/UL%20Students/2024_Open_House_Summary.pdf)<br>[2024 GCE N ADMISSION BOOKLET](/files/Useful%20Links/UL%20Students/2024%20gce%20n%20admission%20booklet.pdf)
+[2024 Open House Summary](/files/Useful%20Links/UL%20Students/2024_Open_House_Summary.pdf)<br>[2024 GCE N Admission Booklet](/files/Useful%20Links/UL%20Students/2024%20gce%20n%20admission%20booklet.pdf)
