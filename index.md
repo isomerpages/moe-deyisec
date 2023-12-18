@@ -19,14 +19,14 @@ sections:
           description: ""
           url: /useful-links/useful-links-for-teachers/
   - infopic:
-      title: DEYI Open House
+      title: Sec 1 e-Registration 2024
       subtitle: Announcements
       id: infopic
-      description: Have a question?
-      alt: Open House
-      image: /images/Main Page (Announcements)/2024 deyi_open house 2023.jpg
-      button: Find out More!
-      url: /deyi-media/announcements/permalink/openhouse2023/
+      description: Want to know more?
+      button: Click here
+      url: /deyi-media/announcements/permalink/sec1eregistration2024/
+      image: /images/Main Page (Announcements)/2024_Sec_1_e_Registration.JPG
+      alt: Image alt text
   - resources:
       title: DEYI MEDIA
       button: more

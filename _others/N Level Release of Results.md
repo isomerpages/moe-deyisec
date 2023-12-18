@@ -2,12 +2,9 @@
 title: N Level Release of Results
 permalink: /others/n-level-release-of-results/
 description: ""
+variant: markdown
 ---
 ### Useful Information
 
-[Student Resource N-Level](/files/Student%20Resource_N-Level.pdf)
-<br>
-[2022 N-Level Briefing Slides](/files/2022%20N-Level%20Briefing%20Slides.pdf)<br>
-[2022 JIT Resource for Students (Registration and Dates)](/files/2022%20JIT%20RESOURCE%20FOR%20STUDENTS%20Registration%20%20Dates.pdf)<br>
-[PFP Factsheet for Students (2023 Intake)](/files/PFP%20Factsheet%20for%20Students%202023%20intake.pdf) <br>
-[DPP Factsheet for Students (2023 Intake)](/files/DPP%20Factsheet%20for%20Students%202023%20intake.pdf) <br>
+[2023 Student Resource N Level](/files/Useful%20Links/UL%20Students/2023_Student_Resource_N_Level.pdf)<br>
+[2024 Open House Summary](/files/Useful%20Links/UL%20Students/2024_Open_House_Summary.pdf)<br>[2024 GCE N Admission Booklet](/files/Useful%20Links/UL%20Students/2024%20gce%20n%20admission%20booklet.pdf)
