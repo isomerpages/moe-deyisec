@@ -1,0 +1,4 @@
+collections:
+  annoucement:
+    output: true
+    order: []
