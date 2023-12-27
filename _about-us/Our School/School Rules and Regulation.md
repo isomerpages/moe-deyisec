@@ -24,12 +24,25 @@ School rules apply within the school premises at all times and during school fun
 * After recess, all students must be in their full school uniform. However, for students who have their PE lesson after recess, they are not required to change into their school uniform. (Note: Students will need to be in their full school uniform with tie when attending assemblies in the hall on Tuesdays and Thursdays.)
 * All students must be in their appropriate PE/CCA attire when reporting and participating in their CCA activities.
 
-lower sec boy
-upper sec boy
-girl uniform
-PE
+![School Rules Uniform Lower Sec Boys](/images/About%20Us/Our%20School/2023_Sch_Rules_Uniform_Lower_Sec_Boy.png)
 
+![School Rules Uniform Upper Sec Boys](/images/About%20Us/Our%20School/2023_Sch_Rules_Uniform_Upper_Sec_Boy.png)
+* Shirt/PE Shirt neatly tucked in.
+* Shorts or long pants worn at waist level.
+* Plain white socks covering the ankles.
+* White colour shoes that may have simple, dark/white coloured patterns/logos. (i.e. blue, black, grey and white)
+* Inner lining should be lightly coloured.
+* White shoe laces
 
+![School Rules Uniform Girls](/images/About%20Us/Our%20School/2023_Sch_Rules_Uniform_Lower_Sec_Girl.png)
+* Blouse neatly tucked in.
+* Skirt must touch the middle of the knee cap.
+* Plain white socks covering the ankles.
+* White colour shoes that may have simple, dark/white coloured patterns/logos. (i.e. blue, black, grey and white)
+* Inner lining should be lightly coloured.
+* White shoe laces
+
+![School Rules Uniform PE Attire](/images/About%20Us/Our%20School/2023_Sch_Rules_Uniform_PE.png)
 
 Sales of School Uniforms
 School uniforms are available for sale:
@@ -47,7 +60,7 @@ School uniforms are available for sale:
 	* Wearing all forms of jewellery and accessories, e.g. caps, piercings (eg: nose and tongue), necklaces, bracelets and rings.
 
 		###### APPROPRIATE HAIRSTYLES FOR BOYS
-picture
+![School. Rules Hairstyle Boys](/images/About%20Us/Our%20School/2023_Sch_Rules_hairstyle_boy.png)
 
 **(i)&nbsp;&nbsp;Boys**
 * Hair must be short; back with a slope.
@@ -57,6 +70,7 @@ picture
 * Ear accessories are not allowed.
 * Facial hair is not allowed. Boys are expected to keep a clean-shaven look at all times.
 
+![School Rules Hairstyles Girls](/images/About%20Us/Our%20School/2023_Sch_Rules_hairstyle_girl.png)
 **(ii)&nbsp;&nbsp;Girls**
 * Hair must not be tinted or dyed.
 * Hair that is longer than the upper end of the collar must be tied up neatly.
@@ -150,3 +164,11 @@ The following are considered very serious offences and may lead to disciplinary 
 * Wilful absenteeism
 * Gambling or betting in any form
 * All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used&nbsp;to cause harm to others.
+
+**7.&nbsp;&nbsp;&nbsp;Table of Minor Offences and Consequences**
+![School Rules Minor Offenses](/images/About%20Us/Our%20School/2023_Sch_Rules_Minor_Offences.png)
+
+**7.&nbsp;&nbsp;&nbsp;Table of Major Offences and Consequences**
+![School Rules Major Offenses1](/images/About%20Us/Our%20School/2023_Sch_Rules_Major_Offences_01.png)
+
+[School Rules Major Offenses2](/images/About%20Us/Our%20School/2023_Sch_Rules_Major_Offences_02.png)
