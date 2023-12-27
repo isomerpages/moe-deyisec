@@ -170,5 +170,4 @@ The following are considered very serious offences and may lead to disciplinary 
 
 **7.&nbsp;&nbsp;&nbsp;Table of Major Offences and Consequences**
 ![School Rules Major Offenses1](/images/About%20Us/Our%20School/2023_Sch_Rules_Major_Offences_01.png)
-
-[School Rules Major Offenses2](/images/About%20Us/Our%20School/2023_Sch_Rules_Major_Offences_02.png)
+![School Rules Major Offenses2](/images/About%20Us/Our%20School/2023_Sch_Rules_Major_Offences_02.png)
