@@ -3,6 +3,7 @@ title: Choir
 permalink: /cca/visual-and-performing-arts/choir/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <center> “In choir I have learnt new singing skills and vocal techniques that greatly improved my
 singing .With the support from my CCA friends, teachers and conductor, I have overcome
@@ -18,7 +19,7 @@ Deyi Choir aims for our students to appreciate the rich traditions of choral mus
 **Teacher -in-charge:** <br>
 Mdm Ng Hwei Sung (OIC) <br>
 Ms Harinder Kaur Dollie (AIC) <br>
-Ms Yvon Chew <br>
+Mr Lim Yu Sim<br> 
 
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday at 2.45 pm - 5.45 pm  
