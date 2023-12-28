@@ -6,8 +6,8 @@ variant: markdown
 ---
 <img src="/images/About%20Us/mr%20chow%202024.jpeg" style="width:50%">
 
-&gt;  “If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.” <br>
-&gt; \- Antoine de Saint-Exupéry <br>
+ “If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.” <br>
+\- Antoine de Saint-Exupéry <br>
 
 Having traversed close to five decades, this year Deyi commemorates its 44th year since its founding in 1980.
 
