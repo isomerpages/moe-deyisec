@@ -3,6 +3,7 @@ title: Green Club
 permalink: /cca/sports-and-clubs/green-club/
 description: ""
 third_nav_title: Sports and Clubs
+variant: markdown
 ---
 ![](/images/CCA/Sports%20and%20Clubs/Green%20Club/Clubs-Green%20Club.jpg)
 <center>
@@ -27,10 +28,10 @@ Green Club Exco
 The Green Club aims to inculcate in its members a sense of love and appreciation for the natural environment that sustains the life of all beings universally as Nature holds the key to our aesthetic, intellectual, and cognitive satisfaction. We hope to achieve this by providing our members with a range of enriching activities that will raise their awareness and concern on environmental issues and events in the school and community. This also creates opportunities for members to cherish Nature and to foster its renewal ensuring its survival. In the process, we hope to make a positive difference for the environment, to advocate an environmentally sustainable lifestyle.
 
 **Teacher-in-charge:** <br>
-Mdm Wong Toi Kuan&nbsp;(OIC) <br>
-Mdm Neo Poh Hong (AIC)&nbsp;<br>
-Miss Dolley Tan <br>
-Miss&nbsp;Tan Shu Fang Vion  
+* Mdm Wong Toi Kuan (OIC) <br>
+* Mdm Neo Poh Hong (OIC) <br>
+* Miss Dolley Tan <br>
+* Miss Tan Shu Fang Vion  
 
   
 **Weekly Schedule:** <br>
