@@ -3,6 +3,7 @@ title: Art Club
 permalink: /cca/visual-and-performing-arts/art-club/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <!--
 <img src="/images/CCA/Visual%20Perf%20Arts/Art%20Club/2022_art%20club_pic1_pag-art%20club.jpg" style="width:25%">
@@ -23,7 +24,6 @@ This mix of traditional and non-traditional mediums allow our students to expres
 Teacher-in-charge: <br>
 Mr Alvin Khoo (OIC) <br>
 Miss Carol Chong (AIC) <br>
-Ms Oh Jia Ling Amelia <br>
 Mr Rahim Shukor  
   
 **Weekly Schedule:** <br>
