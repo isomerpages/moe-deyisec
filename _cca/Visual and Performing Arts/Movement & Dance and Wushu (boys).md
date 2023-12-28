@@ -36,10 +36,10 @@ In the 2023 SYF Arts Presentation judging, our dancers represented the school wi
 
 
 **Teacher-in-charge:** <br>
-Mrs Lee Boon Jer (OIC) <br>
-Mdm Jainul Banu (AIC) <br>
-Miss Zhang Qianwei <br>
-Miss Claire Soh
+* Mrs Lee Boon Jer (OIC) <br>
+* Mdm Jainul Banu (AIC) <br>
+* Miss Zhang Qianwei <br>
+* Miss Claire Soh
 
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.45 pm – 5.45 pm
