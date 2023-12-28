@@ -4,12 +4,12 @@ permalink: /about-us/principals-message/
 description: ""
 variant: markdown
 ---
-*“If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”* <br>
+<img src="/images/About%20Us/mr%20chow%202024.jpeg" style="width:50%">
+
+ *“If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”* <br>
 \- Antoine de Saint-Exupéry
 
 Having traversed close to five decades, this year Deyi commemorates its 44th year since its founding in 1980.
-
-<img src="/images/About%20Us/mr%20chow%202024.jpeg" style="width:50%">
 
 We have much to be thankful for. Through dedicated efforts and innovative fervour, our teachers and staff have nurtured and developed generations of Deyians to be Active Learners and Gracious Citizens of upstanding character, anchored in values that guide them in word and deed. The many alumni who return to give back to the school, share their life experiences and expertise, attest to their love and pride for the school and for their juniors. This is the Deyi Legacy.
 
