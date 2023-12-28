@@ -17,9 +17,9 @@ Sec 3 Resilience
 Deyi Choir aims for our students to appreciate the rich traditions of choral music, demonstrate a strong sense of responsibility, camaraderie, discipline, passion for singing, and develop as student leaders to manage the CCA administratively as well as provide musical directions. They also get to experience what it is like to perform within and outside of school as they strive towards achieving excellent results in competitions.
   
 **Teacher -in-charge:** <br>
-Mdm Ng Hwei Sung (OIC) <br>
-Ms Harinder Kaur Dollie (AIC) <br>
-Mr Lim Yu Sim<br> 
+* Mdm Ng Hwei Sung (OIC) <br>
+* Ms Harinder Kaur Dollie (AIC) <br>
+* Mr Lim Yu Sim<br> 
 
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday at 2.45 pm - 5.45 pm  
