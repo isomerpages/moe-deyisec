@@ -21,12 +21,12 @@ Throughout the years, Deyi St. John has nurtured and guided many cadets who even
   
 This program aims to enable cadets to explore, grow and learn, not only as a leader, but also in integrates individual values teaching relevant soft skills to be applied in both school and workplace environment in the future. Through this program, we seek to provide a platform for every cadet to learn within a stress-free environment and inspire them to bring out the best qualities that they have.  
 
-Teachers-in-charge:&nbsp;<br>
-Mr. Chang Seow Kuen (OIC) <br>
-Mr Koh Yu Han (AIC) <br>
-Mdm Rajakumari <br>
-Miss Hannah Liu <br>
-  
+**Teachers-in-charge:**<br>
+* Mr. Chang Seow Kuen (OIC) <br>
+* Mr Koh Yu Han (AIC) <br>
+* Mdm Rajakumari <br>
+* Miss Hannah Liu <br>
+
   
 **Weekly Schedule:** <br>
 Every Tuesday &amp; Thursday 2.45 pm – 5.45 pm  
