@@ -3,6 +3,7 @@ title: Young Journalists' Club
 permalink: /cca/sports-and-clubs/young-journalists-club/
 description: ""
 third_nav_title: Sports and Clubs
+variant: markdown
 ---
 <img style="width:70%" src="/images/Clubs-Young%20Journalists_%20Club.jpg">
 
@@ -19,7 +20,7 @@ Members of the Young Journalists’ Club embark on an exciting journey into the 
 **Teacher-in-charge:** <br>
 Mrs Sharmiila Singh-Gruber (OIC) <br>
 Miss Tay Wan Ling (AIC) <br>
-Ms Thambusamy Gayathiri <br>
+Miss Pua Jia Ying<br>
 
   
 **Weekly Schedule:** <br>
