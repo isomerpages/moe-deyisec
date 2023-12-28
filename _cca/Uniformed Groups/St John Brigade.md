@@ -3,6 +3,7 @@ title: St John Brigade
 permalink: /cca/uniformed-groups/st-john-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <img style="width:50%" src="/images/UG-SJB.jpg">
 
@@ -22,8 +23,9 @@ This program aims to enable cadets to explore, grow and learn, not only as a lea
 
 Teachers-in-charge:&nbsp;<br>
 Mr. Chang Seow Kuen (OIC) <br>
-Ms. Chew Soo Qing (AIC) <br>
-Mr. Koh Yu Han <br>
+Mr Koh Yu Han (AIC) <br>
+Mdm Rajakumari <br>
+Miss Hannah Liu <br>
   
   
 **Weekly Schedule:** <br>
