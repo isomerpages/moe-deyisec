@@ -21,10 +21,10 @@ Students are engaged through the different art forms such as Batik, Ceramics, Pa
 
 This mix of traditional and non-traditional mediums allow our students to express themselves freely and expand their creativity and resourcefulness. Students in Art Club are exposed to different art styles, artists and art movements through visits to art galleries and museums whenever possible to increase students’ appreciation and awareness of Art.
 
-Teacher-in-charge: <br>
-Mr Alvin Khoo (OIC) <br>
-Miss Carol Chong (AIC) <br>
-Mr Rahim Shukor  
+**Teacher-in-charge:** <br>
+* Mr Alvin Khoo (OIC) <br>
+* Miss Carol Chong (AIC) <br>
+* Mr Rahim Shukor  <br>
   
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.40 pm – 5.15 pm  
