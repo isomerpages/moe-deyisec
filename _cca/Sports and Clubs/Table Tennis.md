@@ -3,6 +3,7 @@ title: Table Tennis
 permalink: /cca/sports-and-clubs/table-tennis/
 description: ""
 third_nav_title: Sports and Clubs
+variant: markdown
 ---
 ![Karl, 2023 Captain](/images/CCA/Sports%20and%20Clubs/Table%20Tennis/karl%20boys%20captain%202023.jpg)
 
@@ -19,7 +20,7 @@ Table Tennis aims to nurture students to become players who are self-confident, 
 **Teacher-in-charge:** <br>
 Ms Jeanette Lee (OIC) <br>
 Mdm Saliha Parveen (AIC) <br>
-Mr Aloysius Tan Yoke Jun  
+Mr Aloysius Tan Yoke Jun  <br>
 
 **Weekly Schedule:** <br>
 Training Details: Every Tuesday and Thursday, 2.50-5.30 pm
