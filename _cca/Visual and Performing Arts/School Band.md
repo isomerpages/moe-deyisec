@@ -14,12 +14,12 @@ A comprehensive training programme has been put in place to build musicianship a
 The Band’s motto, ‘Spirito Obbligato’, was introduced in 1988. It reflects the Band’s commitment to making inspirational music, delightful and accessible to all. At the end of the 4-year journey, we envision to produce independent, skillful, passionate and confident performers in our members.
 
 **Teachers-in-charge:** <br>
-Mr Daniel Pflug (OIC)  <br>
-Ms Ho Si Liang (AIC)  <br> 
-Miss Guo Zhen  (AIC) <br>
-Miss Bertha Kwok <br>
-Miss Shih Kai Lin <br>
-Miss Fatimah Zahra <br>
+* Mr Daniel Pflug (OIC)  <br>
+* Ms Ho Si Liang (AIC)  <br> 
+* Miss Guo Zhen  (AIC) <br>
+* Miss Bertha Kwok <br>
+* Miss Shih Kai Lin <br>
+* Miss Fatimah Zahra <br>
 
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.40 pm – 6.00 pm
