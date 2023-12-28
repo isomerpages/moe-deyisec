@@ -3,6 +3,7 @@ title: Drama Club
 permalink: /cca/visual-and-performing-arts/drama-club/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 Drama, as an art form, transcends all barriers of race, culture and language. Deyi English Drama Club has had many precious memories to experience this diversity in our craft as we explore the human condition in our dramatic works. 
 
@@ -17,7 +18,7 @@ These meaningful opportunities to showcase as well as cultivate one’s skills a
 Teacher-in-charge:
 * Miss Nurain (OIC)
 * Mdm Abirami
-* Mdm Rajakumari
+
 
 Weekly Schedule:
 * Every Tuesday and Thursday 3 – 5:30 pm
