@@ -3,9 +3,9 @@ title: Volleyball (Boys)
 permalink: /cca/sports-and-clubs/volleyball-boys/
 description: ""
 third_nav_title: Sports and Clubs
+variant: markdown
 ---
-<img src="/images/Sports-Volleyball.jpeg" 
-    style="width:30%">
+<img src="/images/Sports-Volleyball.jpeg" style="width:30%">
 
 <center>
 Volleyball has inculcated in me a sense of determination. Being new to the sport, I was initially worried about my progress in terms of skills. I stayed focused and was determined to catch up with my teammates who spurred me on. During training, I will chase after every ball and keep it up, even if it flies out of court. I am thankful to my teachers and teammates who have helped me on this enjoyable journey thus far.  
@@ -30,7 +30,7 @@ In July 2022,&nbsp; the C division Volleyball Championship resume after a 2 year
 **Teacher-in-charge:** <br>
 Mr Tay Eng Leng (OIC) <br>
 Mdm Azlina Bee (AIC) <br>
-Miss&nbsp;Eleanor Wong
+Mdm Letchimee 
 
 **Achievements &amp; Highlights** <br>
 2022 – National School Games South Zone C Volleyball Boys Competition – 3rd Placing
