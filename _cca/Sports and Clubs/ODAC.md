@@ -3,8 +3,8 @@ title: ODAC
 permalink: /cca/sports-and-clubs/odac/
 description: ""
 third_nav_title: Sports and Clubs
+variant: markdown
 ---
-
 ![](/images/CCA/Sports%20and%20Clubs/ODAC/2023%20odac%20cover%20image.jpeg)
 
 <center>
@@ -22,7 +22,7 @@ The students are also brought to local attractions like Gardens by the Bay, Sout
 **Teacher-in-charge:** <br>
 Mr. Wilson Lee (OIC) <br>
 Mr. Lim Heng Lai (AIC) <br>
-Mr Lim Yu Sim  
+Mr Adrian Chong
   
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.50pm – 5.15pm
