@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /contact-us/
 description: ""
+variant: markdown
 ---
 #### How to get here:
 
@@ -20,13 +21,13 @@ Email us at&nbsp;[deyi\_ss@moe.edu.sg](mailto:deyi_ss@moe.edu.sg)
 | English and Literature | Mdm Chan Swee Yin Adeline (HOD) | [chan\_swee\_yin\_adeline@moe.edu.sg](mailto:chan_swee_yin_adeline@moe.edu.sg) |
 | Mother Tongue Language | Mdm Eileen Chia Shu Fen (HOD) | [eileen\_chia\_shu\_fen@moe.edu.sg](mailto:eileen_chia_shu_fen@moe.edu.sg) |
 | Mathematics | Mr Leong Wei Yuan (HOD) | [leong\_wei\_yuan@moe.edu.sg](mailto:leong_wei_yuan@moe.edu.sg) |
-| Science | Mrs Joanne Gan (Covering HOD) | [joanne\_quek\_li\_yi@moe.edu.sg](mailto:joanne_quek_li_yi@moe.edu.sg) |
+| Science | Mr Yeo Chong Keat Rene | [joanne\_quek\_li\_yi@moe.edu.sg](mailto:joanne_quek_li_yi@moe.edu.sg) |
 | Humanities | Mdm Faizah Binte Abu Bakar (HOD) | [faizah\_abu\_bakar@moe.edu.sg](mailto:faizah_abu_bakar@moe.edu.sg) |
 | Craft and Technology | Mr Teng Chion Wee (HOD) | [teng\_chion\_wee@moe.edu.sg](mailto:teng_chion_wee@moe.edu.sg) |
 | Information &amp; Communication Technology | Mr Lau Jeng Sang (HOD) | [lau\_jeng\_sang@moe.edu.sg](mailto:lau_jeng_sang@moe.edu.sg) |
 | PE/CCA | Mr Tan Hwi Kiat (HOD) | [tan\_hwi\_kiat@moe.edu.sg](mailto:tan_hwi_kiat@moe.edu.sg) |
 | Student Well Being | Mr Wong Jinfa (SH) | [jinfa\_wong@moe.edu.sg](mailto:jinfa_wong@moe.edu.sg) |
-| Character and Citizenship Education | Miss Geetha Salgunan (SH) | [geetha\_salgunan@moe.edu.sg](mailto:geetha_salgunan@moe.edu.sg)  |
+| Character and Citizenship Education | Miss Geetha Salgunan (HOD) | [geetha\_salgunan@moe.edu.sg](mailto:geetha_salgunan@moe.edu.sg)  |
 | | | | |
 
 #### Year Heads

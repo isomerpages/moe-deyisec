@@ -3,6 +3,7 @@ title: School Band
 permalink: /cca/visual-and-performing-arts/school-band/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 Renowned for its superb showmanship and innovative performances, the Deyi Marching Band is a household name that is synonymous with excellence. Formed in 1980 and skillfully led since its founding by music director Mrs Chee-Say Ken Shen, the Band has achieved many distinguished awards and outstanding results at the Singapore Youth Festival.
 
@@ -13,12 +14,12 @@ A comprehensive training programme has been put in place to build musicianship a
 The Band’s motto, ‘Spirito Obbligato’, was introduced in 1988. It reflects the Band’s commitment to making inspirational music, delightful and accessible to all. At the end of the 4-year journey, we envision to produce independent, skillful, passionate and confident performers in our members.
 
 **Teachers-in-charge:** <br>
-Miss Bertha Kwok (OIC)  
-Mr Daniel Pflug (OIC)  
-Miss Ho Si Liang (AIC)  
-Miss Pua Jia Ying  
-Miss Guo Zhen  
-Mr Wong Jinfa&nbsp;
+* Mr Daniel Pflug (OIC)  <br>
+* Ms Ho Si Liang (AIC)  <br> 
+* Miss Guo Zhen  (AIC) <br>
+* Miss Bertha Kwok <br>
+* Miss Shih Kai Lin <br>
+* Miss Fatimah Zahra <br>
 
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.40 pm – 6.00 pm

@@ -3,6 +3,7 @@ title: Basketball (Girls)
 permalink: /cca/sports-and-clubs/basketball-girls/
 description: ""
 third_nav_title: Sports and Clubs
+variant: markdown
 ---
 ![Captain of 2022 and 2023](/images/CCA/Sports%20and%20Clubs/Basketball/2023%20basketball%20captains.png)
 
@@ -32,9 +33,10 @@ In the recent South Zone NSG competition, the B Division girls gave their best. 
 We look forward to the continued growth of the Deyi Basketball Girls Team.<br>
 
 **Teacher-in-charge:** <br>
-Mr Derrick Tan (OIC) <br>
-Ms Gladys Wee (AIC) <br>
-Mr Neo Gim Koon <br>
+* Mr Derrick Tan (OIC) <br>
+* Ms Gladys Wee (AIC) <br>
+* Mr Neo Gim Koon <br>
+* Miss Ng Xin Yi
 
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.40pm – 5.45pm

@@ -3,6 +3,7 @@ title: National Police Cadet Corps
 permalink: /cca/uniformed-groups/national-police-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <img src="/images/UG-NPCC.jpeg" style="width:70%">
 
@@ -20,8 +21,7 @@ Deyi NPCC Unit aims to train cadets to be responsible and caring citizens, in al
 Mr Tan Je Wei (OIC) <br>
 Ms Teo Chong Ming (AIC) <br>
 Mdm Siti Farhanah <br>
-Miss Joyce Yee <br>
-Mr Derek Lim  
+Mr Edwin Teo <br>
   
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.40 pm – 5.45 pm  

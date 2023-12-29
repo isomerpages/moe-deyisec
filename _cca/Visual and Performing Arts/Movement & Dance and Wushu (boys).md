@@ -3,6 +3,7 @@ title: Movement & Dance and Wushu (boys)
 permalink: /cca/visual-and-performing-arts/movement-n-dance-and-wushu-boys/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <img style="width:70%" src="/images/CCA/Visual%20Perf%20Arts/Movement%20Dance%20Wushu/2023_mnd_photo2internationaldance.JPG">
 
@@ -35,11 +36,10 @@ In the 2023 SYF Arts Presentation judging, our dancers represented the school wi
 
 
 **Teacher-in-charge:** <br>
-Mrs Lee Boon Jer (OIC) <br>
-Mdm Wee Wan Eng (AIC) <br>
-Mdm Jainul Banu <br>
-Miss Zhang Qianwei <br>
-Miss Claire Soh
+* Mrs Lee Boon Jer (OIC) <br>
+* Mdm Jainul Banu (AIC) <br>
+* Miss Zhang Qianwei <br>
+* Miss Claire Soh
 
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.45 pm – 5.45 pm

@@ -3,6 +3,7 @@ title: Information Technology Club
 permalink: /cca/sports-and-clubs/information-technology-club/
 description: ""
 third_nav_title: Sports and Clubs
+variant: markdown
 ---
 <img style="width:50%" src="/images/Clubs%20-%20IT%20Club.jpg">
 		
@@ -21,10 +22,9 @@ Here in Deyi Secondary School’s Information and Technology (IT) Club, members 
 With the easing of COVID-19 Safe Management Measures, IT Club members were able to participate in various competitions and support the execution of school events, including the Speech Day 2022 and Arts Hour 2022. Through a myriad of events and competitions, our members learn to work together as a team, developing confidence and honing their communication skills in the process.
   
 **Teacher-in-charge:** <br>
-Mr Ang Chip Pin (OIC) <br>
-Mr Wong Choo Kok (AIC) <br>
-Mr Reeve Ng (AIC) <br>
-Mr Jamil (AV Tech) <br>
+* Mr Ang Chip Pin (OIC) <br>
+* Mr Wong Choo Kok (AIC) <br>
+* Mr Reeve Ng (AIC) <br>
 
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.40 pm – 5.15 pm  

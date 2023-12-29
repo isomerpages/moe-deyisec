@@ -3,6 +3,7 @@ title: Football (Girls)
 permalink: /cca/sports-and-clubs/football-girls/
 description: ""
 third_nav_title: Sports and Clubs
+variant: markdown
 ---
 <img style="width:30%" src="/images/CCA/Sports%20and%20Clubs/Football/2023_football_captain1%20.jpg">
 
@@ -18,8 +19,8 @@ The Girls’ Football team was introduced as a CCA in 2006. Our training emphasi
 We were awarded the 'Fair Play Award' for both NSG B and C Division, 2023
 
 **Teacher-in-charge:** <br>
-Miss Jocelyn Oh (OIC) <br>
-Mr Chen Yizhou (AIC) <br>
+Mr Chen Yizhou (OIC) <br>
+Mr  M Ravinthran (AIC)<br>
 Ms Jassika  
   
 **Weekly Schedule:** <br>

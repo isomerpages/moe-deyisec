@@ -31,9 +31,9 @@ The Deyi Secondary School Badminton CCA is one of the most popular sports in Dey
 Practices are held twice a week, every Tuesday and Thursday, at the school sports hall. In addition, the students also participated and achieved at several badminton events in 2023.
   
 **Teacher-in-charge:** <br>
-Mr M Ravinthran (OIC)<br>
-Mr Freddy Goh Teck Seng (AIC)<br>
-Mrs Angie Ho<br>
+* Ms Chew Soo Qing (OIC)<br>
+* Mr Freddy Goh Teck Seng (AIC)<br>
+* Ms Amelia Oh<br>
 
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.40pm – 5.45pm  
