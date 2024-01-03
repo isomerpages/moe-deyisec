@@ -1,0 +1,14 @@
+logo: /images/image-removebg-preview.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Departments
+    collection: departments
+  - title: CCA
+    collection: cca
+  - title: Key Programmes
+    collection: key-programmes
+  - title: Achievements
+    collection: achievements
+  - title: Useful Links
+    collection: useful-links
