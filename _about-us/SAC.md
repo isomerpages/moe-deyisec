@@ -2,5 +2,6 @@
 title: SAC
 permalink: /about-us/sac/
 description: ""
+variant: markdown
 ---
-![](/images/sac%20copy.jpg)
+![](/images/About%20Us/2024%20sac.jpg)
