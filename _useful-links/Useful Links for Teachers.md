@@ -2,6 +2,7 @@
 title: Useful Links for Teachers
 permalink: /useful-links/useful-links-for-teachers/
 description: ""
+variant: markdown
 ---
 ### Administrative Links: 
 * [Ministry of Education Intranet](https://intranet.moe.gov.sg/)
@@ -17,3 +18,6 @@ description: ""
 * [Parents Gateway](https://pg.moe.edu.sg/)   
 * [Resource Booking System](https://rbs.avero-tech.com/)
 * [All Ears Form Builder](https://forms.moe.edu.sg/)
+* [ICT Loan Request Form](https://go.gov.sg/deyiictloan)
+* [AV Request](https://go.gov.sg/deyiavrequest)
+* [Website Update Request](https://go.gov.sg/deyiwebsiterequest)
