@@ -18,15 +18,6 @@ sections:
         - title: For Teachers
           description: ""
           url: /useful-links/useful-links-for-teachers/
-  - infopic:
-      title: Sec 1 e-Registration 2024
-      subtitle: Announcements
-      id: infopic
-      description: Click here for details of the e-Registration.
-      button: Click here
-      url: /deyi-media/announcements/permalink/sec1eregistration2024/
-      image: /images/Main Page (Announcements)/2024_Sec_1_e_Registration.JPG
-      alt: Image alt text
   - resources:
       title: DEYI MEDIA
       button: more
