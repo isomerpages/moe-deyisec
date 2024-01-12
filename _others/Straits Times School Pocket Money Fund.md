@@ -17,7 +17,7 @@ meet the following criteria:
 * e.	Is not concurrently receiving school pocket money from disbursing agencies 
 * f.	Is not concurrently receiving other similar monthly school pocket money schemes (Note that applicants under the MOE Financial Assistance Scheme are eligible)
 * g.	Has not received the maximum 24 months of STSPMF assistance during their entire primary to secondary schooling years or 48 months for post-secondary schooling years. 
-* The closing date to submit the application to the school’s General Office is 29 Jan 2024 (Monday).
+* The closing date to submit the application to the school’s General Office is 26 Jan 2024 (Friday).
 
 <b>Application: <br></b>
 [2024 Straits Times Pocket Money Fund Annex A](/files/Others/2024_st_pkt_money_annex_a.pdf)
