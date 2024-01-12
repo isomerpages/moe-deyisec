@@ -59,7 +59,7 @@ School uniforms are available for sale:
 	* Wearing coloured/fanciful contact lenses or outlandish/tinted&nbsp;&nbsp;spectacles.
 	* Wearing all forms of jewellery and accessories, e.g. caps, piercings (eg: nose and tongue), necklaces, bracelets and rings.
 
-		###### APPROPRIATE HAIRSTYLES FOR BOYS
+#### APPROPRIATE HAIRSTYLES FOR BOYS
 ![School. Rules Hairstyle Boys](/images/About%20Us/Our%20School/2023_Sch_Rules_hairstyle_boy.png)
 
 **(i)&nbsp;&nbsp;Boys**
