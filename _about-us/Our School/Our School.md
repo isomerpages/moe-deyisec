@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### **School History**
 
-Deyi Secondary School (formerly known as Teck Ghee Secondary School) was established in 1980 with the aim of making quality education accessible to the community in the then growing new town of Ang Mo Kio. The school adopted the motto ‘Dedication and Integrity’, with the objective of guiding students to be morally upright and academically driven. Deyi is guided by the philosophy that every child entrusted to the school is a gem, and that the teachers’ role is to help students fulfil their fullest potential and realise their dreams.
+Deyi Secondary School (formerly known as Teck Ghee Secondary School) was established in 1980 with the aim of making quality education accessible to the community in the then growing new town of Ang Mo Kio. The school adopted the motto ‘Dedication and Integrity’, with the objective of guiding students to be morally upright and academically driven.&nbsp;Deyi is guided by the philosophy that every child entrusted to the school is a gem, and that the teachers’ role is to help students fulfil their fullest potential and realise their dreams.
 
 Deyi has a wide range of distinctive programmes including the Active Voice Broadcast Journalism Programme, which introduces students to the basics of broadcasting and journalism, strengthening language literacy, critical thinking and communication skills. Deyi’s AC3TIve Framework provides impetus to the school’s Mi-Ke-Mon curriculum innovation project. It adds a fun twist on language acquisition with engagement in pen-it-down and mike-it-up tasks, which foster the joy of learning across a range of subjects and topics. The school’s arts education seeks to nurture gracious contributing citizens with its signature drama-in-curriculum modules.
 
@@ -28,7 +28,7 @@ Principals:
 
 #### **Key Milestones**
 
-|   |   |
+| &nbsp; | &nbsp; |
 | --- | --- |
 | 1980 | Establishment of Deyi Secondary School. |
 | 1984 | Inaugural Gold Award for Military Band at Singapore Youth Festival. |
@@ -52,3 +52,5 @@ The school crest reflects the broad objective of the school, which is to provide
 The colour white signifies purity and integrity; blue symbolises the persevering Deyi spirit, which is all-pervasive like the sea; and yellow represents the students and staff striving for excellence.
 
 From these emerge individuals of upright character and integrity, who will strive for success in all endeavours.
+
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6rr3ekpoHquHDCj-n_V_D29SgHaRwZSorPsHIGHzOhbMqbnm7Kzxqs2daq0hTrFfhOPUxIgeUwIOY/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
