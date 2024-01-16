@@ -45,7 +45,7 @@ Dedication and Integrity
 
 #### **School Crest**
 
-![](https://moehc.moe.edu.sg/images/deyisec1.jpg)
+<img src="https://moehc.moe.edu.sg/images/deyisec1.jpg" style="width:30%">
 
 The school crest reflects the broad objective of the school, which is to provide an all-round education for its students. This is represented by the circle. The four D’s stand for dedication, determination, diligence and discipline – qualities that will enable students to meet the challenges in life.
 
