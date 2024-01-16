@@ -24,7 +24,8 @@ Principals:
 \- Ms Yap Wah Choo (1999–2003)  
 \- Mrs Grace Chua (2003–2009)  
 \- Mrs Linda Chan (2009–2016)  
-\- Mrs Lim Ai Poo (2016–present)
+\- Mrs Lim Ai Poo (2016–2023) <br>
+\- Mr Chou Weisi (2024-present)
 
 #### **Key Milestones**
 
