@@ -38,3 +38,17 @@ Principals:
 | 2014 | Achieved Best Practice in Character and Citizenship Education. |
 | 2015 | Celebration of 35th anniversary. |
 | 2018 | Completion of indoor sports hall. Mid-autumn homecoming for alumni and ex-staff. |
+
+#### **School Motto**
+
+Dedication and Integrity
+
+#### **School Crest**
+
+![](https://moehc.moe.edu.sg/images/deyisec1.jpg)
+
+The school crest reflects the broad objective of the school, which is to provide an all-round education for its students. This is represented by the circle. The four D’s stand for dedication, determination, diligence and discipline – qualities that will enable students to meet the challenges in life.
+
+The colour white signifies purity and integrity; blue symbolises the persevering Deyi spirit, which is all-pervasive like the sea; and yellow represents the students and staff striving for excellence.
+
+From these emerge individuals of upright character and integrity, who will strive for success in all endeavours.
