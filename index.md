@@ -21,12 +21,4 @@ sections:
   - resources:
       title: DEYI MEDIA
       button: more
-  - infopic:
-      title: Visit to Deyi Secondary School by Minister Chan
-      subtitle: ANNOUNCEMENTS
-      description: Click for more details.
-      button: Link to post
-      url: https://www.facebook.com/100044242728598/posts/561195995365153/?d=n
-      image: /images/282756009_561196555365097_3401749942582365950_n.jpg
-      alt: Image alt text
 ---
