@@ -108,8 +108,8 @@ b. Character and Citizenship Education (CCE)
 **Information for Parents** <br>
 10.&nbsp; &nbsp;Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.  
   
-11.&nbsp; &nbsp;&nbsp;Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/Others/2024_ANNEX_A_Parents_Opt_out_Form_for_SEd_lessons.pdf)The completed form is to be submitted by&nbsp;**03/02/2023**.  
+11.&nbsp; &nbsp;&nbsp;Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/Others/2024_ANNEX_A_Parents_Opt_out_Form_for_SEd_lessons.pdf). The completed form is to be submitted by&nbsp;**31/01/2024**.  
   
-12.&nbsp; &nbsp;&nbsp;Parents who wish to opt their children out of the&nbsp;**e_T_eens programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Others/2024_ANNEX_B_eTeens_Opt_out_Form.pdf). The completed form is to be submitted by&nbsp;**03/02/2023**.  
+12.&nbsp; &nbsp;&nbsp;Parents who wish to opt their children out of the&nbsp;**e_T_eens programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Others/2024_ANNEX_B_eTeens_Opt_out_Form.pdf). The completed form is to be submitted by&nbsp;**31/01/2024**.  
   
 13.&nbsp; &nbsp;&nbsp;Parents can contact the school at&nbsp;deyi_ss@moe.edu.sg&nbsp;or call us at 6456 1565 for discussion or to seek clarification about the school’s sexuality education programme.
