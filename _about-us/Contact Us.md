@@ -10,7 +10,6 @@ Address: 1, ANG MO KIO STREET 42 (569277) <br>
 Tel: 64561565 Fax: 64583364
 
 ![](/images/About%20Us/2024_Deyi_Sec_Google_map_location.png)
-https://www.google.com/maps/place/Deyi+Secondary+School/@1.3662777,103.851441,17.5z/data=!4m6!3m5!1s0x31da16e3b68daeb5:0x4d82fccdd240ab52!8m2!3d1.366291!4d103.8526883!16zL20vMDVoM3N4?entry=ttu
 
 **Nearest MRT Station:**&nbsp;Ang Mo Kio <br>
 Have any feedback or enquiries? We would love to hear from you!&nbsp;<br> 
