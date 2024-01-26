@@ -30,7 +30,7 @@ variant: markdown
 
 You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-**Overview of Deyi Secondary School’s Sexuality Education Programme for 2023**&nbsp;
+**Overview of Deyi Secondary School’s Sexuality Education Programme for 2024**&nbsp;
 
 4.&nbsp;&nbsp; &nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -44,7 +44,7 @@ b. Character and Citizenship Education (CCE)
 
 7.&nbsp;&nbsp; &nbsp;Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 
-**At Deyi Secondary School, the following Sexuality Education lessons will be taught in 2023:**
+**At Deyi Secondary School, the following Sexuality Education lessons will be taught in 2024:**
 
 
 
@@ -97,7 +97,7 @@ b. Character and Citizenship Education (CCE)
 <br><br>
 9.&nbsp;&nbsp; &nbsp;Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.   
   
-**At Deyi Secondary School, the eTeens programme will be implemented as follows in 2023:**
+**At Deyi Secondary School, the eTeens programme will be implemented as follows in 2024:**
 
 | Topics/Lessons | Programme Learning Objectives | Time Period |
 |---|---|---|
