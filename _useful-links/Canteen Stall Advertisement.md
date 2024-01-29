@@ -14,7 +14,7 @@ Closing date: 2 Feb 2024
 Type of Stall 2: Halal Rice Stall
 <br>
 Details for stall 2 can be found [here](/files/Useful%20Links/Cateen%20Advert/2024%20school_site_canteen_advertisement___halal_rice.pdf). <br>
-Closing Date: 9 Feb 2023
+Closing Date: 9 Feb 2024
 
 
 
