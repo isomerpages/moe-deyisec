@@ -12,7 +12,7 @@ variant: markdown
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| [![](/images/CCA/CCA%20Main%20Page/NPCC.png)](https://www.deyisec.moe.edu.sg/cca/uniformed-groups/national-police-cadet-corps/)     | Text     | Text     |
 
 
 
