@@ -9,6 +9,14 @@ variant: markdown
 **_A key part of a student’s secondary school experience._**
 
 
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
+
 ##### Uniformed Groups
 |  |  |  |
 | -------- | -------- | -------- |
