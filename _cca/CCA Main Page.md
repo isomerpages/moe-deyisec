@@ -9,8 +9,8 @@ variant: markdown
 **_A key part of a student’s secondary school experience._**
 
 
-
-| Column 1 | Column 2 | Column 3 |
+**Uniformed Groups**
+|  |  |  |
 | -------- | -------- | -------- |
 | [![](/images/CCA/CCA%20Main%20Page/NPCC.png)](https://www.deyisec.moe.edu.sg/cca/uniformed-groups/national-police-cadet-corps/)     | [![](/images/CCA/CCA%20Main%20Page/NCC.png)](https://www.deyisec.moe.edu.sg/cca/uniformed-groups/national-cadet-corps-land/) | [![](/images/CCA/CCA%20Main%20Page/SJB.png)](https://www.deyisec.moe.edu.sg/cca/uniformed-groups/st-john-brigade/)     |
 
