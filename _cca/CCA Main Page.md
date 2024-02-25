@@ -8,7 +8,7 @@ variant: markdown
 
 **_A key part of a student’s secondary school experience._**
 
-Uniformed Groups
+**Uniformed Groups**
 
 
 |  |  |  |
