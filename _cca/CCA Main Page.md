@@ -17,14 +17,8 @@ variant: markdown
 
 
 
+**Sports and Clubs**
 
-##### Uniformed Groups
-|  |  |  |
-| -------- | -------- | -------- |
-| [![](/images/CCA/CCA%20Main%20Page/NPCC.png)](https://www.deyisec.moe.edu.sg/cca/uniformed-groups/national-police-cadet-corps/) | [![](/images/CCA/CCA%20Main%20Page/NCC.png)](https://www.deyisec.moe.edu.sg/cca/uniformed-groups/national-cadet-corps-land/)     | [![](/images/CCA/CCA%20Main%20Page/SJB.png)](https://www.deyisec.moe.edu.sg/cca/uniformed-groups/st-john-brigade/) |
-
-
-##### Sports and Clubs
 |  |  |  |
 | -------- | -------- | -------- |
 | [![](/images/CCA/CCA%20Main%20Page/Basketball.png)](https://www.deyisec.moe.edu.sg/cca/sports-and-clubs/basketball-girls/) |  [![](/images/CCA/CCA%20Main%20Page/Badminton.png)](https://www.deyisec.moe.edu.sg/cca/sports-and-clubs/badminton-boys/)  |  [![](/images/CCA/CCA%20Main%20Page/Football_Girls.png)](https://www.deyisec.moe.edu.sg/cca/sports-and-clubs/football-girls/) |
@@ -33,7 +27,8 @@ variant: markdown
 | [![](/images/CCA/CCA%20Main%20Page/YJC.png)](https://www.deyisec.moe.edu.sg/cca/sports-and-clubs/young-journalists-club/)  |||
 
 
-##### Visual and Performing Arts
+**Visual and Performing Arts**
+
 |  |  |  |
 | -------- | -------- | -------- |
 | [![](/images/CCA/CCA%20Main%20Page/Art_Club.png)](https://www.deyisec.moe.edu.sg/cca/visual-and-performing-arts/art-club/) | [![](/images/CCA/CCA%20Main%20Page/School_Band.png)](https://www.deyisec.moe.edu.sg/cca/visual-and-performing-arts/school-band/)  | [![](/images/CCA/CCA%20Main%20Page/Choir.png)](https://www.deyisec.moe.edu.sg/cca/visual-and-performing-arts/choir/) |
