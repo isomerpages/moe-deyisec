@@ -2,10 +2,22 @@
 title: CCA Main Page
 permalink: /cca/cca-main-page/
 description: ""
+variant: markdown
 ---
 ### DEYI CO-CURRICULUM
 
 **_A key part of a student’s secondary school experience._**
+
+
+##### Uniformed Groups
+|  |  |  |
+| -------- | -------- | -------- |
+| [![](/images/CCA/CCA%20Main%20Page/NPCC.png)](https://www.deyisec.moe.edu.sg/cca/uniformed-groups/national-police-cadet-corps/) | [![](/images/CCA/CCA%20Main%20Page/NCC.png)](https://www.deyisec.moe.edu.sg/cca/uniformed-groups/national-cadet-corps-land/)     | [![](/images/CCA/CCA%20Main%20Page/SJB.png)](https://www.deyisec.moe.edu.sg/cca/uniformed-groups/st-john-brigade/) |
+
+
+
+
+
 
 ##### Deyi Co-Curricular Programme
 A holistic education provides students with a broad and deep foundation for lifelong learning. This includes learning not just in the academic areas. Equally important is the development of values and life skills in each child. This will equip the child to handle the challenges in life later on.  Co-curricular programme also supports students to discover their strengths, interests and talents.  
