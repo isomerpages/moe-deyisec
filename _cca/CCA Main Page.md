@@ -15,18 +15,20 @@ variant: markdown
 | [![](/images/CCA/CCA%20Main%20Page/NPCC.png)](https://www.deyisec.moe.edu.sg/cca/uniformed-groups/national-police-cadet-corps/) | [![](/images/CCA/CCA%20Main%20Page/NCC.png)](https://www.deyisec.moe.edu.sg/cca/uniformed-groups/national-cadet-corps-land/)     | [![](/images/CCA/CCA%20Main%20Page/SJB.png)](https://www.deyisec.moe.edu.sg/cca/uniformed-groups/st-john-brigade/) |
 
 
-##### Visual and Performing Arts
-|  |  |  |
-| -------- | -------- | -------- |
-| [![](/images/CCA/CCA%20Main%20Page/Art_Club.png)](https://www.deyisec.moe.edu.sg/cca/visual-and-performing-arts/art-club/) | [![](/images/CCA/CCA%20Main%20Page/School_Band.png)](https://www.deyisec.moe.edu.sg/cca/visual-and-performing-arts/school-band/)  | [![](/images/CCA/CCA%20Main%20Page/Choir.png)](https://www.deyisec.moe.edu.sg/cca/visual-and-performing-arts/choir/) |
-|[![](/images/CCA/CCA%20Main%20Page/Drama.png)](https://www.deyisec.moe.edu.sg/cca/visual-and-performing-arts/drama-club/)| [![](/images/CCA/CCA%20Main%20Page/M_and_D_Wushu.png)](https://www.deyisec.moe.edu.sg/cca/visual-and-performing-arts/movement-n-dance-and-wushu-boys/) ||
-
 ##### Sports and Clubs
 |  |  |  |
 | -------- | -------- | -------- |
 | [![](/images/CCA/CCA%20Main%20Page/Basketball.png)](https://www.deyisec.moe.edu.sg/cca/sports-and-clubs/basketball-girls/) |  [![](/images/CCA/CCA%20Main%20Page/Badminton.png)](https://www.deyisec.moe.edu.sg/cca/sports-and-clubs/badminton-boys/)  |  [![](/images/CCA/CCA%20Main%20Page/Football_Girls.png)](https://www.deyisec.moe.edu.sg/cca/sports-and-clubs/football-girls/) |
 |[![](/images/CCA/CCA%20Main%20Page/Volleyball.png)](https://www.deyisec.moe.edu.sg/cca/sports-and-clubs/volleyball-boys/) |  [![](/images/CCA/CCA%20Main%20Page/Track_and_Field.png)](https://www.deyisec.moe.edu.sg/cca/sports-and-clubs/track-n-field/) | [![](/images/CCA/CCA%20Main%20Page/Table_Tennis.png)](https://www.deyisec.moe.edu.sg/cca/sports-and-clubs/table-tennis/) |
-|[![](/images/CCA/CCA%20Main%20Page/ODAC.png)](https://www.deyisec.moe.edu.sg/cca/sports-and-clubs/odac/)  |  |  |
+|[![](/images/CCA/CCA%20Main%20Page/ODAC.png)](https://www.deyisec.moe.edu.sg/cca/sports-and-clubs/odac/)  | [![](/images/CCA/CCA%20Main%20Page/IT_Club.png)](https://www.deyisec.moe.edu.sg/cca/sports-and-clubs/information-technology-club/)  | [![](/images/CCA/CCA%20Main%20Page/Green_Club.png)](https://www.deyisec.moe.edu.sg/cca/sports-and-clubs/green-club/)  |
+| [![](/images/CCA/CCA%20Main%20Page/YJC.png)](https://www.deyisec.moe.edu.sg/cca/sports-and-clubs/young-journalists-club/)  |||
+
+
+##### Visual and Performing Arts
+|  |  |  |
+| -------- | -------- | -------- |
+| [![](/images/CCA/CCA%20Main%20Page/Art_Club.png)](https://www.deyisec.moe.edu.sg/cca/visual-and-performing-arts/art-club/) | [![](/images/CCA/CCA%20Main%20Page/School_Band.png)](https://www.deyisec.moe.edu.sg/cca/visual-and-performing-arts/school-band/)  | [![](/images/CCA/CCA%20Main%20Page/Choir.png)](https://www.deyisec.moe.edu.sg/cca/visual-and-performing-arts/choir/) |
+|[![](/images/CCA/CCA%20Main%20Page/Drama.png)](https://www.deyisec.moe.edu.sg/cca/visual-and-performing-arts/drama-club/)| [![](/images/CCA/CCA%20Main%20Page/M_and_D_Wushu.png)](https://www.deyisec.moe.edu.sg/cca/visual-and-performing-arts/movement-n-dance-and-wushu-boys/) ||
 
 
 ##### Deyi Co-Curricular Programme
