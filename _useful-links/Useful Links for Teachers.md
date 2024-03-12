@@ -21,3 +21,4 @@ variant: markdown
 * [ICT Loan Request Form](https://go.gov.sg/deyiictloan)
 * [AV Request](https://go.gov.sg/deyiavrequest)
 * [Website Update Request](https://go.gov.sg/deyiwebsiterequest)
+* [Digital Signage Content Refresh Request](https://drive.google.com/drive/folders/1N2bZkRZNVkJhkEOczZvGJ8fBNVQM828u?usp=sharing)
