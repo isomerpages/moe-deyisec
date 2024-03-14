@@ -9,12 +9,12 @@ variant: markdown
 Type of Stall 1: Halal Noodles Stall
 <br>
 Details for stall 1 can be found [here](/files/Useful%20Links/Cateen%20Advert/2024%20school_site_canteen_advertisement___halal_noodles.pdf). <br>
-Closing date: 9 Feb 2024
+Closing date: 19 Apr 2024
 
 Type of Stall 2: Halal Rice Stall
 <br>
 Details for stall 2 can be found [here](/files/Useful%20Links/Cateen%20Advert/2024%20school_site_canteen_advertisement___halal_rice.pdf). <br>
-Closing Date: 9 Feb 2024
+Closing Date: 19 Apr 2024
 
 
 
