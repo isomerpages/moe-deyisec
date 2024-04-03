@@ -26,4 +26,4 @@ Implementing the new EL Syllabus 2020 and ongoing professional learning with the
 | -------- | -------- |
 
 
-|![](/images/Departments/English/2024_EL_4___Copy.png) <br>Analyzing the shift: A student presenter discusses declining newspaper readership trends. |
+![](/images/Departments/English/2024_EL_4___Copy.png) <br>Analyzing the shift: A student presenter discusses declining newspaper readership trends. 
