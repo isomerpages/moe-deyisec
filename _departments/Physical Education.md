@@ -4,9 +4,9 @@ permalink: /departments/physical-education/
 description: ""
 variant: tiptap
 ---
-<p><strong>Vision:</strong>
+<p><strong>Vision:</strong> 
 <br>Confident and Active Lifelong Athletes of Character.</p>
-<p><strong>Mission:</strong>
+<p><strong>Mission:</strong> 
 <br>To teach and engage through&nbsp;<strong>Play</strong>. To develop skills
 and nurture character through&nbsp;<strong>Experience</strong>.</p>
 <div class="isomer-image-wrapper">
@@ -121,9 +121,25 @@ but the enduring heart of our school's culture.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/WhatsApp_Image_2024_04_03_at_21_01_42.jpg">
 </div>
-<p>Track Meet 2023</p>
+<p>Teachers' race!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/WhatsApp_Image_2024_04_03_at_21_01_43.jpg">
+</div>
+<p>Getting a well-deserved drink after a race</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/WhatsApp_Image_2024_04_03_at_21_01_42__1_.jpg">
+</div>
+<p>Parents Support Group joining the Track Meet</p>
 </td>
 </tr>
 </tbody>
