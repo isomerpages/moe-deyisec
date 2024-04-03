@@ -14,11 +14,11 @@ and resourcefulness. Platforms to hone public-speaking skills, appreciate
 different art forms and collaborate as a team on school projects are always
 provided to our members, as we recognize the importance of inculcating
 21-Century Competencies in our talents.</p>
-<p><strong>Teachers-in-charge:</strong>
+<p><strong>Teachers-in-charge:</strong> 
 <br>Mr Alvin Khoo (OIC)
 <br>Miss Carol Chong (AIC)
 <br>Ms Oh Jia Ling Amelia</p>
-<p><strong>Weekly Schedule:</strong>
+<p><strong>Weekly Schedule:</strong> 
 <br>Odd Week Tuesdays, Even Week Tuesdays and Even Week Thursdays 2.40 pm
 – 5.15 pm</p>
 <p><strong>Achievements and Highlights:</strong>
@@ -65,7 +65,7 @@ from Class 2 Resilience has emerged Top 3 in this nationwide event.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp; <strong>Aesthetics Day</strong>
+<p><strong>Aesthetics Day</strong>
 </p>
 </li>
 <li>
@@ -87,7 +87,57 @@ Asian art in our students, a learning journey to the National Gallery of
 Singapore was conducted. Volunteer museum curators led our talents into
 various galleries and gave them insights on the various Southeast Asian
 artists’ perspectives on their artworks.</p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/Art%20Club/2023%20art%20club%20pic17.png">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p>Appreciation of South-east Asian art at the National Gallery of Singapore</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p> <strong>Live-on Festival Design Competition (LODC)</strong> - Zhuang Zhiqing
+from Class 2 Resilience has emerged Top 3 in this nationwide event.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/2023 art club pic15.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art installation - National Day 2023</p>
+<p>As a collaborative effort between the Art Club and the National Education
+committee, our talents made use of recyclable materials to create an installation
+art of The Merlion. The student population was invited to paint colourful
+stars on the installation to convey their well-wishes for our nation.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sand Art Performance at the school's Art's Fiesta</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
