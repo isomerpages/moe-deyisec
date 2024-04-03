@@ -108,7 +108,7 @@ artists’ perspectives on their artworks.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p> <strong>Live-on Festival Design Competition (LODC)</strong> - Zhuang Zhiqing
+<p><strong>Live-on Festival Design Competition (LODC)</strong> - Zhuang Zhiqing
 from Class 2 Resilience has emerged Top 3 in this nationwide event.</p>
 </td>
 </tr>
