@@ -2,42 +2,125 @@
 title: Craft & Technology
 permalink: /departments/craft-n-technology/
 description: ""
+variant: tiptap
 ---
-**Vision:** <br>
-Innovative and Enterprising Deyians  
-  
-**Mission:** <br>
-To groom Deyians to be focused and determined in realising their potential through a variety of platforms to make learning relevant and fun.  
-
-**Our Department Philosophy** <br>
-In Deyi, our Aesthetics and Craft Technology department comprises of Art, Drama, Music, Design and Technology, Nutrition and Food Science. The department aims to prepare our students for a balanced and quality lifestyle, developing their critical and creative thinking skills, their appreciation for Arts and design awareness, and making informed food and consumer choices that will help promote a healthy living and lifestyle. Through the focus on experiential learning in the diverse process of artistic creation, the Craft and Technology department crafted our programmes to enhance the students’ 21st century competencies of self-awareness, self-management, social awareness and relationship management.
-
-**Our Curriculum** <br>
-**Art:**&nbsp;<br>
-To inculcate an inquiring mind for our students and develops their self-confidence to solve problems creatively, with an appreciation of the visual arts at different platforms. The curriculum provides opportunities for the students to express their ideas, thoughts and feelings through different visual and tactile mediums.
-
-**Lower Secondary Drama Programme:** <br>
-To develop our students’ ability to empathise with a range of perspectives as they work in groups to devise scenes and embody different characters. Students are also given the opportunity to develop confidence and performative skills in order to clearly present ideas and perspectives through acting, as well as through critical appreciation of their peers’ performances.
-
-**Lower Secondary Music Programme:**&nbsp;<br>
-To develop our students in music appreciation and provide the platform for them to experience critical inquiry through music making. The curriculum provides students with informal practices where they are given the opportunity to mirror the way popular musicians learn and from there, developing the joy of learning on their own using online resources.  
-
-
-**Design and Technology:** <br>
-To develop our students with the ability to solve real-life issues through empathy where they are able to generalise creative and innovative ideas. The curriculum will equip students with the Design Thinking Skills in ideation and development; traditional and digital sketching skills; 3D design and prototyping skills; and technological skills to handle common tools and equipment.
-
-
-**Nutrition and Food Science (Food and Consumer Education / Food and Nutrition):**&nbsp;<br>
-To equip our students with the knowledge about issues on food, health and nutrition so that they will learn to be appreciative about the diversity of food in different cultures. The curriculum will enable and engage students in making informed decisions and apply the right principles on food management, effective resource management and understanding the basics of consumer rights.
-
-
-**Key Programmes** <br>
-1.&nbsp;Art Lower Secondary Ceramic Programme <br>
-2.&nbsp;Art Museum-based Learning Journey <br>
-3.&nbsp;Music Lunchtime Concert (Jam Band) <br>
-4.&nbsp;Music Around the World (Global Instrument) Post Exam Enrichment Programme <br>
-5.&nbsp;Drama Aesthetic Assembly <br>
-6.&nbsp;Elective Music for ABRSM&nbsp;Programme (_Associated Board of the Royal Schools of Music_) <br>
-7.&nbsp;&nbsp;Elective Drama for Trinity Guildhall Exams Preparation (Trinity College London)
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSrJwR1fD6o7sNiqMKqEGrBG4l68cL90U1wkZ31IQr_UOWFPgaqsok4YZZ9z7Qwp27rLf9F_OZkzWHU/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="600" height="500" allowfullscreen="true"></iframe>
+<p><strong>Vision:</strong> 
+<br>Innovative and Enterprising Deyians</p>
+<p><strong>Mission:</strong> 
+<br>To groom Deyians to be focused and determined in realising their potential
+through a variety of platforms to make learning relevant and fun.</p>
+<p><strong>Our Department Philosophy</strong> 
+<br>In Deyi, our Aesthetics, Craft and Technology department comprises of
+Art, Design and Technology, Drama, Music and Nutrition and Food Science.
+The Art curriculum provides opportunities for the students to express their
+ideas, thoughts and feelings through different visual and tactile mediums.
+The Drama curriculum provides students opportunities to work in groups
+to devise scenes and embody different characters through acting as well
+as present perspectives through critical appreciation of their peers’ performances.
+The Music curriculum develops our students in music appreciation and provides
+the platform for them to experience critical inquiry through music making.
+The Design and Technology curriculum equips students with the Design Thinking
+Skills in ideation and development to solve real-life issues; traditional
+and digital sketching skills; 3D design and prototyping skills; and technological
+skills to handle common tools and equipment. The Nutrition and Food Science
+curriculum equips our students with the knowledge about issues on food
+culture, health and nutrition and allows them to apply the right principles
+on food management, consumer rights and effective resource management.</p>
+<p><strong>Key Programmes</strong> 
+<br>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Art Ceramic Programme</strong>
+</p>
+<p>Deyians dive into the world of pottery in Art class.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Open mic lunch time performance</strong>
+</p>
+<p>A group of dedicated students confidently showcase their musical talents,
+filling the space with melodies.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Drama Aesthetic Assembly:</strong>
+</p>
+<p>The Drama Assembly, Fat kids are harder to kidnap featured 31 plays in
+an hour, and the students decide the order! The play performed popular
+topics from current and social issues in Singapore.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Achievement:</strong>
+</p>
+<p>IDEX – A*STAR Sustainable Living award (2024)</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_4.jpg">
+</div>
+<p>Students collaborate in a music Jam session</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_5.jpg">
+</div>
+<p>Students practice the art of coffee making</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_6.jpg">
+</div>
+<p>Students carrying out electronic works</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_7.jpg">
+</div>
+<p>Platform to showcase Design Project</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
