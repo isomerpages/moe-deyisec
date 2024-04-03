@@ -35,10 +35,11 @@ on food management, consumer rights and effective resource management.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Art Ceramic Programme</strong>
 </p>
 <p>Deyians dive into the world of pottery in Art class.</p>
@@ -48,10 +49,11 @@ on food management, consumer rights and effective resource management.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Open mic lunch time performance</strong>
 </p>
 <p>A group of dedicated students confidently showcase their musical talents,
