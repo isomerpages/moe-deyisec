@@ -12,7 +12,16 @@ Implementing the new EL Syllabus 2020 and ongoing professional learning with the
 
 **Key Programmes: <br>**
 
-
 |  |    |
 | -------- | -------- |
 |![](/images/Departments/English/el_1_alp_keppelnights.jpg)    | Applied Learning Programme <br>In-curriculum Applied Learning Programme (ALP) journalism modules including infographics and social issues videos.     |
+
+**Competitions / Achievements: <br>**
+* Value-added in 2020’s GCE NT, NA &amp; O-Levels for English Language.
+* Students showcasing multimodal Writing and Representing digital artefacts using digital tools and apps like Padlet, Notion, Kinemaster, TikTok, and Canva.
+* Teachers' ongoing work with the English Language Institute of Singapore (MOE/ELIS) culminating in sharing at both cluster and national levels.
+
+Highlights: <br>
+|![](/images/Departments/English/2024_EL_2___Copy.png)  | ![](/images/Departments/English/2024_EL_3___Copy.png)  |
+
+
