@@ -69,9 +69,6 @@ filling the space with melodies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_3.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_3.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Drama Aesthetic Assembly:</strong>
@@ -102,18 +99,12 @@ topics from current and social issues in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_4.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_4.jpg">
-</div>
 <p>Students collaborate in a music Jam session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_5.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_5.jpg">
 </div>
 <p>Students practice the art of coffee making</p>
 </td>
@@ -124,18 +115,12 @@ topics from current and social issues in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_6.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_6.jpg">
-</div>
 <p>Students carrying out electronic works</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_7.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_7.jpg">
 </div>
 <p>Platform to showcase Design Project</p>
 </td>
