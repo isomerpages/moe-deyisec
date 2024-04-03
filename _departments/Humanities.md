@@ -22,7 +22,8 @@ critical thinking and problem-solving skills. Another key aspect of the
 learning in Humanities is the Learning Journeys and Fieldwork which enable
 the students to explore and apply their learning in authentic and practical
 contexts.</p>
-<p>Key Programmes:</p>
+<p><strong>Key Programmes:</strong>
+</p>
 <table>
 <tbody>
 <tr>
