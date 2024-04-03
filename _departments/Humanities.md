@@ -32,6 +32,10 @@ contexts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Departments/Humanities/image01.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_square_2.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Learning Journey to Sustainable Singapore Gallery for Sec 1 students</strong>
