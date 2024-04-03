@@ -5,17 +5,10 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: markdown
 ---
-<center> “In choir I have learnt new singing skills and vocal techniques that greatly improved my
-singing .With the support from my CCA friends, teachers and conductor, I have overcome
-challenges faced during sectional practices. This year, choir have done many amazing
-performances and I am proud of our achievements. Choir has helped build my self-
-confidence and I am thankful for all the opportunities that are given to me ”.<br> <br>
-<strong> Yumiko Ng Yee Xiean <br>
-Sec 3 Resilience
-<br><br><br></strong> </center>
+  The Deyi Choir is dedicated to immersing students in the profound beauty and traditions of choral music. Through this enriching journey, students are encouraged to cultivate a deep appreciation for vocal harmony and the collaborative spirit of choir performance. Emphasizing values such as responsibility, camaraderie, discipline, and a passionate dedication to singing, the choir seeks to nurture not just musicians but well-rounded individuals.
 
-Deyi Choir aims for our students to appreciate the rich traditions of choral music, demonstrate a strong sense of responsibility, camaraderie, discipline, passion for singing, and develop as student leaders to manage the CCA administratively as well as provide musical directions. They also get to experience what it is like to perform within and outside of school as they strive towards achieving excellent results in competitions.
-  
+In addition to vocal training, members are given the unique opportunity to develop leadership skills by taking on administrative and musical direction roles within the CCA. This hands-on approach to management and artistic guidance prepares them for leadership in various contexts. Performance opportunities, both within the school and in external venues, offer students the chance to showcase their talent and hard work. As they participate in competitions, the focus remains on achieving excellence and representing their school with pride. Through these experiences, Deyi Choir members embark on a journey of personal growth, artistic expression, and communal achievement.
+
 **Teacher -in-charge:** <br>
 * Mdm Ng Hwei Sung (OIC) <br>
 * Ms Harinder Kaur Dollie (AIC) <br>
@@ -33,8 +26,3 @@ Presentation in 2023, 2019 and 2017
 * Performed at Voices of Singapore Festival at CHIJMES Hall in 2017 and 2019
 * Performed at the school’s CCA Orientation Day, National Day, Chinese New Year Celebration, Speech Day and Art’s Fiesta
 
-![](/images/CCA/Visual%20Perf%20Arts/Choir/image1.jpg)
-![](/images/CCA/Visual%20Perf%20Arts/Choir/image2.jpg)
-![](/images/CCA/Visual%20Perf%20Arts/Choir/image3.jpg)
-![](/images/CCA/Visual%20Perf%20Arts/Choir/image4.jpg)
-![](/images/CCA/Visual%20Perf%20Arts/Choir/image6.jpg)
