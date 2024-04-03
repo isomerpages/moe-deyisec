@@ -26,7 +26,7 @@ contexts.</p>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Departments/Humanities/image01.jpg">
@@ -42,7 +42,7 @@ and action plans in a gamified manner with hands-on interactive activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Humanities/9.jpg">
@@ -58,7 +58,7 @@ initiatives in Singapore.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Humanities/GI_fieldwork.jpg">
 </div>
@@ -74,6 +74,32 @@ out the geographical fieldwork methods with tourists in Kampong Glam.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Competitions / Achievements:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Raffles Policy Dialogue 2023 on the Hustle culture</p>
+</li>
+<li>
+<p>RGS Southeast Asia Symposium</p>
+</li>
+<li>
+<p>Humanities-In-Action (HIA) Challenge 2023 by Serangoon Garden Secondary
+School</p>
+</li>
+<li>
+<p>MOE History Challenge</p>
+</li>
+<li>
+<p>NUS GeoChallenge</p>
+</li>
+<li>
+<p>iTourism by Republic Polytechnic</p>
+</li>
+<li>
+<p>Historical Scene Investigation Challenge 2023 (Silver award)</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Learning Journeys:</strong> 
 <br>
