@@ -5,13 +5,10 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: markdown
 ---
-Renowned for its superb showmanship and innovative performances, the Deyi Marching Band is a household name that is synonymous with excellence. Formed in 1980 and skillfully led since its founding by music director Mrs Chee-Say Ken Shen, the Band has achieved many distinguished awards and outstanding results at the Singapore Youth Festival.
+Since its inception in 1980, the Deyi Marching Band has stood as a beacon of musical excellence under the esteemed leadership of Music Director Mrs. Chee-Say Ken Shen. Celebrated for its remarkable showmanship and trailblazing performances, the band has consistently earned high praise and numerous awards at the Singapore Youth Festival, distinguishing itself as a cornerstone of the school's extracurricular achievements. At the heart of the band's success is a rigorous training program designed to cultivate not only exceptional musicality but also the core values of Dedication, Determination, Diligence, and Discipline. This holistic approach ensures that each member not only excels in their musical endeavors but also embodies the principles that define our school's spirit. The band offers its members a wealth of opportunities to unleash their creative potential and refine their talents through expert tutoring and mentorship. Emphasizing the importance of leadership and personal growth, the Deyi Marching Band operates under the ethos of 'Spirito Obbligato'—a commitment to producing music that inspires and resonates with audiences far and wide. Over a transformative four-year journey, members evolve into independent, skilled, passionate, and confident performers, ready to take their place on any stage. This journey with the Deyi Marching Band is not just about achieving musical prowess but also about forging character, fostering teamwork, and making enduring memories.
 
 ![](/images/CCA/Visual%20Perf%20Arts/School%20Band/img_7957.JPG)
 
-A comprehensive training programme has been put in place to build musicianship and to nurture the school values of Dedication, Determination, Diligence and Discipline in every member. The Band members are given ample opportunities to maximise their creative energy for building character and nurturing their talents through professional tutoring. Here in Deyi Band, every member is a leader where each individual is nurtured in leadership skills, bringing out the leader in them.
-
-The Band’s motto, ‘Spirito Obbligato’, was introduced in 1988. It reflects the Band’s commitment to making inspirational music, delightful and accessible to all. At the end of the 4-year journey, we envision to produce independent, skillful, passionate and confident performers in our members.
 
 **Teachers-in-charge:** <br>
 * Mr Daniel Pflug (OIC)  <br>
@@ -41,12 +38,10 @@ Every Tuesday and Thursday 2.40 pm – 6.00 pm
 * National Day Parade 2019 @ The Padang
 * Deyi Homecoming 2018
 
-![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image01.jpeg) 
 
-![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image02.jpeg) 
+|![](/images/CCA/Visual%20Perf%20Arts/School%20Band/2.jpg) | ![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image03.jpeg) |
+| -------- | -------- | 
+| The Vibrant pulse of the marching band's Symphony      | Deyi's Marching Band    |
+| ![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image02.jpeg) | ![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image01.jpeg) |
+| Capturing a moment with Minister Chan before the spotlight shines. | National Day Parade at the Padang | 
 
-![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image03.jpeg) 
-
-![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image04.jpg)
-
-![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image05.jpeg) <br><br>
