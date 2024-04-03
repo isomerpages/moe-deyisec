@@ -7,7 +7,7 @@ variant: tiptap
 <p><strong>Vision:</strong> 
 <br>To nurture Passionate Learners, Creative Thinkers and Effective Problem
 Solvers
-<br><strong>Mission:</strong>
+<br><strong>Mission:</strong> 
 <br>Exploring new Angles through Mathematics
 <br>
 </p>
@@ -56,21 +56,48 @@ for a POA Quest.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Competitions / Achievements:</strong>
+<p><strong>Competitions / Achievements:</strong> 
 <br>• Raffles Policy Dialogue on the Hustle Culture (2023)</p>
 <p>• Historical Scene Investigation Challenge – Silver Award (2023)
 <br>
 </p>
-<p>|</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A spirited game of 3D Tic-Tac-Toe" src="/images/Departments/Mathematics/2024_Math_Dept_Pic_3_Tic_tac1.jpg">
 </div>
-<p>|</p>
+<p>A spirited game of 3D Tic-Tac-Toe</p>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students take on the challenge of 3D Tic-Tac-Toe" src="/images/Departments/Mathematics/2024_Math_Dept_Pic_4_Tic_Tac2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students take on the challenge of 3D Tic-Tac-Toe." src="/images/Departments/Mathematics/2024_Math_Dept_Pic_4_Tic_Tac2.jpg">
 </div>
-<p>|</p>
-<p>![A spirited game of 3D Tic-Tac-Toe](/images/Departments/Mathematics/2024_Math_Dept_Pic_3_Tic_tac1.jpg
-width="50", height = "50")
-<br>
-</p>
+<p>Students take on the challenge of 3D Tic-Tac-Toe</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
