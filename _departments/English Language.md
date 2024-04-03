@@ -62,21 +62,40 @@ Canva.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/English/2024_EL_2___Copy.png">
 </div>
 <p>
-<br>Student news anchor: Reporting live from school</p>
+<br>
+</p>
 </th>
 <th rowspan="1" colspan="1">
+<p>
+<br>Student news anchor: Reporting live from school</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/English/2024_EL_3___Copy.png">
 </div>
-<p>
-<br>Exploring local tunes: A snapshot of music preferences amongst Singaporeans.</p>
-</th>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Exploring local tunes: A snapshot of music preferences amongst Singaporeans.</strong>
+</p>
+</td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/English/2024_EL_4___Copy.png">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Analyzing the shift: A student presenter discusses declining newspaper readership trends.</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
-<br><strong>Analyzing the shift: A student presenter discusses declining newspaper readership trends.</strong>
+<br>
 </p>
