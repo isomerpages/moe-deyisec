@@ -15,7 +15,4 @@ Implementing the new EL Syllabus 2020 and ongoing professional learning with the
 
 |  |    |
 | -------- | -------- |
-| ![](/images/Departments/English/2024_EL_1.jpg)     | Applied Learning Programme <br>In-curriculum Applied Learning Programme (ALP) journalism modules including infographics and social issues videos.     |
-
-
-
+|![](/images/Departments/English/el_1_alp_keppelnights.jpg)    | Applied Learning Programme <br>In-curriculum Applied Learning Programme (ALP) journalism modules including infographics and social issues videos.     |
