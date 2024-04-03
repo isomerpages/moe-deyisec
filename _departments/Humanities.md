@@ -26,18 +26,10 @@ contexts.</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Humanities/image01.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Departments/Humanities/image01.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,9 +44,32 @@ and action plans in a gamified manner with hands-on interactive activities.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Humanities/9.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Learning Journey to Singapore Mobility Gallery for Sec 2 student</strong>
+</p>
+<p>The Singapore Mobility Gallery provide students with an overview of transport
+planning in Singapore. Students will enjoy hands-on experience at different
+interactive exhibits while increasing their awareness of different transport
+initiatives in Singapore.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Humanities/GI_fieldwork.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>GI Fieldwork on Tourism at Kampong Glam (for Pure Geography students</strong>
+</p>
+<p>Extended Fieldwork is a crucial component in the geography syllabus. Students
+will learn how to conduct research on the topic of Tourism. This learning
+journey will provide students with an authentic experience of carrying
+out the geographical fieldwork methods with tourists in Kampong Glam.</p>
 </td>
 </tr>
 </tbody>
@@ -162,7 +177,7 @@ School</p>
 </li>
 </ul>
 <p><strong>Other Programmes to excite students in the learning of Humanities:</strong> 
-<br><strong><u>Learning Festival</u></strong>
+<br><strong><u>Learning Festival</u></strong> 
 <br>The geography unit set up a booth to encourage students to be environmental
 stewards by spreading environmental messages to fellow Deyians and to consider
 the importance of sustainable living. They were given the opportunity to
@@ -180,7 +195,7 @@ the spaces and through the ‘Uniquely Home’ cards.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Humanities/2023%20learning%20festival%202.png">
 </div>
-<p><strong><u>Raffles Policy Dialogue 2023</u></strong>
+<p><strong><u>Raffles Policy Dialogue 2023</u></strong> 
 <br>Theme: Hustle Culture
 <br>A group of student councillors participated in the Raffles Policy Dialogue
 on 8 March 2023. With the theme of ‘Hustle Culture’, the dialogue enabled
