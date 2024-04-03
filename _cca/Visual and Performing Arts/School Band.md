@@ -39,9 +39,9 @@ Every Tuesday and Thursday 2.40 pm – 6.00 pm
 * Deyi Homecoming 2018
 
 
-|![](/images/CCA/Visual%20Perf%20Arts/School%20Band/2.jpg) | ![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image03.jpeg) |
-| -------- | -------- | 
-| The Vibrant pulse of the marching band's Symphony      | Deyi's Marching Band    |
-| ![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image02.jpeg) | ![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image01.jpeg) |
-| Capturing a moment with Minister Chan before the spotlight shines. | National Day Parade at the Padang | 
+|![](/images/CCA/Visual%20Perf%20Arts/School%20Band/2.jpg) <br> The Vibrant pulse of the marching band's Symphony | ![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image02.jpeg) <br>Capturing a moment with Minister Chan before the spotlight shines. |
+| -------- | --------|
 
+ <img src="/images/CCA/Visual%20Perf%20Arts/School%20Band/image03.jpeg" style="width:100%"> Deyi's Marching band at the school quadrangle.
+ 
+![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image01.jpeg) National Day Parade at the Padang
