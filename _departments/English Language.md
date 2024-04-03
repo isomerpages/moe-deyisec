@@ -21,7 +21,10 @@ Implementing the new EL Syllabus 2020 and ongoing professional learning with the
 * Students showcasing multimodal Writing and Representing digital artefacts using digital tools and apps like Padlet, Notion, Kinemaster, TikTok, and Canva.
 * Teachers' ongoing work with the English Language Institute of Singapore (MOE/ELIS) culminating in sharing at both cluster and national levels.
 
-Highlights: <br>
-|![](/images/Departments/English/2024_EL_2___Copy.png)  | ![](/images/Departments/English/2024_EL_3___Copy.png)  |
+**Highlights: <br>**
+|![](/images/Departments/English/2024_EL_2___Copy.png) <br>Student news anchor: Reporting live from school  | ![](/images/Departments/English/2024_EL_3___Copy.png) <br> Exploring local tunes: A snapshot of music preferences amongst Singaporeans. |
+| -------- | -------- |
 
 
+|![](/images/Departments/English/2024_EL_4___Copy.png) <br>Analyzing the shift: A student presenter discusses declining newspaper readership trends. | |
+| -------- | -------- |
