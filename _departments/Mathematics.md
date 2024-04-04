@@ -67,7 +67,7 @@ for a POA Quest.</p>
 </p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Departments/Mathematics/2024_Math_Dept_Pic_3_Tic_tac1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">  </div><div class="isomer-card-description">A spirited game of 3D Tic-Tac-Toe.</div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Departments/Mathematics/2024_Math_Dept_Pic_3_Tic_tac1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">A spirited game of 3D Tic-Tac-Toe.</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
