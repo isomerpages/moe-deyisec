@@ -39,7 +39,7 @@ students (2022)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/2024_Volleyball_pic_1.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/2024_Volleyball_pic_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
