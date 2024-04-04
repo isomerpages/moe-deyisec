@@ -29,7 +29,7 @@ setting the stage for a lifetime of success and camaraderie.</p>
 <br>Mr Aloysius Tan Yoke Jun</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.50 pm – 5.30 pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>Competitions / Achievements:</strong>
+<p><strong>Competitions / Achievements:</strong> 
 <br>• South Zone B Division National School Games Competition B Division Girls:
 4th Placing (2024)
 <br>• South Zone C Division National School Games Competition C Division Girls:
@@ -46,7 +46,7 @@ and Boys: 4th Placing (2022)</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_pic_1.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_pic_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -68,7 +68,7 @@ and Boys: 4th Placing (2022)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_pic_3.png">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_pic_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
