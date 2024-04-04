@@ -30,8 +30,8 @@ of a supportive sports education.</p>
 <br>Mr M Ravinthran (AIC)
 <br>Ms Jassika (SFA Coordinator)</p>
 <p><strong>Weekly Schedule:</strong> 
-<br>Every Tuesday and Thursday 2.45pm – 5.30pm
-<br>Odd Week Friday 3pm – 5pm</p>
+<br>Every Tuesday and Thursday 2.45 pm – 5.30 pm
+<br>Odd Week Friday 3 pm – 5 pm</p>
 <p><strong>Competitions / Achievements: </strong>
 <br>• National School Games B Division Girls’ Football Championship: ‘Fair
 Play Award’ (2023)
