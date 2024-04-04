@@ -27,14 +27,14 @@ ensuring they carry these values forward into their futures.</p>
 <br>Ms Amelia Oh</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40pm – 5.45pm</p>
-<p><strong>Competitions / Achievements:</strong>
+<p><strong>Competitions / Achievements:</strong> 
 <br>• South Zone 2023 Badminton Competition C Division (Boys) - 2nd round
 of the Zonal Inter-School
 <br>• South Zone 2023 Badminton Competition B Division (Boys)
 <br>• S7 Cluster Games held at RI for Sec 1 (Boys)
 <br>Received 3 medals:&nbsp; 2nd position Silver, 3rd position Bronze and
 4th position</p>
-<p><strong>Other Notable Activities:</strong>
+<p><strong>Other Notable Activities:</strong> 
 <br>• South Zone friendly matches held in Deyi with Guangyang Sec and Yio
 Chu Kang Sec
 <br>• Deyi Open Tournament 2023 (B Division and C Division)</p>
