@@ -24,24 +24,20 @@ ensuring they carry these values forward into their futures.</p>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Ms Chew Soo Qing (OIC)
 <br>Mr Freddy Goh Teck Seng (AIC)
-<br>Ms Amelia Oh
-<br>
-</p>
+<br>Ms Amelia Oh</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40pm – 5.45pm</p>
-<p><strong>Competitions / Achievements:</strong> 
-</p>
-<p>
+<p><strong>Competitions / Achievements:</strong>
 <br>• South Zone 2023 Badminton Competition C Division (Boys) - 2nd round
-of the Zonal Inter-School</p>
-<p>• South Zone 2023 Badminton Competition B Division (Boys)</p>
-<p>• S7 Cluster Games held at RI for Sec 1 (Boys)</p>
-<p>Received 3 medals: 2nd position Silver, 3rd position Bronze and 4th position</p>
+of the Zonal Inter-School
+<br>• South Zone 2023 Badminton Competition B Division (Boys)
+<br>• S7 Cluster Games held at RI for Sec 1 (Boys)
+<br>Received 3 medals:&nbsp; 2nd position Silver, 3rd position Bronze and
+4th position</p>
 <p><strong>Other Notable Activities:</strong>
-</p>
-<p>• South Zone friendly matches held in Deyi with Guangyang Sec and Yio
-Chu Kang Sec</p>
-<p>• Deyi Open Tournament 2023 (B Division and C Division)</p>
+<br>• South Zone friendly matches held in Deyi with Guangyang Sec and Yio
+Chu Kang Sec
+<br>• Deyi Open Tournament 2023 (B Division and C Division)</p>
 <table>
 <tbody>
 <tr>
@@ -54,7 +50,7 @@ Chu Kang Sec</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_1.jpg">
+<img style="width: 83%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_1.jpg">
 </div>
 </th>
 </tr>
@@ -78,7 +74,7 @@ competition.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_4.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_4.jpg">
 </div>
 </td>
 </tr>
