@@ -13,6 +13,7 @@ in the various arenas of life. Under the tutelage of a dedicated coaching
 staff, our players develop their football prowess within a nurturing and
 secure environment, fostering not only their athletic abilities but also
 their personal growth.
+<br>
 <br>The program is structured to encourage the students' competitive spirit
 and sportsmanship, with our 'B' and 'C' division athletes showcasing their
 skills in national-level interschool tournaments organized by the Football
@@ -20,9 +21,7 @@ Association of Singapore. This high level of play is a testament to our
 players' hard work and the robust training regimen they follow. It is here,
 amidst the thrill of competition and the camaraderie of their team, that
 our girls shine—demonstrating the power of unity and the enduring impact
-of a supportive sports education.
-<br>
-</p>
+of a supportive sports education.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2024 football over-arching pic.jpg">
 </div>
@@ -33,20 +32,60 @@ of a supportive sports education.
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.45pm – 5.30pm
 <br>Odd Week Friday 3pm – 5pm</p>
+<p><strong>Competitions / Achievements: </strong>
+<br>• National School Games B Division Girls’ Football Championship: ‘Fair
+Play Award’ (2023)
+<br>• National School Games C Division Girls’ Football Championship: ‘Fair
+Play Award’ (2023)</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports%20and%20Clubs/Football/2023_football_b%20div%20nsg_2.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2024_Football_Pic_2.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2024_Football_Pic_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pre-game briefing for C Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fair Play Award for C Division Girls</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2024_Football_Pic_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Deyi Football Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports%20and%20Clubs/Football/2023_football_competition3.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports%20and%20Clubs/Football/2023_football_bonding4.jpeg">
-</div>
-<p></p>
