@@ -30,6 +30,8 @@ ensuring they carry these values forward into their futures.</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40pm – 5.45pm</p>
 <p><strong>Competitions / Achievements:</strong> 
+</p>
+<p>
 <br>• South Zone 2023 Badminton Competition C Division (Boys) - 2nd round
 of the Zonal Inter-School</p>
 <p>• South Zone 2023 Badminton Competition B Division (Boys)</p>
@@ -45,16 +47,20 @@ Chu Kang Sec</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_2.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_1.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024 ‘B’ Division Boys</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,9 +71,23 @@ competition.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_3.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 ‘C’ Division Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton boys</p>
 </td>
 </tr>
 </tbody>
