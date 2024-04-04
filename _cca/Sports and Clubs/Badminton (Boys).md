@@ -50,7 +50,7 @@ Chu Kang Sec
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 83%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_1.jpg">
+<img style="width: 86%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_1.jpg">
 </div>
 </th>
 </tr>
@@ -74,7 +74,7 @@ competition.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_4.jpg">
+<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_4.jpg">
 </div>
 </td>
 </tr>
@@ -88,5 +88,4 @@ competition.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
