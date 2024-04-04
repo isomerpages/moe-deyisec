@@ -26,7 +26,7 @@ ensuring they carry these values forward into their futures.</p>
 <br>Mr Freddy Goh Teck Seng (AIC)
 <br>Ms Amelia Oh</p>
 <p><strong>Weekly Schedule:</strong> 
-<br>Every Tuesday and Thursday 2.40pm – 5.45pm</p>
+<br>Every Tuesday and Thursday 2.40 pm – 5.45 pm</p>
 <p><strong>Competitions / Achievements:</strong> 
 <br>• South Zone 2023 Badminton Competition C Division (Boys) - 2nd round
 of the Zonal Inter-School
