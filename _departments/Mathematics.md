@@ -32,14 +32,18 @@ experience possible. Kudos to all for their outstanding participation!</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/2024_Math_Dept_Pic1.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3D Tic Tac Toe Competition and Tower of Hanoi Competition</strong>
+</p>
+<p>Our Lower Secondary students participated in the Learning Festival’s activities
+such as 3D Tic Tac Toe Competition and Tower of Hanoi Competition where
+students competed on their logical thinking and problem-solving skills.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
