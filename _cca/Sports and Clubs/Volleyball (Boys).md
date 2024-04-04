@@ -30,7 +30,7 @@ Championship (2023)
 (2023)
 <br>• 3rd position in the C Division National School Games South Zone Volleyball
 Championships (2022)</p>
-<p><strong>Other notable activities:</strong> 
+<p><strong>Other Notable Activities:</strong> 
 <br>• Organised the outreach programme to Pei Chun Public School Primary 6
 students (2022)</p>
 <table>
