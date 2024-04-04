@@ -17,7 +17,7 @@ of adversity and be adaptable; always ready to face different opponents.</p>
 <br>Mr Tay Eng Leng (OIC)
 <br>Mdm Azlina Bee (AIC)</p>
 <p><strong>Weekly Schedule:</strong> 
-<br>Every Tuesday and Thursday 2.40pm – 5.45pm
+<br>Every Tuesday and Thursday 2.40 pm – 5.45 pm
 <br>Selected Fridays 1.30 pm – 5.00 pm</p>
 <p><strong>Competitions / Achievements:</strong> 
 <br>• Participated in the National School Games B Division South Zone Volleyball
