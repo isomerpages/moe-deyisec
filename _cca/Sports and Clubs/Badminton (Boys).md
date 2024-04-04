@@ -35,7 +35,7 @@ of the Zonal Inter-School</p>
 <p>• South Zone 2023 Badminton Competition B Division (Boys)</p>
 <p>• S7 Cluster Games held at RI for Sec 1 (Boys)</p>
 <p>Received 3 medals: 2nd position Silver, 3rd position Bronze and 4th position</p>
-<p><strong>Other Notable Activities:</strong> 
+<p><strong>Other Notable Activities:</strong>
 </p>
 <p>• South Zone friendly matches held in Deyi with Guangyang Sec and Yio
 Chu Kang Sec</p>
