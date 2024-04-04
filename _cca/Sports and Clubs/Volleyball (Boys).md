@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports and Clubs
 variant: tiptap
 ---
-<p><strong>Strength of Character, Courageous in Spirit</strong>
+<p><strong>Strength of Character, Courageous in Spirit</strong> 
 <br>In volleyball, players are immersed in a series of engaging activities
 which promotes the spirit of camaraderie. We aim to instil values and mould
 the character of every player. Our training emphasises on discipline, resilience,
@@ -30,7 +30,7 @@ Championship (2023)
 (2023)
 <br>• 3rd position in the C Division National School Games South Zone Volleyball
 Championships (2022)</p>
-<p><strong>Other notable activities:</strong>
+<p><strong>Other notable activities:</strong> 
 <br>• Organised the outreach programme to Pei Chun Public School Primary 6
 students (2022)</p>
 <table>
@@ -39,7 +39,7 @@ students (2022)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/2024_Volleyball_pic_1.jpg">
+<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/2024_Volleyball_pic_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,10 +51,11 @@ students (2022)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>U15 National Volleyball Championship (2<sup>nd</sup> placing)</p>
+<p>U15 National Volleyball Championship
+<br>(2<sup>nd</sup> placing)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deyi Volleyball Open</p>
+<p>Deyi Volleyball Open Championship</p>
 </td>
 </tr>
 <tr>
