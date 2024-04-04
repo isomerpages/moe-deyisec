@@ -21,7 +21,7 @@ events that celebrate their hard work and dedication. Table Tennis at our
 school is not just a sport; it's a journey of personal and communal discovery,
 setting the stage for a lifetime of success and camaraderie.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_Over_arching_pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_table_tennis_over_arching_pic.jpeg">
 </div>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Ms Jeanette Lee (OIC)
