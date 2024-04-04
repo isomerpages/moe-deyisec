@@ -28,34 +28,18 @@ setting the stage for a lifetime of success and camaraderie.</p>
 <br>Mdm Saliha Parveen (AIC)
 <br>Mr Aloysius Tan Yoke Jun</p>
 <p><strong>Weekly Schedule:</strong> 
-<br>Training Details: Every Tuesday and Thursday, 2.50-5.30 pm</p>
-<p><strong>Achievements and Highlights:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2023 South Zone C Division National School Games Competition C Division
-Girls – 3rd Placing</p>
-</li>
-<li>
-<p>2023 South Zone B Division National School Games Competition B Division
-Girls - 4th Placing</p>
-</li>
-<li>
-<p>2022 South Zone C Division National School Games Competition C Division
-Girls – 3rd Placing</p>
-</li>
-<li>
-<p>2022 South Zone B Division National School Games Competition B Division
-Girls and Boys - 4th Placing&nbsp;</p>
-</li>
-<li>
-<p>2019 North Zone C Division&nbsp;Table&nbsp;Tennis&nbsp;Competition&nbsp;C
-Division Girls - 4th&nbsp;Placing</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports%20and%20Clubs/Table%20Tennis/2023_table%20tennis_competition1%20-%20aloysius%20tan%20yoke%20jun.jfif">
-</div>
+<br>Every Tuesday and Thursday 2.50 pm – 5.30 pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong>Competitions / Achievements:</strong>
+<br>• South Zone B Division National School Games Competition B Division Girls:
+4th Placing (2024)
+<br>• South Zone C Division National School Games Competition C Division Girls:
+3rd Placing (2023)
+<br>• South Zone B Division National School Games Competition B Division Girls:
+4th Placing (2023)
+<br>• South Zone C Division National School Games Competition C Division Girls:
+3rd Placing (2022)
+<br>• South Zone B Division National School Games Competition B Division Girls
+and Boys: 4th Placing (2022)</p>
 <table>
 <tbody>
 <tr>
