@@ -33,7 +33,7 @@ and life's myriad paths with poise and tenacity.</p>
 <p><strong>Highlights:</strong>
 </p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2024_ODAC_Pic2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">  </div><div class="isomer-card-description">Trek to Woodlands Waterfront.</div><div class="isomer-card-link">  </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2024_ODAC_Pic2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">Trek to Woodlands Waterfront.</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -45,7 +45,7 @@ and life's myriad paths with poise and tenacity.</p>
 <div class="isomer-card-description">Rest stop at AMK Ave 1 Market.</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2023 odac cover image.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">  </div><div class="isomer-card-description">Trek to Railway Corridor.</div><div class="isomer-card-link">  </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2023 odac cover image.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">Trek to Railway Corridor.</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
