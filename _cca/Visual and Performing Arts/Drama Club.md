@@ -88,17 +88,17 @@ celebrations 2022</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Drama Club/Screenshot_2024_04_05_132329.png">
+</div>
+<p>Farewell Party for Graduating cohort 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Drama Club/Screenshot_2024_04_05_132636.png">
+</div>
+<p>Sec 1 CCA Orientation 2023</p>
 </td>
 </tr>
 </tbody>
