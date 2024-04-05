@@ -23,7 +23,7 @@ for members to shine in both friendly meets and high-stakes national competition
 throughout the year. It's more than a CCA; it's a home where every athlete
 is valued, and every achievement celebrated.</p>
 <p></p>
-<p><strong>Teacher-in-charge:</strong> 
+<p><strong>Teacher-in-charge:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -40,7 +40,7 @@ is valued, and every achievement celebrated.</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40pm – 5.15pm</p>
 <p></p>
-<p><strong>Achievements and Highlights:</strong> 
+<p><strong>Achievements and Highlights:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -48,7 +48,7 @@ is valued, and every achievement celebrated.</p>
 </li>
 <li>
 <p>National School Games 2023 C Girls 100m Semi Finalist: SEAH YU EN KAYLA
-(XIE YU'EN)</p>
+(XIE YU’EN)</p>
 </li>
 <li>
 <p>National School Games 2023 C Boys 200m Semi Finalist: CHING WEI ZHI</p>
@@ -65,7 +65,7 @@ JIAQI)</p>
 </li>
 <li>
 <p>National School Games 2022 B Boys 800m Finals: 3rd Position: Nicholas
-Koh Sheng Kai&nbsp;</p>
+Koh Sheng Kai</p>
 </li>
 <li>
 <p>National School Games 2022 B Boys 1500m Finals: 5th Position: Nicholas
@@ -82,7 +82,7 @@ Koh Sheng Kai</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Track and Field/2023/image1.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description"> </div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Track and Field/2023/image1.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description"></div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -94,7 +94,7 @@ Koh Sheng Kai</p>
 <div class="isomer-card-description"></div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Track and Field/2023/image4.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description"> </div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Track and Field/2023/image4.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description"></div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
