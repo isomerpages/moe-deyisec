@@ -24,6 +24,10 @@ the language used to portray and empathise with the human condition is
 a universal one. Embracing this fact, Deyi English Drama Club would like
 to continue embarking on the journey to discover more characters and chart
 more possibilities to play on stage.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Drama Club/dimage3.jpg">
+</div>
 <p><strong>Teacher-in-charge:</strong>
 </p>
 <ul data-tight="true" class="tight">
