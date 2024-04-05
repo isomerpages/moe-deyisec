@@ -24,7 +24,7 @@ hands-on experience not only hones their journalistic skills but also reinforces
 their role as a vibrant, informed voice among the student body, driving
 forward a culture of care and engagement.</p>
 <p></p>
-<p><strong>Teacher-in-charge:</strong> 
+<p><strong>Teacher-in-charge:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -85,7 +85,7 @@ forward a culture of care and engagement.</p>
 <p></p>
 <p><strong>Highlights</strong>:</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2024_YJC_Pic1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description">SYF 2023 Photo and Video Competition.</div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2024_YJC_Pic1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">SYF 2023 Photo and Video Competition.</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -97,7 +97,7 @@ forward a culture of care and engagement.</p>
 <div class="isomer-card-description">Putting skillsets into practice.</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2024_YJC_Pic3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description">Our YJC Family.</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2024_YJC_Pic3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">Our YJC Family.</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
