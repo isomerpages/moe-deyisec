@@ -37,7 +37,6 @@ of the technological underpinnings of our society.</p>
 </p>
 <p><strong>Highlights:</strong>
 </p>
-<p></p>
 <table>
 <tbody>
 <tr>
