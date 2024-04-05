@@ -10,3 +10,22 @@ but also ensuring the smooth execution of major school events. This practical kn
 
 Aligned with the nation's forward-thinking Smart Nation initiative, the IT Club ventures beyond traditional technology education. Under the mentorship of seasoned robotics experts, our members dive into the fascinating world of robotics, learning to build and program miniature robots. This innovative program not only ignites a passion for science and engineering but also prepares our students for future challenges in a technology-driven world, fostering problem-solving skills, creativity, and a deeper understanding of the technological underpinnings of our society.
 
+**Teachers-in-charge**:<br>
+Mr Ang Chip Pin (OIC)<br>
+Mr Wong Choo Kok (AIC)<br>
+Mr Reeve Ng (AIC)
+
+**Weekly Schedule**: <br>
+Every Tuesday and Thursday 2.40 pm – 5.15 pm
+
+**Competitions / Achievements**: <br>
+Robocup Singapore 2023 – 1st Placing: Rescue Line Entry U19 <br>
+IDE (Innovation, Design and Engineering) Singapore Robotics Competition 2023 <br>
+Top 8 Placing: IDE Sprint <br>
+National Robotics Competition (NRC) 2023 <br>
+‘Our Schools, Our Stories’ Photo Contest 2022 <br>
+
+**Highlights:**
+
+
+
