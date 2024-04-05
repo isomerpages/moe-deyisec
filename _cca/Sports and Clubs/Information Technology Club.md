@@ -43,25 +43,45 @@ of the technological underpinnings of our society.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club/2024_IT_club_pic_1.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club/2024_IT_Club_2.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hall Sound Team in Action</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hall Lighting Team in Action</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club/2024_IT_Club_3.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club/2024_IT_Club_4.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Portable Sound Team in Action</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RoboCup SG 2023</p>
 </td>
 </tr>
 </tbody>
