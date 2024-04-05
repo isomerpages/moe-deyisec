@@ -46,10 +46,11 @@ and Boys: 4th Placing (2022)</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 84%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_pic_1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_pic_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_pic_2.png">
