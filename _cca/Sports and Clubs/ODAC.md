@@ -3,28 +3,61 @@ title: ODAC
 permalink: /cca/sports-and-clubs/odac/
 description: ""
 third_nav_title: Sports and Clubs
-variant: markdown
+variant: tiptap
 ---
-![](/images/CCA/Sports%20and%20Clubs/ODAC/2023%20odac%20cover%20image.jpeg)
-
-<center>
-"Over my three years in ODAC, I have learned to be resilient despite the various challenges I faced, such as the Inter-School Dragon Boat Competition which made me think of giving up multiple times. However, I did not give up and instead remained resilient and continued to do my best."  
-<br><br>
-<strong> Rydon Tan&nbsp;(407) <br>
-ODAC Captain </strong></center>
-	
-Deyi Secondary School’s Outdoor Adventure Club aims to give students the exposure to explore their interest in outdoor activities and hone their skill in outdoor sport. Through training and opportunities to participate in outdoor activities, it will instill our school values such as discipline, determination and resilience. Students also build up their leadership capacity through the organization of the sports and activities that are conducted outdoors.  
-  
-Our outdoor activities promise students fun-filled adventures that encourage them to challenge themselves, step out of their comfort zone and overcome their fears. These then aid the students to hone their confidence and build up their character. ODAC covers both land and sea activities consisting of dragon boating, hiking, camping, navigation and outdoor cooking. We also participate in the annual national dragon boat competition. Under current convid-19 SMM, the students’ activities were restricted to mostly indoor activities, however, they use their creativity and resourcefulness to redesign the training such that the activities are engaging yet intensive enough to prepare them for resumption of the outdoor activities. They have displayed the school core values under the current situation.  
-  
-The students are also brought to local attractions like Gardens by the Bay, Southern Ridges, Green Corridor, National Parks and Sentosa to develop an appreciation for their country’s progress and environment. Through the varied exposure, the CCA strongly instills in the students that nothing can deter them from achieving their goals as long as they strive with a positive attitude.  
-  
-**Teacher-in-charge:** <br>
-Mr. Wilson Lee (OIC) <br>
-Mr. Lim Heng Lai (AIC) <br>
-Mr Adrian Chong
-  
-**Weekly Schedule:** <br>
-Every Tuesday and Thursday 2.50pm – 5.15pm
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhbuT0e1gHZC_RSJqLWoUPaiVbkNtf8_8a2lwFfBCzNVolntyweJX-xeqgNdBwgyjwvTsBlNc-OUDc/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p>At Deyi Secondary School, the Outdoor Adventure Club is a gateway for
+students to delve into the exhilarating world of outdoor pursuits and sports.
+This vibrant club is designed to spark students' curiosity and passion
+for the great outdoors while refining their skills through hands-on experience.
+Our structured training program and the rich array of outdoor activities
+we offer are aimed at embedding the school's core values of Discipline,
+Determination, and Diligence within each student.</p>
+<p>Engagement in the club's diverse events not only nurtures a spirit of
+adventure but also cultivates leadership qualities. Students take the helm
+in organizing sports and outdoor events, learning to lead with confidence
+and creativity. This hands-on approach ensures that members of the Outdoor
+Adventure Club don't just learn about leadership—they live it. They emerge
+from the club empowered, prepared to navigate both nature's challenges
+and life's myriad paths with poise and tenacity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2024_ODAC_Pic1.png">
+</div>
+<p></p>
+<p><strong>Teacher-in-charge:</strong> 
+<br>Mr. Wilson Lee (OIC)
+<br>Mr. Lim Heng Lai (AIC)
+<br>Mr Adrian Chong</p>
+<p><strong>Weekly Schedule:</strong> 
+<br>Every Tuesday and Thursday 2.50pm – 5.15pm</p>
+<p><strong>Highlights:</strong>
+</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2024_ODAC_Pic2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">  </div><div class="isomer-card-description">Trek to Woodlands Waterfront.</div><div class="isomer-card-link">  </div></div></a>
+<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2024_ODAC_Pic3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description">Rest stop at AMK Ave 1 Market.</div>
+<div class="isomer-card-link"></div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2023 odac cover image.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">  </div><div class="isomer-card-description">Trek to Railway Corridor.</div><div class="isomer-card-link">  </div></div></a>
+<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2024_ODAC_Pic4.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description">Laser Quest at Bukit Batok Spam Jom.</div>
+<div class="isomer-card-link"></div>
+</div>
+</a>
+</div>
+<p></p>
+<p></p>
