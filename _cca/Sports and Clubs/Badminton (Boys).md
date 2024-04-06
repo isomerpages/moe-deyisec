@@ -28,16 +28,32 @@ ensuring they carry these values forward into their futures.</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm</p>
 <p><strong>Competitions / Achievements:</strong> 
-<br>• South Zone 2023 Badminton Competition C Division (Boys) - 2nd round
-of the Zonal Inter-School
-<br>• South Zone 2023 Badminton Competition B Division (Boys)
-<br>• S7 Cluster Games held at RI for Sec 1 (Boys)
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>South Zone 2023 Badminton Competition C Division (Boys) - 2nd round of
+the Zonal Inter-School</p>
+</li>
+<li>
+<p>South Zone 2023 Badminton Competition B Division (Boys)</p>
+</li>
+<li>
+<p>S7 Cluster Games held at RI for Sec 1 (Boys)
 <br>Received 3 medals:&nbsp; 2nd position Silver, 3rd position Bronze and
 4th position</p>
+</li>
+</ul>
 <p><strong>Other Notable Activities:</strong> 
-<br>• South Zone friendly matches held in Deyi with Guangyang Sec and Yio
-Chu Kang Sec
-<br>• Deyi Open Tournament 2023 (B Division and C Division)</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>South Zone friendly matches held in Deyi with Guangyang Sec and Yio Chu
+Kang Sec</p>
+</li>
+<li>
+<p>Deyi Open Tournament 2023 (B Division and C Division)</p>
+</li>
+</ul>
 <table>
 <tbody>
 <tr>
