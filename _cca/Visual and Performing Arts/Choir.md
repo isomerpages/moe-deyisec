@@ -43,56 +43,81 @@ achievement.</p>
 </ul>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday at 2.45 pm - 5.45 pm</p>
-<p><strong>Achievements and Highlights:</strong>
+<p><strong>Competitions / Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Attained the Certificate of Accomplishment at Singapore Youth Festival
-Arts Presentation in 2023, 2019 and 2017</p>
+<p>Singapore Youth Festival 2023</p>
 </li>
 <li>
-<p>Participated in Singapore Youth Festival Arts Presentation&nbsp; in 2021</p>
+<p>Arts Presentation for Choir</p>
 </li>
 <li>
-<p>2 groups of students featured in SYFgoesOnline! 2021 ‘ Let’s Jam Together’</p>
-</li>
-<li>
-<p>In-house Production of Choir Concert “ Joyeux” series</p>
-</li>
-<li>
-<p>Performed at Voices of Singapore Festival at CHIJMES Hall in 2017 and
-2019</p>
-</li>
-<li>
-<p>Performed at the school’s CCA Orientation Day, National Day, Chinese New
-Year Celebration, Speech Day and Art’s Fiesta</p>
+<p>Certificate of Accomplishment</p>
 </li>
 </ul>
+<p>Other Notable Activites:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA Carnival Performing Arts Concert</p>
+</li>
+<li>
+<p>Deyi Arts Fiesta</p>
+</li>
+<li>
+<p>Chinese New Year Celebration Concert</p>
+</li>
+<li>
+<p>Deyi Speech Day</p>
+</li>
+<li>
+<p>National Day Celebration Concert</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Highlights:</strong>
+</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>SYF 2023 photos</p>
-</th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Choir/image5.jpg">
 </div>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Choir/image4.jpg">
+</div>
+</th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>SYF (2023)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF (2023)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Choir/image3.jpg">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Choir/image6.jpg">
-</div>
+<p>CCA Carnival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF (2023)</p>
 </td>
 </tr>
 </tbody>
