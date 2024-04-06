@@ -20,19 +20,37 @@ of adversity and be adaptable; always ready to face different opponents.</p>
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm
 <br>Selected Fridays 1.30 pm – 5.00 pm</p>
 <p><strong>Competitions / Achievements:</strong> 
-<br>• Participated in the National School Games B Division South Zone Volleyball
-Championship (2024)
-<br>• Participated in the National School Games B Division South Zone Volleyball
-Championship (2023)
-<br>• Participated in the National School Games C Division South Zone Volleyball
-Championship (2023)
-<br>• 2nd position in the VolleyballAce U15 National Volleyball Championship
-(2023)
-<br>• 3rd position in the C Division National School Games South Zone Volleyball
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participated in the National School Games B Division South Zone Volleyball
+Championship (2024)</p>
+</li>
+<li>
+<p>Participated in the National School Games B Division South Zone Volleyball
+Championship (2023)</p>
+</li>
+<li>
+<p>Participated in the National School Games C Division South Zone Volleyball
+Championship (2023)</p>
+</li>
+<li>
+<p>2nd position in the VolleyballAce U15 National Volleyball Championship
+(2023)</p>
+</li>
+<li>
+<p>3rd position in the C Division National School Games South Zone Volleyball
 Championships (2022)</p>
+</li>
+</ul>
 <p><strong>Other Notable Activities:</strong> 
-<br>• Organised the outreach programme to Pei Chun Public School Primary 6
-students (2022)</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Organised the outreach programme to Pei Chun Public School Primary 6 students
+(2022)</p>
+</li>
+</ul>
 <table>
 <tbody>
 <tr>
