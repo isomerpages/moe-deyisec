@@ -5,17 +5,11 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-<img src="/images/UG-NPCC.jpeg" style="width:70%">
+The Deyi NPCC Unit is committed to molding cadets into responsible and compassionate individuals, aligning with the Ministry of Education's (MOE) desired Student Outcomes. By actively participating in Values-in-Action programmes, such as the Community Safety and Security Project and the Police Youth Ambassador Project, our cadets step into roles that allow them to make meaningful contributions to society, embodying the ideals of being Concerned Citizens and Active Contributors.
 
-<center>
-"Here in the National Police Cadet Corps, I feel that we are expanding our knowledge&nbsp;every training by stepping out of our comfort zone and pushing our boundaries. Through&nbsp;this, we learn resilience, courage and to adapt along the way, I feel that this is useful as&nbsp;these are skills that we need in the future. I appreciate the emphasis on these values&nbsp;and with guidance from our Instructors and Teacher Officers, it helps us be better&nbsp;people with good character.
-<br><br>
-I am glad that I joined this CCA as I have met a unique group of people that I work well&nbsp;with and will remember for life. I will forever treasure the memories, skills, and lessons taught to me. Despite a plethora of CCAs to choose from, I cannot imagine myself in&nbsp;another CCA but NPCC."  
-<br><br>
-<strong> Ang Yu Heng (3DD) </strong></center>
-	
-**Deyi NPCC** <br>
-Deyi NPCC Unit aims to train cadets to be responsible and caring citizens, in alignment with MOE’s Student Outcomes. As such, cadets participate in annual Values-in-Action programmes such as the Community Safety and Security Project and Police Youth Ambassador Project to reach out to the community, enabling them to become Concerned Citizens and Active Contributors. In addition, meaningful activities/courses like Standard First Aid, Kayaking, Cadet Leader Camp are conducted for the cadets to learn life skills and develop their leadership potential so as to become Confident Persons. To enhance and enrich cadets’ experience with Deyi NPCC Unit, courses, educational visits and attachments will also be organised over the span of their secondary school years. These include courses like Civil Defence, Police Knowledge, Crime Scene Investigation, Anti-Narcotics, Road Safety, as well as visits to the Neighbourhood Police Centre, Police Heritage Centre, K9 Unit, Police Coast Guard Unit and Criminal Investigation Department. With integrity, care, diligence, discipline, determination and dedication, Deyi NPCC Unit had been awarded the 13th consecutive year Gold Award for the annual Unit Overall Proficiency Award from the years 2009 – 2021.
+Beyond community engagement, the NPCC Unit at Deyi offers a plethora of activities and courses designed to equip cadets with essential life skills and foster their leadership qualities, guiding them on their journey to becoming confident persons. From Standard First Aid and Kayaking to the Cadet Leader Camp, these experiences are carefully curated to challenge cadets, promote personal growth, and unlock their leadership potential.
+
+To further enrich the cadets' journey, the Deyi NPCC Unit organizes a comprehensive array of courses, educational visits, and attachments throughout their secondary school years. These immersive experiences include specialized courses in Civil Defence, Police Knowledge, Crime Scene Investigation, Anti-Narcotics, and Road Safety, as well as exploratory visits to key law enforcement facilities like the Neighbourhood Police Centre, Police Heritage Centre, K9 Unit, Police Coast Guard Unit, and the Criminal Investigation Department. Each opportunity is designed to expand the cadets' horizons, deepen their understanding of law enforcement, and enhance their NPCC experience.
 
 **Teacher-in-charge:** <br>
 Mr Tan Je Wei (OIC) <br>
@@ -27,38 +21,20 @@ Mr Edwin Teo <br>
 Every Tuesday and Thursday 2.40 pm – 5.45 pm  
   
 **Achievements and Highlights:**  
+-	Distinction Award for Unit Overall Proficiency Award (2022) <br>
+-	SPF-NPCC Badge Award (2023)<br>
+-	Best Unit Cadet Award (2023)<br>
+-	Area NPCC Tic-Tac-Toe Competition – 2nd Position (2023)<br>
+-	Area Bean Bag Toss Competition – 3rd Position (2023)<br>
 
-  
-* Unit Overall Proficiency Award 2022:&nbsp;Distinction Award
-* Unit Overall Proficiency Award 2008 - 2021: Gold
+Other Notable Activities:<br>
+Unit Cohesion <br>
+Inter-Unit 0.22 Revolver Shooting Competition<br>
+Inter-Unit ECSI Competition <br>
+NPCC Annual Parade <br>
+Police Day Parade <br>
+CCA Carnival Parade<br>
+National Day Parade <br>
+Corrupt Practices Investigation Bureau Educational Visit<br>
+CID Conference<br>
 
-* Station Inspector 2023:
-	* SI (NPCC) Danneth Neo Zhi Yuan (Class: 4DL)
-	* SI (NPCC) Law Yu Hang (Class: 4DT)
-
-* SPF-NPCC badge 2023:
-	* SSgt (NPCC) Emma Goh Yi Hern (Class: 4DL)
-	* SSgt (NPCC) Leon Kang (Class: 4IT)
-
-* Best Unit Cadet 2023:
-	*   SSgt (NPCC) Emma Goh Yi Hern (Class: 4DL)
-	*   SSgt (NPCC) Soo Jun Xi (Class: 4DT)
-
-* Revolver 0.38 Shooting Competition:&nbsp;Male Officers’ Team – 5th&nbsp;Position
-
-* Deyi Secondary School Outstanding Cadet Award: SI(NPCC) Sean Ethan Wei Jet (2022, Class: 406)
-
-* NPCC Area Games 2023
-	* Catchy Ball Competition – 1st&nbsp;Position
-	* Tic Tac Toe Competition – 2nd&nbsp;Position
-	* Shooting Competition – 2nd&nbsp;Position
-	* Bean Bag Toss Competition – 3rd&nbsp;Position
-
-* Area 11 Adventure Training Camper 2023
-	* Best Male Camper – LCpl(NPCC) Su Xiangjun Win (Class: 2IT)
-
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="range" src="https://www.youtube.com/embed/u633iNEwsYY" height="359" width="653"></iframe>
-
-<br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTRiRhXZ9c4yhgYsot7_bydbaKopp3LOgGAma585lv6cnxoTQtYCAsayhoyXrTQKx6e8tptqu_SHP9M/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="653" height="405" allowfullscreen="true"></iframe>
