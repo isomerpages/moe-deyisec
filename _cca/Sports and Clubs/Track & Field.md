@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Sports and Clubs
 variant: tiptap
 ---
-<p></p>
 <p>Our Track and Field team represents a dynamic and inclusive CCA, meeting
 every Tuesday and Thursday, offering a diverse range of activities tailored
 to develop athletic prowess and team spirit. Athletes engage in specialized
