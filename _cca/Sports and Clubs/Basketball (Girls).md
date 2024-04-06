@@ -9,7 +9,7 @@ The Basketball Co-Curricular Activity (CCA) at our school is a dynamic program t
 
 As student-athletes ascend through the program, they are continually challenged to expand their skills and embrace leadership roles. The basketball CCA offers a comprehensive experience that transcends traditional sports training. Students engage in inter-school competitions that test their mettle, and leadership endeavors that sharpen their ability to inspire and mobilise others. By their senior year, the students have evolved into emblematic figures of the school's ethos, demonstrating not only advanced basketball prowess but also an unwavering commitment to the values that will empower them to succeed in all walks of life.
 
-
+![](/images/CCA/Sports%20and%20Clubs/Basketball/2024_Basketball_pic_1.png)
 
 **Teacher-in-charge:** <br>
 * Mr Derrick Tan (OIC) <br>
@@ -20,14 +20,13 @@ As student-athletes ascend through the program, they are continually challenged 
 **Weekly Schedule:** <br>
 Every Tuesday and Thursday 2.40pm – 5.45pm
 
-**Achievements and Highlights:**
-* Zonal Inter-school Competitions 2023 C Division Girls – Fourth Placing<br>
-* Zonal Inter-school Competitions 2023 B Division Girls – Second Placing<br>
-* Qualified for Nationals for B and C Division Girls in 2023<br>
-* Zonal Inter-school Competitions 2022 C Division Girls – Third Placing<br>
-* Zonal Inter-school Competitions 2022 B Division Girls – Second Placing<br>
-* Qualified for Nationals for B and C Division Girls in 2022<br>
-* Zonal Inter-school Competitions 2019 B Division Girls – Top 8<br>
-* T- Net Competition C Division Basketball Girls – Second Placing<br>
-* T- Net Competition B Division Basketball Girls – Third Placing<br>
-<p></p>
+**Competitions / Achievements:**
+
+-	Zonal Inter-school Competitions C Division Girls – Fourth Placing (2023)
+-	Zonal Inter-school Competitions B Division Girls – Second Placing (2023)
+-	Qualified for Nationals for B and C Division Girls in (2023)
+-	Zonal Inter-school Competitions C Division Girls – Third Placing (2022)
+-	Zonal Inter-school Competitions B Division Girls – Second Placing (2022)
+-	Qualified for Nationals for B and C Division Girls in (2022)
+
+**Highlights:**
