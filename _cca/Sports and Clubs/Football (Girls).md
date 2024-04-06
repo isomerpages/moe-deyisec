@@ -33,10 +33,17 @@ of a supportive sports education.</p>
 <br>Every Tuesday and Thursday 2.45 pm – 5.30 pm
 <br>Odd Week Friday 3 pm – 5 pm</p>
 <p><strong>Competitions / Achievements: </strong>
-<br>• National School Games B Division Girls’ Football Championship: ‘Fair
-Play Award’ (2023)
-<br>• National School Games C Division Girls’ Football Championship: ‘Fair
-Play Award’ (2023)</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games B Division Girls’ Football Championship: ‘Fair Play
+Award’ (2023)</p>
+</li>
+<li>
+<p>National School Games C Division Girls’ Football Championship: ‘Fair Play
+Award’ (2023)</p>
+</li>
+</ul>
 <table>
 <tbody>
 <tr>
