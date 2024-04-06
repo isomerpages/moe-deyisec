@@ -10,25 +10,28 @@ of musical excellence under the esteemed leadership of Music Director Mrs.
 Chee-Say Ken Shen. Celebrated for its remarkable showmanship and trailblazing
 performances, the band has consistently earned high praise and numerous
 awards at the Singapore Youth Festival, distinguishing itself as a cornerstone
-of the school's extracurricular achievements. At the heart of the band's
-success is a rigorous training program designed to cultivate not only exceptional
-musicality but also the core values of Dedication, Determination, Diligence,
-and Discipline. This holistic approach ensures that each member not only
-excels in their musical endeavors but also embodies the principles that
-define our school's spirit. The band offers its members a wealth of opportunities
-to unleash their creative potential and refine their talents through expert
-tutoring and mentorship. Emphasizing the importance of leadership and personal
-growth, the Deyi Marching Band operates under the ethos of 'Spirito Obbligato'—a
-commitment to producing music that inspires and resonates with audiences
-far and wide. Over a transformative four-year journey, members evolve into
-independent, skilled, passionate, and confident performers, ready to take
-their place on any stage. This journey with the Deyi Marching Band is not
-just about achieving musical prowess but also about forging character,
-fostering teamwork, and making enduring memories.</p>
+of the school's extracurricular achievements.</p>
+<p></p>
+<p>At the heart of the band's success is a rigorous training program designed
+to cultivate not only exceptional musicality but also the core values of
+Dedication, Determination, Diligence, and Discipline. This holistic approach
+ensures that each member not only excels in their musical endeavors but
+also embodies the principles that define our school's spirit. The band
+offers its members a wealth of opportunities to unleash their creative
+potential and refine their talents through expert tutoring and mentorship.</p>
+<p></p>
+<p>Emphasizing the importance of leadership and personal growth, the Deyi
+Marching Band operates under the ethos of 'Spirito Obbligato'—a commitment
+to producing music that inspires and resonates with audiences far and wide.
+Over a transformative four-year journey, members evolve into independent,
+skilled, passionate, and confident performers, ready to take their place
+on any stage. This journey with the Deyi Marching Band is not just about
+achieving musical prowess but also about forging character, fostering teamwork,
+and making enduring memories.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/School%20Band/img_7957.JPG">
 </div>
-<p><strong>Teachers-in-charge:</strong> 
+<p><strong>Teachers-in-charge:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
