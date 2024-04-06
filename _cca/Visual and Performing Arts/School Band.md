@@ -70,7 +70,7 @@ fostering teamwork, and making enduring memories.</p>
 <p>Includes selected Saturday sessions for SYF &amp; Major Events (e.g. NDP)</p>
 </li>
 </ul>
-<p><strong>Achievements:</strong>
+<p><strong>Competitions / Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -112,9 +112,6 @@ Drum Major Award: Liang Jin</p>
 <li>
 <p>National Day Parade 2019 @ The Padang</p>
 </li>
-<li>
-<p>Deyi Homecoming 2018</p>
-</li>
 </ul>
 <table>
 <tbody>
@@ -123,36 +120,38 @@ Drum Major Award: Liang Jin</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/School%20Band/2.jpg">
 </div>
-<p>
-<br>The Vibrant pulse of the marching band's Symphony</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/School%20Band/image02.jpeg">
 </div>
-<p>
-<br>Capturing a moment with Minister Chan before the spotlight shines.</p>
-</th>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/CCA/Visual%20Perf%20Arts/School%20Band/image03.jpeg">
-</div>
-<p>Deyi's Marching band at the school quadrangle.</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>The Vibrant pulse of the marching band's Symphony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Capturing a moment with Minister Chan before the spotlight shines.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/School%20Band/image01.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/image02.jpeg">
 </div>
-<p><strong>National Day Parade 2023 at the Padang</strong>
-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
