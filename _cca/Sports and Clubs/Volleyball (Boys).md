@@ -19,7 +19,7 @@ of adversity and be adaptable; always ready to face different opponents.</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm
 <br>Selected Fridays 1.30 pm – 5.00 pm</p>
-<p><strong>Competitions / Achievements:</strong> 
+<p><strong>Competitions / Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -43,7 +43,7 @@ Championship (2023)</p>
 Championships (2022)</p>
 </li>
 </ul>
-<p><strong>Other Notable Activities:</strong> 
+<p><strong>Other Notable Activities:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
