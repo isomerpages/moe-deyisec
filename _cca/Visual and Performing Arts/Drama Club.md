@@ -73,7 +73,8 @@ celebrations 2022</p>
 <p>National Day ‘The New Normal’ video recording</p>
 </li>
 </ul>
-<p></p>
+<p><strong>Highlights:</strong>
+</p>
 <table>
 <tbody>
 <tr>
