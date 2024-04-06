@@ -123,7 +123,7 @@ Drum Major Award: Liang Jin</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/School%20Band/image02.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/image02.jpeg">
 </div>
 </th>
 </tr>
@@ -137,21 +137,22 @@ Drum Major Award: Liang Jin</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/image02.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/image03.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/2024_Band_pic_1.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Deyi’s Marching Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Day Parade at the Padang</p>
 </td>
 </tr>
 </tbody>
