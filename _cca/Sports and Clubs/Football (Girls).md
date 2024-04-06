@@ -32,7 +32,7 @@ of a supportive sports education.</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.45 pm – 5.30 pm
 <br>Odd Week Friday 3 pm – 5 pm</p>
-<p><strong>Competitions / Achievements: </strong>
+<p><strong>Competitions / Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
