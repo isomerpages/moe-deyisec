@@ -27,7 +27,7 @@ ensuring they carry these values forward into their futures.</p>
 <br>Ms Amelia Oh</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm</p>
-<p><strong>Competitions / Achievements:</strong> 
+<p><strong>Competitions / Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -43,7 +43,7 @@ the Zonal Inter-School</p>
 4th position</p>
 </li>
 </ul>
-<p><strong>Other Notable Activities:</strong> 
+<p><strong>Other Notable Activities:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
