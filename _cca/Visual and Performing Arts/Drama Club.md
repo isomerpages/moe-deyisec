@@ -81,31 +81,39 @@ celebrations 2022</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/Drama%20Club/dimage1.jpg">
 </div>
-<p>SYF 2023 performance</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/Drama%20Club/dimage2.jpg">
 </div>
-<p>SYF 2023 performance</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SYF 2023 performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Drama Club/Screenshot_2024_04_05_132329.png">
 </div>
-<p><strong>Farewell Party for Graduating cohort 2023</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Drama Club/Screenshot_2024_04_05_132636.png">
 </div>
-<p><strong>Sec 1 CCA Orientation 2023</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Farewell Party for Graduating cohort 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 CCA Orientation 2023</p>
 </td>
 </tr>
 </tbody>
