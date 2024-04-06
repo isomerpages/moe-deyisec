@@ -29,33 +29,22 @@ fostering teamwork, and making enduring memories.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/School%20Band/img_7957.JPG">
 </div>
 <p><strong>Teachers-in-charge:</strong> 
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Daniel Pflug (OIC)
-<br>
-</p>
+<p>Mr Daniel Pflug (OIC)</p>
 </li>
 <li>
-<p>Ms Ho Si Liang (AIC)
-<br>
-</p>
+<p>Ms Ho Si Liang (AIC)</p>
 </li>
 <li>
-<p>Miss Guo Zhen (AIC)
-<br>
-</p>
+<p>Miss Guo Zhen (AIC)</p>
 </li>
 <li>
-<p>Miss Bertha Kwok
-<br>
-</p>
+<p>Miss Bertha Kwok</p>
 </li>
 <li>
-<p>Miss Shih Kai Lin
-<br>
-</p>
+<p>Miss Shih Kai Lin</p>
 </li>
 <li>
 <p>Miss Fatimah Zahra
@@ -113,6 +102,8 @@ Drum Major Award: Liang Jin</p>
 <p>National Day Parade 2019 @ The Padang</p>
 </li>
 </ul>
+<p><strong>Highlights:</strong>
+</p>
 <table>
 <tbody>
 <tr>
