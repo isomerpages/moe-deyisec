@@ -34,7 +34,7 @@ Band to perform in the 2023 National Day Parade.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/6.jpg">
 </div>
-<p><strong>Teacher-in-charge:</strong> 
+<p><strong>Teachers-in-charge:</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -59,7 +59,7 @@ Band to perform in the 2023 National Day Parade.</p>
 </ul>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.45 pm – 5.45 pm</p>
-<p><strong>Achievements and Highlights:</strong>
+<p><strong>Competitions / Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -116,19 +116,16 @@ Band to perform in the 2023 National Day Parade.</p>
 </ul>
 <p><strong>Highlights:</strong>
 </p>
-<p></p>
 <table>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/1.jpg">
 </div>
 <p>2023 SYF Dance Item</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/2.jpg">
 </div>
@@ -137,14 +134,12 @@ Band to perform in the 2023 National Day Parade.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/Screenshot_2024_04_05_131952.png">
 </div>
 <p>Wushu Boys Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/4.jpg">
 </div>
