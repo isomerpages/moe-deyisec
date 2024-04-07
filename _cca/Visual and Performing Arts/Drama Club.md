@@ -28,7 +28,7 @@ more possibilities to play on stage.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Drama Club/dimage3.jpg">
 </div>
-<p><strong>Teacher-in-charge:</strong>
+<p><strong>Teachers-in-charge:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -45,7 +45,7 @@ more possibilities to play on stage.</p>
 <p>Every Tuesday and Thursday 3 – 5:30 pm</p>
 </li>
 </ul>
-<p><strong>Achievements and Highlights:</strong>
+<p><strong>Competitions / Acheivements:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
