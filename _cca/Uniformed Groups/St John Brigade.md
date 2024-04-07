@@ -53,6 +53,7 @@ in their future endeavors.</p>
 </ul>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday &amp; Thursday 2.45 pm – 5.45 pm</p>
+<p></p>
 <p><strong>Competitions / Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -89,27 +90,43 @@ in their future endeavors.</p>
 </p>
 </li>
 </ul>
-<p>Other Notable Activities: Chingay Festival Public Duty
-<br>Ang Mo Kio-Bishan Park Chingay Public Duty
-<br>National Day Parade UG Marching Contingent
-<br>Standard First Aid Course
-<br>Basic Cardiac Life Support Course
-<br>Hospital Attachment Programme
-<br>Non-Commissioned Officer Course
+<p><strong>Other Notable Activities:</strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chingay Festival Public Duty</p>
+</li>
+<li>
+<p>Ang Mo Kio-Bishan Park Chingay Public Duty</p>
+</li>
+<li>
+<p>National Day Parade UG Marching Contingent</p>
+</li>
+<li>
+<p>Standard First Aid Course</p>
+</li>
+<li>
+<p>Basic Cardiac Life Support Course</p>
+</li>
+<li>
+<p>Hospital Attachment Programme</p>
+</li>
+<li>
+<p>Non-Commissioned Officer Course
 <br>
 </p>
+</li>
+</ul>
 <p><strong>Highlights</strong>:</p>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/2024_SJB_pic_2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/2024_SJB_pic_3.png">
 </div>
@@ -125,13 +142,11 @@ in their future endeavors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/2024_SJB_pic_4.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/2024_SJB_pic_5.png">
 </div>
