@@ -21,7 +21,7 @@ in competitions, the focus remains on achieving excellence and representing
 their school with pride. Through these experiences, Deyi Choir members
 embark on a journey of personal growth, artistic expression, and communal
 achievement.</p>
-<p><strong>Teacher -in-charge:</strong> 
+<p><strong>Teachers-in-charge:</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -56,7 +56,8 @@ achievement.</p>
 <p>Certificate of Accomplishment</p>
 </li>
 </ul>
-<p>Other Notable Activites:</p>
+<p><strong>Other Notable Activites:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>CCA Carnival Performing Arts Concert</p>
