@@ -27,7 +27,7 @@ enforcement facilities like the Neighbourhood Police Centre, Police Heritage
 Centre, K9 Unit, Police Coast Guard Unit, and the Criminal Investigation
 Department. Each opportunity is designed to expand the cadets' horizons,
 deepen their understanding of law enforcement, and enhance their NPCC experience.</p>
-<p><strong>Teacher-in-charge:</strong> 
+<p><strong>Teachers-in-charge:</strong> 
 <br>Mr Tan Je Wei (OIC)
 <br>Ms Teo Chong Ming (AIC)
 <br>Mdm Siti Farhanah
@@ -36,6 +36,7 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 </p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm</p>
+<p></p>
 <p><strong>Achievements and Highlights:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -65,28 +66,49 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 </p>
 </li>
 </ul>
-<p>Other Notable Activities:
-<br>Unit Cohesion
-<br>Inter-Unit 0.22 Revolver Shooting Competition
-<br>Inter-Unit ECSI Competition
-<br>NPCC Annual Parade
-<br>Police Day Parade
-<br>CCA Carnival Parade
-<br>National Day Parade
-<br>Corrupt Practices Investigation Bureau Educational Visit
-<br>CID Conference</p>
+<p><strong>Other Notable Activities: </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unit Cohesion</p>
+</li>
+<li>
+<p>Inter-Unit 0.22 Revolver Shooting Competition</p>
+</li>
+<li>
+<p>Inter-Unit ECSI Competition</p>
+</li>
+<li>
+<p>NPCC Annual Parade</p>
+</li>
+<li>
+<p>Police Day Parade</p>
+</li>
+<li>
+<p>CCA Carnival Parade</p>
+</li>
+<li>
+<p>National Day Parade</p>
+</li>
+<li>
+<p>Corrupt Practices Investigation Bureau Educational Visit</p>
+</li>
+<li>
+<p>CID Conference</p>
+</li>
+</ul>
 <p></p>
+<p><strong>Highlights:</strong>
+</p>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2024_NPCC_pic_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2024_NPCC_pic_2.png">
 </div>
@@ -102,13 +124,11 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2024_NPCC_pic_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2024_NPCC_pic_4.png">
 </div>
