@@ -24,7 +24,7 @@ and life's myriad paths with poise and tenacity.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2024_ODAC_Pic1.png">
 </div>
 <p></p>
-<p><strong>Teacher-in-charge:</strong> 
+<p><strong>Teachers-in-charge:</strong> 
 <br>Mr. Wilson Lee (OIC)
 <br>Mr. Lim Heng Lai (AIC)
 <br>Mr Adrian Chong</p>
@@ -32,7 +32,6 @@ and life's myriad paths with poise and tenacity.</p>
 <br>Every Tuesday and Thursday 2.50pm – 5.15pm</p>
 <p><strong>Highlights:</strong>
 </p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2024_ODAC_Pic2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">Trek to Woodlands Waterfront.</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="" class="isomer-card">
 <div class="isomer-card-image">
