@@ -23,6 +23,9 @@ of our school through editorial works published across our platforms. This
 hands-on experience not only hones their journalistic skills but also reinforces
 their role as a vibrant, informed voice among the student body, driving
 forward a culture of care and engagement.</p>
+
+![](/images/CCA/Sports%20and%20Clubs/YJC/2024_YJC_04_updated.png)
+
 <p></p>
 <p><strong>Teacher-in-charge:</strong>
 </p>
