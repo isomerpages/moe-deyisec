@@ -26,7 +26,7 @@ on the environment.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic1.png">
 </div>
 <p></p>
-<p><strong>Teacher-in-charge:</strong> 
+<p><strong>Teachers-in-charge:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -46,10 +46,11 @@ on the environment.</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.15 pm</p>
 <p></p>
+<p><strong>Competitions/Achievement:</strong> 
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Competitions/Achievement:</strong>
-<br>Vanda Miss Joaquim Award 2022</p>
+<p>Vanda Miss Joaquim Award 2022</p>
 </li>
 <li>
 <p>Yellow Flame Award 2023</p>
@@ -76,8 +77,7 @@ Friends of Our Heartlands (FOH) 2023</p>
 </ul>
 <p></p>
 <p><strong>Highlights</strong>:</p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">  </div><div class="isomer-card-description">Green Talk</div><div class="isomer-card-link">  </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">Green Talk</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -89,7 +89,7 @@ Friends of Our Heartlands (FOH) 2023</p>
 <div class="isomer-card-description">Greenhouse Planting.</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description">School Green Ambassadors trained by Green Club student leaders.</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">School Green Ambassadors trained by Green Club student leaders.</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
