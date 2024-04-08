@@ -27,7 +27,7 @@ them to succeed in all walks of life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports%20and%20Clubs/Basketball/2024_Basketball_pic_1.png">
 </div>
-<p><strong>Teacher-in-charge:</strong> 
+<p><strong>Teachers-in-charge:</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
