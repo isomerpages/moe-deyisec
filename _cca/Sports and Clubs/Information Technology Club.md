@@ -27,7 +27,7 @@ of the technological underpinnings of our society.</p>
 <p><strong>Weekly Schedule</strong>:
 <br>Every Tuesday and Thursday 2.40 pm – 5.15 pm</p>
 <p><strong>Competitions / Achievements</strong>:
-<br>Robocup Singapore – 1st Placing: Rescue Line Entry U19 (2023, 2024)
+<br>RoboCup Singapore Open – 1st Placing: Rescue Line Entry U19 (2023, 2024)
 <br>IDE (Innovation, Design and Engineering) Singapore Robotics Competition
 2023
 <br>Top 8 Placing: IDE Sprint
