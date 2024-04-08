@@ -27,7 +27,7 @@ of the technological underpinnings of our society.</p>
 <p><strong>Weekly Schedule</strong>:
 <br>Every Tuesday and Thursday 2.40 pm – 5.15 pm</p>
 <p><strong>Competitions / Achievements</strong>:
-<br>Robocup Singapore 2023 – 1st Placing: Rescue Line Entry U19
+<br>Robocup Singapore – 1st Placing: Rescue Line Entry U19 (2023, 2024)
 <br>IDE (Innovation, Design and Engineering) Singapore Robotics Competition
 2023
 <br>Top 8 Placing: IDE Sprint
@@ -41,13 +41,11 @@ of the technological underpinnings of our society.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club/2024_IT_club_pic_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club/2024_IT_Club_2.png">
 </div>
@@ -63,15 +61,13 @@ of the technological underpinnings of our society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club/2024_IT_Club_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club/2024_IT_Club_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club/2024_IT_Club_01.png">
 </div>
 </td>
 </tr>
@@ -80,7 +76,7 @@ of the technological underpinnings of our society.</p>
 <p>Portable Sound Team in Action</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RoboCup SG 2023</p>
+<p>RoboCup SG 2024</p>
 </td>
 </tr>
 </tbody>
