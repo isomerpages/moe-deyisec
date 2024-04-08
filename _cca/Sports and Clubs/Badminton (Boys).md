@@ -18,9 +18,9 @@ respect and support among teammates, and diligence turns rigorous practice
 into excellence. Through the swift rallies and strategic plays, our students
 not only master the subtleties of the sport but also imbibe these principles,
 ensuring they carry these values forward into their futures.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_over_arching_pic.jpg">
-</div>
+
+![](/images/CCA/Sports%20and%20Clubs/Badminton/2024_Badminton_01.png)
+
 <p><strong>Teachers-in-charge:</strong> 
 <br>Ms Chew Soo Qing (OIC)
 <br>Mr Freddy Goh Teck Seng (AIC)
