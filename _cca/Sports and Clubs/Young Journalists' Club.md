@@ -3,7 +3,7 @@ title: Young Journalists' Club
 permalink: /cca/sports-and-clubs/young-journalists-club/
 description: ""
 third_nav_title: Sports and Clubs
-variant: markdown
+variant: tiptap
 ---
 <p>The Young Journalists’ Club at Deyi Secondary School offers an immersive
 foray into the dynamic fields of digital photography, videography, and
@@ -23,11 +23,11 @@ of our school through editorial works published across our platforms. This
 hands-on experience not only hones their journalistic skills but also reinforces
 their role as a vibrant, informed voice among the student body, driving
 forward a culture of care and engagement.</p>
-
-![](/images/CCA/Sports%20and%20Clubs/YJC/2024_YJC_04_updated.png)
-
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports%20and%20Clubs/YJC/2024_YJC_04_updated.png">
+</div>
 <p></p>
-<p><strong>Teacher-in-charge:</strong>
+<p><strong>Teachers-in-charge:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -45,7 +45,7 @@ forward a culture of care and engagement.</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.45 pm – 5.15 pm</p>
 <p></p>
-<p><strong>Competition/Achievements:</strong>
+<p><strong>Competition / Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -87,6 +87,70 @@ forward a culture of care and engagement.</p>
 </ul>
 <p></p>
 <p><strong>Highlights</strong>:</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2024_YJC_03_updated.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2024_YJC_05_updated.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Growing Family</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Getting Ready for Broadcast</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2024_YJC_02_updated.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2024_YJC_07_updated.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Photographers in Action</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Capturing our Proud Achievements</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2024_YJC_01_updated.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2024_YJC_06_updated.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Inspiring Senior Leaders</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our President Walking her Talk</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
