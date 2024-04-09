@@ -26,13 +26,26 @@ of the technological underpinnings of our society.</p>
 <br>Mr Reeve Ng (AIC)</p>
 <p><strong>Weekly Schedule</strong>:
 <br>Every Tuesday and Thursday 2.40 pm – 5.15 pm</p>
-<p><strong>Competitions / Achievements</strong>:
-<br>RoboCup Singapore Open – 1st Placing: Rescue Line Entry U19 (2023, 2024)
-<br>IDE (Innovation, Design and Engineering) Singapore Robotics Competition
-2023
-<br>Top 8 Placing: IDE Sprint
-<br>National Robotics Competition (NRC) 2023
-<br>‘Our Schools, Our Stories’ Photo Contest 2022
+<p><strong>Competitions / Achievements</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>RoboCup Singapore Open – 1st Placing: Rescue Line Entry U19 (2023, 2024)</p>
+</li>
+<li>
+<p>IDE (Innovation, Design and Engineering) Singapore Robotics Competition
+2023</p>
+</li>
+<li>
+<p>Top 8 Placing: IDE Sprint</p>
+</li>
+<li>
+<p>National Robotics Competition (NRC) 2023</p>
+</li>
+<li>
+<p>‘Our Schools, Our Stories’ Photo Contest 2022</p>
+</li>
+</ul>
+<p>
 <br>
 </p>
 <p><strong>Highlights:</strong>
