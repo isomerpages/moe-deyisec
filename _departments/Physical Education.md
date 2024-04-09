@@ -98,7 +98,6 @@ netball, touch-rugby</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong>Annual Track Meet</strong>
 </p>
 <p>Our school track meet shone a light on the grit and spirit of our students.
@@ -132,14 +131,12 @@ but the enduring heart of our school's culture.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/WhatsApp_Image_2024_04_03_at_21_01_43.jpg">
 </div>
 <p>Getting a well-deserved drink after a race</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/WhatsApp_Image_2024_04_03_at_21_01_42__1_.jpg">
 </div>
