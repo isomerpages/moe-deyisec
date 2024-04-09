@@ -46,7 +46,7 @@ on the environment.</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.15 pm</p>
 <p></p>
-<p><strong>Competitions/Achievement:</strong> 
+<p><strong>Competitions/Achievement:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -62,9 +62,10 @@ on the environment.</p>
 <p>16 Green Club students were awarded the HDB Individual Silver Award for
 Friends of Our Heartlands (FOH) 2023</p>
 </li>
-<li>
-<p>Other Notable Activities:</p>
-</li>
+</ul>
+<p><strong>Other Notable Activities:</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>HDB Community Day 2023</p>
 </li>
