@@ -9,7 +9,7 @@ variant: tiptap
 Solvers
 <br><strong>Mission:</strong> 
 <br>Exploring new Angles through Mathematics
-<br>
+<br><strong>Approach:</strong>
 </p>
 <p>The Mathematics Department at Deyi Secondary School provides learning
 opportunities for students to expand their knowledge. During the Learning
