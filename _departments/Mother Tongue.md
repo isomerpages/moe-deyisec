@@ -11,7 +11,8 @@ variant: tiptap
 of their roots and cultures through a wide range of programmes and activities,
 which allow them to apply their language skills as well as to connect with
 their own cultural heritage.</p>
-<p></p>
+<p><strong>Approach:</strong>
+</p>
 <p>The Mother Tongue syllabus aims to engage students in joyful learning
 and develop them to become active and proficient users of MTL, with the
 three broad objectives: Communication, Culture and Connection. Teachers
@@ -38,7 +39,7 @@ as well as to hone their language skills. Based on the positive feedback
 from the students and the bright smiles on their faces, it was evident
 that they had benefitted from all these learning opportunities.</p>
 <p></p>
-<p><strong>Key Programmes:</strong>
+<p><strong>Key Programmes:</strong> 
 <br>
 </p>
 <table>
