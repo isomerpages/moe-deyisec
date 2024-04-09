@@ -33,16 +33,15 @@ and life's myriad paths with poise and tenacity.</p>
 <p><strong>Notable Activities:</strong>
 </p>
 <p><strong>Trekking:</strong> Students explore Singapore's scenic trails through
-our trekking expeditions, fostering resilience, teamwork, and an appreciation
-for the environment.</p>
+our trekking expeditions, fostering resilience, and an appreciation for
+the environment.</p>
 <p><strong>Laser Quest: </strong>Students engage in thrilling strategic missions
 with Laser Quest, enhancing physical fitness, critical thinking, and camaraderie.</p>
 <p><strong>Taekwondo:</strong> Students develop discipline, strength, and
 self-defense skills through Taekwondo, a martial art that emphasizes respect,
 perseverance, and mental fortitude.</p>
 <p><strong>Archery:</strong> Students discover the discipline and focus of
-archery, a sport that sharpens concentration, coordination, and presents
-a unique challenge.</p>
+archery, a sport that sharpens concentration and coordination.</p>
 <p><strong>Dragon Boat: </strong>Students experience the unity and strength
 of dragon boating, an activity that highlights teamwork, endurance, and
 cultural appreciation.</p>
