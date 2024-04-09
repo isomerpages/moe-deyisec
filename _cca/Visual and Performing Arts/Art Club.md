@@ -129,14 +129,9 @@ artists’ perspectives on their artworks.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Art installation - National Day 2023</p>
-<p>As a collaborative effort between the Art Club and the National Education
-committee, our talents made use of recyclable materials to create an installation
-art of The Merlion. The student population was invited to paint colourful
-stars on the installation to convey their well-wishes for our nation.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Live-on Festival Design Competition (LODC) - Zhuang Zhiqing from Class
-2 Resilience has emerged Top 3 in this nationwide event.</p>
+<p>Live-on Festival Design Competition (LODC)</p>
 </td>
 </tr>
 </tbody>
