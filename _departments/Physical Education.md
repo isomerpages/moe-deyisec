@@ -89,12 +89,16 @@ netball, touch-rugby</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/2.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_square_2.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Annual Track Meet</strong>
 </p>
 <p>Our school track meet shone a light on the grit and spirit of our students.
