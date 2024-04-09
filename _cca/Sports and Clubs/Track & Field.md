@@ -22,7 +22,7 @@ for members to shine in both friendly meets and high-stakes national competition
 throughout the year. It's more than a CCA; it's a home where every athlete
 is valued, and every achievement celebrated.</p>
 <p></p>
-<p><strong>Teacher-in-charge:</strong>
+<p><strong>Teachers-in-charge:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
