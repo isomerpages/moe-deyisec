@@ -9,7 +9,7 @@ variant: tiptap
 <p><strong>Mission:</strong> 
 <br>To groom Deyians to be focused and determined in realising their potential
 through a variety of platforms to make learning relevant and fun.</p>
-<p><strong>Our Department Philosophy</strong> 
+<p><strong>Approach:</strong>
 <br>In Deyi, our Aesthetics, Craft and Technology department comprises of
 Art, Design and Technology, Drama, Music and Nutrition and Food Science.
 The Art curriculum provides opportunities for the students to express their
