@@ -34,8 +34,7 @@ of science through immersive and authentic learning experiences.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Lower Sec Science Problem Based Learning Project</strong>
-</p>
+<p>Lower Sec Science Problem Based Learning Project</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -45,8 +44,7 @@ of science through immersive and authentic learning experiences.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Experiential Learning through Learning Journey</strong>
-</p>
+<p>Experiential Learning through Learning Journey</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -56,8 +54,7 @@ of science through immersive and authentic learning experiences.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sustainability - Urban Farming through aquaponics and vertical farming</strong>
-</p>
+<p>Sustainability - Urban Farming through aquaponics and vertical farming</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -67,8 +64,8 @@ of science through immersive and authentic learning experiences.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Stretch programmes - Physics, Chemistry, Biology Olympiads and C.B Paul Science Competitions</strong>
-</p>
+<p>Stretch programmes - Physics, Chemistry, Biology Olympiads and C.B Paul
+Science Competitions</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
