@@ -34,43 +34,51 @@ of science through immersive and authentic learning experiences.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec Science Problem Based Learning Project</p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_1.png">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science Problem Based Learning Project</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Experiential Learning through Learning Journey</p>
-</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_2.png">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p>Experiential Learning through Learning Journey</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Sustainability - Urban Farming through aquaponics and vertical farming</p>
-</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_3.png">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p>Sustainability - Urban Farming through aquaponics and vertical farming</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Stretch programmes - Physics, Chemistry, Biology Olympiads and C.B Paul
-Science Competitions</p>
-</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_4.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stretch programmes - Physics, Chemistry, Biology Olympiads and C.B Paul
+Science Competitions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
