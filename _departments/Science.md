@@ -37,6 +37,7 @@ of science through immersive and authentic learning experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_1.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lower Sec Science Problem Based Learning Project </strong>
@@ -51,7 +52,7 @@ science and technology.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Experiential Learning through Learning Journey</strong>
+<p><strong>Experiential Learning through Learning Journey</strong> 
 <br>Students learn about fruits and how to make strawberry jam at the Singapore
 Science Centre.</p>
 </td>
@@ -63,7 +64,7 @@ Science Centre.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sustainability - Urban Farming through aquaponics and vertical farming</strong>
+<p><strong>Sustainability - Urban Farming through aquaponics and vertical farming</strong> 
 <br>Our students optimize plant growth and maximize yields in both aquaponics
 and vertical farming systems in our sustainability education.</p>
 </td>
@@ -73,9 +74,13 @@ and vertical farming systems in our sustainability education.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_4.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_square_2.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Stretch Programmes</strong>
+<p><strong>Stretch Programmes</strong> 
 <br>Opportunities to represent Deyi in Physics, Chemistry and Biology Olympiads
 as well as F1 Challenge.</p>
 </td>
