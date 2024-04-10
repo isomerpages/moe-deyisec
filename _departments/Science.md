@@ -39,7 +39,9 @@ of science through immersive and authentic learning experiences.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lower Sec Science Problem Based Learning Project</p>
+<p><strong>Lower Sec Science Problem Based Learning Project </strong>
+<br>Our lower secondary science students investigate and solve a problem using
+science and technology.</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +51,9 @@ of science through immersive and authentic learning experiences.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Experiential Learning through Learning Journey</p>
+<p><strong>Experiential Learning through Learning Journey</strong>
+<br>Students learn about fruits and how to make strawberry jam at the Singapore
+Science Centre.</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +63,9 @@ of science through immersive and authentic learning experiences.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sustainability - Urban Farming through aquaponics and vertical farming</p>
+<p><strong>Sustainability - Urban Farming through aquaponics and vertical farming</strong>
+<br>Our students optimize plant growth and maximize yields in both aquaponics
+and vertical farming systems in our sustainability education.</p>
 </td>
 </tr>
 <tr>
@@ -69,16 +75,9 @@ of science through immersive and authentic learning experiences.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stretch programmes - Physics, Chemistry, Biology Olympiads and C.B Paul
-Science Competitions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Stretch Programmes</strong>
+<br>Opportunities to represent Deyi in Physics, Chemistry and Biology Olympiads
+as well as F1 Challenge.</p>
 </td>
 </tr>
 </tbody>
