@@ -21,3 +21,5 @@ This involves students leveraging on technology to gain scientific knowledge cou
 Enrichment programmes, learning journeys, and participation in Science competitions provide real-world applications of scientific knowledge. <br><br>
 In Deyi, STEM (Science, Technology, Engineering and Math) activities promote insights into practical application of science in real life which nurtures students' curiosity, critical thinking, and appreciation for the value of science through immersive and authentic learning experiences.
 </p>
+
+**Key Programs:**
