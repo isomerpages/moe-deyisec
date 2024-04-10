@@ -28,7 +28,7 @@ competitions provide real-world applications of scientific knowledge.
 insights into practical application of science in real life which nurtures
 students' curiosity, critical thinking, and appreciation for the value
 of science through immersive and authentic learning experiences.</p>
-<p><strong>Key Programs:</strong>
+<p><strong>Key Programmes:</strong>
 </p>
 <table>
 <tbody>
