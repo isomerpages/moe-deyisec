@@ -87,4 +87,6 @@ as well as F1 Challenge.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Click below to visit Deyi Science Dept Microsite.</p>
+<p><a href="https://sites.google.com/moe.edu.sg/deyiscience/home?authuser=0" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/deyiscience/home?authuser=0</a>
+</p>
