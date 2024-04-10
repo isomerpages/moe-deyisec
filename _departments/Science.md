@@ -38,7 +38,9 @@ of science through immersive and authentic learning experiences.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_1.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -47,7 +49,9 @@ of science through immersive and authentic learning experiences.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_2.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -56,7 +60,9 @@ of science through immersive and authentic learning experiences.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_3.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -65,7 +71,9 @@ of science through immersive and authentic learning experiences.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_4.png">
+</div>
 </td>
 </tr>
 </tbody>
