@@ -7,11 +7,12 @@ variant: tiptap
 <p><strong>Vision:</strong> 
 <br>To nurture Passionate Learners, Creative Thinkers and Effective Problem
 Solvers
+<br>
 <br><strong>Mission:</strong> 
 <br>Exploring new Angles through Mathematics
+<br>
 <br><strong>Approach:</strong>
-</p>
-<p>The Mathematics Department at Deyi Secondary School provides learning
+<br>The Mathematics Department at Deyi Secondary School provides learning
 opportunities for students to expand their knowledge. During the Learning
 Festival, our Lower Secondary students engaged in activities such as the
 3D Tic Tac Toe Competition and Tower of Hanoi Competition, honing their
@@ -61,8 +62,8 @@ for a POA Quest.</p>
 </table>
 <p></p>
 <p><strong>Competitions / Achievements:</strong> 
-<br>• Raffles Policy Dialogue on the Hustle Culture (2023)</p>
-<p>• Historical Scene Investigation Challenge – Silver Award (2023)
+<br>• Raffles Policy Dialogue on the Hustle Culture (2023)
+<br>• Historical Scene Investigation Challenge – Silver Award (2023)
 <br>
 </p>
 <p></p>
