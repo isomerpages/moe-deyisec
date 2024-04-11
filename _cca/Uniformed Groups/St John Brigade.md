@@ -3,57 +3,164 @@ title: St John Brigade
 permalink: /cca/uniformed-groups/st-john-brigade/
 description: ""
 third_nav_title: Uniformed Groups
-variant: markdown
+variant: tiptap
 ---
-<img style="width:50%" src="/images/UG-SJB.jpg">
-
-<center>
-"Although I started out as a reserved and timid person, SJB has provided a wide range of opportunities for me to grow. Such opportunities include participating in the Zonal and National First Aid Competition as well as rendering first aid assistance in various school events. Despite the tough training during competition seasons, our teachers and alumni always motivate us to achieve our fullest potential. Thus far, all these efforts were successful in helping Deyi SJB achieve the Champion award in the Zonal Competition and 4th place in the National Competition. Most importantly, discipline has been instilled in all SJB cadets effectively, and this significantly improved my self-discipline, which also enabled me to perform exceptionally well in my studies. I would like to express gratitude for my parents' support in my decisions to participate in events hosted by SJB and their encouragement for me to persevere during challenging periods. I would also like to thank the Teachers-in-charge and alumni for investing much time in meticulously planning for various events and assisting us during CCA sessions. Lastly, I am grateful for my fellow CCA mates who have gone through thick and thin together with me during these 4 years."  
-<br><br>
-<strong> Rosanne Sim Tong En (407) <br>
-SJB Head of Training Department </strong></center>
-	
-St. John Brigade is an organisation, which specializes in teaching teenagers basic first aid skills such as CPR and AED. Our Objective is to let every cadet be able to&nbsp;manifest in all aspects, in their moral, cognitive, physical, social and aesthetic developments, and ultimately be successful individuals.
-
-We want our leaders to have integrity, supplemented by order of responsibility and mission throughout all sorts of training, events and courses. In addition, St. John Headquarters organises leadership courses such as Basic and Advanced Non- Commissioned Officer Course for the cadets. We also train and cultivate cadets in their leadership qualities. This is because we believe that a leader should be able to manage oneself. Therefore, everyone has an obligation to learn self-management skills.
-
-Throughout the years, Deyi St. John has nurtured and guided many cadets who eventually become effective leaders in various sectors of the workforce. We acknowledge the importance of our role in their developmental years; hence, we piloted the Character Development Program.  
-  
-This program aims to enable cadets to explore, grow and learn, not only as a leader, but also in integrates individual values teaching relevant soft skills to be applied in both school and workplace environment in the future. Through this program, we seek to provide a platform for every cadet to learn within a stress-free environment and inspire them to bring out the best qualities that they have.  
-
-**Teachers-in-charge:**<br>
-* Mr. Chang Seow Kuen (OIC) <br>
-* Mr Koh Yu Han (AIC) <br>
-* Mdm Rajakumari <br>
-* Miss Hannah Liu <br>
-
-  
-**Weekly Schedule:** <br>
-Every Tuesday &amp; Thursday 2.45 pm – 5.45 pm  
-  
-**Achievements and Highlights:**  
-*   Corp Achievement Award 2013-2020 – Gold  
-*   Best in Footdrill for National FAC 2022 Nursing Cadet Team Category   
-*   3rd&nbsp;Runner-Up for District FAC 2022 Ambulance Cadet Team Category     
-*   Champion for District FAC 2022 Nursing Cadet Team Category      
-*   Merit Award, National Basic Drill Instructor Course 2022 - Yu Xuan Ying (3 DT)   
-*   Chief Commissioner Badge Recipients 2022&nbsp; &nbsp;&nbsp;
-	*   SSG Shoniya D/O Krishnasamy (402)
-	*   SSG Lim Jia En (403)
-	*   SSG Adelina Clarice Ng Jia Yi&nbsp; (404)
-	*   SSG Koo Qi Xuan, Cassandra (404)
-	*   SSG Hsu Yong Xin Andrea (405)
-	*   SSG Tan Yu Xuan (405)
-	*   SSG Tan Ler Yang Justin (407)
-*   Passed Corps Home Nursing Instructor Course 2022 - Lim Jia Xuan (3 CR), Tan Jia Qi (3 GC)
-*   Passed Corps First Aid Instructor Course 2022 - Ng Xiwen (3 DT)  
-*   Cadets&nbsp;participated in Public Duty for NDP Heartland Fireworks  
-*   Cadets participated in Public Duty for Gardens@Bishan Family Day Walkathon
-
-![](/images/CCA/Uniform%20Groups/St%20John%20Brigade/2022%20Chief%20Commissioner%20Badge%20Recipients.jpg) <br>
-![](/images/CCA/Uniform%20Groups/St%20John%20Brigade/2022%20District%20FA%20Competition%20Ambulance%20Cadet%20Team%202nd%20Runner-Up.jpg) <br>
-![](/images/CCA/Uniform%20Groups/St%20John%20Brigade/2022%20District%20FA%20Competition%20Nursing%20Cadet%20Team%20Champion.jpg) <br>
-![](/images/CCA/Uniform%20Groups/St%20John%20Brigade/2022%20Group%20Photo%20without%20Sec%201s.jpg) <br>
-![](/images/CCA/Uniform%20Groups/St%20John%20Brigade/2022%20National%20FA%20Competition%20NC%20Team%20Best%20in%20Footdrill.jpg) <br>
-![](/images/CCA/Uniform%20Groups/St%20John%20Brigade/2022%20Our%20Officers%20Alumnus.jpg) <br>
-![](/images/CCA/Uniform%20Groups/St%20John%20Brigade/2022%20Public%20DutyAMK%20Park.jpeg)
+<p>The St. John Brigade at our school is a vital community dedicated to empowering
+our youth with life-saving First Aid skills, including CPR and the use
+of AEDs. Our mission extends far beyond the acquisition of these critical
+skills; we aim to nurture our cadets holistically, fostering growth in
+moral, cognitive, physical, social, and aesthetic domains. Our ultimate
+goal is to shape our cadets into well-rounded and successful individuals,
+ready to make meaningful contributions to society.</p>
+<p>Leadership and integrity are at the core of our ethos. We believe in developing
+leaders who are not only responsible and mission-driven but also proficient
+in self-management. To this end, the St. John Headquarters offers foundational
+and advanced leadership courses, such as the Basic and Advanced Non-Commissioned
+Officer Course, specifically designed to enhance the leadership qualities
+of our cadets. Through a blend of rigorous training, events, and courses,
+we instill in our cadets the importance of managing oneself, emphasizing
+that effective leadership begins with self-discipline and self-care. By
+equipping our cadets with these essential skills and values, we prepare
+them to lead with confidence and compassion, both within the Brigade and
+in their future endeavors.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform%20Groups/St%20John%20Brigade/2024_SJB_pic_1.png">
+</div>
+<p><strong>Teachers-in-charge:</strong> 
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr. Chang Seow Kuen (OIC)
+<br>
+</p>
+</li>
+<li>
+<p>Mr Koh Yu Han (AIC)
+<br>
+</p>
+</li>
+<li>
+<p>Mdm Rajakumari
+<br>
+</p>
+</li>
+<li>
+<p>Miss Hannah Liu
+<br>
+</p>
+</li>
+</ul>
+<p><strong>Weekly Schedule:</strong> 
+<br>Every Tuesday &amp; Thursday 2.45 pm – 5.45 pm</p>
+<p></p>
+<p><strong>Competitions / Achievements:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Corp Achievement Award: Gold (2013-2020, 2023)
+<br>
+</p>
+</li>
+<li>
+<p>2nd Runner-Up for National First Aid Competition (Nursing Cadet Team Category)
+(2023)
+<br>
+</p>
+</li>
+<li>
+<p>Champion for District First Aid Competition (Nursing Cadet Team Category)
+(2022, 2023)
+<br>
+</p>
+</li>
+<li>
+<p>13 Recipients for Chief Commissioner Badge (2023)
+<br>
+</p>
+</li>
+<li>
+<p>1 cadet graduated from National Basic Drill Instructor Course (2024)
+<br>
+</p>
+</li>
+<li>
+<p>2 cadets graduated from Corps First Aid Instructor Course (2024)
+<br>
+</p>
+</li>
+</ul>
+<p><strong>Other Notable Activities:</strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chingay Festival Public Duty</p>
+</li>
+<li>
+<p>Ang Mo Kio-Bishan Park Chingay Public Duty</p>
+</li>
+<li>
+<p>National Day Parade UG Marching Contingent</p>
+</li>
+<li>
+<p>Standard First Aid Course</p>
+</li>
+<li>
+<p>Basic Cardiac Life Support Course</p>
+</li>
+<li>
+<p>Hospital Attachment Programme</p>
+</li>
+<li>
+<p>Non-Commissioned Officer Course
+<br>
+</p>
+</li>
+</ul>
+<p><strong>Highlights</strong>:</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/2024_SJB_pic_2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/2024_SJB_pic_3.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The first aid winning team with our alumnus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alumni Kelvin Tan receiving award for saving a man from cardiac arrest</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/2024_SJB_pic_4.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/2024_SJB_pic_5.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cadets learning how to use fire extinguisher in the Civil Defence Course</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our first aid skills shown in action during the District First Aid Competition
+2023</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

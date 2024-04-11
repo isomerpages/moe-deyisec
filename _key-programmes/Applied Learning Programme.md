@@ -2,24 +2,99 @@
 title: Applied Learning Programme
 permalink: /key-programmes/applied-learning-programme/
 description: ""
+variant: tiptap
 ---
-**Active Voice Broadcast Journalism** <br>
-Deyi’s Applied Learning Programme (ALP) has three approaches to develop our Sec 1 to 3 students’ critical 21st century media and communications skills. First, a whole-school approach (Tier 1) to equip students with baseline skills on media production and journalism (e.g., storyboarding, filming, animation, audio track layering, chroma key green screen technology, editing, transitions, sub-titling) through the Mi-ké-mθn Video Workshop and Mi-ké-mθn Augmented Reality Journalism Trail. Our second approach is to integrate media production and journalism skills into the EL and MTL curricular for better alignment with content generation and the development of critical perspectives.
-
-Students are encouraged to develop advanced media and technical skill-sets (Tier 2) through the Young Journalists’ Club and IT Club. Students’ niche skills are developed with Deyi’s FM Live (‘Our Channel, Our Voices’) and live broadcasts of special events (e.g., National Day, Teachers’ Day Celebrations) as well as technical production skills (e.g., live feeds and cutaways, sound management).
-
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></th><th style="border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Tier 1: Baseline Skills</span><br><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">(Media Production and Journalism)</span></th><th style="border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Tier 2: Advanced Skills</span><br><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">(Young Journalists’ Club and IT Club)</span></th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sec 1</span></td><td style="border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mi-ké-mθn Video Workshop^</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mi-ké-mθn Augmented Reality Journalism Trail^</span></td><td rowspan="3" style="border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Media writing</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Radio production</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Hosting (emcee) training</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Photography and visual effects</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Special projects videos^</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Live interviews</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Live shows</span></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sec 2</span></td><td style="border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mi-ké-mθn Inter-disciplinary Infographics Project Work</span></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sec 3 </span></td><td style="border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Advocating for Social Issues Videos</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">MTL Current Affairs Reporting</span></td></tr></tbody></table>
-
-^Extent depends on the prevailing COVID-19 Safe Management Measures (SMM).
-
-**Nurturing Deyians to be Confident and Effective Communicators** <br>
-In 2019, Deyi’s ALP received MOE’s Innergy Award (Bronze) for school innovation. Our students have successfully gained Early Admission into all 5 tertiary institutions (e.g., Ngee Ann, Singapore and Temasek Polytechnics’ Mass Communications, Film and Media courses) with the broadcast journalism skill-sets honed at Deyi.
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/7A70YxTdHn0" title="2023 ALP1 Have You Ever   Deyi Sec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/uwlJUkSUWbI" title="2023 ALP2 National Day Lion City Justin Ang and Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OpLpt5g7i8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNVC5bHtqGRSaEou_XdZzT0NCjuotSW4l2daeActmzGMt_gvW4M0iRMhottx4P4n_EE7mjev8vPZ2i/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+<p><strong>Active Voice Broadcast Journalism</strong> 
+<br>Deyi’s Applied Learning Programme (ALP) has three approaches to develop
+our Sec 1 to 3 students’ critical 21st century media and communications
+skills. First, a whole-school approach (Tier 1) to equip students with
+baseline skills on media production and journalism (e.g., storyboarding,
+filming, animation, audio track layering, chroma key green screen technology,
+editing, transitions, sub-titling) through the Mi-ké-mθn Video Workshop
+and Mi-ké-mθn Augmented Reality Journalism Trail. Our second approach is
+to integrate media production and journalism skills into the EL and MTL
+curricular for better alignment with content generation and the development
+of critical perspectives.</p>
+<p>Students are encouraged to develop advanced media and technical skill-sets
+(Tier 2) through the Young Journalists’ Club and IT Club. Students’ niche
+skills are developed with Deyi’s FM Live (‘Our Channel, Our Voices’) and
+live broadcasts of special events (e.g., National Day, Teachers’ Day Celebrations)
+as well as technical production skills (e.g., live feeds and cutaways,
+sound management).</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Tier 1: Baseline Skills</strong>
+<br><strong>(Media Production and Journalism)</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Tier 2: Advanced Skills</strong>
+<br><strong>(Young Journalists’ Club and IT Club)</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mi-ké-mθn Video Workshop^
+<br>Mi-ké-mθn Augmented Reality Journalism Trail</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Media writing
+<br>Radio production
+<br>Hosting (emcee) training
+<br>Photography and visual effects
+<br>Special projects videos^
+<br>Live interviews
+<br>Live shows</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mi-ké-mθn Inter-disciplinary Infographics Project Work</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advocating for Social Issues Videos
+<br>MTL Current Affairs Reporting</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Nurturing Deyians to be Confident and Effective Communicators</strong> 
+<br>In 2019, Deyi’s ALP received MOE’s Innergy Award (Bronze) for school innovation.
+Our students have successfully gained Early Admission into all 5 tertiary
+institutions (e.g., Ngee Ann, Singapore and Temasek Polytechnics’ Mass
+Communications, Film and Media courses) with the broadcast journalism skill-sets
+honed at Deyi.</p>
+<div class="iframe-wrapper">
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7A70YxTdHn0"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uwlJUkSUWbI"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OpLpt5g7i8A"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe height="500" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNVC5bHtqGRSaEou_XdZzT0NCjuotSW4l2daeActmzGMt_gvW4M0iRMhottx4P4n_EE7mjev8vPZ2i/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+</div>
+<p></p>

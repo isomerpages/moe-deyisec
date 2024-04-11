@@ -2,44 +2,272 @@
 title: Learning for Life Programme
 permalink: /key-programmes/learning-for-life-programme/
 description: ""
+variant: tiptap
 ---
-_**NURTURING CONFIDENT COMMUNICATORS AND GRACIOUS CITIZENS THROUGH THE ARTS**_ <br>
-At Deyi, Arts Education is an integral part of our students’ holistic development. With our mission “Arts Alive - Live, Work, Learn and Play with the Arts”, we seek to create a vibrant arts culture through programmes that will provide our students with opportunities to discover their interests and talents. It also aims to nurture our students’ character and groom them into gracious citizens of tomorrow while helping them develop their passion for the Arts.  
-  
-Arts Education is the focus of Deyi’s Learning for Life Programme (LLP). Through the LLP, we cultivate a school experience that develops an appreciation of and expertise in the arts. To support the creative dreams of our students, we provide opportunities for them to showcase their diverse talents. This includes our Drama-in-Curriculum (DIC) for lower secondary students, Arts enrichment programmes, Arts Ambassador Programme and performance platforms such as Deyi’s Arts Fiesta, Arts Hour and Deyi’s got Talent.  
-  
-**Lower Secondary Drama-in-curriculum (DIC)**&nbsp;- The Drama curriculum involves the stimulation and training of both cognitive and affective domains of a child. It not only gives the students the opportunity to look at issues critically, but also develops their socio-emotional skills which will prepare them for life beyond school.  
-  
-![Drama](/images/Key%20Program/LLP/Drama%20Cir%202a.jpg)
-![Drama](/images/Key%20Program/LLP/Drama%20Cir%201a.jpg)
-
-**Arts Hour** - At Deyi, we believe that arts are an essential medium of expression. This year, we employed different platforms for our students to showcase their talents in our biennial event - Arts Hour. Students were first treated to thrilling live performances by our Deyi Band and Movement and Dance CCA. This is followed by a showcase of recorded performances and presentations by our Drama Club, Choir and Art Club, which allowed students in our arts CCAs to showcase their talents. The celebration of Arts Hour embodies the objectives of Deyi’s Arts Education.
-
-![Arts Hour](/images/Key%20Program/LLP/Art%20Hr%201.png)
-![Arts Hour](/images/Key%20Program/LLP/Art%20Hr%202.jpg)
-![Arts Hour](/images/Key%20Program/LLP/Art%20Hr%203.jpg)
-
-**Deyi’s Got Talent (DGT)** - Deyi’s Got Talent is a creative platform for Deyians to showcase their talents in different areas like dance, music, vocals and digital art. This year, we debuted a new category of performance whereby each class put together a show. In the individual and group categories, the contestants faced fierce competitions during the auditions and the finals. We are proud to see Deyians pursuing their passions and inspiring others to do the same as well.
-
-![Deyi Got Talent](/images/Key%20Program/LLP/DY%20Talent1a.jpg)
-![Deyi Got Talent](/images/Key%20Program/LLP/DY%20Talent2.jpg)
-![Deyi Got Talent](/images/Key%20Program/LLP/DY%20Talent3.jpg)
-![Deyi Got Talent](/images/Key%20Program/LLP/DY%20Talent8.jpg)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rYUsSDLekC4" title="Aesthetics Wall, Behind the scenes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-**Aesthetic Assembly Programme**&nbsp;- Aesthetic Assembly Programme aims to provide students a broarder persepctive of traditional and contemporary arts, practices, giving them the tools to sustain a lifelong pursuit of the arts. Students are equipped with knowledge and skills needed in their pursuit of educational and career pathways in the arts. This programme also aims to reinforce character building and promote expliration of post-secondary pathways by having real time connection with artists of various arts forms. 
-![Aesthetic Assembly Programme](/images/Key%20Program/LLP/Aes%20Assb%201.jpg)
-![Aesthetic Assembly Programme](/images/Key%20Program/LLP/Aes%20Assb%202.jpg)
-![Aesthetic Assembly Programme](/images/Key%20Program/LLP/Aes%20Assb%205.jpg)
-
-**Arts Enrichment Programme**&nbsp;- The Learning for Life Programme seeks to provide students access to quality Arts Education. Deyians can engage and develop a keen sense of aesthetics and an appreciation for the arts. Equip themselves with knowledge and skills through the experience of traditional, cultural, and contemporary arts. (Sec 1-3 Dance Programme, Dance @Learning Festival, Music Around the World Programme, Elective Music for ABRSM, Elective Drama for Trinity Guildhall, Values-in-Art and Manga Mural Art Programme.)
-![Arts Enrichment Programme](/images/Key%20Program/LLP/Arts%20Enrich9.jpg)
-
-![Arts Enrichment Programme](/images/Key%20Program/LLP/Arts%20Enrich2.jpg)
-
-
-**Arts Ambassador Programme (AAP)** \- Arts Ambassador Programme is a platform to encourage students’ involvement in the Learning for Life Programme. Arts Ambassadors get to hone their leadership skills in school events like Deyi’s Got Talent as they are part of the planning and implementation of the event. They lead and collaborate meaningfully with their peers, creating a vibrant arts culture and bringing arts in Deyi to new heights.  
-![Arts Ambassador Programme](/images/Key%20Program/LLP/Arts%20Amb01.jpg)
-![Arts Ambassador Programme](/images/Key%20Program/LLP/Arts%20Amb02.jpg)
+<p><strong><em>NURTURING CONFIDENT COMMUNICATORS AND GRACIOUS CITIZENS THROUGH THE ARTS</em></strong> 
+<br>At Deyi, Arts Education is an integral part of our students’ holistic
+development. With our mission “Arts Alive - Live, Work, Learn and Play
+with the Arts”, we seek to create a vibrant arts culture through programmes
+that will provide our students with opportunities to discover their interests
+and talents. It also aims to nurture our students’ character and groom
+them into gracious citizens of tomorrow while helping them develop their
+passion for the Arts.</p>
+<p>Arts Education is the focus of Deyi’s Learning for Life Programme (LLP).
+Through the LLP, we cultivate a school experience that develops an appreciation
+of and expertise in the arts. To support the creative dreams of our students,
+we provide opportunities for them to showcase their diverse talents. This
+includes our Drama-in-Curriculum (DIC) for lower secondary students, Arts
+enrichment programmes, Arts Ambassador Programme and performance platforms
+such as Deyi’s Arts Fiesta, Arts Hour and Deyi’s got Talent.</p>
+<p><strong>Arts Fiesta</strong> 
+<br>At Deyi, we firmly embrace the belief that the arts serve as a vital medium
+of expression. In our commitment to nurturing creativity, this year witnessed
+a dynamic exploration of diverse platforms during our biennial event -
+Arts Fiesta. Our students, brimming with talent, took center stage, captivating
+audiences through enthralling live performances presented by our esteemed
+Deyi Band, Movement and Dance, Drama Club, Choir, Art Club, and National
+Cadet Corps.</p>
+<p>Arts Fiesta not only served as a stage for our students to exhibit their
+remarkable talents but also became a testament to the profound impact of
+the arts on our lives. Amidst the celebratory atmosphere, the event served
+as a poignant reminder of how the arts, in their myriad forms, possess
+the unique ability to enrich and elevate our experiences.</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_1a.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_1c.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_1d.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_1e.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Deyi’s Got Talent (DGT)</strong> 
+<br>Deyi’s Got Talent is a creative platform for Deyians to display their
+talents in different areas like dance, music, vocals, digital art, and
+even magic show! This is our first year to have Category A where every
+class took part to showcase their unique talent. In Category B, the contestants
+faced fierce competitions during the auditions and the finals. We are proud
+to present the winners from Deyi’s Got Talent - Category A and B, congratulations
+and hope to see you next year!</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_2a.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_2b.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_2c.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_2d.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Aesthetic Assembly Programme</strong>&nbsp;
+<br>Aesthetic Assembly Programme aims to nurture a keen sense of aesthetics
+and appreciation for the Arts. It provides students with breadth experience
+in traditional and contemporary arts practices, leading to a lifelong pursuit
+of the Arts. Students are equipped with knowledge, skills and dispositions
+needed in their pursuit of educational and career pathways in the arts.
+To also reinforce character building and to explore post-secondary pathways
+by having real time and connection with artists from various arts forms.</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_3a.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_3b.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_3c.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_3d.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Dance, Music, Drama and Visual Art Enrichment Programme</strong>&nbsp;
+<br>The Learning for Life Programme seeks to provide students with access
+to quality arts education programmes. Deyians can engage and develop a
+keen sense of aesthetics and an appreciation for the arts. Equip themselves
+with knowledge and skills through practice of traditional, cultural, and
+contemporary arts. Our students learnt to appreciate Arts while immersing
+themselves in thought-provoking and engaging performances. (Sec 2 Dance
+Programme, Values-in-Art and Learning Journeys to Esplanade and Wild Rice
+for Music Backstage Tour, Into the Woods, Mosaic, An Inspector Calls Theatre
+Show, and Brahms190 Music Concert etc.)</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4a.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4b.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4c.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4d.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4e.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4f.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4g.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4h.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4i.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4j.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4k.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Arts Ambassador Programme (AAP)</strong>&nbsp;
+<br>Arts Ambassador Programme is a platform to encourage students’ voice and
+choice, arts ambassadors get to hone their leadership skills in school
+event like Deyi’s Got Talent where they planned and managed the auditions,
+rehearsals, publicity, and prize presentation for our students. Our Arts
+Ambassadors get to bring creative ideas and support for our Learning for
+Life Programme. They are leaders who lead and collaborate meaningfully
+with their peers, creating a vibrant arts culture, bringing arts in Deyi
+to new heights!</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_5a.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_5b.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_5c.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_5d.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_5e.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

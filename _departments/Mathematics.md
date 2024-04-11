@@ -2,30 +2,85 @@
 title: Mathematics
 permalink: /departments/mathematics/
 description: ""
+variant: tiptap
 ---
-**Vision:** <br>
-To nurture Passionate Learners, Creative Thinkers and Effective Problem Solvers
+<p><strong>Vision:</strong> 
+<br>To nurture Passionate Learners, Creative Thinkers and Effective Problem
+Solvers
 <br>
-**Mission:**<br>
-Exploring new Angles through Mathematics
+<br><strong>Mission:</strong> 
+<br>Exploring new Angles through Mathematics
 <br>
-
-The Mathematics Department plans for learning opportunities where students can stretch their learning. Our Lower Secondary students participated in the Learning Festivals Activities such as 3D Tic Tac Toe Competition and Tower of Hanoi Competition where students competed on their logical thinking and problem solving skills. These activities extended students’ learning in class such as the topic on Number Pattern in a different environment through a different experience.
-
-Secondary 3 students also had the opportunity to catch a glimpse of their post-secondary pathways and careers through a Financial Literacy Programme.
-
-For Principles of Accounts (POA), the focus was on the use of gamification and employing real-life scenarios to increase students' engagement and motivation in the learning of the subject.
-
-&nbsp;**POA Quest 2023**
- 
-A total of 80 Superheroes from 20 secondary schools gathered at Deyi Secondary for a POA Quest on 31 May to flaunt their amazing accounting knowledge and abilities. They surmounted challenges like Jewel Heist, Wheels of Assets, POAkemon, Online Escape Rooms, POA Pinballs and Debate to show their accounting prowess.
-
-Each station was designed and helmed by our Deyi Sec 4 Game Masters who led each team with enthusiasm and zest.
-
-Great hospitality was extended by our Sec 3 POA Chaperones to every team and they were also inspired seeing their seniors in action.
-
-Everyone was soaked in the accounting atmosphere and at the end of a 3-hour battle, 3 winners emerged!
-
-Congratulations to Bukit Merah Sec (Champion), New Town Sec (First Runner-Up) and Bedok Green Sec (Second Runner-Up). Felicitations, once again, to them and kudos to all our sec 3 and 4 accounting students for making this memorable experience possible!
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRz_oyUcih43P_uC35hbdfq_6bVSSHojQgefpZdBAnjm_5lKoL2-atYupGZAbQVcU2f1Oo8-YDxHSt0/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="860" height="569" allowfullscreen="true"></iframe>
+<br><strong>Approach:</strong>
+<br>The Mathematics Department at Deyi Secondary School provides learning
+opportunities for students to expand their knowledge. During the Learning
+Festival, our Lower Secondary students engaged in activities such as the
+3D Tic Tac Toe Competition and Tower of Hanoi Competition, honing their
+logical thinking and problem-solving skills. These experiences allowed
+students to apply their understanding of Number Patterns in a different
+context, enriching their classroom learning. Additionally, Secondary 3
+students participated in a Financial Literacy Programme, gaining insights
+into post-secondary pathways and careers.</p>
+<p>In Principles of Accounts (POA), we focus on enhancing student engagement
+through gamification and real-life scenarios. Recently, 80 students from
+20 secondary schools gathered at Deyi Secondary for a thrilling POA Quest,
+showcasing their accounting knowledge and abilities. The event featured
+challenges like Jewel Heist, Wheels of Assets, POAkemon, Online Escape
+Rooms, POA Pinballs, and Debate, all designed and led by our enthusiastic
+Deyi Secondary 4 Game Masters. Our Secondary 3 POA Chaperones provided
+excellent support, and our Secondary 3 and 4 POA students made this memorable
+experience possible. Kudos to all for their outstanding participation!</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/2024_Math_Dept_Pic1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3D Tic Tac Toe Competition and Tower of Hanoi Competition</strong>
+</p>
+<p>Our Lower Secondary students participated in the Learning Festival’s activities
+such as 3D Tic Tac Toe Competition and Tower of Hanoi Competition where
+students competed on their logical thinking and problem-solving skills.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/2024_Math_Dept_Pic2_POA.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>POA Quest 2023</strong> 
+<br>A total of 80 students from 20 secondary schools gathered at Deyi Secondary
+for a POA Quest.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Competitions / Achievements:</strong> 
+<br>• Raffles Policy Dialogue on the Hustle Culture (2023)
+<br>• Historical Scene Investigation Challenge – Silver Award (2023)
+<br>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Departments/Mathematics/2024_Math_Dept_Pic_3_Tic_tac1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">A spirited game of 3D Tic-Tac-Toe.</div><div class="isomer-card-link"></div></div></a>
+<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/2024_Math_Dept_Pic_4_Tic_Tac2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description">Students take on the challenge of 3D Tic-Tac-Toe.</div>
+<div class="isomer-card-link"></div>
+</div>
+</a>
+</div>
+<p></p>
+<p></p>

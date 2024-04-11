@@ -3,52 +3,95 @@ title: Information Technology Club
 permalink: /cca/sports-and-clubs/information-technology-club/
 description: ""
 third_nav_title: Sports and Clubs
-variant: markdown
+variant: tiptap
 ---
-<img style="width:50%" src="/images/Clubs%20-%20IT%20Club.jpg">
-		
-<center>		
-"In my four years in my Co-Curricular Activity (CCA), IT Club, I have learnt a few key things. Firstly, the importance of taking initiative, secondly, the power of leadership and finally, the value of voicing your opinions.
-
-I am not an outspoken person by nature. When I first joined the school, I was more of a follower who listened to what others would like to do and say, and just did the same. As the years went by, I am proud to say that I have developed my own voice. I am also fortunate to have forged strong relationships with my peers and seniors. Many of them went on to guide me in my journey to become the chairperson of the CCA.
-
-When I was a new member of the club, I took note of how my seniors executed the events and managed the weekly operations of the CCA. My senior challenged me and nudged me to teach my juniors all that I knew and looking back, I am grateful for his encouragement and nudge as I knew he was trying to push me to become a better version of myself. Becoming the chairperson of my CCA was not easy but thankfully, my teachers’ guidance motivated and empowered me to give my best for this CCA."
-<br><br>
-<strong>Charlene Lim Shuhan (404) <br>
-IT Club Chairperson </strong></center>
-
-Here in Deyi Secondary School’s Information and Technology (IT) Club, members are equipped with the skills to operate audio-visual (AV) equipment which are essential for daily school activities and major school events. In line with the government’s Smart Nation initiative, our IT Club members also learn the basics of building and programming miniature robots under the guidance of an experienced robotics trainer.&nbsp;
-
-With the easing of COVID-19 Safe Management Measures, IT Club members were able to participate in various competitions and support the execution of school events, including the Speech Day 2022 and Arts Hour 2022. Through a myriad of events and competitions, our members learn to work together as a team, developing confidence and honing their communication skills in the process.
-  
-**Teacher-in-charge:** <br>
-* Mr Ang Chip Pin (OIC) <br>
-* Mr Wong Choo Kok (AIC) <br>
-* Mr Reeve Ng (AIC) <br>
-
-**Weekly Schedule:** <br>
-Every Tuesday and Thursday 2.40 pm – 5.15 pm  
-
-**Achievements and Highlights** <br>
-**Internal Events:**
-* Co-Curricular Activity (CCA) Carnival 2022  
-* Chinese New Year Celebrations 2022
-* Olympics @ Deyi 2022&nbsp;
-* Arts Hour 2022&nbsp;
-* Hari Raya Celebrations 2022
-    
-**External Events:** 
-* Robocup Singapore 2023 - 1st Placing in Rescue Line Entry U19
-* Innovation, Design and Engineering (IDE) Robotics 2023 - Top 8 position (IDE Sprint)
-* National Robotics Competition (NRC) 2023
-* Our Schools, Our Stories(OSOS) Photo and Video Contest 2022 
-* SenseTime Artificial Intelligence (A.I.) Bootcamp 2022&nbsp;
-* First Lego League (FLL) 2022
-* IgnITE Challenge 2021 – Finalist
-* &nbsp;Amazon Web Services Data Science Bootcamp 2021
-* Campus Legends Secondary School Esports Competition 2021
-* Nanyang Polytechnic (NYP) e-Science and Technology Challenge 2021
-* National Kidney Foundation Sticker Competition 2021&nbsp;
-* Our Schools, Our Stories 2021
-
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_t1m89JFcwg_kBZNwqy7gwovQhbLXGvtoQfwzARlTDAhAVlSGcpn1Hy8-cAWaSdlSh75sp591cVX8/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+<p>At Deyi Secondary School, the Information and Technology (IT) Club stands
+at the forefront of technological empowerment, equipping members with critical
+skills for the digital age. The club's hands-on training in audio-visual
+(AV) equipment operation is vital, supporting not just daily school functions
+but also ensuring the smooth execution of major school events. This practical
+knowledge ensures that our students are not only contributors to but also
+leaders in the orchestration of our school's vibrant community events.</p>
+<p>Aligned with the nation's forward-thinking Smart Nation initiative, the
+IT Club ventures beyond traditional technology education. Under the mentorship
+of seasoned robotics experts, our members dive into the fascinating world
+of robotics, learning to build and program miniature robots. This innovative
+program not only ignites a passion for science and engineering but also
+prepares our students for future challenges in a technology-driven world,
+fostering problem-solving skills, creativity, and a deeper understanding
+of the technological underpinnings of our society.</p>
+<p><strong>Teachers-in-charge</strong>:
+<br>Mr Ang Chip Pin (OIC)
+<br>Mr Wong Choo Kok (AIC)
+<br>Mr Reeve Ng (AIC)</p>
+<p><strong>Weekly Schedule</strong>:
+<br>Every Tuesday and Thursday 2.40 pm – 5.15 pm</p>
+<p><strong>Competitions / Achievements</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>RoboCup Singapore Open – 1st Placing: Rescue Line Entry U19 (2023, 2024)</p>
+</li>
+<li>
+<p>IDE (Innovation, Design and Engineering) Singapore Robotics Competition
+2023</p>
+</li>
+<li>
+<p>Top 8 Placing: IDE Sprint</p>
+</li>
+<li>
+<p>National Robotics Competition (NRC) 2023</p>
+</li>
+<li>
+<p>‘Our Schools, Our Stories’ Photo Contest 2022</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
+<p><strong>Highlights:</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club/2024_IT_club_pic_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club/2024_IT_Club_2.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hall Sound Team in Action</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hall Lighting Team in Action</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club/2024_IT_Club_3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club/2024_IT_Club_01.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Portable Sound Team in Action</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RoboCup SG 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

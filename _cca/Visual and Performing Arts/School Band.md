@@ -3,50 +3,152 @@ title: School Band
 permalink: /cca/visual-and-performing-arts/school-band/
 description: ""
 third_nav_title: Visual and Performing Arts
-variant: markdown
+variant: tiptap
 ---
-Renowned for its superb showmanship and innovative performances, the Deyi Marching Band is a household name that is synonymous with excellence. Formed in 1980 and skillfully led since its founding by music director Mrs Chee-Say Ken Shen, the Band has achieved many distinguished awards and outstanding results at the Singapore Youth Festival.
-
-![](/images/CCA/Visual%20Perf%20Arts/School%20Band/img_7957.JPG)
-
-A comprehensive training programme has been put in place to build musicianship and to nurture the school values of Dedication, Determination, Diligence and Discipline in every member. The Band members are given ample opportunities to maximise their creative energy for building character and nurturing their talents through professional tutoring. Here in Deyi Band, every member is a leader where each individual is nurtured in leadership skills, bringing out the leader in them.
-
-The Band’s motto, ‘Spirito Obbligato’, was introduced in 1988. It reflects the Band’s commitment to making inspirational music, delightful and accessible to all. At the end of the 4-year journey, we envision to produce independent, skillful, passionate and confident performers in our members.
-
-**Teachers-in-charge:** <br>
-* Mr Daniel Pflug (OIC)  <br>
-* Ms Ho Si Liang (AIC)  <br> 
-* Miss Guo Zhen  (AIC) <br>
-* Miss Bertha Kwok <br>
-* Miss Shih Kai Lin <br>
-* Miss Fatimah Zahra <br>
-
-**Weekly Schedule:** <br>
-Every Tuesday and Thursday 2.40 pm – 6.00 pm
-* Includes selected Saturday sessions for SYF &amp; Major Events (e.g. NDP)
-
-**Achievements:** 
-* Singapore Youth Festival 2022 Arts Presentation for Band (Display): Certificate of Distinction
-* National Day Parade 2019
-* Singapore Youth Festival 2018 Arts Presentation for Band (Display): Certificate of Distinction
-* Singapore Youth Festival 2018 Arts Presentation for Band (Display):&nbsp;Best Drum Major Award: Liang Jin
-
-**Other Notable Activities:**&nbsp;&nbsp;
-* National Day Parade 2023 @ The Padang
-* School Arts Fiesta 2023
-* School CCA Orientation Day 2023
-* School CCA Orientation Day 2022
-* School National Day Parade 2022
-* Teck Ghee National Day Carnival 
-* National Day Parade 2019 @ The Padang
-* Deyi Homecoming 2018
-
-![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image01.jpeg) 
-
-![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image02.jpeg) 
-
-![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image03.jpeg) 
-
-![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image04.jpg)
-
-![](/images/CCA/Visual%20Perf%20Arts/School%20Band/image05.jpeg) <br><br>
+<p>Since its inception in 1980, the Deyi Marching Band has stood as a beacon
+of musical excellence under the esteemed leadership of Music Director Mrs.
+Chee-Say Ken Shen. Celebrated for its remarkable showmanship and trailblazing
+performances, the band has consistently earned high praise and numerous
+awards at the Singapore Youth Festival, distinguishing itself as a cornerstone
+of the school's extracurricular achievements.</p>
+<p></p>
+<p>At the heart of the band's success is a rigorous training program designed
+to cultivate not only exceptional musicality but also the core values of
+Dedication, Determination, Diligence, and Discipline. This holistic approach
+ensures that each member not only excels in their musical endeavors but
+also embodies the principles that define our school's spirit. The band
+offers its members a wealth of opportunities to unleash their creative
+potential and refine their talents through expert tutoring and mentorship.</p>
+<p></p>
+<p>Emphasizing the importance of leadership and personal growth, the Deyi
+Marching Band operates under the ethos of 'Spirito Obbligato'—a commitment
+to producing music that inspires and resonates with audiences far and wide.
+Over a transformative four-year journey, members evolve into independent,
+skilled, passionate, and confident performers, ready to take their place
+on any stage. This journey with the Deyi Marching Band is not just about
+achieving musical prowess but also about forging character, fostering teamwork,
+and making enduring memories.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/School%20Band/img_7957.JPG">
+</div>
+<p><strong>Teachers-in-charge:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Daniel Pflug (OIC)</p>
+</li>
+<li>
+<p>Ms Ho Si Liang (AIC)</p>
+</li>
+<li>
+<p>Miss Guo Zhen (AIC)</p>
+</li>
+<li>
+<p>Miss Bertha Kwok</p>
+</li>
+<li>
+<p>Miss Shih Kai Lin</p>
+</li>
+<li>
+<p>Miss Fatimah Zahra
+<br>
+</p>
+</li>
+</ul>
+<p><strong>Weekly Schedule:</strong> 
+<br>Every Tuesday and Thursday 2.40 pm – 6.00 pm</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Includes selected Saturday sessions for SYF &amp; Major Events (e.g. NDP)</p>
+</li>
+</ul>
+<p><strong>Competitions / Achievements:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Youth Festival 2022 Arts Presentation for Band (Display): Certificate
+of Distinction</p>
+</li>
+<li>
+<p>National Day Parade 2019</p>
+</li>
+<li>
+<p>Singapore Youth Festival 2018 Arts Presentation for Band (Display): Certificate
+of Distinction</p>
+</li>
+<li>
+<p>Singapore Youth Festival 2018 Arts Presentation for Band (Display):&nbsp;Best
+Drum Major Award: Liang Jin</p>
+</li>
+</ul>
+<p><strong>Other Notable Activities:</strong>&nbsp;&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Day Parade 2023 @ The Padang</p>
+</li>
+<li>
+<p>School Arts Fiesta 2023</p>
+</li>
+<li>
+<p>School CCA Orientation Day 2023</p>
+</li>
+<li>
+<p>School CCA Orientation Day 2022</p>
+</li>
+<li>
+<p>School National Day Parade 2022</p>
+</li>
+<li>
+<p>Teck Ghee National Day Carnival</p>
+</li>
+<li>
+<p>National Day Parade 2019 @ The Padang</p>
+</li>
+</ul>
+<p><strong>Highlights:</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/School%20Band/2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/image02.jpeg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Vibrant pulse of the marching band's Symphony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Capturing a moment with Minister Chan before the spotlight shines.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/image03.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/2024_Band_pic_1.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Deyi’s Marching Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Parade at the Padang</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

@@ -3,38 +3,127 @@ title: Choir
 permalink: /cca/visual-and-performing-arts/choir/
 description: ""
 third_nav_title: Visual and Performing Arts
-variant: markdown
+variant: tiptap
 ---
-<center> “In choir I have learnt new singing skills and vocal techniques that greatly improved my
-singing .With the support from my CCA friends, teachers and conductor, I have overcome
-challenges faced during sectional practices. This year, choir have done many amazing
-performances and I am proud of our achievements. Choir has helped build my self-
-confidence and I am thankful for all the opportunities that are given to me ”.<br> <br>
-<strong> Yumiko Ng Yee Xiean <br>
-Sec 3 Resilience
-<br><br><br></strong> </center>
-
-Deyi Choir aims for our students to appreciate the rich traditions of choral music, demonstrate a strong sense of responsibility, camaraderie, discipline, passion for singing, and develop as student leaders to manage the CCA administratively as well as provide musical directions. They also get to experience what it is like to perform within and outside of school as they strive towards achieving excellent results in competitions.
-  
-**Teacher -in-charge:** <br>
-* Mdm Ng Hwei Sung (OIC) <br>
-* Ms Harinder Kaur Dollie (AIC) <br>
-* Mr Lim Yu Sim<br> 
-
-**Weekly Schedule:** <br>
-Every Tuesday and Thursday at 2.45 pm - 5.45 pm  
-  
-**Achievements and Highlights:**  
-* Attained the Certificate of Accomplishment at Singapore Youth Festival Arts
-Presentation in 2023, 2019 and 2017
-* Participated in Singapore Youth Festival Arts Presentation&nbsp; in 2021
-* 2 groups of students featured in SYFgoesOnline! 2021 ‘ Let’s Jam Together’
-* In-house Production of Choir Concert “ Joyeux” series
-* Performed at Voices of Singapore Festival at CHIJMES Hall in 2017 and 2019
-* Performed at the school’s CCA Orientation Day, National Day, Chinese New Year Celebration, Speech Day and Art’s Fiesta
-
-![](/images/CCA/Visual%20Perf%20Arts/Choir/image1.jpg)
-![](/images/CCA/Visual%20Perf%20Arts/Choir/image2.jpg)
-![](/images/CCA/Visual%20Perf%20Arts/Choir/image3.jpg)
-![](/images/CCA/Visual%20Perf%20Arts/Choir/image4.jpg)
-![](/images/CCA/Visual%20Perf%20Arts/Choir/image6.jpg)
+<p>The Deyi Choir is dedicated to immersing students in the profound beauty
+and traditions of choral music. Through this enriching journey, students
+are encouraged to cultivate a deep appreciation for vocal harmony and the
+collaborative spirit of choir performance. Emphasizing values such as responsibility,
+camaraderie, discipline, and a passionate dedication to singing, the choir
+seeks to nurture not just musicians but well-rounded individuals.</p>
+<p>In addition to vocal training, members are given the unique opportunity
+to develop leadership skills by taking on administrative and musical direction
+roles within the CCA. This hands-on approach to management and artistic
+guidance prepares them for leadership in various contexts. Performance
+opportunities, both within the school and in external venues, offer students
+the chance to showcase their talent and hard work. As they participate
+in competitions, the focus remains on achieving excellence and representing
+their school with pride. Through these experiences, Deyi Choir members
+embark on a journey of personal growth, artistic expression, and communal
+achievement.</p>
+<p><strong>Teachers-in-charge:</strong> 
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Ng Hwei Sung (OIC)
+<br>
+</p>
+</li>
+<li>
+<p>Ms Harinder Kaur Dollie (AIC)
+<br>
+</p>
+</li>
+<li>
+<p>Mr Lim Yu Sim
+<br>
+</p>
+</li>
+</ul>
+<p><strong>Weekly Schedule:</strong> 
+<br>Every Tuesday and Thursday at 2.45 pm - 5.45 pm</p>
+<p><strong>Competitions / Achievements:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Youth Festival 2023</p>
+</li>
+<li>
+<p>Arts Presentation for Choir</p>
+</li>
+<li>
+<p>Certificate of Accomplishment</p>
+</li>
+</ul>
+<p><strong>Other Notable Activites:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA Carnival Performing Arts Concert</p>
+</li>
+<li>
+<p>Deyi Arts Fiesta</p>
+</li>
+<li>
+<p>Chinese New Year Celebration Concert</p>
+</li>
+<li>
+<p>Deyi Speech Day</p>
+</li>
+<li>
+<p>National Day Celebration Concert</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Highlights:</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Choir/image5.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Choir/image4.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF (2023)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF (2023)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Choir/2024_Choir_pic_1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Choir/image3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Carnival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF (2023)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

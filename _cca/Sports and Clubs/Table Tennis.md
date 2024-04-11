@@ -3,41 +3,89 @@ title: Table Tennis
 permalink: /cca/sports-and-clubs/table-tennis/
 description: ""
 third_nav_title: Sports and Clubs
-variant: markdown
+variant: tiptap
 ---
-![Karl, 2023 Captain](/images/CCA/Sports%20and%20Clubs/Table%20Tennis/karl%20boys%20captain%202023.jpg)
-
-<center>
-"Throughout my Table Tennis journey in Deyi, it has been a fun yet enriching experience with many joyful moments. Table Tennis has taught me the meaning of teamwork and resilience, values which I believe are key to success in any sport. It has also given me an invaluable opportunity to develop as a student with leadership qualities. Our Table Tennis team wouldn’t be what it is without guidance from our teachers and the discipline our Coach has set for us."  
-<br><br>
-<strong> Karl Basil (3 Diligence)<br>
-Table Tennis Boys Team Captain </strong></center>
-	
-_‘You are your only limit’_
-
-Table Tennis aims to nurture students to become players who are self-confident, determined and resilient in character. Our students have demonstrated excellent sportsmanship and team spirit while performing well in recent competitions. Under the guidance of a dedicated coach, our students are able to hone their skills in the game and develop lasting friendships. Students can also look forward to competing at inter-school tournaments, participating in friendly matches and even school sports events!
-
-**Teacher-in-charge:** <br>
-Ms Jeanette Lee (OIC) <br>
-Mdm Saliha Parveen (AIC) <br>
-Mr Aloysius Tan Yoke Jun  <br>
-
-**Weekly Schedule:** <br>
-Training Details: Every Tuesday and Thursday, 2.50-5.30 pm
-
-**Achievements and Highlights:** 
-* 2023 South Zone C Division National School Games Competition C Division Girls – 3rd Placing
-* 2023 South Zone B Division National School Games Competition B Division Girls - 4th Placing
-* 2022 South Zone C Division National School Games Competition C Division Girls – 3rd Placing
-* 2022 South Zone B Division National School Games Competition B Division Girls and Boys - 4th Placing&nbsp;
-* 2019 North Zone C Division&nbsp;Table&nbsp;Tennis&nbsp;Competition&nbsp;C Division Girls - 4th&nbsp;Placing
-
-![](/images/CCA/Sports%20and%20Clubs/Table%20Tennis/2023_table%20tennis_competition1%20-%20aloysius%20tan%20yoke%20jun.jfif)
-
-![](/images/CCA/Sports%20and%20Clubs/Table%20Tennis/2023_table%20tennis_competition2%20-%20aloysius%20tan%20yoke%20jun.jfif)
-
-![](/images/CCA/Sports%20and%20Clubs/Table%20Tennis/2023_table%20tennis_competition3%20-%20aloysius%20tan%20yoke%20jun.jpeg)
-
-![](/images/CCA/Sports%20and%20Clubs/Table%20Tennis/2023_table%20tennis_team%20bonding.jpeg)
-
-![](/images/CCA/Sports%20and%20Clubs/Table%20Tennis/2023_table%20tennis_friendly%20match.jpeg)
+<p>The Table Tennis CCA at our school is dedicated to crafting not just skilled
+athletes, but also well-rounded individuals who exude self-confidence,
+determination, and resilience. Our players consistently embody the highest
+standards of sportsmanship and team unity, qualities that have shone brightly
+in their impressive performances at recent competitions. Guided by a coach
+whose commitment to excellence is matched only by their dedication to the
+students, our team members refine their techniques and strategies, all
+while forging strong bonds of friendship that transcend the table.</p>
+<p>As they master the fast-paced intricacies of table tennis, our students
+also prepare for a variety of competitive platforms. They eagerly anticipate
+representing our school in inter-school tournaments, engaging in friendly
+matches that challenge their growth, and partaking in school-wide sports
+events that celebrate their hard work and dedication. Table Tennis at our
+school is not just a sport; it's a journey of personal and communal discovery,
+setting the stage for a lifetime of success and camaraderie.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_table_tennis_over_arching_pic.jpeg">
+</div>
+<p><strong>Teachers-in-charge:</strong> 
+<br>Ms Jeanette Lee (OIC)
+<br>Mdm Saliha Parveen (AIC)
+<br>Mr Aloysius Tan Yoke Jun</p>
+<p><strong>Weekly Schedule:</strong> 
+<br>Every Tuesday and Thursday 2.50 pm – 5.30 pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong>Competitions / Achievements:</strong> 
+<br>• South Zone B Division National School Games Competition B Division Girls:
+4th Placing (2024)
+<br>• South Zone C Division National School Games Competition C Division Girls:
+3rd Placing (2023)
+<br>• South Zone B Division National School Games Competition B Division Girls:
+4th Placing (2023)
+<br>• South Zone C Division National School Games Competition C Division Girls:
+3rd Placing (2022)
+<br>• South Zone B Division National School Games Competition B Division Girls
+and Boys: 4th Placing (2022)</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_Pic_3.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_pic_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Division Zonal NSG Finals with our supporters and Mr Chow 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division NSG Boys with Coach Mark</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_pic_2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_pic_4.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Division NSG Girls 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Overseas Table Tennis exchange in Kuala Lumpur 2023</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

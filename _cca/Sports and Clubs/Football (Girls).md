@@ -3,29 +3,96 @@ title: Football (Girls)
 permalink: /cca/sports-and-clubs/football-girls/
 description: ""
 third_nav_title: Sports and Clubs
-variant: markdown
+variant: tiptap
 ---
-<img style="width:30%" src="/images/CCA/Sports%20and%20Clubs/Football/2023_football_captain1%20.jpg">
-
-<center>
-The teachers and coaches taught my team and I to dribble, pass and shoot. Football taught us perseverance, unity, and communication. My teammates taught us to motivate and inspire one another.
+<p>Since its inception in 2006, the Girls' Football team has become a proud
+tradition of our school's Co-Curricular Activities. The team's ethos is
+rooted in the cultivation of discipline, teamwork, and commitment—values
+that serve as the cornerstone of success both on the playing field and
+in the various arenas of life. Under the tutelage of a dedicated coaching
+staff, our players develop their football prowess within a nurturing and
+secure environment, fostering not only their athletic abilities but also
+their personal growth.
 <br>
-<strong> Dinesh Kumar Shree Nithi (4IT) <br>
-Football Captain </strong></center>
-	
-**Sportsmanship and Excellence** <br>
-The Girls’ Football team was introduced as a CCA in 2006. Our training emphasises on discipline, teamwork and commitment, which are important values on and off the field. The girls are taught football skills in a safe and friendly environment under the guidance of a dedicated coach. Our ‘B’ and ‘C’ division girls compete in football matches at national level in interschool tournaments organised by the Football Association of Singapore. 
-
-We were awarded the 'Fair Play Award' for both NSG B and C Division, 2023
-
-**Teacher-in-charge:** <br>
-Mr Chen Yizhou (OIC) <br>
-Mr  M Ravinthran (AIC)<br>
-Ms Jassika  
-  
-**Weekly Schedule:** <br>
-Every Tuesday and Thursday 2.40pm - 5.45pm
-
-![](/images/CCA/Sports%20and%20Clubs/Football/2023_football_b%20div%20nsg_2.jpg) <br>
-![](/images/CCA/Sports%20and%20Clubs/Football/2023_football_competition3.jpg) <br>
-![](/images/CCA/Sports%20and%20Clubs/Football/2023_football_bonding4.jpeg)
+<br>The program is structured to encourage the students' competitive spirit
+and sportsmanship, with our 'B' and 'C' division athletes showcasing their
+skills in national-level interschool tournaments organized by the Football
+Association of Singapore. This high level of play is a testament to our
+players' hard work and the robust training regimen they follow. It is here,
+amidst the thrill of competition and the camaraderie of their team, that
+our girls shine—demonstrating the power of unity and the enduring impact
+of a supportive sports education.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2024 football over-arching pic.jpg">
+</div>
+<p><strong>Teachers-in-charge:</strong> 
+<br>Mr Chen Yizhou (OIC)
+<br>Mr M Ravinthran (AIC)
+<br>Ms Jassika (SFA Coordinator)</p>
+<p><strong>Weekly Schedule:</strong> 
+<br>Every Tuesday and Thursday 2.45 pm – 5.30 pm
+<br>Odd Week Friday 3 pm – 5 pm</p>
+<p><strong>Competitions / Achievements:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games B Division Girls’ Football Championship: ‘Fair Play
+Award’ (2023)</p>
+</li>
+<li>
+<p>National School Games C Division Girls’ Football Championship: ‘Fair Play
+Award’ (2023)</p>
+</li>
+</ul>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2024_Football_Pic_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2024_Football_Pic_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pre-game briefing for C Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fair Play Award for C Division Girls</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2024_Football_Pic_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Deyi Football Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>

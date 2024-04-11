@@ -2,14 +2,91 @@
 title: Science
 permalink: /departments/science/
 description: ""
+variant: tiptap
 ---
-**Vision:** <br>
-Inquiring Minds, Innovative Spirit  
-  
-  
-**Mission:** <br>
-To equip our students with scientific skills for life-long learning.    
-  
-The Science Department aims to nurture students who are curious about the natural world around them. Teachers make use of authentic demonstrations, practical sessions and games to enthuse their students in the learning of science. Students also get to experience science in our learning spaces such as the Aquaponics Greenhouse and the Butterfly Garden. Teachers also create authentic learning experiences outside the school for our students by organizing enrichment programmes such as Learning Journey to the Science Centre, ABC Water Trail and Advanced Elective Module in Chemistry.
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQYRS3GtuqcYdat_JU9Sx5mDuMwtzAaLNp4PrNPFZ8Q0_NVksieWOTqT9cXoTQthm3abNgbt-2S-5T4/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="653" height="405" allowfullscreen="true"></iframe>
+<p><strong>Vision:</strong> 
+<br>Engage. Empower. Excite</p>
+<p><strong>Mission:</strong> 
+<br>Every Science student would
+<br>1. Attain 21st Century Competencies to prepare for the future.
+<br>2. Appreciate the nature of science through acquiring scientific literacy.
+<br>3. Attain of Knowledge, Process Skills and Core Competencies.
+<br>4. Develop character and display school values.</p>
+<p><strong>Approach:</strong> 
+<br>In Deyi, students go through experiential learning, inquiry-based learning,
+problem-based learning and game-based learning.
+<br>
+<br>This involves students leveraging on technology to gain scientific knowledge
+coupled with science practical hands-on learning. Through the use of specialized
+learning spaces like the Aquaponics Greenhouse, Vertical farming and the
+Butterfly Garden, our students gain first hand experiences related to Science.
+<br>
+<br>Enrichment programmes, learning journeys, and participation in Science
+competitions provide real-world applications of scientific knowledge.
+<br>
+<br>In Deyi, STEM (Science, Technology, Engineering and Math) activities promote
+insights into practical application of science in real life which nurtures
+students' curiosity, critical thinking, and appreciation for the value
+of science through immersive and authentic learning experiences.</p>
+<p><strong>Key Programmes:</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_1.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lower Sec Science Problem Based Learning Project </strong>
+<br>Our lower secondary science students investigate and solve a problem using
+science and technology.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Experiential Learning through Learning Journey</strong> 
+<br>Students learn about fruits and how to make strawberry jam at the Singapore
+Science Centre.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sustainability - Urban Farming through aquaponics and vertical farming</strong> 
+<br>Our students optimize plant growth and maximize yields in both aquaponics
+and vertical farming systems in our sustainability education.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_4.png">
+</div>
+<p>Click below to visit Deyi Science Department Microsite.
+<br><strong><a href="https://for.edu.sg/dysscience" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/dysscience</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_square_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Stretch Programmes</strong> 
+<br>Opportunities to represent Deyi in Physics, Chemistry and Biology Olympiads
+as well as F1 Challenge.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
