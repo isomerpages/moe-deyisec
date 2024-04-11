@@ -5,16 +5,15 @@ description: ""
 third_nav_title: Sports and Clubs
 variant: tiptap
 ---
-<p>The Basketball Co-Curricular Activity (CCA) at our school is a dynamic
-program that nurtures students over a transformative four-year journey.
-From their initial introduction to the court as freshmen, students are
-immersed in the foundational techniques of basketball, including dribbling,
-shooting, passing, and strategic gameplay. The programme is meticulously
-structured to infuse the core values of Dedication, Discipline, Determination,
-and Diligence into every practice and game. Coaches are not just instructors
-but mentors who guide each player with individualized attention, ensuring
-that the principles of integrity and care are woven into the fabric of
-their athletic education.</p>
+<p>The Basketball CCA at our school is a dynamic program that nurtures students
+over a transformative four-year journey. From their initial introduction
+to the court as freshmen, students are immersed in the foundational techniques
+of basketball, including dribbling, shooting, passing, and strategic gameplay.
+The programme is structured to infuse the core values of Dedication, Determination,
+Diligence, and Discipline into every practice and game. Coaches are not
+just instructors but mentors who guide each player with individualized
+attention, ensuring that the principles of integrity and care are woven
+into the fabric of their athletic education.</p>
 <p>As student-athletes ascend through the program, they are continually challenged
 to expand their skills and embrace leadership roles. The basketball CCA
 offers a comprehensive experience that transcends traditional sports training.
