@@ -91,6 +91,12 @@ and Deepavali.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>National Secondary Schools Malay Debate Competition 2024-Semi Finalists</p>
+</li>
+<li>
+<p>Video Tik Tok National P. Ramlee Competition (2nd Place)</p>
+</li>
+<li>
 <p>Create Your Own Newspaper Competition 2023 (Certificate of Participation)</p>
 </li>
 <li>
