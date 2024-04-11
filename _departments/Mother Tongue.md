@@ -12,8 +12,7 @@ of their roots and cultures through a wide range of programmes and activities,
 which allow them to apply their language skills as well as to connect with
 their own cultural heritage.</p>
 <p><strong>Approach:</strong>
-</p>
-<p>The Mother Tongue syllabus aims to engage students in joyful learning
+<br>The Mother Tongue syllabus aims to engage students in joyful learning
 and develop them to become active and proficient users of MTL, with the
 three broad objectives: Communication, Culture and Connection. Teachers
 will build on students’ prior knowledge and skills of listening, speaking,
@@ -40,18 +39,9 @@ from the students and the bright smiles on their faces, it was evident
 that they had benefitted from all these learning opportunities.</p>
 <p></p>
 <p><strong>Key Programmes:</strong> 
-<br>
 </p>
 <table>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -145,14 +135,6 @@ Prize)</p>
 </p>
 <table>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
