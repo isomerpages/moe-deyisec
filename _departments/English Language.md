@@ -11,8 +11,7 @@ through 21st century ways of compelling communication.</p>
 ongoing professional learning with the English Language Institute of Singapore
 (MOE/ELIS) to deepen pedagogy.</p>
 <p><strong>Approach:</strong>
-</p>
-<p>Here in Deyi, the Applied Learning Programme (ALP) in Broadcast Journalism
+<br>Here in Deyi, the Applied Learning Programme (ALP) in Broadcast Journalism
 is integrated into the English Department's workplan. The English language
 and Literature teachers believe in harnessing the 21st century e-pedagogies
 of multiliteracies and metacognition to enliven and strengthen teaching.
@@ -24,18 +23,10 @@ are also continuing their collaboration with Principal Master Teacher,
 Cedric Leong from ELIS/AST, to explore the use of Artificial Intelligence
 (AI) writing tools, as well as the adoption of metacognitive strategies
 to enhance our students' multimodal journalism artefacts (Writing and Representing).</p>
-<p><strong>Key Programmes: <br></strong>
+<p><strong>Key Programmes: </strong>
 </p>
 <table>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -50,7 +41,7 @@ infographics and social issues videos.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Competitions / Achievements: <br></strong>
+<p><strong>Competitions / Achievements: </strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -66,7 +57,7 @@ Canva.</p>
 (MOE/ELIS) culminating in sharing at both cluster and national levels.</p>
 </li>
 </ul>
-<p><strong>Highlights: <br></strong>
+<p><strong>Highlights: </strong>
 </p>
 <table>
 <tbody>
