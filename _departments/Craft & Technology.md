@@ -9,7 +9,7 @@ variant: tiptap
 <p><strong>Mission:</strong> 
 <br>To groom Deyians to be focused and determined in realising their potential
 through a variety of platforms to make learning relevant and fun.</p>
-<p><strong>Approach:</strong>
+<p><strong>Approach:</strong> 
 <br>In Deyi, our Aesthetics, Craft and Technology department comprises of
 Art, Design and Technology, Drama, Music and Nutrition and Food Science.
 The Art curriculum provides opportunities for the students to express their
@@ -27,7 +27,6 @@ curriculum equips our students with the knowledge about issues on food
 culture, health and nutrition and allows them to apply the right principles
 on food management, consumer rights and effective resource management.</p>
 <p><strong>Key Programmes</strong> 
-<br>
 </p>
 <table>
 <tbody>
@@ -81,8 +80,7 @@ topics from current and social issues in Singapore.</p>
 </tbody>
 </table>
 <p><strong>Achievement:</strong>
-</p>
-<p>IDEX – A*STAR Sustainable Living award (2024)</p>
+<br>IDEX – A*STAR Sustainable Living award (2024)</p>
 <table>
 <tbody>
 <tr>
