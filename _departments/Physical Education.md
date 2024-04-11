@@ -101,12 +101,9 @@ netball, touch-rugby</p>
 <p><strong>Annual Track Meet</strong>
 </p>
 <p>Our school track meet shone a light on the grit and spirit of our students.
-They raced with all their might, jumped as high as they could, and put
-their strength into every throw. The bright day echoed with cheers, as
-every determined step and leap was supported by peers and mentors. These
-snapshots capture the perseverance that defines our students and the encouragement
-that fuels them. It was a proud day that celebrated not just athletic skill,
-but the enduring heart of our school's culture.</p>
+These snapshots capture the perseverance that defines our students and
+the encouragement that fuels them. It was a proud day that celebrated not
+just athletic skill, but the enduring heart of our school's culture.</p>
 </td>
 </tr>
 </tbody>
