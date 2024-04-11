@@ -24,8 +24,9 @@ others. By their senior year, the students have evolved into emblematic
 figures of the school's ethos, demonstrating not only advanced basketball
 prowess but also an unwavering commitment to the values that will empower
 them to succeed in all walks of life.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports%20and%20Clubs/Basketball/2024_Basketball_pic_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/WhatsApp_Image_2024_04_09_at_15_50_01.jpg">
 </div>
 <p><strong>Teachers-in-charge:</strong> 
 <br>
