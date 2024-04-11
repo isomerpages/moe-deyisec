@@ -10,6 +10,20 @@ through 21st century ways of compelling communication.</p>
 <p><strong>Mission: <br></strong> Implementing the new EL Syllabus 2020 and
 ongoing professional learning with the English Language Institute of Singapore
 (MOE/ELIS) to deepen pedagogy.</p>
+<p><strong>Approach:</strong>
+</p>
+<p>Here in Deyi, the Applied Learning Programme (ALP) in Broadcast Journalism
+is integrated into the English Department's workplan. The English language
+and Literature teachers believe in harnessing the 21st century e-pedagogies
+of multiliteracies and metacognition to enliven and strengthen teaching.
+Visible thinking approaches like text annotation and Padlet (a web 2.0
+tool) are also utilised. As a pilot FSBB school where students offer more
+demanding subjects like English, Differentiated Instruction (DI) is also
+a classroom approach used by our teachers to support learning. Our teachers
+are also continuing their collaboration with Principal Master Teacher,
+Cedric Leong from ELIS/AST, to explore the use of Artificial Intelligence
+(AI) writing tools, as well as the adoption of metacognitive strategies
+to enhance our students' multimodal journalism artefacts (Writing and Representing).</p>
 <p><strong>Key Programmes: <br></strong>
 </p>
 <table>
