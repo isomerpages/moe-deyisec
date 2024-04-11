@@ -11,7 +11,7 @@ variant: tiptap
 of their roots and cultures through a wide range of programmes and activities,
 which allow them to apply their language skills as well as to connect with
 their own cultural heritage.</p>
-<p><strong>Approach:</strong>
+<p><strong>Approach:</strong> 
 <br>The Mother Tongue syllabus aims to engage students in joyful learning
 and develop them to become active and proficient users of MTL, with the
 three broad objectives: Communication, Culture and Connection. Teachers
@@ -38,7 +38,7 @@ as well as to hone their language skills. Based on the positive feedback
 from the students and the bright smiles on their faces, it was evident
 that they had benefitted from all these learning opportunities.</p>
 <p></p>
-<p><strong>Key Programmes:</strong> 
+<p><strong>Key Programmes:</strong>
 </p>
 <table>
 <tbody>
@@ -139,6 +139,22 @@ Prize)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MTL/WhatsApp_Image_2024_04_11_at_10_54_22.jpg">
+</div>
+<p>National Secondary Schools Malay Debate Competition 2024-Semi Finalists</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MTL/WhatsApp_Image_2024_04_11_at_10_48_09.jpg">
+</div>
+<p>2nd Place for Video Tik Tok National P. Ramlee Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MTL/3.jpg">
 </div>
 <p>Chinese culture workshop: Mask painting</p>
@@ -158,6 +174,14 @@ Prize)</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MTL/5.jpg">
 </div>
 <p>Deepavali Oil Lamp Painting workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
