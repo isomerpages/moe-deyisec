@@ -74,7 +74,9 @@ and vertical farming systems in our sustainability education.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_4.png">
 </div>
-<p></p>
+<p>Click below to visit Deyi Science Department Microsite.
+<br><strong><a href="https://for.edu.sg/dysscience" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/dysscience</a></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_square_2.jpg">
 </div>
@@ -87,6 +89,4 @@ as well as F1 Challenge.</p>
 </tr>
 </tbody>
 </table>
-<p>Click below to visit Deyi Science Dept Microsite.
-<br><a href="https://sites.google.com/moe.edu.sg/deyiscience/home?authuser=0" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/deyiscience/home?authuser=0</a>
-</p>
+<p></p>
