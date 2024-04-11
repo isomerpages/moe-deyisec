@@ -66,6 +66,10 @@ and making enduring memories.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Singapore Youth Festival 2024 Arts Presentation for Band (Display): Certificate
+of Distinction</p>
+</li>
+<li>
 <p>Singapore Youth Festival 2022 Arts Presentation for Band (Display): Certificate
 of Distinction</p>
 </li>
@@ -151,4 +155,11 @@ Drum Major Award: Liang Jin</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Singapore Youth Festival Arts Presentation 2024:</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Jt3Zqb-AFmI?si=mxW7nZSfBpRlryYd"></iframe>
+</div>
+<p></p>
+<p></p>
 <p></p>
