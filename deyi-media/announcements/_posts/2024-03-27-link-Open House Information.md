@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://drive.google.com/drive/folders/14ZZpUbFBmpkJKKCtvS5Ji8sKL4QiZKly
+external: https://drive.google.com/drive/folders/14ZZpUbFBmpkJKKCtvS5Ji8sKL4QiZKly
 ---
