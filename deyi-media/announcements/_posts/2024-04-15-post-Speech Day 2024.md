@@ -9,8 +9,8 @@ variant: tiptap
 ---
 <p>Deyi Secondary School
 <br><strong>Speech Day 2024</strong> - Refer to the poster below for the details.
-<br>For more details, click on the link below to download the brochure.</p>
-<p></p>
+<br>For more details, click on this link [<a href="/files/Announcement/Speech_Day_2024_v.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Speech Day</a>] to
+download the brochure.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Announcements/111.png">
 </div>
