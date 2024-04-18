@@ -2,6 +2,7 @@
 title: Integration Programme
 permalink: /useful-links/integration-programme/
 description: ""
+variant: markdown
 ---
 # Integration Programme 
 
