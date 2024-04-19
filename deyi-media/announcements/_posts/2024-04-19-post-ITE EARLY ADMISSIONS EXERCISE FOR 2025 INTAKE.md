@@ -7,16 +7,16 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>ITE EARLY ADMISSIONS EXERCISE FOR 2025 INTAKE</strong>
+<p><strong>ITE EARLY ADMISSIONS EXERCISE FOR 2025 INTAKE</strong> 
 <br>We are pleased to invite our GCE 'N' Level students to apply for the ITE
 Early Admissions Exercise (EAE) for the 2025 intake of full-time students
 to ITE.</p>
-<p><strong>WHAT IS ITE EAE?</strong>
+<p><strong>WHAT IS ITE EAE?</strong> 
 <br>ITE EAE is an aptitude-based admissions exercise that allows graduating
 students from MOE schools to apply based on their <strong>aptitudes and interests</strong>,
 before they take their GCE N‑Level or GCE O‑Level exams. Successful applicants
 will receive conditional offers for admission to ITE.</p>
-<p><strong>ELIGIBILITY CRITERIA</strong>
+<p><strong>ELIGIBILITY CRITERIA</strong> 
 <br>ITE EAE for the 2025 intake is available to the following:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -30,7 +30,7 @@ N‑Level or O‑Level examinations in 2024&nbsp;</p>
 </li>
 </ul>
 <p></p>
-<p><strong>SELECTION CRITERIA</strong>
+<p><strong>SELECTION CRITERIA</strong> 
 <br>Students must articulate their interest in the course with write-ups of
 up to around <strong>100 words</strong> (in the online application form),
 including details on their relevant talents, aptitudes, achievements, skills
@@ -52,7 +52,7 @@ Skills Challenge, etc. that are related to the applied ITE course(s).</p>
 </li>
 </ul>
 <p></p>
-<p><strong>APPLICATION DETAILS</strong>
+<p><strong>APPLICATION DETAILS</strong> 
 <br>Applications will open from <strong>Tue 21 May 2024</strong> to <strong>Tue 28 May 2024</strong>.
 Interested students are invited to submit their applications online at <strong><a href="https://593eb35712d8487794808e9ef91664fc.svc.dynamics.com/t/t/6YkYyu3ypvPYPP9w0JEjcNbKjCcJCNLxBHiwXZQ6qs0x/SWOVjcQC1mGzhOruZeUopNGJhyy2U5O7a1Cop8JyOxUx" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/apply-eae</u></a></strong>.</p>
 <p>Here are some important dates to note:</p>
