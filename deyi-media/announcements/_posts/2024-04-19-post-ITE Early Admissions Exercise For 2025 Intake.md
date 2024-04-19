@@ -34,7 +34,7 @@ N‑Level or O‑Level examinations in 2024&nbsp;</p>
 <br>Students must articulate their interest in the course with write-ups of
 up to around <strong>100 words</strong> (in the online application form),
 including details on their relevant talents, aptitudes, achievements, skills
-and experiences. Students can download a template from <strong><a href="https://593eb35712d8487794808e9ef91664fc.svc.dynamics.com/t/t/6YkYyu3ypvPYPP9w0JEjcNbKjCcJCNLxBHiwXZQ6qs0x/SWOVjcQC1mGzhOruZeUopNGJhyy2U5O7a1Cop8JyOxUx" rel="noopener noreferrer nofollow" target="_blank"><u>https://for.edu.sg/eae-template</u></a> </strong>to
+and experiences. Students can download a template from <strong><a href="https://for.edu.sg/eae-template" rel="noopener noreferrer nofollow" target="_blank"><u>https://for.edu.sg/eae-template</u></a> </strong>to
 prepare their write-ups in advance<strong>. </strong>Shortlisted students
 will be further assessed based on the following criteria:</p>
 <ul data-tight="true" class="tight">
@@ -54,7 +54,7 @@ Skills Challenge, etc. that are related to the applied ITE course(s).</p>
 <p></p>
 <p><strong>APPLICATION DETAILS</strong> 
 <br>Applications will open from <strong>Tue 21 May 2024</strong> to <strong>Tue 28 May 2024</strong>.
-Interested students are invited to submit their applications online at <strong><a href="https://593eb35712d8487794808e9ef91664fc.svc.dynamics.com/t/t/6YkYyu3ypvPYPP9w0JEjcNbKjCcJCNLxBHiwXZQ6qs0x/SWOVjcQC1mGzhOruZeUopNGJhyy2U5O7a1Cop8JyOxUx" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/apply-eae</u></a></strong>.</p>
+Interested students are invited to submit their applications online at <strong><a href="https://www.ite.edu.sg/apply-eae" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/apply-eae</u></a></strong>.</p>
 <p>Here are some important dates to note:</p>
 <table>
 <tbody>
@@ -96,7 +96,7 @@ Interested students are invited to submit their applications online at <strong><
 </tr>
 </tbody>
 </table>
-<p>* Dates indicated are tentative and subject to change. Please refer to <strong><a href="https://593eb35712d8487794808e9ef91664fc.svc.dynamics.com/t/t/6YkYyu3ypvPYPP9w0JEjcNbKjCcJCNLxBHiwXZQ6qs0x/SWOVjcQC1mGzhOruZeUopNGJhyy2U5O7a1Cop8JyOxUx" rel="noopener noreferrer nofollow" target="_blank"><u>www.ite.edu.sg</u></a></strong> for
+<p>* Dates indicated are tentative and subject to change. Please refer to <strong><a href="www.ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.ite.edu.sg</u></a></strong> for
 the latest schedule.</p>
 <p>Selected applicants will be given <u>only one conditional offer</u> for
 the <em>Nitec</em> or <em>Higher Nitec</em> course of their choice, before
@@ -104,7 +104,7 @@ the release of their 2024 GCE N‑Level or O‑Level examination results. Succes
 applicants who accept the offer will be guaranteed a place in ITE as long
 as they <u>meet the Minimum Entry Requirements</u> of the offered course
 once they receive their GCE N‑Level or O‑Level examination results.</p>
-<p>Applicants may login to <strong><a href="https://593eb35712d8487794808e9ef91664fc.svc.dynamics.com/t/t/6YkYyu3ypvPYPP9w0JEjcNbKjCcJCNLxBHiwXZQ6qs0x/SWOVjcQC1mGzhOruZeUopNGJhyy2U5O7a1Cop8JyOxUx" rel="noopener noreferrer nofollow" target="_blank"><u>https://istudent.ite.edu.sg</u></a></strong> to
+<p>Applicants may login to <strong><a href="https://istudent.ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://istudent.ite.edu.sg</u></a></strong> to
 check the results of their applications from Mon 26 Aug 2024. Successful
 applicants will also be notified via email and SMS to accept the offers
 online by Fri 30 Aug 2024.</p>
