@@ -96,7 +96,7 @@ Interested students are invited to submit their applications online at <strong><
 </tr>
 </tbody>
 </table>
-<p>* Dates indicated are tentative and subject to change. Please refer to <strong><a href="www.ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.ite.edu.sg</u></a></strong> for
+<p>* Dates indicated are tentative and subject to change. Please refer to <strong><a href="https://www.ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg</a></strong> for
 the latest schedule.</p>
 <p>Selected applicants will be given <u>only one conditional offer</u> for
 the <em>Nitec</em> or <em>Higher Nitec</em> course of their choice, before
