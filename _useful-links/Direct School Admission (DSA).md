@@ -2,6 +2,7 @@
 title: Direct School Admission (DSA)
 permalink: /useful-links/direct-school-admission-dsa/
 description: ""
+variant: markdown
 ---
 ### Direct School Admission (DSA) <a name="backtotop"></a>
 
@@ -27,7 +28,7 @@ Starting from the 2018 DSA Exercise (for the 2018 P6 cohort), secondary schools 
 
 (NOT applicable for School of the Arts (SOTA) and Singapore Sports School (SSP))
   
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from&nbsp;**4 May 2023, 11 am to 31 May 2023, 3 pm.**&nbsp;For more details, please refer to MOE website:&nbsp;–&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from&nbsp;**7 May 2024, 11 am to 3 June 2024, 3 pm.**&nbsp;For more details, please refer to MOE website:&nbsp;–&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
 **Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.**
   
@@ -57,7 +58,7 @@ The table below gives more details of the specific talent areas offered by Deyi 
 |---|---|---|
 | Visual and Performing Arts | Since 2005, the Performing Arts have been an area of strength in Deyi. In 2016, we integrated our arts education programmes with our Learning for Life Programme (LLP) - NURTURING CONFIDENT COMMUNICATORS AND GRACIOUS CITIZENS THROUGH THE ARTS. The LLP focuses on real-life experiential learning to develop students’ character and values through various in-curriculum Arts programmes such as Drama, Dance, Visual Art and Music.  <br> <br> To develop every child to the fullest, Deyi aims to bring the Performing Arts to the entire school population.  <br><br> The desired outcomes we envision for all Deyians in the areas of LLP are: <br><br>• To be more culturally aware and appreciative of the various forms of performing arts; <br>• To learn at least one 'performing art' skill (i.e. to be able to dance, act or sing reasonably well); <br> • To perform in at least one school / public performance. <br><br> Thus Performing Arts @ Deyi is about values inculcation, holistic development of the child, expanding the common space amidst our rich and diverse cultural heritage and fostering social responsibility so that our students will become Active Learners, Gracious Citizens. <br><br> All selected students will be recruited into Visual &amp; Performing Arts-related CCAs namely, Art Club, School Band, Choir, Movement &amp; Dance, and English Drama Club for a customised Talent Development Programme. |
 | Media/Journalism | Deyi's Applied Learning Programme (ALP) – AC3TIVE VOICE BROADCAST JOURNALISM - commenced in 2016 and introduces students to the basics of Broadcast Journalism, which develops and strengthens language literacy, critical thinking and communication skills. The programme covers Mass Communication &amp; Media, ICT in Information Gathering, and Writing &amp; Presenting. Students collaborate to produce infographics and videos on a wide range of topics that are broadcast to the school, thereby experiencing a deeper engagement with language on authentic platforms to become competent, confident and effective communicators.<br><br>The desired outcomes we envision for all Deyians in the area of ALP are:<br><br>• To be critical inventive thinkers and effective communicators in the areas of broadcast and Journalism.<br>• To be able to produce digital multi-media resources to communicate and broadcast fact, opinions and perspectives.<br>• To be able to communicate persuasively through spoken and written media. |
-| Leadership | In Deyi, we are committed to developing leaders who are active contributors to the community, equipped with 21st century skills, and possess a passion to serve. We will be looking for individuals who have shown aptitude in service and leadership in their primary schools or one who has keen interest in community service and would like to lead in this aspect.<br><br>Students who are selected can expect to have their leadership skills and values developed through a mentoring programme. They will be paired with our Student Council Exco members to plan and execute a project to influence our community in exhibiting kindness. The project will be guided by teachers in-charged of student leadership and regular reflections will be facilitated to help them crystalise their learning.   <br><br>Our Uniformed Groups (NCC, NPCC &amp; SJB) are all sustained Gold Units which have achieved outstanding performance in Zonal &amp; National Competitions [e.g. Precision Drill Squad competition (NCC) and 1st Aid &amp; Home Nursing competition (SJB).] |
+| Leadership | Deyi develops leaders who are active contributors to the community, equipped with 21st century skills, and possess a passion to serve. We seek individuals who have shown aptitude in service and leadership in their primary schools or one who has keen interest in community service and would like to lead in this aspect.<br><br>Students who are selected can expect to have their leadership skills and values developed through a mentoring programme. They will be paired with our Student Council Exco members to plan and execute a project to influence our community in exhibiting kindness. The project will be guided by teachers in-charged of student leadership and regular reflections will be facilitated to help them crystalise their learning. They will also be invited for school-based leadership workshops/camps.   <br><br>Our Uniformed Groups (NCC, NPCC &amp; SJB) are all sustained Gold Units which have achieved outstanding performance in Zonal &amp; National Competitions [e.g. Precision Drill Squad competition (NCC) and 1st Aid &amp; Home Nursing competition (SJB).] |
 | Sports and Games | The Deyi student athlete is a sportsperson of character whose pursuit of excellence is unwavering. By participating in sports, students can develop enduring positive character traits and sportsmanship which can prepare them for future, authentic situations. The Deyi athlete is the embodiment of the school values - dedication, diligence, determination, discipline, care and integrity.<br><br>The school has traditionally done well in Zonal and National competitions. The Basketball Girls team has won the Zonal title 3 times in the past decade. The Table Tennis (Girls &amp; Boys) have both achieved top 4 placing in the Zonal tournament. Additionally, our Handball Girls team (made up of students from the various sports groups) has won the National title a total of 9 times (Under-15/Under-17 Division) since its inaugural season in 2012. <br><br>Student athletes who join our sports development programme can look forward to many opportunities to represent our school in both MOE-sanctioned and external competitions. In doing so, Deyi has nurtured many future leaders who went on to captain their various sports teams in their tertiary institutions as well as represent Singapore in the various international tournaments. |
 | | | |
 
@@ -79,10 +80,8 @@ Accomplishments in the relevant areas will be taken into consideration. For exam
 
 **4. Audition/Trial** <br> 
 Student must pass an audition/trial, in the relevant areas of Specific Talent, conducted by the school. The following is a brief description of the various auditions/trials.  
-
-Trials and auditions will usually be conducted on&nbsp;**Tuesdays**&nbsp;and&nbsp;**Thursdays**&nbsp;as these are the school’s designated CCA Days.
-
 ![](/images/dsa.png)
+Trials and auditions will usually be conducted on **Tuesdays** and **Thursdays** as these are the school’s designated CCA Days.
 
 **5. Panel Interview** <br>
 Student must pass an interview conducted by a panel made up of:&nbsp;<u>Vice–Principal,&nbsp;HOD/SH&nbsp;</u> of the relevant talent area (e.g. Aesthetics, English, Student Leadership Physical Education) and the&nbsp;<u> CCA Teacher-In-Charge </u>&nbsp;of the specific talent area.
@@ -90,15 +89,11 @@ Student must pass an interview conducted by a panel made up of:&nbsp;<u>Vice–P
 **Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.**
 
 ### Selection Process <a name="SelectionProcess"></a>
-
-[Back to top](#backtotop)
-
 The selection criteria and process for the talent areas&nbsp;will&nbsp;be updated by early-May. For more information on DSA-Sec, please refer to the MOE website at&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
 **Stage 1 – Short-listing** <br>
 Candidates will first be short-listed based on&nbsp;**Criteria 1–3**.
-
-All shortlisted candidates after Stage 1 will be informed by&nbsp;**24 July 2023**&nbsp;of their interview and audition dates. Non-shortlisted candidates will also be informed that they are unsuccessful in their application.
+All shortlisted candidates after Stage 1 will be informed by&nbsp;**22 July 2024**&nbsp;of their interview and audition dates. Non-shortlisted candidates will also be informed that they are unsuccessful in their application.
 
 **Stage 2 – Audition/Trial** <br>
 Short-listed candidates will be required to undergo an audition/trial.
@@ -106,27 +101,23 @@ Short-listed candidates will be required to undergo an audition/trial.
 **Stage 3 – Panel Interview** <br>
 Shortlisted candidates will be interviewed by a panel made up of:&nbsp;<u> Vice–Principal,&nbsp;HOD/SH </u>&nbsp;of the relevant talent area (e.g. Aesthetics, English, Student Leadership, Physical Education) and the&nbsp;<u> CCA Teacher-In-Charge </u>&nbsp;of the specific talent area.
 
-After Stage 2 (Audition/Trial) and Stage 3 (Panel Interview), the results will be compiled and all shortlisted candidates will be notified by&nbsp;**11 Sep 2023**&nbsp;if they have been given a Confirmed Offer, put on the Waiting List or if the school is unable to offer them a place.
+After Stage 2 (Audition/Trial) and Stage 3 (Panel Interview), the results will be compiled and all shortlisted candidates will be notified by&nbsp;**9 Sep 2024**&nbsp;if they have been given a Confirmed Offer, put on the Waiting List or if the school is unable to offer them a place.
 
 Those given a Confirmed Offer are guaranteed a place in the school in a course \[Express, Normal (Academic) or Normal (Technical)\] which the student is eligible for. This is based on the PSLE aggregate of the student.
 
 ### Key Activities and Dates <a name="KeyActivitiesandDates"></a>
 
-[Back to top](#backtotop)
-
 | Timeline | Key Activities |
 |---|---|
-| 4 May –  31 May, 3.00pm | Online Application Stage. (Through centralised DSA-Sec Portal)<br>  |
-| By 24 Jul | All shortlisted applicants will be informed of their Assessment date. |
-| 26 Jun – 11 Sep | Selection Stage. Trials and auditions will usually be conducted on **Tuesdays** and **Thursdays** as these are the school’s designated CCA Days.  |
-| By 11 Sep | All shortlisted candidates will be notified by post as to whether he/she is on the confirmed, waiting or rejected list. |
-| 23 Oct – 27 Oct | Exercise School Preference Stage. |
+| 7 May, 11 am –  3 Jun, 3 pm | Online Application Stage. (Through centralised DSA-Sec Portal)<br>  |
+| By 22 Jul | All shortlisted applicants will be informed of their audition/trial date. |
+| 24 Jun – 9 Sep | Selection Stage. Trials and auditions will usually be conducted on **Tuesdays** and **Thursdays** as these are the school’s designated CCA Days.  |
+| By 9 Sep | All shortlisted candidates will be notified by post as to whether he/she is on the confirmed, waiting or rejected list. |
+| 21 Oct – 25 Oct | Exercise School Preference Stage. |
 | Nov | Results Release Stage. |
 | | |
 
 ### Frequently Asked Questions <a name="FrequentlyAskedQuestions"></a>
-
-[Back to top](#backtotop)
 
 **1\. What type of students are you looking for?** <br>
 We are looking for students who have relevant experience and achievement in the various Specific Talent Areas offered. He/She must also possess diligence and a positive attitude in schoolwork.
