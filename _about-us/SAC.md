@@ -4,4 +4,4 @@ permalink: /about-us/sac/
 description: ""
 variant: markdown
 ---
-![](/images/About%20Us/2024%20sac.jpg)
+![](/images/About%20Us/SAC_2024.jpg)
