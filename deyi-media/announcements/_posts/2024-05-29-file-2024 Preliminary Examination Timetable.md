@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/Announcement/Prelim_Timetable_2024.pdf
+file_url: /files/Announcement/2024_Prelim_Timetable_v2.pdf
 ---
