@@ -20,7 +20,7 @@ variant: markdown
 
 #### Academic Links:
 
-* [2024 Preliminary Examination Timetable](/files/Announcement/Prelim_Timetable_2024_v3.pdf)
+* [2024 Preliminary Examination Timetable](/files/2024_Prelim_Timetable_v3.pdf)
 * [Student Learning Space](https://vle.learning.moe.edu.sg/login)
 * [Institute of Technical Education](https://www.ite.edu.sg/)
 * [National Library Board](https://www.nlb.gov.sg/)
