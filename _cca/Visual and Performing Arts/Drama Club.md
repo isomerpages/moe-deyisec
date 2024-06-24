@@ -37,6 +37,9 @@ more possibilities to play on stage.</p>
 <li>
 <p>Mdm Abirami</p>
 </li>
+<li>
+<p>Mrs Angie Ho</p>
+</li>
 </ul>
 <p><strong>Weekly Schedule:</strong>
 </p>
@@ -75,7 +78,11 @@ celebrations 2022</p>
 </ul>
 <p><strong>Highlights:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
