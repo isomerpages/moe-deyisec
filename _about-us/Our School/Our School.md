@@ -54,4 +54,4 @@ The colour white signifies purity and integrity; blue symbolises the persevering
 
 From these emerge individuals of upright character and integrity, who will strive for success in all endeavours.
 
-<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6rr3ekpoHquHDCj-n_V_D29SgHaRwZSorPsHIGHzOhbMqbnm7Kzxqs2daq0hTrFfhOPUxIgeUwIOY/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/13ff7omxQoe9e1Prc8onPE3bbQETES73uvahL2GlQ7AA/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
