@@ -26,8 +26,7 @@ of a supportive sports education.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2024 football over-arching pic.jpg">
 </div>
 <p><strong>Teachers-in-charge:</strong> 
-<br>Mr Chen Yizhou (OIC)
-<br>Mr M Ravinthran (AIC)
+<br>Mr M Ravinthran (OIC)
 <br>Ms Jassika (SFA Coordinator)</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.45 pm – 5.30 pm
@@ -44,7 +43,11 @@ Award’ (2023)</p>
 Award’ (2023)</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -70,7 +73,11 @@ Award’ (2023)</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
