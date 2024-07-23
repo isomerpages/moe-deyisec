@@ -1,16 +1,18 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: markdown
 ---
- **Privacy Statement** <br>
-_Welcome to Deyi Secondary School’s website. Thank you for taking time to read our privacy statement._
+**DEYI SECONDARY SCHOOL PRIVACY STATEMENT**
 
-1.  We will not capture your data if you are only browsing our school website.
+1.  This is a Deyi Secondary School website. Thank you for examining our privacy statement.
 
-2.  If you send us an email which contains your personal information, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective manner, unless such sharing is prohibited by legislation.
+2   If you are only browsing this website, we do not capture data that allows us to identify you individually.
 
-3.  For your convenience, we may resurface data that you had previously supplied us or other Government agencies. Please supply us with the latest data so that we can speed up the transaction.
+3.  If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
 
-4.  Please be assured that your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.
+4.  For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.
 
-5.  This website may contain links to non-Government sites whose data protection and privacy practices may differ from ours. Please be informed that we are not responsible for the content and privacy practices of these other websites. Please consult the privacy notices of these sites before continuing to browse them.
+5.  To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.
+
+6.  This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
