@@ -330,18 +330,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gladys Wee Pei Xi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher / English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wee_pei_xi_gladys@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_pei_xi_gladys@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Jainul Banu D/O Shahul Hameed</p>
 </td>
 <td rowspan="1" colspan="1">
