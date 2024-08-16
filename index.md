@@ -18,6 +18,14 @@ sections:
         - title: For Teachers
           description: ""
           url: /useful-links/useful-links-for-teachers/
+  - infopic:
+      title: SINGSPIRATION
+      subtitle: Join Us ! 28 August, 7:30pm
+      id: infopic
+      description: Join us for an unforgettable night of Choral, Asian and Pop music.
+        You can order your tickets through our choir students and teachers.
+      image: /images/Main Page (Announcements)/2024_Singspiration.png
+      alt: Image alt text
   - resources:
       title: DEYI MEDIA
       button: more
