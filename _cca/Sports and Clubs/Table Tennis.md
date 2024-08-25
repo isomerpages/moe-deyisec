@@ -25,8 +25,7 @@ setting the stage for a lifetime of success and camaraderie.</p>
 </div>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Ms Jeanette Lee (OIC)
-<br>Mdm Saliha Parveen (AIC)
-<br>Mr Aloysius Tan Yoke Jun</p>
+<br>Mdm Saliha Parveen (AIC)</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.50 pm – 5.30 pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Competitions / Achievements:</strong> 
@@ -40,7 +39,11 @@ setting the stage for a lifetime of success and camaraderie.</p>
 3rd Placing (2022)
 <br>• South Zone B Division National School Games Competition B Division Girls
 and Boys: 4th Placing (2022)</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -64,7 +67,11 @@ and Boys: 4th Placing (2022)</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
