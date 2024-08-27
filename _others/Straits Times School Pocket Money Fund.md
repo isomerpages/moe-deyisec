@@ -23,7 +23,8 @@ e. Has not been a STSPMF beneficiary for 24 months for the whole schooling years
 The closing date to submit the application to the school’s General Office is **11 Sep 2024** **(Wednesday).**
 
 **Application:**  
-Annex A: STSPMF 2024 FORM
+Annex A: STSPMF 2024 FORM <br>
+[Annex A](/files/Others/2024_Admin_FAS1_Annex_A___2025_STSPMF_Application_Form_for_schools.pdf)
 
-Annex B: Income Declaration Form 
-
+Annex B: Income Declaration Form <br>
+[Annex B](/files/Others/2024_Admin_FAS2_Annex_B___Income_declaration_form.pdf)
