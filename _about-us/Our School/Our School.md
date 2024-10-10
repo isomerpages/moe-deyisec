@@ -25,7 +25,7 @@ Principals:
 \- Mrs Grace Chua (2003–2009)  
 \- Mrs Linda Chan (2009–2016)  
 \- Mrs Lim Ai Poo (2016–2023) <br>
-\- Mr Chou Weisi (2024-present)
+\- Mr Chow Weisi (2024-present)
 
 #### **Key Milestones**
 
