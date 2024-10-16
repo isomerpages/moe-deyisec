@@ -24,7 +24,7 @@ sections:
       title: Deyi Open House 2024
       subtitle: Click on the button below for more information.
       size: sm
-      alignment: right
+      alignment: left
       backgroundColor: gray
   - resources:
       title: DEYI MEDIA
