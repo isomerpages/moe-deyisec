@@ -19,6 +19,8 @@ sections:
           description: ""
           url: /useful-links/useful-links-for-teachers/
       variant: image
+      button: Deyi open house
+      url: https://deyiict.wixsite.com/openhouse
   - resources:
       title: DEYI MEDIA
       button: more
