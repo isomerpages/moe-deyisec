@@ -23,7 +23,7 @@ sections:
       url: https://deyiict.wixsite.com/openhouse
       title: Deyi Open House
       subtitle: Click on the button below for more information.
-      size: sm
+      size: md
       alignment: right
       backgroundColor: gray
   - resources:
