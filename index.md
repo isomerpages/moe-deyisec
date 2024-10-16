@@ -4,7 +4,7 @@ title: Deyi Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Click on the button below to access information for Deyi Open House 2024
+notification: ""
 sections:
   - hero:
       background: /images/Main Banner/banner-final-combined-vs.gif
@@ -18,9 +18,14 @@ sections:
         - title: For Teachers
           description: ""
           url: /useful-links/useful-links-for-teachers/
-      variant: image
+      variant: side
       button: Deyi open house
       url: https://deyiict.wixsite.com/openhouse
+      title: Deyi Open House
+      subtitle: Click on the button below for more information.
+      size: sm
+      alignment: right
+      backgroundColor: gray
   - resources:
       title: DEYI MEDIA
       button: more
