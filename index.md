@@ -18,12 +18,12 @@ sections:
         - title: For Teachers
           description: ""
           url: /useful-links/useful-links-for-teachers/
-      variant: side
+      variant: floating
       button: Deyi open house
       url: https://deyiict.wixsite.com/openhouse
-      title: Deyi Open House
+      title: Deyi Open House 2024
       subtitle: Click on the button below for more information.
-      size: md
+      size: sm
       alignment: right
       backgroundColor: gray
   - resources:
