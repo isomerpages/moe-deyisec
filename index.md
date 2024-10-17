@@ -25,7 +25,7 @@ sections:
       subtitle: Click on the button below for more information.
       size: sm
       alignment: right
-      backgroundColor: gray
+      backgroundColor: white
   - resources:
       title: DEYI MEDIA
       button: more
