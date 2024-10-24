@@ -4,7 +4,6 @@ permalink: /teachers/
 variant: tiptap
 description: ""
 ---
-<p>### 2024</p>
 <h4><strong>2024 National Day Awards</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/2024 MESA AST Nat Day/2024_National_Day_Awards_pic1.png">
