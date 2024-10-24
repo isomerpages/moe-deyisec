@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Teachers.md
       - School.md
       - Our Alumni.md
