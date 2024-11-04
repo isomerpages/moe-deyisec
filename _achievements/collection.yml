@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - School.md
+      - Teachers.md
       - Our Alumni.md
