@@ -4,28 +4,6 @@ permalink: /achievements/school/
 description: ""
 variant: markdown
 ---
-### 2024
-
-**2024 National Day Awards**
-![](/images/Achievements/2024%20MESA%20AST%20Nat%20Day/2024_National_Day_Awards_pic1.png)
-
-![](/images/Achievements/2024%20MESA%20AST%20Nat%20Day/2024_National_Day_Awards_pic2.png)
-
-![](/images/Achievements/2024%20MESA%20AST%20Nat%20Day/2024_National_Day_Awards_pic3.png)
-
-**2024 Associate of Academy of Singapore Teachers Award**
-![](/images/Achievements/2024%20MESA%20AST%20Nat%20Day/2024_Associate_of_Academy_of_Singapore_Teachers_Award_Facilitator.png)
-
-![](/images/Achievements/2024%20MESA%20AST%20Nat%20Day/2024_Associate_of_Academy_of_Singapore_Teachers_Award_Innovator.png)
-
-**2024 Most Inspiring Tamil Teacher Award**
-![](/images/Achievements/2024%20MESA%20AST%20Nat%20Day/2024_Most_Inspiring_Tamil_Teacher_Award.png)
-
-**2024 MOE Service Excellent Awards**
-![](/images/Achievements/2024%20MESA%20AST%20Nat%20Day/2024_MOE_Service_Excellent_Awards_Gold.png)
-
-![](/images/Achievements/2024%20MESA%20AST%20Nat%20Day/2024_MOE_Service_Excellent_Awards_Silver.png)
-
 ### 2022
 
 **2022 Innergy Bronze Award**
