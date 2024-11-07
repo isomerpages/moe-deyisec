@@ -30,7 +30,11 @@ Rooms, POA Pinballs, and Debate, all designed and led by our enthusiastic
 Deyi Secondary 4 Game Masters. Our Secondary 3 POA Chaperones provided
 excellent support, and our Secondary 3 and 4 POA students made this memorable
 experience possible. Kudos to all for their outstanding participation!</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -61,26 +65,5 @@ for a POA Quest.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Competitions / Achievements:</strong> 
-<br>• Raffles Policy Dialogue on the Hustle Culture (2023)
-<br>• Historical Scene Investigation Challenge – Silver Award (2023)
-<br>
-</p>
-<p></p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Departments/Mathematics/2024_Math_Dept_Pic_3_Tic_tac1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">A spirited game of 3D Tic-Tac-Toe.</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/2024_Math_Dept_Pic_4_Tic_Tac2.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-<div class="isomer-card-description">Students take on the challenge of 3D Tic-Tac-Toe.</div>
-<div class="isomer-card-link"></div>
-</div>
-</a>
-</div>
 <p></p>
 <p></p>
