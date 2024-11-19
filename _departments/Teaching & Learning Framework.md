@@ -14,8 +14,6 @@ In Deyi Secondary School, our AC3TIve Learning Framework (2016) guides the proce
 #### Teaching &amp; Learning Philosophy
 The framework is premised on Prof David Jonanssen’s (1995, 2005, 2013) ICT research on the qualities of learning, and is tagged to the School’s Vision of “Active Learners”, translating in out own unique Deyi’s AC3TIVE Learning Framework.  The 7 core qualities of learning are as follows:
 
-
-
 ![](/images/Departments/active_framework.png)
 		
 These 7 qualities of learning are interconnected as indicated by the inter-connected lines, and crystallize into a solid inner core right in the center of the entire framework.&nbsp;This guides teachers in teaching and students in learning as it clearly conveys that learning is active, constructive, collaborative contextual, transferable, intentional, and reflective.
