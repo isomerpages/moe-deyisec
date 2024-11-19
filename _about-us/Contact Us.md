@@ -73,10 +73,10 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Leong Wei Yuan (HOD)</p>
+<p>Mdm Lim Eng Choo (SH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_wei_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_wei_yuan@moe.edu.sg</a>
+<p><a href="mailto:lim_eng_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_eng_choo@moe.edu.sg </a>
 </p>
 </td>
 </tr>
