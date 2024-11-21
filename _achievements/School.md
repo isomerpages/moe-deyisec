@@ -4,14 +4,26 @@ permalink: /achievements/school/
 description: ""
 variant: markdown
 ---
+### 2024
+**Vanda Miss Joaquim Award 2024** <br>
+
+<img src="/images/vanda%20award%202018.png" style="width:70%">
+
+The School Green Awards (SGA) is a voluntary environmental initiative for schools in Singapore that provides students with a platform to create and display their environmental projects. Through tailored activities, students can enhance their understanding of environmental issues.
+
+Each year, entries are received from preschools, primary schools, secondary schools, junior colleges, international schools, and institutions catering to students with special needs.
+
+Schools with overall score of more than 90% will receive the Vanda Miss Joaquim Award.
+Deyi Secondary School was awarded Vanda Miss Joaquim Awards in 2018, 2019, 2022 and 2024.
+
+
 ### 2022
 
-**2022 Innergy Bronze Award**
-The team wanted to explore how the affordance of e-Pedagogy such as ArcGIS and SLS can be used to enhance:&nbsp;
+**2022 Innergy Bronze Award** <br>
+The team wanted to explore how the affordance of e-Pedagogy such as ArcGIS and SLS can be used to enhance:
 
-1.  the teaching and of Geographical Investigation (GI) and
-    
-2.  students’ quality of learning in terms of student’s spatial thinking and analysis.&nbsp;
+1\.  the teaching and of Geographical Investigation (GI) and <br>
+2\.  students’ quality of learning in terms of student’s spatial thinking and analysis.&nbsp;
     
 
 This e-pedagogical innovation uses ArcGIS to facilitate students’ collaborative efforts to collect weather data from 4 identified locations from around the school (i.e. the futsal court, driveway, school field and quadrangle) and present the consolidated data on a base map of the school. This helped students in the spatial visualisation of data and to make sense of spatial patterns observed.
@@ -30,9 +42,7 @@ The School Green Awards (SGA) is a voluntary environmental initiative for school
 
 Each year, entries are received from preschools, primary schools, secondary schools, junior colleges, international schools, and institutions catering to students with special needs.
 
-Schools with overall score of more than 90% will receive the Vanda Miss Joaquim Award.
-
-Deyi Secondary School was awarded Vanda Miss Joaquim Awards in 2018, 2019, 2022 and 2024.
+We are proud to announce that Deyi Secondary has attained the Vanda Miss Joaquim Award in 2019.
 
 ### 2018
 
