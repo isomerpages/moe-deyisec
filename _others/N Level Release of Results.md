@@ -6,4 +6,4 @@ variant: markdown
 ---
 ### Useful Information
 
-[2024 Cohort](https://drive.google.com/drive/folders/195OOJYJemwdnZuEGiiL-naNjOJ1OD8dt?usp=sharing)
+[Click on the link for more information](https://drive.google.com/drive/folders/195OOJYJemwdnZuEGiiL-naNjOJ1OD8dt?usp=sharing)
