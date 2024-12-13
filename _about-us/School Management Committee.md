@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Shao May</p>
+<p>Ms Chiang Huimin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal 1</p>
@@ -116,7 +116,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lau Jeng Sang</p>
+<p>Mr Neo Gim Koon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Information and Communication Technology</p>
@@ -180,14 +180,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Neo Gim Koon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / Information and Communication Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Lim Eng Choo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -240,14 +232,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head / Character &amp; Citizenship Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
