@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4>How to get here:</h4>
-<p>Address: 1, ANG MO KIO STREET 42 (569277)
+<p>Address: 1, Ang Mo Kio Street 42 (569277)
 <br>Tel: 64561565 Fax: 64583364</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/2024_Deyi_Sec_Google_map_location.png">
@@ -76,7 +76,7 @@ variant: tiptap
 <p>Mdm Lim Eng Choo (SH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_eng_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_eng_choo@moe.edu.sg </a>
+<p><a href="mailto:lim_eng_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_eng_choo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -121,10 +121,10 @@ variant: tiptap
 <p>Information &amp; Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lau Jeng Sang (HOD)</p>
+<p>Mr Neo Gim Koon (HOD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lau_jeng_sang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_jeng_sang@moe.edu.sg</a>
+<p><a href="mailto:neo_gim_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_gim_koon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
