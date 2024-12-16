@@ -25,7 +25,7 @@ sections:
       alignment: right
       backgroundColor: white
       button: Registration
-      url: "4"
+      url: https://staging-lite.d1bg10hvrz09rm.amplifyapp.com/sec-1-registration-2025/
   - resources:
       title: DEYI MEDIA
       button: more
