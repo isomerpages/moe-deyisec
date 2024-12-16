@@ -14,13 +14,8 @@ variant: tiptap
 <p>Dear parents and guardians,</p>
 <p>Welcome to Deyi Secondary School. Above is the zoom session and the programme
 for the e-registration on 19 December 2024.</p>
-<p></p>
 <p>Zoom login details will be sent via PG after 4.30 pm on 18 December 2024.</p>
-<h4><strong><u>Sec 1 Registration Briefing Slides</u></strong></h4>
-<p></p>
-<h4><strong><u>Information on purchasing of textbooks and school uniform</u></strong></h4>
-<p></p>
-<h4><strong><u>Secondary 1 Booklist</u></strong></h4>
-<p></p>
-<h4><strong><u>Sec 1 Camp Packing List</u></strong></h4>
+<p>Click on the link below to access the materials for Sec 1registration.</p>
+<p><a href="https://drive.google.com/drive/folders/1acQ861Xt5IKRxy2vUpe3SduSpPu1yXAF?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1 Registration</a>
+</p>
 <p></p>
