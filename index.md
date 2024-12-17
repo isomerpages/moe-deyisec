@@ -18,12 +18,14 @@ sections:
         - title: For Teachers
           description: ""
           url: /useful-links/useful-links-for-teachers/
-      variant: image
-      title: Deyi Open House 2024
+      variant: floating
+      title: Sec 1 Registration 2025
       subtitle: Click on the button below for more information.
-      size: sm
+      size: md
       alignment: right
       backgroundColor: white
+      button: Registration
+      url: https://staging-lite.d1bg10hvrz09rm.amplifyapp.com/sec-1-registration-2025/
   - resources:
       title: DEYI MEDIA
       button: more
