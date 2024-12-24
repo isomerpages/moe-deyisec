@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chiang Huimin</p>
+<p>Mr Apollos Induchoodan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal 1</p>
@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Apollos Induchoodan</p>
+<p>Ms Chiang Huimin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal 2</p>
