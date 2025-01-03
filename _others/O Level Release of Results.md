@@ -4,7 +4,9 @@ permalink: /o-level-release-of-results-useful-information/
 variant: tiptap
 description: ""
 ---
-<p><strong>PRESS RELEASES ON 3 Jan 2025  </strong>
+<p><a href="https://drive.google.com/drive/folders/1A0WycheYhO-oxGaedrc7PMYBRVsXVlkv?usp=sharing" rel="noopener nofollow" target="_blank">Click to access useful information on JAE, PFP, DPP and more.</a>
+</p>
+<p><strong>PRESS RELEASES ON 3 Jan 2025</strong>
 </p>
 <p><strong>Release of 2024 Singapore-Cambridge GCE O-Level Examination Results and 2025 Joint Admissions Exercise</strong>
 </p>
@@ -44,10 +46,9 @@ for JAE may also download a copy of Form A from the JAE-Internet System
 <p>&nbsp;7. The JAE-IS will be accessible from 4pm on Friday, 10 January
 2025, to 4pm on Wednesday, 15 January 2025 for applicants to submit their
 course choices through the JAE website at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>.
-Applicants are strongly encouraged to complete the JAE worksheet (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>)
-before submitting their online application. The JAE-IS can be accessed
-using Singpass. Applicants can find more information on the following MOE
-websites:</p>
+Applicants are strongly encouraged to complete the JAE worksheet (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>) before
+submitting their online application. The JAE-IS can be accessed using Singpass.
+Applicants can find more information on the following MOE websites:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>JAE website for more details on the JAE (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
@@ -141,10 +142,9 @@ at ITE. Students are eligible to apply if they obtain a raw ELMAB3 aggregate
 of 19 points or lower and meet the subject-specific requirements for their
 chosen course.</p>
 <p>&nbsp;22. Eligible Secondary 4 N(A) students may submit their DPP applications
-online via the DPP application portal&nbsp;<a rel="noopener noreferrer nofollow" target="_blank"><u>at&nbsp;</u></a>
-<a rel="noopener noreferrer nofollow" target="_blank">www.ite.edu.sg/apply-for-ite-courses</a>. Applications for the DPP will
-open from 12am on Friday, 10 January 2025, to 11.59pm on Tuesday, 14 January
-2025.</p>
+online via the DPP application portal&nbsp;<a rel="noopener noreferrer nofollow" target="_blank"><u>at&nbsp;</u>www.ite.edu.sg/apply-for-ite-courses</a>.
+Applications for the DPP will open from 12am on Friday, 10 January 2025,
+to 11.59pm on Tuesday, 14 January 2025.</p>
 <p>&nbsp;23. The DPP posting results for applications made under the final
 application phase will be released at 9am on Wednesday, 17 January 2025
 through the DPP application portal. Students will be required to indicate
