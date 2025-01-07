@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>[Secondary 3] <a href="/files/Useful%20Links/UL%20Parents/2025_t1__sec_3_info_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Term 1 Sec 3</a>
+<p>[Secondary 3] <a href="/files/Useful Links/UL Parents/2025_t1__sec_3_info_letter.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 Sec 3</a>
 </p>
 </li>
 <li>
