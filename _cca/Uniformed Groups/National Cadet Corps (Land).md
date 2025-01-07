@@ -27,7 +27,6 @@ journey of personal growth and community service.</p>
 <br>Mr Clarence Gan (OIC)
 <br>Mdm Norayu Omar (AIC)
 <br>Mr Adrian Tong Keh Huei
-<br>Mr Adrian Chong
 <br>Mr Lim Jun Yu</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday &amp; Thursday 2.45 pm – 5.30 pm</p>
@@ -61,7 +60,11 @@ journey of personal growth and community service.</p>
 </ul>
 <p><strong>Highlights:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
