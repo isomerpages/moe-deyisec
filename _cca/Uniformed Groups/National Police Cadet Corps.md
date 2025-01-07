@@ -30,10 +30,9 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 <p><strong>Teachers-in-charge:</strong> 
 <br>Mr Tan Je Wei (OIC)
 <br>Ms Teo Chong Ming (AIC)
-<br>Mdm Siti Farhanah
-<br>Mr Edwin Teo
-<br>
-</p>
+<br>Mr Edwin Teo</p>
+<p>Mr Derek Lim
+<br>Mr Oh Ying Jie</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm</p>
 <p></p>
@@ -66,7 +65,7 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 </p>
 </li>
 </ul>
-<p><strong>Other Notable Activities: </strong>
+<p><strong>Other Notable Activities:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -100,7 +99,11 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 <p></p>
 <p><strong>Highlights:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
