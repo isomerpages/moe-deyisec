@@ -32,13 +32,10 @@ more possibilities to play on stage.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Miss Nurain (OIC)</p>
+<p>Miss Nur'ain (OIC)</p>
 </li>
 <li>
 <p>Mdm Abirami</p>
-</li>
-<li>
-<p>Mrs Angie Ho</p>
 </li>
 </ul>
 <p><strong>Weekly Schedule:</strong>
