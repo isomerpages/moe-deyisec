@@ -31,7 +31,7 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 <br>Mr Tan Je Wei (OIC)
 <br>Ms Teo Chong Ming (AIC)
 <br>Mr Edwin Teo
-<br>Mr Oh Ying Jie</p>
+<br>Ms Oh Ying Jie</p>
 <p>Mr Derek Lim</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm</p>
