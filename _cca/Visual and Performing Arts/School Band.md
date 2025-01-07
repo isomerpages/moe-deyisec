@@ -50,7 +50,10 @@ and making enduring memories.</p>
 <p>Miss Shih Kai Lin</p>
 </li>
 <li>
-<p>Mdm Adeline Teo Li Ching
+<p>Mdm Adeline Teo Li Ching</p>
+</li>
+<li>
+<p>Mr Nigel Lim
 <br>
 </p>
 </li>
