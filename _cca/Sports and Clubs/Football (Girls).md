@@ -26,8 +26,8 @@ of a supportive sports education.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2024 football over-arching pic.jpg">
 </div>
 <p><strong>Teachers-in-charge:</strong> 
-<br>Mr M Ravinthran (OIC)
-<br>Ms Jassika (SFA Coordinator)</p>
+<br>Mdm Siti Farhanah (OIC)
+<br>Ms Boon Huay Ping, Heike (AIC)</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.45 pm – 5.30 pm
 <br>Odd Week Friday 3 pm – 5 pm</p>
