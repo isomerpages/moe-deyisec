@@ -30,16 +30,19 @@ on the environment.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Wong Toi Kuan (OIC)</p>
+<p>Mr Ang Chip Pin (OIC)</p>
 </li>
 <li>
-<p>Mdm Neo Poh Hong (OIC)</p>
+<p>Mdm Neo Poh Hong (OIC of Eco Stewardship)</p>
 </li>
 <li>
-<p>Miss Dolley Tan</p>
+<p>Mdm Quek Li Yi (Mrs Joanne Gan)</p>
 </li>
 <li>
 <p>Miss Tan Shu Fang Vion</p>
+</li>
+<li>
+<p>Mr Rahim Shukor</p>
 </li>
 </ul>
 <p></p>
