@@ -36,7 +36,7 @@ achievement.</p>
 </p>
 </li>
 <li>
-<p>Mr Lim Yu Sim
+<p>Ms Yvon Chew
 <br>
 </p>
 </li>
@@ -78,7 +78,11 @@ achievement.</p>
 <p></p>
 <p><strong>Highlights:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
