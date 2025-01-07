@@ -25,9 +25,9 @@ and life's myriad paths with poise and tenacity.</p>
 </div>
 <p></p>
 <p><strong>Teachers-in-charge:</strong> 
-<br>Mr. Wilson Lee (OIC)
-<br>Mr. Lim Heng Lai (AIC)
-<br>Mr Adrian Chong</p>
+<br>Ms Oh Jia Ling Amelia (OIC)
+<br>Mr Lim Heng Lai (OIC of Taekwondo Programme)
+<br>Mr Lee Uei Suen Wilson</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.50pm – 5.15pm</p>
 <p><strong>Notable Activities:</strong>
