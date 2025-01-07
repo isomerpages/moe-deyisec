@@ -37,17 +37,7 @@ them to succeed in all walks of life.</p>
 </p>
 </li>
 <li>
-<p>Ms Gladys Wee (AIC)
-<br>
-</p>
-</li>
-<li>
-<p>Mr Neo Gim Koon
-<br>
-</p>
-</li>
-<li>
-<p>Miss Ng Xin Yi</p>
+<p>Mr Moh Wei Ping (AIC)</p>
 </li>
 </ul>
 <p><strong>Weekly Schedule:</strong> 
@@ -77,7 +67,11 @@ them to succeed in all walks of life.</p>
 <p><strong>Highlights:</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
