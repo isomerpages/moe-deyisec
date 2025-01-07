@@ -24,7 +24,7 @@ ensuring they carry these values forward into their futures.</p>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Ms Chew Soo Qing (OIC)
 <br>Mr Freddy Goh Teck Seng (AIC)
-<br>Ms Amelia Oh</p>
+<br>Miss Tan Geok Hua Dolley</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm</p>
 <p><strong>Competitions / Achievements:</strong>
@@ -54,7 +54,11 @@ Kang Sec</p>
 <p>Deyi Open Tournament 2023 (B Division and C Division)</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
