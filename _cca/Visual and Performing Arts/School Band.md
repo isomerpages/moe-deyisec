@@ -35,13 +35,13 @@ and making enduring memories.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Daniel Pflug (OIC)</p>
+<p>Miss Guo Zhen (OIC)</p>
+</li>
+<li>
+<p>Mr Ler Kai Ming Gavin (AIC)</p>
 </li>
 <li>
 <p>Ms Ho Si Liang (AIC)</p>
-</li>
-<li>
-<p>Miss Guo Zhen (AIC)</p>
 </li>
 <li>
 <p>Miss Bertha Kwok</p>
@@ -50,7 +50,10 @@ and making enduring memories.</p>
 <p>Miss Shih Kai Lin</p>
 </li>
 <li>
-<p>Miss Fatimah Zahra
+<p>Mdm Adeline Teo Li Ching</p>
+</li>
+<li>
+<p>Mr Nigel Lim
 <br>
 </p>
 </li>
@@ -111,7 +114,11 @@ Drum Major Award: Liang Jin</p>
 </ul>
 <p><strong>Highlights:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

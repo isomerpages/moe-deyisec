@@ -32,7 +32,7 @@ is valued, and every achievement celebrated.</p>
 <p>Mr Lee Ing Chye (AIC)</p>
 </li>
 <li>
-<p>Mrs Singh</p>
+<p>Mrs Harmit Singh</p>
 </li>
 </ul>
 <p></p>
@@ -80,7 +80,11 @@ Koh Sheng Kai</p>
 <p>National School Games 2022 C Girls 4X100m Semi Finalist</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
