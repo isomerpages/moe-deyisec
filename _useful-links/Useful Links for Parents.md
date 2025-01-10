@@ -24,11 +24,11 @@ variant: markdown
 * [National Examination Timetable](https://www.seab.gov.sg/)  
 * [Sexuality Education](https://staging.d3sil9pzbw3lij.amplifyapp.com/others/school-general-information/moe-sexuality-education-in-schools/)
 * [Cyber wellness Parenting Tips](/files/PARENTing%20Tips_Template.pdf)
-* [PDLP Briefing - Sec 1](/files/Useful%20Links/UL%20Parents/2024%20pdlp%20briefing.pdf)
 * [Blended Learning Briefing - Sec 1](/files/Useful%20Links/UL%20Parents/2023%20Blended%20Learning%20Briefing%20-%20Sec%201.pdf)
-* [Parents’ handbook on learning with PLD 1](/files/Useful%20Links/UL%20Parents/2024%20parents’%20handbook%20on%20learning%20with%20pld%201.pdf)
-* [Parents’ handbook on learning with PLD 2](/files/Useful%20Links/UL%20Parents/2024%20parents’%20handbook%20on%20learning%20with%20pld%202.pdf)
 * [Parents Engagement Materials 2025](https://drive.google.com/drive/folders/1hDE5KZ-JBiHeMEgj01R_IPC7NAK6llag?usp=sharing)
+* [PDLP Briefing - Sec 1 (2025)](/files/Useful%20Links/UL%20Parents/PDLP_Parent_Engagement_Deck_2025.pdf)
+* [Parents’ handbook on learning with PLD 1 (2025)](/files/Useful%20Links/UL%20Parents/IP2___Parent_Handbook__I__2025.pdf)
+* [Parents’ handbook on learning with PLD 2 (2025)](/files/Useful%20Links/UL%20Parents/IP3___Parent_Handbook__II__2025.pdf)
 
 
 
