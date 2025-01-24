@@ -74,7 +74,7 @@ to deal with various issues related to sexuality, which are of prime concern
 at this age.</p>
 <p><strong>At Deyi Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
-<p><strong><u> Secondary 1</u></strong>
+<p><strong><u>Secondary 1</u></strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -214,7 +214,7 @@ etc.)</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u> Secondary 2</u></strong>
+<p><strong><u>Secondary 2</u></strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -356,7 +356,7 @@ both offline and online</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u> Secondary 3</u></strong>
+<p><strong><u>Secondary 3</u></strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -500,7 +500,7 @@ and act in alignment with our beliefs.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u> Secondary 4</u></strong>
+<p><strong><u>Secondary 4</u></strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -675,7 +675,7 @@ and act in alignment with our beliefs.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u> Secondary 5</u></strong>
+<p><strong><u>Secondary 5</u></strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -750,21 +750,21 @@ and act in alignment with our beliefs.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>eTeens Programme:</strong> 
-<br>8.&nbsp;&nbsp; &nbsp;eTeens is a programme developed by Health Promotion
-Board, in collaboration with the Ministry of Education, for Secondary 3
-students to provide them with accurate information on STIs, HIV and protection
-from a health perspective. eTeens is conducted in two segments – a mass
-talk segment and a classroom-based programme. The desired outcome of the
-eTeens programme is that students are empowered to make wise, informed
-and sensible decisions.
+<p><strong><em><u>eTeens</u></em><u> Programme:</u></strong> 
+<br>8.&nbsp;&nbsp; &nbsp;<em>eTeens</em> is a programme developed by Health
+Promotion Board, in collaboration with the Ministry of Education, for Secondary
+3 students to provide them with accurate information on STIs, HIV and protection
+from a health perspective. <em>eTeens</em> is conducted in two segments –
+a mass talk segment and a classroom-based programme. The desired outcome
+of the <em>eTeens</em> programme is that students are empowered to make wise,
+informed and sensible decisions.
 <br>
 <br>9.&nbsp;&nbsp; &nbsp;Students are taught skills such as decision-making,
 assertiveness and negotiation to say “no” to sex and negative peer pressure.
 They also learn that the impact of STIs/HIV extends beyond themselves and
 involves their family, and the importance of responsible decision-making
 and seeking help. Abstinence and upholding family values are the key messages.</p>
-<p><strong>At Deyi Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
+<p><strong>At Deyi Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -786,7 +786,7 @@ and seeking help. Abstinence and upholding family values are the key messages.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Raised awareness and provide knowledge on
@@ -796,7 +796,7 @@ and consistent condom use)
 <br>b) Managing relationships and risky situations in a healthy way</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 4 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -826,16 +826,16 @@ of assertiveness and responsible decision making.</p>
 </table>
 <p><strong>Information for Parents</strong> 
 <br>10.&nbsp; &nbsp;Parents may opt their children out of the Sexuality Education
-lessons, eTeens and/or supplementary sexuality education programmes by
-MOE-approved external providers.</p>
+lessons, <em>eTeens</em> and/or supplementary sexuality education programmes
+by MOE-approved external providers.</p>
 <p>11.&nbsp; &nbsp;&nbsp;Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable&nbsp;<a href="/files/Others/2024_ANNEX_A_Parents_Opt_out_Form_for_SEd_lessons.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by&nbsp;<strong>31/01/2024</strong>.</p>
-<p>12.&nbsp; &nbsp;&nbsp;Parents who wish to opt their children out of the&nbsp;<strong>e_T_eens programme</strong>&nbsp;need
+at the start of the year and is also downloadable&nbsp;<a href="/files/Others/2025_ANNEX_A_Parent_Opt_out_Form_for_SEd_lessons.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by&nbsp;<strong>07/02/2025</strong>.</p>
+<p>12.&nbsp; &nbsp;&nbsp;Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em> programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Others/2024_ANNEX_B_eTeens_Opt_out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The
-completed form is to be submitted by&nbsp;<strong>31/01/2024</strong>.</p>
+at the start of the year and is also downloadable <a href="/files/Others/2025_ANNEX_B_eTeens_Opt_out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>. The
+completed form is to be submitted by&nbsp;<strong>07/02/2025</strong>.</p>
 <p>13.&nbsp; &nbsp;&nbsp;Parents can contact the school at&nbsp;deyi_ss@moe.edu.sg&nbsp;or
 call us at 6456 1565 for discussion or to seek clarification about the
 school’s sexuality education programme.</p>
