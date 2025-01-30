@@ -37,12 +37,12 @@ leaders in the orchestration of our school's vibrant community events.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club/2024_IT_club_pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/2024_IT_club_pic_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club/2024_IT_Club_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/2024_IT_Club_2.png">
 </div>
 </th>
 </tr>
@@ -57,7 +57,7 @@ leaders in the orchestration of our school's vibrant community events.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club/2024_IT_Club_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/2024_IT_Club_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
