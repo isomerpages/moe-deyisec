@@ -9,6 +9,9 @@ third_nav_title: Sports and Clubs
 complex problems through creative thinking and innovation. Our members
 go beyond just troubleshooting technical issues; they develop essential
 skills in teamwork, coding, hardware and software integration, and resilience.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/2025_Robotics_logo.png">
+</div>
 <p>Each CCA session presents new challenges and opportunities, encouraging
 members to brainstorm solutions and adapt their robots to overcome obstacles.
 Through participation in various competitions and challenges, our members
