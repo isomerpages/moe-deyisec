@@ -22,7 +22,7 @@ leaders in the orchestration of our school's vibrant community events.</p>
 <p><strong>Competitions / Achievements</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>‘Our Schools, Our Stories’ Photo Contest 2022</p>
+<p>‘Our Schools, Our Stories’ Photo Contest 2024</p>
 </li>
 </ul>
 <p>
