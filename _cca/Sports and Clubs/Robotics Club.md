@@ -32,7 +32,8 @@ digital landscape.</p>
 - 5.15 pm</p>
 <p></p>
 <p><strong>Competitions / Achievements:</strong>
-<br>• RoboCup Asia-Pacific (RCAP) - 1st Placing: Rescue Line Entry (2024)
+<br>• RoboCup Asia-Pacific (RCAP) Qingdao, China - 1st Placing: Rescue Line
+Entry (2024)
 <br>• RoboCup Singapore Open - 1st Placing: Rescue Line Entry (2023, 2024)
 <br>• Innovation, Design and Engineering (IDE) Robotics - 4th and 7th Placing:
 IDE Sprint (2024)
@@ -42,5 +43,36 @@ Sprint (2023)
 <p></p>
 <p><strong>Highlights:</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
