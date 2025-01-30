@@ -21,9 +21,10 @@ prepares our students for future challenges in a technology-driven world,
 fostering problem-solving skills, creativity, and a deeper understanding
 of the technological underpinnings of our society.</p>
 <p><strong>Teachers-in-charge</strong>:
-<br>Mr Ang Chip Pin (OIC)
-<br>Mr Wong Choo Kok (AIC)
-<br>Mr Reeve Ng (AIC)</p>
+<br>Mr Wong Choo Kok (OIC)
+<br>Mr Wong Jinfa (AIC)
+<br>
+</p>
 <p><strong>Weekly Schedule</strong>:
 <br>Every Tuesday and Thursday 2.40 pm – 5.15 pm</p>
 <p><strong>Competitions / Achievements</strong>:</p>
@@ -50,7 +51,11 @@ of the technological underpinnings of our society.</p>
 </p>
 <p><strong>Highlights:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
