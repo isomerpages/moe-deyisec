@@ -4,7 +4,6 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="" src="/images/About Us/45_banner.png">
 </div>
