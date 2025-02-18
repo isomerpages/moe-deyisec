@@ -2,15 +2,14 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="" src="/images/About Us/45_banner.png">
 </div>
 <p><em>“If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”</em>
-</p>
-<p>- Antoine de Saint-Exupéry</p>
+<br>- Antoine de Saint-Exupéry</p>
 <p></p>
 <p>This year, our Deyi Family celebrates our 45<sup>th</sup> anniversary,
 together with Singapore's 60<sup>th </sup>National Day!</p>
