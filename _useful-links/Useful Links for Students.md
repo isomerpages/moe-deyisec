@@ -32,3 +32,4 @@ variant: markdown
 
 * [Sports Safety](https://www.sportsingapore.gov.sg/sports-education/sports-safety)  
 * [Sexuality Education](https://staging.d3sil9pzbw3lij.amplifyapp.com/others/school-general-information/moe-sexuality-education-in-schools)
+* [ECG@Deyi](https://www.deyisec.moe.edu.sg/departments/character-and-citizenship-education/education-and-career-guidance/)
