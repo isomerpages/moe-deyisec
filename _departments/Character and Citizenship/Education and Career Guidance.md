@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Education and Career Guidance (ECG)
 
-To make an appointment with our ECG counsellor, you make click on this [link](https://sites.google.com/moe.edu.sg/ecgdyss?usp=sharing).
+To make an appointment with our ECG counsellor, you make click on this link [ECG@Deyi](https://sites.google.com/moe.edu.sg/ecgdyss?usp=sharing).
 
 ECG aims to:  
 * nurture student’s self-awareness and self-directedness for lifelong learning;
