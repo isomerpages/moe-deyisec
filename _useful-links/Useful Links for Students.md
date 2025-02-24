@@ -20,10 +20,7 @@ variant: markdown
 #### Academic Links:
 
 * [Important Dates for National Examinations](https://www.moe.gov.sg/national-exams-dates)
-* [2024 EOY Examination Timetable (Secondary 1)](/files/Useful%20Links/UL%20Students/2024_EOY_Sec_1_Timetable__final_.pdf)
-* [2024 EOY Examination Timetable (Secondary 2)](/files/Useful%20Links/UL%20Students/2024_EOY_Sec_2_Timetable__final_.pdf)
-* [2024 EOY Examination Timetable (Secondary 3)](/files/Useful%20Links/UL%20Students/2024_EOY_Sec_3_Timetable__final_.pdf)
-* [2024 Preliminary Examination Timetable](/files/2024_Prelim_Timetable_v3.pdf)
+
 * [Student Learning Space](https://vle.learning.moe.edu.sg/login)
 * [Institute of Technical Education](https://www.ite.edu.sg/)
 * [National Library Board](https://www.nlb.gov.sg/)
