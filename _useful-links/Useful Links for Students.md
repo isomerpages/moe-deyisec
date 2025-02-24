@@ -20,6 +20,7 @@ variant: markdown
 
 #### Academic Links:
 
+* [Important Dates for National Examinations](https://www.moe.gov.sg/national-exams-dates)
 * [2024 EOY Examination Timetable (Secondary 1)](/files/Useful%20Links/UL%20Students/2024_EOY_Sec_1_Timetable__final_.pdf)
 * [2024 EOY Examination Timetable (Secondary 2)](/files/Useful%20Links/UL%20Students/2024_EOY_Sec_2_Timetable__final_.pdf)
 * [2024 EOY Examination Timetable (Secondary 3)](/files/Useful%20Links/UL%20Students/2024_EOY_Sec_3_Timetable__final_.pdf)
@@ -32,3 +33,4 @@ variant: markdown
 
 * [Sports Safety](https://www.sportsingapore.gov.sg/sports-education/sports-safety)  
 * [Sexuality Education](https://staging.d3sil9pzbw3lij.amplifyapp.com/others/school-general-information/moe-sexuality-education-in-schools)
+* [ECG@Deyi](https://www.deyisec.moe.edu.sg/departments/character-and-citizenship-education/education-and-career-guidance/)

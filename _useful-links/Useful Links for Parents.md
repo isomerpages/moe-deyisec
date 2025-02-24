@@ -22,6 +22,7 @@ variant: markdown
 ### Academic Links:
 
 * [National Examination Timetable](https://www.seab.gov.sg/)  
+* [Important Dates for National Examinations](https://www.moe.gov.sg/national-exams-dates)
 * [Sexuality Education](https://staging.d3sil9pzbw3lij.amplifyapp.com/others/school-general-information/moe-sexuality-education-in-schools/)
 * [Cyber wellness Parenting Tips](/files/PARENTing%20Tips_Template.pdf)
 
