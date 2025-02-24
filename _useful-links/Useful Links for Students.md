@@ -20,7 +20,6 @@ variant: markdown
 #### Academic Links:
 
 * [Important Dates for National Examinations](https://www.moe.gov.sg/national-exams-dates)
-
 * [Student Learning Space](https://vle.learning.moe.edu.sg/login)
 * [Institute of Technical Education](https://www.ite.edu.sg/)
 * [National Library Board](https://www.nlb.gov.sg/)
