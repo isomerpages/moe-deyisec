@@ -77,7 +77,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.deyisec.moe.edu.sg/departments/character-and-citizenship-education/education-and-career-guidance/" rel="noopener noreferrer nofollow" target="_blank">ECG@Deyi</a>
+<p><a href="https://sites.google.com/moe.edu.sg/ecgdyss?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">ECG@Deyi</a>
 </p>
 </li>
 </ul>
