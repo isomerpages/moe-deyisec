@@ -77,6 +77,10 @@ variant: tiptap
 <p><a href="/files/Useful%20Links/UL%20Parents/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ handbook on learning with PLD 2 (2025)</a>
 </p>
 </li>
+<li>
+<p><a href="https://go.gov.sg/subjcalc" rel="noopener nofollow" target="_blank">Subject Options Calculator</a>
+</p>
+</li>
 </ul>
 <h3>Partnership Links:</h3>
 <ul data-tight="true" class="tight">
