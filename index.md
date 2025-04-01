@@ -30,7 +30,7 @@ sections:
       id: infopic
       description: Click on the link below for more information
       button: MORE INFO
-      url: https://www.deyisec.moe.edu.sg/others/artsfiesta2023reg/
+      url: https://www.deyisec.moe.edu.sg/others/artsfiesta2025reg/
       image: /images/Main Page (Announcements)/Art_fiesta_Poster.png
       alt: Image alt text
   - resources:
