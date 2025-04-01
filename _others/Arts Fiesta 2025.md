@@ -16,4 +16,3 @@ our students' efforts and achievements in the arts.</p>
 <br>Venue: <strong>Deyi Secondary School</strong>
 <br>[For Alumni Only] - Interested in getting a seat? Register at this <a href="https://forms.gle/2kPEds1RwtYFpThG9" rel="noopener nofollow" target="_blank">link</a> by
 10 April 2025.</p>
-
