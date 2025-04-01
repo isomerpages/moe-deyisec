@@ -4,10 +4,12 @@ permalink: /others/artsfiesta2025reg/
 description: ""
 variant: tiptap
 ---
-Arts Fiesta is one of the platforms under our school's LLP to celebrate our students' efforts and achievements in the arts.
-
-<iframe width="475" height="267" src="https://www.youtube.com/embed/kNj7M9cbqE4" title="Arts Fiesta 2023 (Promo Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-Date: **28 April 2023** <br>
-Time: **7 pm** <br>
-Venue: **Deyi Secondary School**
+<p>Arts Fiesta is one of the platforms under our school's LLP to celebrate
+our students' efforts and achievements in the arts.</p>
+<div class="iframe-wrapper">
+<iframe height="267" width="475" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=aTjo6kHdj40&amp;t=2s"></iframe>
+</div>
+<p>Date: <strong>28 April 2023</strong> 
+<br>Time: <strong>7 pm</strong> 
+<br>Venue: <strong>Deyi Secondary School</strong>
+</p>
