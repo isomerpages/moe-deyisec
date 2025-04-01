@@ -8,7 +8,7 @@ variant: markdown
 our students' efforts and achievements in the arts.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="267" width="475" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=aTjo6kHdj40&amp;t=2s"></iframe>
+<iframe height="267" width="475" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aTjo6kHdj40&amp;t=2s"></iframe>
 </div>
 <p>Date: <strong>25 April 2025</strong> 
 <br>Time: <strong>6.30 pm</strong> 
