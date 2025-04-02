@@ -24,6 +24,15 @@ sections:
       size: md
       alignment: right
       backgroundColor: white
+  - infopic:
+      title: Arts Fiesta 2025
+      subtitle: Announcements
+      id: infopic
+      description: Click on the link below for more information
+      button: MORE INFO
+      url: https://www.deyisec.moe.edu.sg/others/artsfiesta2025reg/
+      image: /images/Main Page (Announcements)/Art_fiesta_Poster.png
+      alt: Image alt text
   - resources:
       title: DEYI MEDIA
       button: more
