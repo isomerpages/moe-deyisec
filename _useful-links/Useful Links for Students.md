@@ -65,6 +65,10 @@ variant: tiptap
 <p><a href="https://www.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Library Board</a>
 </p>
 </li>
+<li>
+<p><a href="https://go.gov.sg/subjcalc" rel="noopener nofollow" target="_blank">Sec 3 Subject Options Calculator</a>
+</p>
+</li>
 </ul>
 <h4>Holistic Education Links:</h4>
 <ul data-tight="true" class="tight">
