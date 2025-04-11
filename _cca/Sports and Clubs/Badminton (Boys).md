@@ -89,11 +89,14 @@ Kang Sec</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 B'Division Boys" src="/images/CCA/Sports and Clubs/Badminton/2025__B_Division_Boys.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 C'Division Boys" src="/images/2025_C_Division_Boys.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2025 C'Division Boys" src="/images/CCA/Sports and Clubs/Badminton/2025_C_Division_Boys.jpg">
 </div>
 </th>
 </tr>
@@ -107,22 +110,24 @@ Kang Sec</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Badminton Boys (Upper Sec)" src="/images/CCA/Sports and Clubs/Badminton/2025 badminton boys (upper sec).jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Badminton Boys (Lower Sec)" src="/images/CCA/Sports and Clubs/Badminton/2025 badminton boys (lower sec).jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2025 Badminton Boys (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Badminton boys</p>
+<p>2025 Badminton Boys (Lower Sec)</p>
 </td>
 </tr>
 </tbody>
