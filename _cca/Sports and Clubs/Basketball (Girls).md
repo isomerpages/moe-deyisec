@@ -86,7 +86,7 @@ them to succeed in all walks of life.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +114,7 @@ them to succeed in all walks of life.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/BM_Invitational_Cup_2024.jpg">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/BM_Invitational_Cup_2024.jpg">
 </div>
 </td>
 </tr>
@@ -130,7 +130,9 @@ for improvement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/NSG_B_Division_Team_2025.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -138,7 +140,7 @@ for improvement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NSG B Division Team (2025)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
