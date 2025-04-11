@@ -31,16 +31,30 @@ ensuring they carry these values forward into their futures.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>South Zone 2023 Badminton Competition C Division (Boys) - 2nd round of
-the Zonal Inter-School</p>
+<p>South Zone 2024 Badminton Competition B Division (Boys)&nbsp;</p>
 </li>
 <li>
-<p>South Zone 2023 Badminton Competition B Division (Boys)</p>
+<p>National School Games 2024 Competition C Division Badminton Boys - League
+1 (Top 16)</p>
 </li>
 <li>
-<p>S7 Cluster Games held at RI for Sec 1 (Boys)
-<br>Received 3 medals:&nbsp; 2nd position Silver, 3rd position Bronze and
-4th position</p>
+<p>South Zone 2023 Badminton Competition B Division (Boys) - Top 8</p>
+</li>
+<li>
+<p>South Zone 2023 Badminton Competition C Division (Boys) - Top 8</p>
+</li>
+<li>
+<p>South Zone 2022 Badminton Competition B Division (Boys) - Top 8</p>
+</li>
+<li>
+<p>South Zone 2022 Badminton Competition C Division (Boys) - Top 8</p>
+</li>
+<li>
+<p>South Zone 2021 Badminton Competition C Division (Boys) - Top 8</p>
+</li>
+<li>
+<p>South Zone Cluster Games held at RI for Sec 1 (Boys): Silver (2nd Position),
+Bronze (3rd Position) and 4th Position</p>
 </li>
 </ul>
 <p><strong>Other Notable Activities:</strong>
@@ -51,7 +65,7 @@ the Zonal Inter-School</p>
 Kang Sec</p>
 </li>
 <li>
-<p>Deyi Open Tournament 2023 (B Division and C Division)</p>
+<p>Deyi Open Tournament 2024 (B Division and C Division)</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -74,7 +88,7 @@ Kang Sec</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 ‘B’ Division Boys</p>
+<p>2025 ‘B’ Division Boys</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Unity in Diversity: Together we stand, hands clasped in anticipation before
@@ -95,7 +109,7 @@ competition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 ‘C’ Division Boys</p>
+<p>2025 ‘C’ Division Boys</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Badminton boys</p>
