@@ -68,6 +68,18 @@ Kang Sec</p>
 <p>Deyi Open Tournament 2024 (B Division and C Division)</p>
 </li>
 </ul>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -76,8 +88,9 @@ Kang Sec</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_Pic_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="2025 B'Division Boys" src="/images/CCA/Sports and Clubs/Badminton/2025 b'division boys.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -91,8 +104,7 @@ Kang Sec</p>
 <p>2025 ‘B’ Division Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unity in Diversity: Together we stand, hands clasped in anticipation before
-competition.</p>
+<p>2025 ‘C’ Division Boys</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +121,7 @@ competition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025 ‘C’ Division Boys</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Badminton boys</p>
