@@ -23,11 +23,13 @@ amidst the thrill of competition and the camaraderie of their team, that
 our girls shine—demonstrating the power of unity and the enduring impact
 of a supportive sports education.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2024 football over-arching pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2025_Football_01.jpg">
 </div>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Mdm Siti Farhanah (OIC)
-<br>Ms Boon Huay Ping, Heike (AIC)</p>
+<br>Ms Heike Boon (AIC)
+<br>Ms Oh Ying Jie</p>
+<p></p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.45 pm – 5.30 pm
 <br>Odd Week Friday 3 pm – 5 pm</p>
@@ -81,18 +83,9 @@ Award’ (2023)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2024_Football_Pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2025_Football_02.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024 Deyi Football Girls</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
