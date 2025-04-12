@@ -42,7 +42,7 @@ our team fought hard and secured the fourth position. For the “Catching
 Insomina” Challenge organised by Central Provident Fund (CPF) board, our
 accounting students clinched the fifth position amongst a total of 12 secondary
 schools and polytechnic teams. Our accounting students also represented
-our school well in National Accounting Challenge and&nbsp; ACCTraordinary
+our school well in National Accounting Challenge and&nbsp;ACCTraordinary
 (Accounting Avengers) 2024.</p>
 <table style="minWidth: 50px">
 <colgroup>
