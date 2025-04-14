@@ -2,7 +2,7 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="" src="/images/About Us/45_banner.png">

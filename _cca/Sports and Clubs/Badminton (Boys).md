@@ -31,16 +31,30 @@ ensuring they carry these values forward into their futures.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>South Zone 2023 Badminton Competition C Division (Boys) - 2nd round of
-the Zonal Inter-School</p>
+<p>South Zone 2024 Badminton Competition B Division (Boys)&nbsp;</p>
 </li>
 <li>
-<p>South Zone 2023 Badminton Competition B Division (Boys)</p>
+<p>National School Games 2024 Competition C Division Badminton Boys - League
+1 (Top 16)</p>
 </li>
 <li>
-<p>S7 Cluster Games held at RI for Sec 1 (Boys)
-<br>Received 3 medals:&nbsp; 2nd position Silver, 3rd position Bronze and
-4th position</p>
+<p>South Zone 2023 Badminton Competition B Division (Boys) - Top 8</p>
+</li>
+<li>
+<p>South Zone 2023 Badminton Competition C Division (Boys) - Top 8</p>
+</li>
+<li>
+<p>South Zone 2022 Badminton Competition B Division (Boys) - Top 8</p>
+</li>
+<li>
+<p>South Zone 2022 Badminton Competition C Division (Boys) - Top 8</p>
+</li>
+<li>
+<p>South Zone 2021 Badminton Competition C Division (Boys) - Top 8</p>
+</li>
+<li>
+<p>South Zone Cluster Games held at RI for Sec 1 (Boys): Silver (2nd Position),
+Bronze (3rd Position) and 4th Position</p>
 </li>
 </ul>
 <p><strong>Other Notable Activities:</strong>
@@ -51,9 +65,21 @@ the Zonal Inter-School</p>
 Kang Sec</p>
 </li>
 <li>
-<p>Deyi Open Tournament 2023 (B Division and C Division)</p>
+<p>Deyi Open Tournament 2024 (B Division and C Division)</p>
 </li>
 </ul>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -62,43 +88,46 @@ Kang Sec</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_Pic_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="2025 B'Division Boys" src="/images/CCA/Sports and Clubs/Badminton/2025__B_Division_Boys.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 86%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2025 C'Division Boys" src="/images/CCA/Sports and Clubs/Badminton/2025_C_Division_Boys.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 ‘B’ Division Boys</p>
+<p>2025 ‘B’ Division Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unity in Diversity: Together we stand, hands clasped in anticipation before
-competition.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Badminton/2024_Badminton_pic_4.jpg">
-</div>
+<p>2025 ‘C’ Division Boys</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 ‘C’ Division Boys</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Badminton Boys (Upper Sec)" src="/images/CCA/Sports and Clubs/Badminton/2025 badminton boys (upper sec).jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Badminton boys</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Badminton Boys (Lower Sec)" src="/images/CCA/Sports and Clubs/Badminton/2025 badminton boys (lower sec).jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Badminton Boys (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 Badminton Boys (Lower Sec)</p>
 </td>
 </tr>
 </tbody>

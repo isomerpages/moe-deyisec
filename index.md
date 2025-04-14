@@ -25,10 +25,10 @@ sections:
       alignment: right
       backgroundColor: white
   - infopic:
-      title: Arts Fiesta 2025
+      title: Arts Fiesta 2025 (Livestream)
       subtitle: Announcements
       id: infopic
-      description: Click on the link below for more information
+      description: Click on the link below to view the livestream.
       button: MORE INFO
       url: https://www.deyisec.moe.edu.sg/others/artsfiesta2025reg/
       image: /images/Main Page (Announcements)/Art_fiesta_Poster.png

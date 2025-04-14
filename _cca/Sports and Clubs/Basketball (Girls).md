@@ -41,10 +41,20 @@ them to succeed in all walks of life.</p>
 </li>
 </ul>
 <p><strong>Weekly Schedule:</strong> 
-<br>Every Tuesday and Thursday 2.40pm – 5.45pm</p>
+<br>Every Tuesday and Thursday 2.45pm – 5.45pm</p>
 <p><strong>Competitions / Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Qualified for Quarter-Finals Zonal Inter-school B Division Girls (2025)</p>
+</li>
+<li>
+<p>BM U16&nbsp; Girls' Basketball Invitational Tournament 2024 - Fourth Placing
+(2024)</p>
+</li>
+<li>
+<p>Qualified for B Division Girls League 1 (2024)</p>
+</li>
 <li>
 <p>Zonal Inter-school Competitions C Division Girls – Fourth Placing (2023)</p>
 </li>
@@ -66,7 +76,6 @@ them to succeed in all walks of life.</p>
 </ul>
 <p><strong>Highlights:</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -77,13 +86,13 @@ them to succeed in all walks of life.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_3.png">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_3.png">
 </div>
 </td>
 </tr>
@@ -92,14 +101,37 @@ them to succeed in all walks of life.</p>
 <p>Team Deyi 2023 vs Team Alumni (2008-2022)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>South Zone C Division 4th Placing</p>
+<p>South Zone C Division - 4th Placing (2023)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_4.png">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_4.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/BM_Invitational_Cup_2024.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Debrief by coach as tool to build cohesion and confidence and self-reflect
+for improvement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BM U16&nbsp;Girls' Basketball Invitational Tournament - Fourth Placing
+(2024)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/NSG_B_Division_Team_2025.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,8 +140,7 @@ them to succeed in all walks of life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Debrief by coach as tool to build cohesion and confidence and self-reflect
-for improvement</p>
+<p>NSG B Division Team (2025)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
