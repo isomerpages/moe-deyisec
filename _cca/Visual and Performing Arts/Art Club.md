@@ -90,9 +90,8 @@ artists’ perspectives on their artworks.</p>
 <p></p>
 <p><strong>Highlights:</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -105,14 +104,9 @@ artists’ perspectives on their artworks.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/2023 art club pic15.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/2023 art club pic15.png">
 </div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/5.jpg">
-</div>
 </td>
 </tr>
 <tr>
@@ -122,9 +116,6 @@ artists’ perspectives on their artworks.</p>
 <td rowspan="1" colspan="1">
 <p>Art installation - National Day 2023</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Sand Art Performance at the school's Art's Fiesta</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -133,10 +124,9 @@ artists’ perspectives on their artworks.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/5.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -144,10 +134,7 @@ artists’ perspectives on their artworks.</p>
 <p>Live-on Festival Design Competition (LODC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Sand Art Performance at the school's Art's Fiesta</p>
 </td>
 </tr>
 </tbody>
