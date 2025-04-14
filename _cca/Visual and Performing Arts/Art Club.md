@@ -87,7 +87,6 @@ Asian art in our students, a learning journey to the National Gallery of
 Singapore was conducted. Volunteer museum curators led our talents into
 various galleries and gave them insights on the various Southeast Asian
 artists’ perspectives on their artworks.</p>
-<p></p>
 <p><strong>Highlights:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -97,17 +96,16 @@ artists’ perspectives on their artworks.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/2023 art club pic17.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/2023 art club pic15.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/2023 art club pic15.png">
 </div>
-<p></p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -117,24 +115,42 @@ artists’ perspectives on their artworks.</p>
 <p>Art installation - National Day 2023</p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/1.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/5.jpg">
-</div>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Live-on Festival Design Competition (LODC)</p>
 </td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/5.jpg">
+</div>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Sand Art Performance at the school's Art's Fiesta</p>
+<p>Art installation - National Day 2023</p>
 </td>
 </tr>
 </tbody>
