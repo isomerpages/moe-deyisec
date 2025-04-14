@@ -90,9 +90,9 @@ artists’ perspectives on their artworks.</p>
 <p></p>
 <p><strong>Highlights:</strong>
 </p>
-<p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -105,6 +105,12 @@ artists’ perspectives on their artworks.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/2023 art club pic15.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/5.jpg">
 </div>
 </td>
@@ -114,28 +120,34 @@ artists’ perspectives on their artworks.</p>
 <p>Appreciation of South-east Asian art at the National Gallery of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Art installation - National Day 2023</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Sand Art Performance at the school's Art's Fiesta</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/2023 art club pic15.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/1.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/1.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art installation - National Day 2023</p>
+<p>Live-on Festival Design Competition (LODC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Live-on Festival Design Competition (LODC)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
