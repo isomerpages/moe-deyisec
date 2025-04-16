@@ -3,7 +3,7 @@ title: Young Journalists' Club
 permalink: /cca/sports-and-clubs/young-journalists-club/
 description: ""
 third_nav_title: Sports and Clubs
-variant: tiptap
+variant: markdown
 ---
 <p>The Young Journalists’ Club at Deyi Secondary School offers an immersive
 foray into the dynamic fields of digital photography, videography, and
@@ -111,6 +111,11 @@ forward a culture of care and engagement.</p>
 </div>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Our expert photographers in action</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -133,8 +138,16 @@ forward a culture of care and engagement.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Our YJC teachers extraordinaire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our family</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_06.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_08.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,10 +157,23 @@ forward a culture of care and engagement.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p>Supporting students every step of the way</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_08.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_06.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our videographers working hard</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
