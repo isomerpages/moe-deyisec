@@ -120,10 +120,10 @@ in their future endeavors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The first aid winning team with our alumnus</p>
+<p>Taking pressure reading at CCA Orientation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alumni Kelvin Tan receiving award for saving a man from cardiac arrest</p>
+<p>Trying out stethoscope at CCA Orientation</p>
 </td>
 </tr>
 <tr>
@@ -140,11 +140,10 @@ in their future endeavors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cadets learning how to use fire extinguisher in the Civil Defence Course</p>
+<p>Public Duty at British High Commission Concert</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our first aid skills shown in action during the District First Aid Competition
-2023</p>
+<p>Public Duty at Bubble Squad Walk</p>
 </td>
 </tr>
 </tbody>
