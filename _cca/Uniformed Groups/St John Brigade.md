@@ -71,6 +71,9 @@ in their future endeavors.</p>
 <li>
 <p>1 cadet graduated from Corps First Aid Instructor Course (2025)</p>
 </li>
+<li>
+<p>1 cadet graduated from Home Nursing Instructor Course (2025)</p>
+</li>
 </ul>
 <p><strong>Other Notable Activities:</strong>
 </p>
@@ -94,9 +97,7 @@ in their future endeavors.</p>
 <p>Hospital Attachment Programme</p>
 </li>
 <li>
-<p>Non-Commissioned Officer Course
-<br>
-</p>
+<p>Non-Commissioned Officer Course</p>
 </li>
 </ul>
 <p><strong>Highlights</strong>:</p>
@@ -116,7 +117,7 @@ in their future endeavors.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/Public_duty_2.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/Public_duty_2.jpg">
 </div>
 </td>
 </tr>
@@ -148,6 +149,28 @@ in their future endeavors.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Public Duty at Bubble Squad Walk</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/Corp_photo_CCA_Orientation.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/Nursing_Cadet_Team_emerged_as_2nd_Runner_up_District_First_Aid_Competition.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corp photo at CCA Orientation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nursing Cadet Team emerged as 2nd Runner-up at District First Aid Competition</p>
 </td>
 </tr>
 </tbody>
