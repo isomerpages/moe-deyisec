@@ -108,14 +108,13 @@ in their future endeavors.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/2024_SJB_pic_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/CCA_orientation_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/2024_SJB_pic_3.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -128,14 +127,10 @@ in their future endeavors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/2024_SJB_pic_4.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/2024_SJB_pic_5.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
