@@ -65,6 +65,12 @@ on the environment.</p>
 <p>16 Green Club students were awarded the HDB Individual Silver Award for
 Friends of Our Heartlands (FOH) 2023</p>
 </li>
+<li>
+<p>Singapore Green Award 2024 - Vanda Miss Joaquim Award</p>
+</li>
+<li>
+<p>Environment Fund for Schools (Top Tier) 2024</p>
+</li>
 </ul>
 <p><strong>Other Notable Activities:</strong>
 </p>
