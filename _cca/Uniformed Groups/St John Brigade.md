@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/SJB.jpg">
+</div>
 <p>The St. John Brigade at our school is a vital community dedicated to empowering
 our youth with life-saving First Aid skills, including CPR and the use
 of AEDs. Our mission extends far beyond the acquisition of these critical
@@ -55,31 +59,17 @@ in their future endeavors.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Corp Achievement Award: Gold (2013-2020, 2023)
-<br>
-</p>
+<p>Corp Achievement Award: Gold (2013-2020, 2023)</p>
 </li>
 <li>
 <p>2nd Runner-Up for District First Aid Competition (Nursing Cadet Team Category)
-(2025)
-<br>
-</p>
+(2025)</p>
 </li>
 <li>
-<p>Champion for District First Aid Competition (Nursing Cadet Team Category)
-(2022, 2023)
-<br>
-</p>
+<p>2 cadets graduated from National Basic Drill Instructor Course (2025)</p>
 </li>
 <li>
-<p>2 cadets graduated from National Basic Instructor Course (2025)
-<br>
-</p>
-</li>
-<li>
-<p>1 cadet graduated from Corps First Aid Instructor Course (2025)
-<br>
-</p>
+<p>1 cadet graduated from Corps First Aid Instructor Course (2025)</p>
 </li>
 </ul>
 <p><strong>Other Notable Activities:</strong>
