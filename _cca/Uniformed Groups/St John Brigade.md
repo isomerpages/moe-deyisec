@@ -23,9 +23,6 @@ that effective leadership begins with self-discipline and self-care. By
 equipping our cadets with these essential skills and values, we prepare
 them to lead with confidence and compassion, both within the Brigade and
 in their future endeavors.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform%20Groups/St%20John%20Brigade/2024_SJB_pic_1.png">
-</div>
 <p><strong>Teachers-in-charge:</strong> 
 <br>
 </p>
@@ -63,8 +60,8 @@ in their future endeavors.</p>
 </p>
 </li>
 <li>
-<p>2nd Runner-Up for National First Aid Competition (Nursing Cadet Team Category)
-(2023)
+<p>2nd Runner-Up for District First Aid Competition (Nursing Cadet Team Category)
+(2025)
 <br>
 </p>
 </li>
@@ -75,29 +72,24 @@ in their future endeavors.</p>
 </p>
 </li>
 <li>
-<p>13 Recipients for Chief Commissioner Badge (2023)
+<p>2 cadets graduated from National Basic Instructor Course (2025)
 <br>
 </p>
 </li>
 <li>
-<p>1 cadet graduated from National Basic Drill Instructor Course (2024)
-<br>
-</p>
-</li>
-<li>
-<p>2 cadets graduated from Corps First Aid Instructor Course (2024)
+<p>1 cadet graduated from Corps First Aid Instructor Course (2025)
 <br>
 </p>
 </li>
 </ul>
-<p><strong>Other Notable Activities:</strong> 
+<p><strong>Other Notable Activities:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chingay Festival Public Duty</p>
+<p>British High Commission Concert Public Duty</p>
 </li>
 <li>
-<p>Ang Mo Kio-Bishan Park Chingay Public Duty</p>
+<p>Bubble Squad Walk Public Duty</p>
 </li>
 <li>
 <p>National Day Parade UG Marching Contingent</p>
@@ -118,7 +110,11 @@ in their future endeavors.</p>
 </li>
 </ul>
 <p><strong>Highlights</strong>:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
