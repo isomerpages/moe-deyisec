@@ -115,6 +115,9 @@ in their future endeavors.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/Public_duty_2.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -122,20 +125,26 @@ in their future endeavors.</p>
 <p>Taking pressure reading at CCA Orientation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Trying out stethoscope at CCA Orientation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Public Duty at British High Commission Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/CCA_orientation_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/Public_duty_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trying out stethoscope at CCA Orientation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Public Duty at Bubble Squad Walk</p>
