@@ -104,8 +104,7 @@ as well as F1 Challenge.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Learning in the Classroom with Technology</strong>
-</p>
-<p>Our students in Sec 3 study Chemistry, Physics and Biology and are engaged
+<br>Our students in Sec 3 study Chemistry, Physics and Biology and are engaged
 in many exciting STEM activities requiring them to show their scientific
 understanding.</p>
 </td>
