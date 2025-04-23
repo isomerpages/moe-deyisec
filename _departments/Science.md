@@ -30,7 +30,11 @@ students' curiosity, critical thinking, and appreciation for the value
 of science through immersive and authentic learning experiences.</p>
 <p><strong>Key Programmes:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -85,6 +89,25 @@ and vertical farming systems in our sustainability education.</p>
 <p><strong>Stretch Programmes</strong> 
 <br>Opportunities to represent Deyi in Physics, Chemistry and Biology Olympiads
 as well as F1 Challenge.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/learning1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2025_Science_Pic_2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Learning in the Classroom with Technology</strong>
+</p>
+<p>Our students in Sec 3 study Chemistry, Physics and Biology and are engaged
+in many exciting STEM activities requiring them to show their scientific
+understanding.</p>
 </td>
 </tr>
 </tbody>
