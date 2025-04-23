@@ -109,13 +109,11 @@ in their future endeavors.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/CCA_orientation_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/Public_duty_2.jpg">
 </div>
