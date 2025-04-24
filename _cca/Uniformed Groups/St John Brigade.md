@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/SJB.jpg">
+</div>
 <p>The St. John Brigade at our school is a vital community dedicated to empowering
 our youth with life-saving First Aid skills, including CPR and the use
 of AEDs. Our mission extends far beyond the acquisition of these critical
@@ -23,9 +27,6 @@ that effective leadership begins with self-discipline and self-care. By
 equipping our cadets with these essential skills and values, we prepare
 them to lead with confidence and compassion, both within the Brigade and
 in their future endeavors.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform%20Groups/St%20John%20Brigade/2024_SJB_pic_1.png">
-</div>
 <p><strong>Teachers-in-charge:</strong> 
 <br>
 </p>
@@ -58,46 +59,30 @@ in their future endeavors.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Corp Achievement Award: Gold (2013-2020, 2023)
-<br>
-</p>
+<p>Corp Achievement Award: Gold (2013-2020, 2023)</p>
 </li>
 <li>
-<p>2nd Runner-Up for National First Aid Competition (Nursing Cadet Team Category)
-(2023)
-<br>
-</p>
+<p>2nd Runner-Up for District First Aid Competition (Nursing Cadet Team Category)
+(2025)</p>
 </li>
 <li>
-<p>Champion for District First Aid Competition (Nursing Cadet Team Category)
-(2022, 2023)
-<br>
-</p>
+<p>2 cadets graduated from National Basic Drill Instructor Course (2025)</p>
 </li>
 <li>
-<p>13 Recipients for Chief Commissioner Badge (2023)
-<br>
-</p>
+<p>1 cadet graduated from Corps First Aid Instructor Course (2025)</p>
 </li>
 <li>
-<p>1 cadet graduated from National Basic Drill Instructor Course (2024)
-<br>
-</p>
-</li>
-<li>
-<p>2 cadets graduated from Corps First Aid Instructor Course (2024)
-<br>
-</p>
+<p>1 cadet graduated from Home Nursing Instructor Course (2025)</p>
 </li>
 </ul>
-<p><strong>Other Notable Activities:</strong> 
+<p><strong>Other Notable Activities:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chingay Festival Public Duty</p>
+<p>British High Commission Concert Public Duty</p>
 </li>
 <li>
-<p>Ang Mo Kio-Bishan Park Chingay Public Duty</p>
+<p>Bubble Squad Walk Public Duty</p>
 </li>
 <li>
 <p>National Day Parade UG Marching Contingent</p>
@@ -112,53 +97,97 @@ in their future endeavors.</p>
 <p>Hospital Attachment Programme</p>
 </li>
 <li>
-<p>Non-Commissioned Officer Course
-<br>
-</p>
+<p>Non-Commissioned Officer Course</p>
 </li>
 </ul>
 <p><strong>Highlights</strong>:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/2024_SJB_pic_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/CCA_orientation_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/2024_SJB_pic_3.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/Public_duty_2.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The first aid winning team with our alumnus</p>
+<p>Taking pressure reading at CCA Orientation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alumni Kelvin Tan receiving award for saving a man from cardiac arrest</p>
+<p>Public Duty at British High Commission Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/CCA_orientation_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/Public_duty_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trying out stethoscope at CCA Orientation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Duty at Bubble Squad Walk</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/2024_SJB_pic_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/Corp_photo_CCA_Orientation.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/2024_SJB_pic_5.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/School_Track_Meet_2025.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cadets learning how to use fire extinguisher in the Civil Defence Course</p>
+<p>Corp photo at CCA Orientation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our first aid skills shown in action during the District First Aid Competition
-2023</p>
+<p>Public Duty at School Track Meet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/Graduates_of_the_Basic_Drill_Instructor_Course.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/St John Brigade/Nursing_Cadet_Team_emerged_as_2nd_Runner_up_District_First_Aid_Competition.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Graduates of the Basic Drill Instructor Course from North District</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nursing Cadet Team emerged as 2nd Runner-up at District First Aid Competition</p>
 </td>
 </tr>
 </tbody>
