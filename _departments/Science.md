@@ -81,9 +81,6 @@ and vertical farming systems in our sustainability education.</p>
 <p>Click below to visit Deyi Science Department Microsite.
 <br><strong><a href="https://for.edu.sg/dysscience" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/dysscience</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_square_2.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Stretch Programmes</strong> 
@@ -107,6 +104,13 @@ as well as F1 Challenge.</p>
 <br>Our students in Sec 3 study Chemistry, Physics and Biology and are engaged
 in many exciting STEM activities requiring them to show their scientific
 understanding.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Click below to visit Deyi Science Department Microsite.
+<br><strong><a href="https://for.edu.sg/dysscience" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/dysscience</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
