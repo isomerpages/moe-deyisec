@@ -78,9 +78,8 @@ achievement.</p>
 <p></p>
 <p><strong>Highlights:</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -90,16 +89,10 @@ achievement.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Choir/2025_Choir_Pic_1.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2025 Choir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
