@@ -36,7 +36,7 @@ achievement.</p>
 </p>
 </li>
 <li>
-<p>Ms Yvon Chew
+<p>Mr Yee Nam Siong
 <br>
 </p>
 </li>
@@ -47,16 +47,10 @@ achievement.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival 2023</p>
-</li>
-<li>
-<p>Arts Presentation for Choir</p>
-</li>
-<li>
-<p>Certificate of Accomplishment</p>
+<p>Singapore Youth Festival 2025: Certificate of Accomplishment</p>
 </li>
 </ul>
-<p><strong>Other Notable Activites:</strong>
+<p><strong>Other Notable Activities:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -73,6 +67,12 @@ achievement.</p>
 </li>
 <li>
 <p>National Day Celebration Concert</p>
+</li>
+<li>
+<p>Choir Concert 'Singspiration' 2024</p>
+</li>
+<li>
+<p>SSO National Day Concert 2024</p>
 </li>
 </ul>
 <p></p>
