@@ -150,7 +150,4 @@ achievement.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Choir/2025_Choir_SYF_Pic_7.jpg">
-</div>
 <p></p>
