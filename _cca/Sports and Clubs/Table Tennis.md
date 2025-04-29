@@ -29,6 +29,8 @@ setting the stage for a lifetime of success and camaraderie.</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.50 pm – 5.30 pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Competitions / Achievements:</strong> 
+<br>• South Zone C Division National School Games (Girls and Boys) League
+1: Top 16 (2024)
 <br>• South Zone B Division National School Games Competition B Division Girls:
 4th Placing (2024)
 <br>• South Zone C Division National School Games Competition C Division Girls:
