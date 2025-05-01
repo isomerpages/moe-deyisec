@@ -64,8 +64,9 @@ more details, please refer to MOE website:&nbsp;–&nbsp;<a href="https://www.mo
 </p>
 <p>The following are the various specific talent areas offered by Deyi for
 the Direct School Admission (DSA) exercise.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Useful%20Links/2025_DSA_Pic_1.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Useful Links/2025_DSA_Pic_1a.png">
 </div>
 <p>The table below gives more details of the specific talent areas offered
 by Deyi for the Direct School Admission (DSA) exercise.</p>
