@@ -69,17 +69,13 @@ the Direct School Admission (DSA) exercise.</p>
 </div>
 <p>The table below gives more details of the specific talent areas offered
 by Deyi for the Direct School Admission (DSA) exercise.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
@@ -120,9 +116,6 @@ become Active Learners, Gracious Citizens.
 CCAs namely, Art Club, School Band, Choir, Movement &amp; Dance, and English
 Drama Club for a customised Talent Development Programme.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -149,9 +142,6 @@ areas of broadcast and Journalism.
 broadcast fact, opinions and perspectives.
 <br>• To be able to communicate persuasively through spoken and written media.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -177,9 +167,6 @@ leadership workshops/camps.
 which have achieved outstanding performance in Zonal &amp; National Competitions
 [e.g. Precision Drill Squad competition (NCC) and 1st Aid &amp; Home Nursing
 competition (SJB).]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -209,9 +196,6 @@ to many opportunities to represent our school in both MOE-sanctioned and
 external competitions. In doing so, Deyi has nurtured many future leaders
 who went on to captain their various sports teams in their tertiary institutions
 as well as represent Singapore in the various international tournaments.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -246,20 +230,6 @@ Qingdao, China)
 of robotics technology. <strong>Join us and be part of a winning team that engineers the future!</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
@@ -292,6 +262,9 @@ events, cultural exchanges, etc.) (if any)</p>
 <p>Leadership appointments held in CCAs or Student Leadership Groups</p>
 </li>
 </ul>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
 <p><strong>4. Audition/Trial</strong> 
 <br>Student must pass an audition/trial, in the relevant areas of Specific
 Talent, conducted by the school. The following is a brief description of
@@ -299,7 +272,7 @@ the various auditions/trials.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsa.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Useful Links/2025_DSA_Pic_2.png">
 </div>
 <p>Trials and auditions will usually be conducted on <strong>Tuesdays</strong> and <strong>Thursdays</strong> as
 these are the school’s designated CCA Days.</p>
