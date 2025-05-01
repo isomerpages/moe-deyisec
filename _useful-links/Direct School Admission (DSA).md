@@ -290,7 +290,7 @@ the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener n
 </p>
 <p><strong>Stage 1 – Short-listing</strong> 
 <br>Candidates will first be short-listed based on&nbsp;<strong>Criteria 1–3</strong>.
-All shortlisted candidates after Stage 1 will be informed by&nbsp;<strong>22 July 2024</strong>&nbsp;of
+All shortlisted candidates after Stage 1 will be informed by&nbsp;<strong>25 July 2025</strong>&nbsp;of
 their interview and audition dates. Non-shortlisted candidates will also
 be informed that they are unsuccessful in their application.</p>
 <p><strong>Stage 2 – Audition/Trial</strong> 
@@ -301,9 +301,9 @@ the relevant talent area (e.g. Aesthetics, English, Student Leadership,
 Physical Education) and the&nbsp;<u> CCA Teacher-In-Charge </u>&nbsp;of
 the specific talent area.</p>
 <p>After Stage 2 (Audition/Trial) and Stage 3 (Panel Interview), the results
-will be compiled and all shortlisted candidates will be notified by&nbsp;<strong>9 Sep 2024</strong>&nbsp;if
-they have been given a Confirmed Offer, put on the Waiting List or if the
-school is unable to offer them a place.</p>
+will be compiled and all shortlisted candidates will be notified between
+25 Aug and 4 Sep 2025&nbsp;if they have been given a Confirmed Offer, put
+on the Waiting List or if the school is unable to offer them a place.</p>
 <p>Those given a Confirmed Offer are guaranteed a place in the school in
 a course [Express, Normal (Academic) or Normal (Technical)] which the student
 is eligible for. This is based on the PSLE aggregate of the student.</p>
@@ -334,7 +334,7 @@ is eligible for. This is based on the PSLE aggregate of the student.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 22 Jul</p>
+<p>By 25 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All shortlisted applicants will be informed of their audition/trial date.</p>
@@ -342,7 +342,7 @@ is eligible for. This is based on the PSLE aggregate of the student.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 Jun – 9 Sep</p>
+<p>30 Jun – 4 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Selection Stage. Trials and auditions will usually be conducted on <strong>Tuesdays</strong> and <strong>Thursdays</strong> as
@@ -351,7 +351,7 @@ these are the school’s designated CCA Days.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 9 Sep</p>
+<p>25 Aug - 4 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All shortlisted candidates will be notified by post as to whether he/she
@@ -360,7 +360,7 @@ is on the confirmed, waiting or rejected list.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 Oct – 25 Oct</p>
+<p>27 Oct – 31 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exercise School Preference Stage.</p>
@@ -368,18 +368,18 @@ is on the confirmed, waiting or rejected list.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nov</p>
+<p>Mid-end Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Results Release Stage.</p>
+<p>DSA Allocation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Late Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Results Release Stage.</p>
 </td>
 </tr>
 </tbody>
