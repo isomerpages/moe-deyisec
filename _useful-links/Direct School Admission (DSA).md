@@ -450,9 +450,9 @@ they are meritocratic and transparent.</p>
 <p><strong>3. How will the students be admitted into the participating schools?</strong> 
 <br>Students who meet the school-based admission criteria will be made a Confirmed
 Offer or placed on the Waiting List by the school. Students given a Confirmed
-Offer are guaranteed a place in the school, in a course [Express, Normal
-(Academic) or Normal (Technical)] which the student is eligible for. This
-is based on the PSLE aggregate of the student.</p>
+Offer are guaranteed a place in the school, and are offered subjects at
+the levels (i.e. G1. G2. G3) which the student is eligible for. This is
+based on the PSLE results (i.e. Achievement Levels) of the student.</p>
 <p>Students placed on the Waiting List are not guaranteed a place and their
 admission will be based on available vacancies.</p>
 <p>Students on the Rejected List are deemed rejected by the school. However,
