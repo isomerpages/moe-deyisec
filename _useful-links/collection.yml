@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Canteen Advertisement.md
       - Useful Links for Parents.md
       - Useful Links for Students.md
       - Useful Links for Teachers.md
@@ -10,3 +9,4 @@ collections:
       - Direct School Admission (DSA).md
       - Integration Programme.md
       - Full Subject Based Banding (Full SBB).md
+      - Canteen Advertisement.md
