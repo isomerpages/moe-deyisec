@@ -54,6 +54,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="/files/Useful Links/UL Parents/Prelim_Exam_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">Preliminary Examination Timetable</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.moe.gov.sg/national-exams-dates" rel="noopener noreferrer nofollow" target="_blank">Important Dates for National Examinations</a>
 </p>
 </li>
