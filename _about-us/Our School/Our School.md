@@ -39,6 +39,7 @@ Principals:
 | 2014 | Achieved Best Practice in Character and Citizenship Education. |
 | 2015 | Celebration of 35th anniversary. |
 | 2018 | Completion of indoor sports hall. Mid-autumn homecoming for alumni and ex-staff. |
+| 2025 | Celebration of 45th anniversary. |
 
 #### **School Motto**
 
