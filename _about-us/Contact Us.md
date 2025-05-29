@@ -40,7 +40,7 @@ variant: tiptap
 <p>Mr Neo Say Chuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_say_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_say_chuan@moe.edu.sg</a>
+<p><a href="mailto:neo_say_chuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_say_chuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -52,7 +52,7 @@ variant: tiptap
 <p>Mdm Chan Swee Yin Adeline (HOD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_swee_yin_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_swee_yin_adeline@moe.edu.sg</a>
+<p><a href="mailto:chan_swee_yin_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_swee_yin_adeline@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -64,7 +64,8 @@ variant: tiptap
 <p>Mdm Eileen Chia Shu Fen (HOD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:eileen_chia_shu_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eileen_chia_shu_fen@moe.edu.sg</a>
+<p><a href="mailto:eileen_chia_shu_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eileen_chia_shu_fen@</a>
+<a href="mailto:eileen_chia_shu_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -76,7 +77,7 @@ variant: tiptap
 <p>Mdm Lim Eng Choo (SH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_eng_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_eng_choo@moe.edu.sg</a>
+<p><a href="mailto:lim_eng_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_eng_choo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -88,7 +89,7 @@ variant: tiptap
 <p>Mr Yeo Chong Keat Rene (HOD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_chong_keat_rene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_chong_keat_rene@moe.edu.sg</a>
+<p><a href="mailto:yeo_chong_keat_rene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_chong_keat_rene@moe.edu.sg</a>
 </p>
 </td>
 </tr>
