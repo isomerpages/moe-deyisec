@@ -89,7 +89,7 @@ variant: tiptap
 <p>Mr Yeo Chong Keat Rene (HOD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_chong_keat_rene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_chong_keat_rene@moe.edu.sg</a>
+<p><a href="mailto:yeo_chong_keat_rene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_chong_keat_rene@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -101,7 +101,7 @@ variant: tiptap
 <p>Mdm Faizah Binte Abu Bakar (HOD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:faizah_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faizah_abu_bakar@moe.edu.sg</a>
+<p><a href="mailto:faizah_abu_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">faizah_abu_bakar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -113,7 +113,7 @@ variant: tiptap
 <p>Mr Teng Chion Wee (HOD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teng_chion_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_chion_wee@moe.edu.sg</a>
+<p><a href="mailto:teng_chion_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_chion_wee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -125,7 +125,7 @@ variant: tiptap
 <p>Mr Neo Gim Koon (HOD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_gim_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_gim_koon@moe.edu.sg</a>
+<p><a href="mailto:neo_gim_koon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_gim_koon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -137,7 +137,7 @@ variant: tiptap
 <p>Mr Tan Hwi Kiat (HOD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hwi_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hwi_kiat@moe.edu.sg</a>
+<p><a href="mailto:tan_hwi_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hwi_kiat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -149,7 +149,7 @@ variant: tiptap
 <p>Mr Wong Jinfa (SH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jinfa_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jinfa_wong@moe.edu.sg</a>
+<p><a href="mailto:jinfa_wong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jinfa_wong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -161,7 +161,7 @@ variant: tiptap
 <p>Miss Geetha Salgunan (HOD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:geetha_salgunan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geetha_salgunan@moe.edu.sg</a>
+<p><a href="mailto:geetha_salgunan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geetha_salgunan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
