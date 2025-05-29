@@ -325,7 +325,7 @@ variant: tiptap
 <p>Senior Teacher / Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurain_abidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurain_abidin@schools.gov.sg</a>
+<p><a href="mailto:nurain_abidin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurain_abidin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -337,7 +337,7 @@ variant: tiptap
 <p>Senior Teacher / Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jainul_banu_shahul_hameed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jainul_banu_shahul_hameed@schools.gov.sg</a>
+<p><a href="mailto:jainul_banu_shahul_hameed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jainul_banu_shahul_hameed@schools.gov.sg</a>
 </p>
 </td>
 </tr>
