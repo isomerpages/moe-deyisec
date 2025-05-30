@@ -64,8 +64,7 @@ variant: tiptap
 <p>Mdm Eileen Chia Shu Fen (HOD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:eileen_chia_shu_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eileen_chia_shu_fen@</a>
-<a href="mailto:eileen_chia_shu_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:eileen_chia_shu_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eileen_chia_shu_fen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
