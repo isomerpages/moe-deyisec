@@ -30,58 +30,79 @@ joyful and meaningful.</p>
 <p>Through these concerted efforts, we are committed to maximizing the potential
 of every student, empowering them to become successful individuals who
 can contribute positively to society.</p>
-<p>Events : Playing&nbsp;Traditional Games. Students in the Integration Programme
-had the opportunity to experience local culture by playing traditional
-games, giving them valuable exposure to the country's heritage and customs.</p>
-<table style="minWidth: 50px">
+<p><strong>Event 1: Playing&nbsp;Traditional Games.</strong> 
+<br>Students in the Integration Programme had the opportunity to experience
+local culture by playing traditional games, giving them valuable exposure
+to the country's heritage and customs.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hantam Bola" src="/images/Integrated Programme/Hantam_Bola.jpg">
+</div>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="3">
 <p>Hantam Bola</p>
 </td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated Programme/Pick_up_sticks.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pick up sticks</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Going on the Virtual Fieldtrip to the Singapore River to know the history of Singapore better" src="/images/Integrated%20Programme/2a_ip_b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Hantam Bola" src="/images/Integrated Programme/Hantam_Bola.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ketupat Origami making" src="/images/Integrated%20Programme/3a_ip_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Enjoying the local cuisines" src="/images/Integrated%20Programme/4ip-a-.jpg">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Hantam Bola</p>
 <p>B. 2nd Activity: Learning Journey to Kampong Glam (Term 2 2023).</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="At one of the oldest mosque in Singapore" src="/images/Integrated%20Programme/5-ip-a.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Learning about the craft of making the tarik" src="/images/Integrated%20Programme/6-ip-a.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Enjoying the delicious delicacies prepared by a restaurant in Kampong Glam." src="/images/Integrated%20Programme/7-ip-a.jpg">
-</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
