@@ -87,22 +87,17 @@ to the country's heritage and customs.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hantam Bola" src="/images/Integrated Programme/Hantam_Bola.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated Programme/Areas_in_Katong.png">
 </div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Hantam Bola</p>
-<p>B. 2nd Activity: Learning Journey to Kampong Glam (Term 2 2023).</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated Programme/Katong_LJ_Group_photo.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated Programme/East_Coast_Road.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated Programme/Visit_to_Rumah_Kami.png">
+</div>
 <p></p>
