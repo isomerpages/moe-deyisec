@@ -113,7 +113,8 @@ to the country's heritage and customs.</p>
 <tr></tr>
 </tbody>
 </table>
-<p>Visit to Peranakan Heritage sites in Katong</p>
+<p><strong>Event 2: Visit to Peranakan Heritage sites in Katong</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated Programme/Areas_in_Katong.png">
 </div>
