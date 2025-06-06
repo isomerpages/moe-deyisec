@@ -30,7 +30,7 @@ joyful and meaningful.</p>
 <p>Through these concerted efforts, we are committed to maximizing the potential
 of every student, empowering them to become successful individuals who
 can contribute positively to society.</p>
-<p><strong>Event 1: Playing&nbsp;Traditional Games.</strong> 
+<p><strong>Event 1: Playing&nbsp;Traditional Games</strong>
 <br>Students in the Integration Programme had the opportunity to experience
 local culture by playing traditional games, giving them valuable exposure
 to the country's heritage and customs.</p>
