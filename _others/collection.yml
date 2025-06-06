@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Subject Option Calculator.md
       - O Level Release of Results.md
       - N Level Release of Results.md
       - Achievements (Summary) 2023.md
