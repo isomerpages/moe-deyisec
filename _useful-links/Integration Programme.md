@@ -2,37 +2,129 @@
 title: Integration Programme
 permalink: /useful-links/integration-programme/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# Integration Programme 
-
-This year, the Integration Programme at Deyi Secondary School experiences a revitalizing and refreshing transformation! The program has set its sights on embracing and empowering secondary 1-3 international students and permanent residents. 
-
-Our mission is to achieve a multitude of crucial objectives which include the following:
-Firstly, it seeks to enhance awareness of significance of integration for the overall success of both our society and nation. By fostering a sense of togetherness, we believe we can build a stronger and more harmonious community.
-Secondly, the Integration Programme is dedicated to helping newcomers adapt seamlessly to the Singaporean way of life. This includes providing support to help them better grasp local cultures and social norms, ensuring they feel at home in their new environment.
-
-
-A key aspect of the program involves creating opportunities for local and international students to form friendships and share experiences. To facilitate this, we have organized learning journeys to culturally enriching destinations like museums and local attractions. Additionally, our innovative buddy system, led by supportive student leaders, fosters a sense of camaraderie among the students.
-
-
-Lastly, one of our primary goals is to instill a profound emotional attachment and a sense of belonging to Singapore among the students. By creating a welcoming and inclusive environment, we aim to make the learning experience joyful and meaningful.
-
-Through these concerted efforts, we are committed to maximizing the potential of every student, empowering them to become successful individuals who can contribute positively to society.
-
-Events : A. 1st Meeting (Term 1 2023)
-![International students and their buddies searching the web to find meanings of their names](/images/Integrated%20Programme/1ip_a_.jpg)
-
-![Going on the Virtual Fieldtrip to the Singapore River to know the history of Singapore better](/images/Integrated%20Programme/2a_ip_b.jpg)
-
-![Ketupat Origami making ](/images/Integrated%20Programme/3a_ip_.jpg)
-
-![Enjoying the local cuisines](/images/Integrated%20Programme/4ip-a-.jpg)
-
-B. 2nd Activity: Learning Journey to Kampong Glam (Term 2 2023).
-
-![At one of the oldest mosque in Singapore](/images/Integrated%20Programme/5-ip-a.jpg)
-
-![Learning about the craft of making the tarik](/images/Integrated%20Programme/6-ip-a.jpg)
-
-![Enjoying the delicious delicacies prepared by a restaurant in Kampong Glam.](/images/Integrated%20Programme/7-ip-a.jpg)
+<h1>Integration Programme</h1>
+<p>This year, the Integration Programme at Deyi Secondary School experiences
+a revitalizing and refreshing transformation! The program has set its sights
+on embracing and empowering secondary 1-3 international students and permanent
+residents.</p>
+<p>Our mission is to achieve a multitude of crucial objectives which include
+the following: Firstly, it seeks to enhance awareness of significance of
+integration for the overall success of both our society and nation. By
+fostering a sense of togetherness, we believe we can build a stronger and
+more harmonious community. Secondly, the Integration Programme is dedicated
+to helping newcomers adapt seamlessly to the Singaporean way of life. This
+includes providing support to help them better grasp local cultures and
+social norms, ensuring they feel at home in their new environment.</p>
+<p>A key aspect of the program involves creating opportunities for local
+and international students to form friendships and share experiences. To
+facilitate this, we have organized learning journeys to culturally enriching
+destinations like museums and local attractions. Additionally, our innovative
+buddy system, led by supportive student leaders, fosters a sense of camaraderie
+among the students.</p>
+<p>Lastly, one of our primary goals is to instill a profound emotional attachment
+and a sense of belonging to Singapore among the students. By creating a
+welcoming and inclusive environment, we aim to make the learning experience
+joyful and meaningful.</p>
+<p>Through these concerted efforts, we are committed to maximizing the potential
+of every student, empowering them to become successful individuals who
+can contribute positively to society.</p>
+<p><strong>Event 1: Playing&nbsp;Traditional Games</strong>
+<br>Students in the Integration Programme had the opportunity to experience
+local culture by playing traditional games, giving them valuable exposure
+to the country's heritage and customs.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hantam Bola" src="/images/Integrated Programme/Hantam_Bola.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="3">
+<p>Hantam Bola</p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated Programme/Pick_up_sticks.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="3" colspan="3">
+<p>Pick up sticks</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated Programme/Chapteh.png">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="3">
+<p>Chapteh</p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated Programme/Eraser_fight_game.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="3">
+<p>Eraser fight game</p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<p><strong>Event 2: Visit to Peranakan Heritage sites in Katong</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated Programme/Areas_in_Katong.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated Programme/Katong_LJ_Group_photo.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated Programme/East_Coast_Road.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated Programme/Visit_to_Rumah_Kami.png">
+</div>
+<p></p>
