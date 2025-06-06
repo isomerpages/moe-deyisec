@@ -69,25 +69,51 @@ to the country's heritage and customs.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="3">
 <p>Pick up sticks</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated Programme/Chapteh.png">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="3">
+<p>Chapteh</p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated Programme/Eraser_fight_game.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="3">
+<p>Eraser fight game</p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<p>Visit to Peranakan Heritage sites in Katong</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated Programme/Areas_in_Katong.png">
 </div>
