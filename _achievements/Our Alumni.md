@@ -2,9 +2,12 @@
 title: Our Alumni
 permalink: /achievements/our-alumni/
 description: ""
+variant: markdown
 ---
-### Achievements for School Website
+### Achievements 
+Read about [Foo Wen Qi](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2025_Foo_Wen_Qi_Outstanding_Achievement.jpg) who achieved outstanding achievements in the area of animation and visual effects from NYP.
 
+Read about [Koh Qi Yang](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2025_Koh_Qi_Yang_Outstanding_Achievement.jpg) who achieved outstanding achievements in the area of food and beverage business from NYP.
 
 Read about [Lim Qi Zhen](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2020%20alumni%20lim%20qi%20zhen.jpg) who achieved outstanding academic performance.
 
