@@ -7,6 +7,8 @@ variant: markdown
 ### Achievements for School Website
 Read about [Foo Wen Qi](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2025_Foo_Wen_Qi_Outstanding_Achievement.jpg) who achieved outstanding achievements in the area of animation and visual effects from NYP.
 
+Read about 
+
 Read about [Lim Qi Zhen](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2020%20alumni%20lim%20qi%20zhen.jpg) who achieved outstanding academic performance.
 
 Read about [Abdul Rahim B MD Hamsani](https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2022%20alumni%20abdul%20rahim%20b%20md%20hamsani.jpg) who displayed resilience and determination in his achievements.  
