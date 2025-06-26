@@ -116,26 +116,55 @@ Band to perform in the 2023 National Day Parade.</p>
 </ul>
 <p><strong>Highlights:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/2.jpg">
-</div>
-</th>
+<td rowspan="1" colspan="2">
+<p>Dancers move in harmony, each step reflecting their passion and dedication</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 SYF Dance Item</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/2025_MnD___Chinese_Dance_SYF.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023 SYF Chinese Dance Item</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/2025_MnD___International_Dance_SYF.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 SYF - Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 SYF - International Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/2025_MnD___Chinese_Dance_Arts_Fiesta.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/2025_MnD___International_Dance_Arts_Fiesta.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Arts Fiesta- Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 Arts Fiesta - International Dance</p>
 </td>
 </tr>
 <tr>
@@ -145,9 +174,7 @@ Band to perform in the 2023 National Day Parade.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/4.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -155,7 +182,7 @@ Band to perform in the 2023 National Day Parade.</p>
 <p>Wushu Boys Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023 International Dance Item</p>
+<p></p>
 </td>
 </tr>
 </tbody>
