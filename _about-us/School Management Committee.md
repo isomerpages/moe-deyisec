@@ -92,6 +92,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Rosabel Mah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Faizah Binte Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
