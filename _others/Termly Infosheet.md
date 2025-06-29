@@ -11,15 +11,15 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>[Secondary 2] <a href="/files/Useful Links/UL Parents/Sec_2_Term_2_2025.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Sec 2</a>
+<p>[Secondary 2] <a href="/files/Useful Links/UL Parents/Sec_2_T3_2025.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Sec 2</a>
 </p>
 </li>
 <li>
-<p>[Secondary 3] <a href="/files/Useful Links/UL Parents/Sec_3_Term_2_2025.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Sec 3</a>
+<p>[Secondary 3] <a href="/files/Useful Links/UL Parents/Sec_3_T3_2025.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Sec 3</a>
 </p>
 </li>
 <li>
-<p>[Secondary 4 and 5] <a href="/files/Useful Links/UL Parents/Sec_4_5_Term_2_2025.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Sec 4 and 5</a>
+<p>[Secondary 4 and 5] <a href="/files/Useful Links/UL Parents/sec_4and5_t3_2025.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Sec 4 and 5</a>
 </p>
 </li>
 </ul>
