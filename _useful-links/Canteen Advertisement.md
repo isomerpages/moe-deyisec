@@ -4,9 +4,10 @@ permalink: /canteen-advertisement/
 variant: tiptap
 description: ""
 ---
-<p><strong>Type of Stall</strong>: Noodle Food Stall or Mixed Rice Stall</p>
-<p><strong>Closing Date</strong>: 20 June 2025</p>
-<p><strong>Requirements</strong>: Halal</p>
+<p><strong>Type of Stall 1</strong>: Noodle Food Stall (Halal)</p>
+<p><strong>Type of Stall 2:</strong> Noodle Food Stall (Non-halal)</p>
+<p><strong>Closing Date</strong>: 30 July 2025</p>
+<p><strong>Requirements</strong>: Halal or Non-halal</p>
 <h3>Application Procedure:</h3>
 <p>1. Download and complete the <a href="/files/Useful Links/Cateen Advert/Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">application form</a>.
 You may also request for a hardcopy from the School’s General Office.</p>
