@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Achievements</h3>
 <p>Congratulations to Glenn Kong Jia Le, Lim Yu Kiat, James Nathan Nora,
 Tung Yu Feng, and Lim En Ling for their Outstanding Performance at the
-GCE <a href="https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/DEYI_SECONDARY_SCHOOL.png" rel="noopener nofollow" target="_blank">A level Examination</a>.</p>
+GCE <a href="https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/DEYI_SECONDARY_SCHOOL.png" rel="noopener nofollow" target="_blank">A level Examinations</a>.</p>
 <p>Read about <a href="https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/2025_Foo_Wen_Qi_Outstanding_Achievement.jpg" rel="noopener noreferrer nofollow" target="_blank">Foo Wen Qi</a> who
 achieved outstanding achievements in the area of animation and visual effects
 from NYP.</p>
