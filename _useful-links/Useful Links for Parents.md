@@ -46,6 +46,10 @@ variant: tiptap
 <p><a href="https://form.gov.sg/60f7c115f516090011db8018" rel="noopener noreferrer nofollow" target="_blank">Application Form for Leave of Absence</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Useful Links/UL Parents/2025_Work_notice_AMK_St_42_Closure.pdf" rel="noopener nofollow" target="_blank">Temporary Closure Of Ang Mo Kio (AMK) St 42 Access To And From AMK Ave 3</a>
+</p>
+</li>
 </ul>
 <h3>Academic Links:</h3>
 <ul>
