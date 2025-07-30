@@ -41,9 +41,6 @@ and making enduring memories.</p>
 <p>Mr Ler Kai Ming Gavin (AIC)</p>
 </li>
 <li>
-<p>Ms Ho Si Liang (AIC)</p>
-</li>
-<li>
 <p>Miss Bertha Kwok</p>
 </li>
 <li>
