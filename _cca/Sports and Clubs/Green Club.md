@@ -38,12 +38,6 @@ on the environment.</p>
 <li>
 <p>Mdm Quek Li Yi (Mrs Joanne Gan)</p>
 </li>
-<li>
-<p>Miss Tan Shu Fang Vion</p>
-</li>
-<li>
-<p>Mr Rahim Shukor</p>
-</li>
 </ul>
 <p></p>
 <p><strong>Weekly Schedule:</strong> 
