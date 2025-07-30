@@ -28,9 +28,7 @@ The team wanted to explore how the affordance of e-Pedagogy such as ArcGIS and S
 
 This e-pedagogical innovation uses ArcGIS to facilitate students’ collaborative efforts to collect weather data from 4 identified locations from around the school (i.e. the futsal court, driveway, school field and quadrangle) and present the consolidated data on a base map of the school. This helped students in the spatial visualisation of data and to make sense of spatial patterns observed.
 
-![2022 Innergy Awardees](/images/Achievements/2022_Innergy%20Awardees.jpeg)
-
-*Congratulations to the PLC team led by Mr Lim Jun Yu, with team members Mr&nbsp;Tan Yoke Jun Aloysius, Ms&nbsp;Lee Su-Min Jeanette,&nbsp;Ms Tan Boon Yen, Mr Freddy Goh and Ms Wong Kai Ping Eleanor, for winning the 2022 Innergy Bronze Award!*
+*Congratulations to the PLC team led by Mr Lim Jun Yu, with team members Ms&nbsp;Lee Su-Min Jeanette,&nbsp;Ms Tan Boon Yen, Mr Freddy Goh and Ms Wong Kai Ping Eleanor, for winning the 2022 Innergy Bronze Award!*
 
 ### 2019
 
