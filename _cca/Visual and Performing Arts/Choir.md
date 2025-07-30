@@ -35,11 +35,6 @@ achievement.</p>
 <br>
 </p>
 </li>
-<li>
-<p>Mr Yee Nam Siong
-<br>
-</p>
-</li>
 </ul>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday at 2.45 pm - 5.45 pm</p>
