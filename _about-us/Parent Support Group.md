@@ -10,6 +10,8 @@ Welcome to Deyi! &nbsp;&nbsp;
 
 Deyi’s PSG works closely with the school to provide a nurturing, wholesome environment for your child to learn the right values in life while gaining a positive mindset to help them work towards their aspirations confidently.
 
+<img style="width: 40%" height="auto" width="40%" alt="" src="/images/About%20Us/PSG/2025_PSG_Logo.jpg">
+
 We achieve this by:&nbsp;
 * promoting collaboration and communication between the school, parents and students;&nbsp;
 * supporting your child during school events and projects and contribute towards a holistic learning environment;
