@@ -47,8 +47,19 @@ of dragon boating, an activity that highlights teamwork, endurance, and
 cultural appreciation.</p>
 <p><strong>Highlights:</strong>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2024_ODAC_Pic2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">Trek to Woodlands Waterfront.</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2024_ODAC_Pic2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description">Trek to Woodlands Waterfront.</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2024_ODAC_Pic3.png">
@@ -57,10 +68,20 @@ cultural appreciation.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title"></div>
 <div class="isomer-card-description">Rest stop at AMK Ave 1 Market.</div>
-<div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2023 odac cover image.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">Trek to Railway Corridor.</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2023 odac cover image.jpeg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description">Trek to Railway Corridor.</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2024_ODAC_Pic4.png">
@@ -69,9 +90,19 @@ cultural appreciation.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title"></div>
 <div class="isomer-card-description">Laser Quest at Bukit Batok Spam Jom.</div>
-<div class="isomer-card-link"></div>
 </div>
-</a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/ODAC/2025_ODAC_TKD.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description">B Div Girls Poomsae Yellow 7: 1st, B Div Boys Poomsae Yellow 7: 3rd</div>
+</div>
+</div>
 </div>
 <p></p>
 <p></p>
