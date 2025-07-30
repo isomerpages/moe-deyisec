@@ -4,6 +4,7 @@ permalink: /about-us/parent-support-group/
 description: ""
 variant: markdown
 ---
+![](/images/About%20Us/PSG/2025_PSG_Logo.jpg)
 Dear Parents,&nbsp;
 
 Welcome to Deyi! &nbsp;&nbsp;
