@@ -82,37 +82,101 @@ of Our Heartlands (FOH) 2025</p>
 <li>
 <p>IgnITE Challenge ‘My Sustainabot!’ Finals 2023</p>
 </li>
+<li>
+<p></p>
+</li>
+<li>
+<p>HDB Community Day 2025</p>
+</li>
 </ul>
 <p></p>
 <p><strong>Highlights</strong>:</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">Green Talk</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-description">Green Talk</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic3.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
 <div class="isomer-card-description">Greenhouse Planting.</div>
-<div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">School Green Ambassadors trained by Green Club student leaders.</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic4.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-description">School Green Ambassadors trained by Green Club student leaders.</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic5.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
 <div class="isomer-card-description">Visit to CONMET@Teck Ghee AMK Family Service Centre to plant, socialise
 and present eco-friendly gifts to the elderly.</div>
-<div class="isomer-card-link"></div>
 </div>
-</a>
 </div>
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/Assembly_Green_Talk_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
