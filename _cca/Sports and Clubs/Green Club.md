@@ -93,44 +93,8 @@ of Our Heartlands (FOH) 2025</p>
 <p><strong>Highlights</strong>:</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic2.png">
-</div>
-</div>
 <div class="isomer-card-body">
-<div class="isomer-card-description">Green Talk</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic3.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-description">Greenhouse Planting.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic4.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-description">School Green Ambassadors trained by Green Club student leaders.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic5.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-description">Visit to CONMET@Teck Ghee AMK Family Service Centre to plant, socialise
-and present eco-friendly gifts to the elderly.</div>
+<div class="isomer-card-link"></div>
 </div>
 </div>
 </div>
@@ -153,7 +117,7 @@ and present eco-friendly gifts to the elderly.</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Assembly Green Talk</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -162,6 +126,9 @@ and present eco-friendly gifts to the elderly.</div>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/Advocating_E_waste_Management_at_SERVE_Carnival.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -169,7 +136,7 @@ and present eco-friendly gifts to the elderly.</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Advocating E-waste Management at SERVE Carnival</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
