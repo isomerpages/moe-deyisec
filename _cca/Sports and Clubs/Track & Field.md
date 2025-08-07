@@ -86,22 +86,21 @@ JIAQI)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Track and Field/2023/image1.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Track and Field/Megan_pose_with_Medal.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Track and Field/2023/image3.jpeg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Track and Field</p>
+<p>2025 C Girls Pole Vault Silver Medalist: Megan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 x 400m Race at National Stadium</p>
+<p>Pole Vaulting in action</p>
 </td>
 </tr>
 <tr>
@@ -122,6 +121,22 @@ JIAQI)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Training at Yio Chu Kang Stadium</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drills: Workouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
