@@ -46,6 +46,10 @@ variant: tiptap
 <p><a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">Student Self-Service Password Reset</a>
 </p>
 </li>
+<li>
+<p><a href="/files/CTA_2026_A3_Poster.pdf" rel="noopener nofollow" target="_blank">Caring Teacher Award 2026</a>
+</p>
+</li>
 </ul>
 <h4>Academic Links:</h4>
 <ul data-tight="true" class="tight">
