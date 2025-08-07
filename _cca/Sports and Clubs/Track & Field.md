@@ -43,6 +43,21 @@ is valued, and every achievement celebrated.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>National School Games 2025 C Girls Finals 2nd Position: Poh Rui Xuan Megan</p>
+</li>
+<li>
+<p>National School Games 2025 C Boys 4X100m Semi Finalist</p>
+</li>
+<li>
+<p>National School Games 2025 C Girls 4X100m Semi Finalist</p>
+</li>
+<li>
+<p>National School Games 2025 B Boys 4X100m Semi Finalist</p>
+</li>
+<li>
+<p>National School Games 2025 B Girls 4X100m Semi Finalist</p>
+</li>
+<li>
 <p>SSSC Sportsmanship Award (NSG 2023): ANISHA ZAHRA MOHAMED SULAIMAN</p>
 </li>
 <li>
@@ -61,23 +76,6 @@ JIAQI)</p>
 </li>
 <li>
 <p>National School Games 2023 B Boys 4X100m Semi Finalist</p>
-</li>
-<li>
-<p>National School Games 2022 B Boys 800m Finals: 3rd Position: Nicholas
-Koh Sheng Kai</p>
-</li>
-<li>
-<p>National School Games 2022 B Boys 1500m Finals: 5th Position: Nicholas
-Koh Sheng Kai</p>
-</li>
-<li>
-<p>National School Games 2022 B Boys 4X100m Semi Finalist</p>
-</li>
-<li>
-<p>National School Games 2022 B Girls 4X100m Semi Finalist</p>
-</li>
-<li>
-<p>National School Games 2022 C Girls 4X100m Semi Finalist</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
