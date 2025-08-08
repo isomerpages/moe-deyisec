@@ -77,27 +77,16 @@ of Our Heartlands (FOH) 2025</p>
 <p>HDB Community Day 2023</p>
 </li>
 <li>
-<p>HDB Friends of Our Heartlands Training Programme 2024</p>
-</li>
-<li>
 <p>IgnITE Challenge ‘My Sustainabot!’ Finals 2023</p>
 </li>
 <li>
-<p></p>
+<p>HDB Friends of Our Heartlands Training Programme 2024</p>
 </li>
 <li>
 <p>HDB Community Day 2025</p>
 </li>
 </ul>
-<p></p>
 <p><strong>Highlights</strong>:</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-link"></div>
-</div>
-</div>
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -108,11 +97,14 @@ of Our Heartlands (FOH) 2025</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/Assembly_Green_Talk_1.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/Assembly_Green_Talk_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/Friends_of_Heartlands_Platinum_Award.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -120,18 +112,21 @@ of Our Heartlands (FOH) 2025</p>
 <p>Assembly Green Talk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Friends of Heartlands Platinum Award</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/Advocating_E_waste_Management_at_SERVE_Carnival.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Advocating_E_waste_Management_at_SERVE_Carnival.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/Distribution_of_vegetables_at_Cheng_San_CC.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -139,7 +134,7 @@ of Our Heartlands (FOH) 2025</p>
 <p>Advocating E-waste Management at SERVE Carnival</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Distribution of vegetables at Cheng San RC Senior Citizens Corner</p>
 </td>
 </tr>
 </tbody>
