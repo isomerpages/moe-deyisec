@@ -47,23 +47,27 @@ on the environment.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Vanda Miss Joaquim Award 2022</p>
-</li>
-<li>
 <p>Yellow Flame Award 2023</p>
 </li>
 <li>
 <p>Gold for Friends of Our Heartlands Organisation Award 2023</p>
 </li>
 <li>
-<p>16 Green Club students were awarded the HDB Individual Silver Award for
-Friends of Our Heartlands (FOH) 2023</p>
+<p>16 Green Club students received HDB Individual Silver Award for Friends
+of Our Heartlands (FOH) 2023</p>
 </li>
 <li>
 <p>Singapore Green Award 2024 - Vanda Miss Joaquim Award</p>
 </li>
 <li>
 <p>Environment Fund for Schools (Top Tier) 2024</p>
+</li>
+<li>
+<p>14 Green Club students received HDB Individual Silver Award for Friends
+of Our Heartlands (FOH) 2025</p>
+</li>
+<li>
+<p>Platinum Award for Friends of Our Heartlands Organisation 2025</p>
 </li>
 </ul>
 <p><strong>Other Notable Activities:</strong>
@@ -73,42 +77,68 @@ Friends of Our Heartlands (FOH) 2023</p>
 <p>HDB Community Day 2023</p>
 </li>
 <li>
+<p>IgnITE Challenge ‘My Sustainabot!’ Finals 2023</p>
+</li>
+<li>
 <p>HDB Friends of Our Heartlands Training Programme 2024</p>
 </li>
 <li>
-<p>IgnITE Challenge ‘My Sustainabot!’ Finals 2023</p>
+<p>HDB Community Day 2025</p>
 </li>
 </ul>
-<p></p>
 <p><strong>Highlights</strong>:</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">Green Talk</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic3.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-<div class="isomer-card-description">Greenhouse Planting.</div>
-<div class="isomer-card-link"></div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">School Green Ambassadors trained by Green Club student leaders.</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic5.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-<div class="isomer-card-description">Visit to CONMET@Teck Ghee AMK Family Service Centre to plant, socialise
-and present eco-friendly gifts to the elderly.</div>
-<div class="isomer-card-link"></div>
-</div>
-</a>
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/Assembly_Green_Talk_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/Friends_of_Heartlands_Platinum_Award.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assembly Green Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friends of Heartlands Platinum Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Advocating_E_waste_Management_at_SERVE_Carnival.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/Distribution_of_vegetables_at_Cheng_San_CC.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Advocating E-waste Management at SERVE Carnival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distribution of vegetables at Cheng San RC Senior Citizens Corner</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
