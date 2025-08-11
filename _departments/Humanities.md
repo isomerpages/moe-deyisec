@@ -38,7 +38,7 @@ contexts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Humanities/2025_Sec_1_Water_Fieldwork.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/white_square_2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/white_square_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,9 +46,10 @@ contexts.</p>
 <br>As part of an interdisciplinary collaboration with the Deyi Biology Unit,
 Secondary 1 Geography students were introduced to the importance of water
 resource management by testing the water quality of the Bishan-Ang Mo Kio
-River. During their fieldwork, students also observed the diversity of
-aquatic species and learnt how water quality impacts the health of natural
-ecosystems.</p>
+River.</p>
+<p></p>
+<p>During their fieldwork, students also observed the diversity of aquatic
+species and learnt how water quality impacts the health of natural ecosystems.</p>
 </td>
 </tr>
 <tr>
@@ -62,9 +63,11 @@ ecosystems.</p>
 <p><strong>Sec 2 Housing Fieldwork in Ang Mo Kio</strong>
 <br>Infusing the use of ArcGIS technology, Secondary 2 Geography students
 worked collaboratively in groups to map out inclusive features and programmes
-in the Teck Ghee and Chong Boon neighbourhoods. Through this fieldwork
-experience, students gained a deeper appreciation of the need to design
-neighbourhood spaces that cater to residents of all ages and physical abilities.</p>
+in the Teck Ghee and Chong Boon neighbourhoods.</p>
+<p></p>
+<p>Through this fieldwork experience, students gained a deeper appreciation
+of the need to design neighbourhood spaces that cater to residents of all
+ages and physical abilities.</p>
 </td>
 </tr>
 <tr>
@@ -77,9 +80,11 @@ neighbourhood spaces that cater to residents of all ages and physical abilities.
 <td rowspan="1" colspan="1">
 <p><strong>Scarce City Learning Journey to National Gallery (for Sec 3 Geography students)</strong>
 <br>Scarce City is an exhibition that blends immersive theatre with interactive
-gameplay. Through this engaging experience, Secondary 3 Geography students
-explored the importance of sustainable development and reflected on how
-they can make informed decisions to support environmental conservation.</p>
+gameplay.</p>
+<p></p>
+<p>Through this engaging experience, Secondary 3 Geography students explored
+the importance of sustainable development and reflected on how they can
+make informed decisions to support environmental conservation.</p>
 </td>
 </tr>
 <tr>
@@ -92,9 +97,11 @@ they can make informed decisions to support environmental conservation.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Fieldwork on Tourism at Kampong Glam (for Sec 3 Pure Geography students)</strong>
 <br>Extended Fieldwork is a crucial component in the geography syllabus. Students
-will learn how to conduct research on the topic of Tourism. This learning
-journey will provide students with an authentic experience of carrying
-out the geographical fieldwork methods with tourists in Kampong Glam.</p>
+will learn how to conduct research on the topic of Tourism.</p>
+<p></p>
+<p>This learning journey will provide students with an authentic experience
+of carrying out the geographical fieldwork methods with tourists in Kampong
+Glam.</p>
 </td>
 </tr>
 <tr>
@@ -109,9 +116,11 @@ out the geographical fieldwork methods with tourists in Kampong Glam.</p>
 <br>As part of efforts to introduce authentic learning in the Singapore Cluster,
 the learning journey to the Singapore City Gallery provided Secondary 4
 Pure Geography students with an opportunity to explore how sustainable
-urban development is implemented in Singapore. Through guided inquiry,
-students gained insights into the importance of integrated master planning
-and how sustainability is embedded in urban planning processes.</p>
+urban development is implemented in Singapore.</p>
+<p></p>
+<p>Through guided inquiry, students gained insights into the importance of
+integrated master planning and how sustainability is embedded in urban
+planning processes.</p>
 </td>
 </tr>
 <tr>
@@ -125,11 +134,12 @@ and how sustainability is embedded in urban planning processes.</p>
 <p><strong>Celebrating Biodiversity during Deyi Biodiversity</strong>
 <br>In collaboration with the Deyi Biology Unit and Green Club, a series of
 learning activities was organised to deepen students’ appreciation of Singapore’s
-natural environment. During Biodiversity Week, Green Ambassadors engaged
-fellow Deyians by sharing fun facts about local biodiversity and highlighting
-wildlife conservation efforts. In addition, Secondary 3 Geography students
-conducted a school-wide assembly to raise awareness about the significance
-of mangrove ecosystems.</p>
+natural environment.</p>
+<p></p>
+<p>During Biodiversity Week, Green Ambassadors engaged fellow Deyians by
+sharing fun facts about local biodiversity and highlighting wildlife conservation
+efforts. In addition, Secondary 3 Geography students conducted a school-wide
+assembly to raise awareness about the significance of mangrove ecosystems.</p>
 </td>
 </tr>
 </tbody>
