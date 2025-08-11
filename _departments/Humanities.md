@@ -50,6 +50,7 @@ River.</p>
 <p></p>
 <p>During their fieldwork, students also observed the diversity of aquatic
 species and learnt how water quality impacts the health of natural ecosystems.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -68,6 +69,7 @@ in the Teck Ghee and Chong Boon neighbourhoods.</p>
 <p>Through this fieldwork experience, students gained a deeper appreciation
 of the need to design neighbourhood spaces that cater to residents of all
 ages and physical abilities.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -85,6 +87,7 @@ gameplay.</p>
 <p>Through this engaging experience, Secondary 3 Geography students explored
 the importance of sustainable development and reflected on how they can
 make informed decisions to support environmental conservation.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -102,6 +105,7 @@ will learn how to conduct research on the topic of Tourism.</p>
 <p>This learning journey will provide students with an authentic experience
 of carrying out the geographical fieldwork methods with tourists in Kampong
 Glam.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -121,6 +125,7 @@ urban development is implemented in Singapore.</p>
 <p>Through guided inquiry, students gained insights into the importance of
 integrated master planning and how sustainability is embedded in urban
 planning processes.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -140,6 +145,7 @@ natural environment.</p>
 sharing fun facts about local biodiversity and highlighting wildlife conservation
 efforts. In addition, Secondary 3 Geography students conducted a school-wide
 assembly to raise awareness about the significance of mangrove ecosystems.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
