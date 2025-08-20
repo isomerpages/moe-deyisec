@@ -70,7 +70,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/subjcalc" rel="noopener nofollow" target="_blank">Sec 3 Subject Options Calculator</a>
+<p><a href="https://go.gov.sg/subjectoptionscal" rel="noopener nofollow" target="_blank">Sec 3 Subject Options Calculator</a>
 </p>
 </li>
 </ul>
