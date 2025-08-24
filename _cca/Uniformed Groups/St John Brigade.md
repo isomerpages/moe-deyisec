@@ -77,7 +77,7 @@ Nursing Cadet Team (2025) - Best in CPR</p>
 Nursing Cadet Team (2025) - Overall 2nd Runner-Up</p>
 </li>
 <li>
-<p>4 students received Chief Commissioner's Recipients (2025)</p>
+<p>4 cadets received Chief Commissioner's Recipients (2025)</p>
 </li>
 <li>
 <p>2 cadets graduated from National Basic Drill Instructor Course (2025)</p>
