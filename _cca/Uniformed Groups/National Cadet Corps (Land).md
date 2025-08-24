@@ -34,7 +34,10 @@ journey of personal growth and community service.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Unit Recognition Award: Distinction (2023)</p>
+<p>Unit Recognition Award: Distinction (2025)</p>
+</li>
+<li>
+<p>Outstanding Cadet Award (2025)</p>
 </li>
 <li>
 <p>Deyi CCA Carnival Parade</p>
@@ -44,6 +47,9 @@ journey of personal growth and community service.</p>
 </li>
 <li>
 <p>Deyi Speech Day PDS Performance</p>
+</li>
+<li>
+<p>NCC Sports Championship (2025) Football - Champion</p>
 </li>
 <li>
 <p>Central District PDS Basic Course Trainer</p>
