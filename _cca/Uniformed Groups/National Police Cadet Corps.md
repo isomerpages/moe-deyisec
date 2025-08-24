@@ -49,7 +49,7 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 </p>
 </li>
 <li>
-<p>Best Unit Cadet Award (2023)
+<p>Best Unit Cadet Award (2025)
 <br>
 </p>
 </li>
