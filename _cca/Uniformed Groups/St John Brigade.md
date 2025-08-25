@@ -32,7 +32,7 @@ in their future endeavors.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr. Chang Seow Kuen (OIC)
+<p>Mr Chang Seow Kuen (OIC)
 <br>
 </p>
 </li>
@@ -62,8 +62,22 @@ in their future endeavors.</p>
 <p>Corp Achievement Award: Gold (2013-2020, 2023)</p>
 </li>
 <li>
-<p>2nd Runner-Up for District First Aid Competition (Nursing Cadet Team Category)
-(2025)</p>
+<p>Corp Achievement Award: Silver (2024)</p>
+</li>
+<li>
+<p>District First Aid Competition (Nursing Cadet Team Category) (2025) -
+2nd Runner-Up</p>
+</li>
+<li>
+<p>District &amp; National First Aid and Home Nursing Competition - District
+Nursing Cadet Team (2025) - Best in CPR</p>
+</li>
+<li>
+<p>District &amp; National First Aid and Home Nursing Competition - District
+Nursing Cadet Team (2025) - Overall 2nd Runner-Up</p>
+</li>
+<li>
+<p>4 cadets received Chief Commissioner's Recipients (2025)</p>
 </li>
 <li>
 <p>2 cadets graduated from National Basic Drill Instructor Course (2025)</p>

@@ -39,17 +39,17 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Distinction Award for Unit Overall Proficiency Award (2022)
+<p>Distinction Award for Unit Overall Proficiency Award (2025)
 <br>
 </p>
 </li>
 <li>
-<p>SPF-NPCC Badge Award (2023)
+<p>SPF-NPCC Badge Award (2025)
 <br>
 </p>
 </li>
 <li>
-<p>Best Unit Cadet Award (2023)
+<p>Best Unit Cadet Award (2025)
 <br>
 </p>
 </li>
