@@ -58,6 +58,18 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="/files/Useful Links/UL Parents/2025_EOY_Exam_Timetable_Sec__1.pdf" rel="noopener nofollow" target="_blank">End of Year Sec 1 Exam Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/UL Parents/2025_EOY_Exam_Timetable_Sec__2.pdf" rel="noopener nofollow" target="_blank">End of Year Sec 2 Exam Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/UL Parents/2025_EOY_Exam_Timetable_Sec__3.pdf" rel="noopener nofollow" target="_blank">End of Year Sec 3 Exam Timetable</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Useful Links/UL Parents/Prelim_Exam_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">Preliminary Examination Timetable</a>
 </p>
 </li>
