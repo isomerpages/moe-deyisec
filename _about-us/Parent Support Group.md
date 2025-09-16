@@ -55,37 +55,37 @@ well as the latest PSG news via the class WhatsApp chat groups! You can
 also reach us at our email&nbsp;<a href="mailto:deyisspsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">deyisspsg@gmail.com</a>.</p>
 <p>Our wish for you and your child is to have a memorable learning journey
 at Deyi Secondary School. And remember:&nbsp;</p>
-<p><strong> “Your children need your presence more than your presents,” </strong>
+<p><strong>“Your children need your presence more than your presents,” </strong>
 <br>- Jesse Jackson</p>
 <p>Thank you,
 <br>&nbsp;Deyi PSG Executive Committee</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/About%20Us/PSG/2024_yu_sheng_prep.jpg">
 </div>
-<p><strong> CNY Yu Sheng Preparation</strong>
+<p><strong>CNY Yu Sheng Preparation</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/About%20Us/PSG/2024_psg_group_yusheng_prep_.jpg">
 </div>
-<p><strong> PSG (Group) CNY Yu Sheng Preparation</strong>
+<p><strong>PSG (Group) CNY Yu Sheng Preparation</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/cny%20charity%20hamper%20delivery.jpeg">
 </div>
-<p><strong> Charity Hamper Delivery Run</strong>
+<p><strong>Charity Hamper Delivery Run</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/online%20zoom%20talk.jpg">
 </div>
-<p><strong> Online Parenting Talks/Seminars</strong>
+<p><strong>Online Parenting Talks/Seminars</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/Racial%20Harmony%20Day.jpeg">
 </div>
-<p><strong> Online Parenting Talks/Seminars</strong>
+<p><strong>Online Parenting Talks/Seminars</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/dininginthedarkphoto.jpeg">
 </div>
-<p><strong> PSG Family Outings</strong>
+<p><strong>PSG Family Outings</strong>
 </p>
