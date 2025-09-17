@@ -11,7 +11,7 @@ with the articulation of curricular outcomes to guide the development of
 these strategies.</p>
 <h5>AC<sup>3</sup>TIve Learning Framework</h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/framework.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/AC3TIve_Learning_Framework.jpg">
 </div>
 <h4>Teaching &amp; Learning Philosophy</h4>
 <p>The framework is premised on Prof David Jonanssen’s (1995, 2005, 2013)
