@@ -9,7 +9,7 @@ guides the process of teaching and learning and is in tandem with the educationa
 focus of promoting a student-centric values-driven holistic education,
 with the articulation of curricular outcomes to guide the development of
 these strategies.</p>
-<h5>AC3TIVE Learning Framework</h5>
+<h5>AC<sup>3</sup>TIVE Learning Framework</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/framework.png">
 </div>
