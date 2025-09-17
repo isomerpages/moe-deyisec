@@ -74,8 +74,10 @@ at Deyi Secondary School. And remember:&nbsp;</p>
 </div>
 <p><strong>Online Parenting Talks/Seminars</strong>
 </p>
-<p></p>
-<p><strong>Online Parenting Talks/Seminars</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/PSG/2025_PSG_photo.jpg">
+</div>
+<p><strong>Parents' Day Appreciation: Coaster-making</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/dininginthedarkphoto.jpeg">
