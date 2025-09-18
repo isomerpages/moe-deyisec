@@ -70,19 +70,14 @@ at Deyi Secondary School. And remember:&nbsp;</p>
 <p><strong>PSG (Group) CNY Yu Sheng Preparation</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cny%20charity%20hamper%20delivery.jpeg">
-</div>
-<p><strong>Charity Hamper Delivery Run</strong>
-</p>
-<div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/online%20zoom%20talk.jpg">
 </div>
 <p><strong>Online Parenting Talks/Seminars</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/Racial%20Harmony%20Day.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/PSG/2025_PSG_photo.jpg">
 </div>
-<p><strong>Online Parenting Talks/Seminars</strong>
+<p><strong>Parents' Day Appreciation: Coaster-making</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/dininginthedarkphoto.jpeg">
