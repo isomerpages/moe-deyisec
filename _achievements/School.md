@@ -84,7 +84,7 @@ to maintain Deyi Secondary as a Green school.</p>
 <img style="width:70%" height="auto" width="100%" src="/images/lotus%20achievement%202017.jpg">
 </div>
 <p>Deyi Secondary attained the Lotus Sustained Achievement award in 2017
-after attaining 3 consecutive years of Lotus Award.&nbsp;Content</p>
+after attaining 3 consecutive years of Lotus Award.&nbsp;</p>
 <h3>2016</h3>
 <p><strong>National Arts Education Award 2015 to 2019</strong>
 </p>
@@ -105,6 +105,5 @@ in the arts.</p>
 for the achievement the school was awarded the&nbsp;<strong>Lotus Sustained Achievement Award</strong>.
 Deyi carried out school environmental projects and participated in environmental
 education activities in partnership with external organisations and the&nbsp;neighboring&nbsp;community
-to promote Singapore’s sustainability &nbsp; &nbsp;</p>
-<h3></h3>
-<p>management.</p>
+to promote Singapore’s sustainability management.</p>
+<p></p>

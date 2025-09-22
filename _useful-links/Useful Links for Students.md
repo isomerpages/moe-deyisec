@@ -77,7 +77,7 @@ variant: tiptap
 <h4>Holistic Education Links:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.sportsingapore.gov.sg/sports-education/sports-safety" rel="noopener noreferrer nofollow" target="_blank">Sports Safety</a>
+<p><a href="https://www.sportsingapore.gov.sg/sport-education/sports-safety/safety-resources-and-useful-links/" rel="noopener noreferrer nofollow" target="_blank">Sports Safety</a>
 </p>
 </li>
 <li>
