@@ -110,11 +110,9 @@ Students need to exercise self-discipline, integrity and care when using their m
 
 	(i)\. The mobile phone must be switched off during curriculum time. Putting the phone in silent mode will not suffice as it will still serve as a potential major distraction to students. 
 	
-	(ii)\. The use of mobile phone is confined to the&nbsp;_4_&nbsp;designated areas for the whole day.&nbsp;This will be&nbsp;in force the moment the student arrives in school.
-	* Area 1: Canteen&nbsp;&nbsp;
-	* Area 2: Sports Area (courts, fitness area and indoor sports area)&nbsp;
-	* Area 3: Study Pavillion&nbsp;
-	* Area 4: Foyer
+	(ii)\. The use of mobile phone is confined to the 2 designated areas for the whole day. This will be <u>in force the moment the student arrives in school</u>.
+	* Area 1: Foyer Area
+	* Area 2: Resting Area opposite Blk C toilets
     	
 	(iii)\. The mobile phone <u>must not be used to take photos or videos in school</u>, unless permission is given by the school authorities.
 
@@ -122,9 +120,9 @@ Students need to exercise self-discipline, integrity and care when using their m
 
 		(i)\. The mobile phone inclusive of sim card will be retained by the school for 1 week for 1st&nbsp;violation of mobile phone rules, 2 weeks for 2nd&nbsp;violation and 3 weeks for 3rd&nbsp;violation.
 
-		2\. Parent/Guardian is required to collect the mobile phone inclusive of sim card personally&nbsp;after&nbsp;<u>1 week</u> for the 1st violation, 2 weeks for 2nd violation and 3 weeks for 3rd violation.
+		(ii)\. Parent/Guardian is required to collect the mobile phone inclusive of sim card personally&nbsp;after&nbsp;<u>1 week</u> for the 1st violation, 2 weeks for 2nd violation and 3 weeks for 3rd violation.
 
-		3\. _Recalcitrant offenders will have the privilege to bring mobile phone to school&nbsp;<u>withdrawn.</u>_
+		(iii)\. _Recalcitrant offenders will have the privilege to bring mobile phone to school&nbsp;<u>withdrawn.</u>_
 		
 * Please take note that the students are responsible for their own mobile phone.&nbsp;The school will not be held responsible for any loss or theft of the mobile phone.
 
