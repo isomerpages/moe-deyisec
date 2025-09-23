@@ -46,7 +46,7 @@ School rules apply within the school premises at all times and during school fun
 
 Sales of School Uniforms
 School uniforms are available for sale:
-1.  online via https://shop.shanghai-uniforms.com/product-category/deyi-secondary/ ,
+1.  online via [https://shanghai-uniforms.sg/shop/category/deyi-secondary-106](https://shanghai-uniforms.sg/shop/category/deyi-secondary-106),
 2.  at the school bookshop during term time,
 3.  at Shanghai School Uniforms Pte Ltd at 63 Ubi Ave 1, #04-09 63@Ubi, (S) 408937
 
