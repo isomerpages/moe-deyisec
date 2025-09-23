@@ -21,7 +21,7 @@ School rules apply within the school premises at all times and during school fun
 **(b) PE &amp; CCA Attire**
 * All students must wear the school PE attire during PE lessons.
 * After the PE lesson, students are to change into their school uniform and only do so during recess.
-* After recess, all students must be in their full school uniform. However, for students who have their PE lesson after recess, they are not required to change into their school uniform. (Note: Students will need to be in their full school uniform with tie when attending assemblies in the hall on Tuesdays and Thursdays.)
+* After recess, all students must be in their full school uniform. However, for students who have their PE lesson after recess, they are not required to change into their school uniform.
 * All students must be in their appropriate PE/CCA attire when reporting and participating in their CCA activities.
 
 ![School Rules Uniform Lower Sec Boys](/images/About%20Us/Our%20School/2023_Sch_Rules_Uniform_Lower_Sec_Boy.png)
