@@ -16,7 +16,7 @@ School rules apply within the school premises at all times and during school fun
 * Should students need to wear either a jacket, cardigan or pullover, it must be dark/white colour (i.e. blue, black, grey and white). Please note that there should not be any&nbsp;_large_&nbsp;logos of brands, advertisements or designs on them.&nbsp;
 * Students must wear plain white socks with white colour shoes that may have simple, dark/white coloured patterns/logos (i.e. blue, black, grey and white). The inner lining should be lightly coloured (i.e. white, light grey, etc).
 * Wearing sandals or flip-flops is permissible&nbsp;<u>only when accompanied by medical reasons</u>. In such cases, students must produce a medical certificate or report.
-* Students must wear&nbsp;the school tie on Tuesdays or Thursdays during School Assembly and stipulated school functions.
+* Students must wear the school tie for morning, hall assemblies and stipulated school functions.
 
 **(b) PE &amp; CCA Attire**
 * All students must wear the school PE attire during PE lessons.
