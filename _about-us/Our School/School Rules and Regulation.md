@@ -103,7 +103,7 @@ School uniforms are available for sale:
 * All students will assemble and be dismissed in a quiet and orderly manner under the supervision of the Discipline and Form Teachers.
 
 **4.&nbsp;&nbsp;&nbsp;&nbsp;USE OF MOBILE PHONES**&nbsp;<br>
-Students need to exercise self-discipline, integrity and care when using their mobile phone.
+Students need to exercise self-discipline, integrity and care when using their mobile phone. Students will seek to maintain a balanced lifestyle between offline and online activities whilst embracing the affordances of technology.
 * Students are to use their mobile phones in a&nbsp;<u>socially responsible&nbsp;manner.</u> All content shared and communicated via the mobile phone should be respectful, considerate and appropriate&nbsp;<u>towards others.</u>
 * Students are allowed to bring their mobile phones to school under the following&nbsp;conditions:
 
