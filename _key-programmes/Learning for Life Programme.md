@@ -32,7 +32,11 @@ remarkable talents but also became a testament to the profound impact of
 the arts on our lives. Amidst the celebratory atmosphere, the event served
 as a poignant reminder of how the arts, in their myriad forms, possess
 the unique ability to enrich and elevate our experiences.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -48,7 +52,11 @@ the unique ability to enrich and elevate our experiences.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -72,7 +80,12 @@ class took part to showcase their unique talent. In Category B, the contestants
 faced fierce competitions during the auditions and the finals. We are proud
 to present the winners from Deyi’s Got Talent - Category A and B, congratulations
 and hope to see you next year!</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -111,7 +124,12 @@ of the Arts. Students are equipped with knowledge, skills and dispositions
 needed in their pursuit of educational and career pathways in the arts.
 To also reinforce character building and to explore post-secondary pathways
 by having real time and connection with artists from various arts forms.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -155,12 +173,17 @@ themselves in thought-provoking and engaging performances. (Sec 2 Dance
 Programme, Values-in-Art and Learning Journeys to Esplanade and Wild Rice
 for Music Backstage Tour, Into the Woods, Mosaic, An Inspector Calls Theatre
 Show, and Brahms190 Music Concert etc.)</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4h.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,38 +214,6 @@ Show, and Brahms190 Music Concert etc.)</p>
 </div>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4g.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4h.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4i.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4j.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4k.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>Arts Ambassador Programme (AAP)</strong>&nbsp;
@@ -234,7 +225,12 @@ Ambassadors get to bring creative ideas and support for our Learning for
 Life Programme. They are leaders who lead and collaborate meaningfully
 with their peers, creating a vibrant arts culture, bringing arts in Deyi
 to new heights!</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">

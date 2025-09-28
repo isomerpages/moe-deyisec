@@ -16,12 +16,12 @@ School rules apply within the school premises at all times and during school fun
 * Should students need to wear either a jacket, cardigan or pullover, it must be dark/white colour (i.e. blue, black, grey and white). Please note that there should not be any&nbsp;_large_&nbsp;logos of brands, advertisements or designs on them.&nbsp;
 * Students must wear plain white socks with white colour shoes that may have simple, dark/white coloured patterns/logos (i.e. blue, black, grey and white). The inner lining should be lightly coloured (i.e. white, light grey, etc).
 * Wearing sandals or flip-flops is permissible&nbsp;<u>only when accompanied by medical reasons</u>. In such cases, students must produce a medical certificate or report.
-* Students must wear&nbsp;the school tie on Tuesdays or Thursdays during School Assembly and stipulated school functions.
+* Students must wear the school tie for morning, hall assemblies and stipulated school functions.
 
 **(b) PE &amp; CCA Attire**
 * All students must wear the school PE attire during PE lessons.
 * After the PE lesson, students are to change into their school uniform and only do so during recess.
-* After recess, all students must be in their full school uniform. However, for students who have their PE lesson after recess, they are not required to change into their school uniform. (Note: Students will need to be in their full school uniform with tie when attending assemblies in the hall on Tuesdays and Thursdays.)
+* After recess, all students must be in their full school uniform. However, for students who have their PE lesson after recess, they are not required to change into their school uniform.
 * All students must be in their appropriate PE/CCA attire when reporting and participating in their CCA activities.
 
 ![School Rules Uniform Lower Sec Boys](/images/About%20Us/Our%20School/2023_Sch_Rules_Uniform_Lower_Sec_Boy.png)
@@ -46,7 +46,7 @@ School rules apply within the school premises at all times and during school fun
 
 Sales of School Uniforms
 School uniforms are available for sale:
-1.  online via https://shop.shanghai-uniforms.com/product-category/deyi-secondary/ ,
+1.  online via [https://shanghai-uniforms.sg/shop/category/deyi-secondary-106](https://shanghai-uniforms.sg/shop/category/deyi-secondary-106),
 2.  at the school bookshop during term time,
 3.  at Shanghai School Uniforms Pte Ltd at 63 Ubi Ave 1, #04-09 63@Ubi, (S) 408937
 
@@ -103,18 +103,16 @@ School uniforms are available for sale:
 * All students will assemble and be dismissed in a quiet and orderly manner under the supervision of the Discipline and Form Teachers.
 
 **4.&nbsp;&nbsp;&nbsp;&nbsp;USE OF MOBILE PHONES**&nbsp;<br>
-Students need to exercise self-discipline, integrity and care when using their mobile phone.
+Students need to exercise self-discipline, integrity and care when using their mobile phone. Students will seek to maintain a balanced lifestyle between offline and online activities whilst embracing the affordances of technology.
 * Students are to use their mobile phones in a&nbsp;<u>socially responsible&nbsp;manner.</u> All content shared and communicated via the mobile phone should be respectful, considerate and appropriate&nbsp;<u>towards others.</u>
 * Students are allowed to bring their mobile phones to school under the following&nbsp;conditions:
 
 
 	(i)\. The mobile phone must be switched off during curriculum time. Putting the phone in silent mode will not suffice as it will still serve as a potential major distraction to students. 
 	
-	(ii)\. The use of mobile phone is confined to the&nbsp;_4_&nbsp;designated areas for the whole day.&nbsp;This will be&nbsp;in force the moment the student arrives in school.
-	* Area 1: Canteen&nbsp;&nbsp;
-	* Area 2: Sports Area (courts, fitness area and indoor sports area)&nbsp;
-	* Area 3: Study Pavillion&nbsp;
-	* Area 4: Foyer
+	(ii)\. The use of mobile phone is confined to the 2 designated areas for the whole day. This will be <u>in force the moment the student arrives in school</u>.
+	* Area 1: Foyer Area
+	* Area 2: Resting Area opposite Blk C toilets
     	
 	(iii)\. The mobile phone <u>must not be used to take photos or videos in school</u>, unless permission is given by the school authorities.
 
@@ -122,9 +120,9 @@ Students need to exercise self-discipline, integrity and care when using their m
 
 		(i)\. The mobile phone inclusive of sim card will be retained by the school for 1 week for 1st&nbsp;violation of mobile phone rules, 2 weeks for 2nd&nbsp;violation and 3 weeks for 3rd&nbsp;violation.
 
-		2\. Parent/Guardian is required to collect the mobile phone inclusive of sim card personally&nbsp;after&nbsp;<u>1 week</u> for the 1st violation, 2 weeks for 2nd violation and 3 weeks for 3rd violation.
+		(ii)\. Parent/Guardian is required to collect the mobile phone inclusive of sim card personally&nbsp;after&nbsp;<u>1 week</u> for the 1st violation, 2 weeks for 2nd violation and 3 weeks for 3rd violation.
 
-		3\. _Recalcitrant offenders will have the privilege to bring mobile phone to school&nbsp;<u>withdrawn.</u>_
+		(iii)\. _Recalcitrant offenders will have the privilege to bring mobile phone to school&nbsp;<u>withdrawn.</u>_
 		
 * Please take note that the students are responsible for their own mobile phone.&nbsp;The school will not be held responsible for any loss or theft of the mobile phone.
 
