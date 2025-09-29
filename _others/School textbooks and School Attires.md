@@ -17,6 +17,6 @@ Website:&nbsp;[http://www.pacificbookstores.com/](http://www.pacificbookstores.c
 Outlet Address:&nbsp;&nbsp;Shanghai School Uniforms Pte Ltd  
 63 Ubi Ave 1 , #04-01  <br>
 63@Ubi  Singapore 408937<br>  
-Website:[https://shop.shanghai-uniforms.com/product-category/deyi-secondary/](https://shop.shanghai-uniforms.com/product-category/deyi-secondary/)&nbsp;  
+Website:[https://shanghai-uniforms.sg/shop/category/deyi-secondary-106](https://shanghai-uniforms.sg/shop/category/deyi-secondary-106) <br>
 Operating Hours: Mon-Sat, 10am - 6pm (Lunch break 1-2pm)  
 Close on Sun, Public Holidays
