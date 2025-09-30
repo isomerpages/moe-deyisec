@@ -38,10 +38,10 @@ of science through immersive and authentic learning experiences.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_1.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2025_Salis_Science_Dept.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lower Sec Science Problem Based Learning Project </strong>
@@ -51,6 +51,7 @@ science and technology.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_2.png">
 </div>
@@ -63,6 +64,7 @@ Science Centre.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_3.png">
 </div>
@@ -75,6 +77,7 @@ and vertical farming systems in our sustainability education.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_Science_pic_4.png">
 </div>
