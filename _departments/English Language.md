@@ -15,17 +15,21 @@ ongoing professional learning with the English Language Institute of Singapore
 is integrated into the English Department's workplan. The English language
 and Literature teachers believe in harnessing the 21st century e-pedagogies
 of multiliteracies and metacognition to enliven and strengthen teaching.
-Visible thinking approaches like text annotation and Padlet (a web 2.0
-tool) are also utilised. As a pilot FSBB school where students offer more
-demanding subjects like English, Differentiated Instruction (DI) is also
-a classroom approach used by our teachers to support learning. Our teachers
-are also continuing their collaboration with Principal Master Teacher,
-Cedric Leong from ELIS/AST, to explore the use of Artificial Intelligence
-(AI) writing tools, as well as the adoption of metacognitive strategies
-to enhance our students' multimodal journalism artefacts (Writing and Representing).</p>
-<p><strong>Key Programmes: </strong>
+Visible thinking approaches like text annotation and Padlet are also utilised.
+As a pilot FSBB school where students offer more demanding subjects like
+English, Differentiated Instruction (DI) is also a classroom approach used
+by our teachers to support learning. Our teachers are also continuing their
+collaboration with Principal Master Teacher, Cedric Leong from ELIS/AST,
+to explore the use of Artificial Intelligence (AI) writing tools, as well
+as the adoption of metacognitive strategies to enhance our students' multimodal
+journalism artefacts (Writing and Representing).</p>
+<p><strong>Key Programmes:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -41,12 +45,9 @@ infographics and social issues videos.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Competitions / Achievements: </strong>
+<p><strong>Competitions / Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Value-added in 2020’s GCE NT, NA &amp; O-Levels for English Language.</p>
-</li>
 <li>
 <p>Students showcasing multimodal Writing and Representing digital artefacts
 using digital tools and apps like Padlet, Notion, Kinemaster, TikTok, and
@@ -57,9 +58,13 @@ Canva.</p>
 (MOE/ELIS) culminating in sharing at both cluster and national levels.</p>
 </li>
 </ul>
-<p><strong>Highlights: </strong>
+<p><strong>Highlights:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
