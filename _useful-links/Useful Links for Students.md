@@ -50,6 +50,10 @@ variant: tiptap
 <p><a href="/files/CTA_2026_A3_Poster.pdf" rel="noopener nofollow" target="_blank">Caring Teacher Award 2026</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Useful Links/UL Students/School_Holiday_Kit_pdf.pdf" rel="noopener nofollow" target="_blank">The Cool Down Kit(Your guide to stay well during the holidays)</a>
+</p>
+</li>
 </ul>
 <h4>Academic Links:</h4>
 <ul data-tight="true" class="tight">

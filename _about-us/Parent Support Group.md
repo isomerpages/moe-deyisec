@@ -59,6 +59,13 @@ at Deyi Secondary School. And remember:&nbsp;</p>
 <br>- Jesse Jackson</p>
 <p>Thank you,
 <br>&nbsp;Deyi PSG Executive Committee</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/PSG/2025_Interview_Tote_Board.png">
+</div>
+<p><strong>Interview with PSG Chairperson (credit: Tote Board)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/About%20Us/PSG/2024_yu_sheng_prep.jpg">
 </div>
