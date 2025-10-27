@@ -24,6 +24,12 @@ sections:
       size: md
       alignment: right
       backgroundColor: white
+  - infopic:
+      title: Deyi Open House
+      id: infopic
+      description: 29 November 2025
+      image: /images/Main Page (Announcements)/2025_Open_House_Infopic.jpg
+      alt: Image alt text
   - resources:
       title: DEYI MEDIA
       button: more

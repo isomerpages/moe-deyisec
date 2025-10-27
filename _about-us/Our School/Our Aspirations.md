@@ -3,11 +3,12 @@ title: Our Aspirations
 permalink: /about-us/our-school/our-aspirations/
 description: ""
 third_nav_title: Our School
+variant: markdown
 ---
 <center> <i> TODAY I AM PROUD TO BE A DEYIAN. <br>
 	TOMORROW DEYI WILL BE PROUD OF ME. </i></center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N24_3dnBFwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Deyi Secondary School Art Fiesta 2025" src="https://www.youtube.com/embed/ZPx6ozajc1M" height="457" width="813"></iframe>
 
 Deyi is about our people.
 
