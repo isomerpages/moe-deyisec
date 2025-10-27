@@ -8,7 +8,7 @@ variant: markdown
 <center> <i> TODAY I AM PROUD TO BE A DEYIAN. <br>
 	TOMORROW DEYI WILL BE PROUD OF ME. </i></center>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Deyi Secondary School Art Fiesta 2025" src="https://www.youtube.com/embed/ZPx6ozajc1M" height="687" width="1221"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Deyi Secondary School Art Fiesta 2025" src="https://www.youtube.com/embed/ZPx6ozajc1M" height="457" width="813"></iframe>
 
 Deyi is about our people.
 
