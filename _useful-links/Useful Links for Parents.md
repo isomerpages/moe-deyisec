@@ -23,6 +23,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://drive.google.com/drive/folders/1C4vs09QxW1ngdVcUJ-kSrK2Dz1I_kPKo?usp=sharing" rel="noopener nofollow" target="_blank">Camp Information</a>
+</p>
+</li>
+<li>
 <p><a href="https://staging.d3sil9pzbw3lij.amplifyapp.com/others/school-group-student-protection-plan-claim-procedure-schools" rel="noopener noreferrer nofollow" target="_blank">School Group Student Protection Plan Claim Procedure (Schools)</a>
 </p>
 </li>
