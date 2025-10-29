@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/drive/folders/1C4vs09QxW1ngdVcUJ-kSrK2Dz1I_kPKo?usp=sharing" rel="noopener nofollow" target="_blank">Camp Information</a>
+<p><a href="https://drive.google.com/drive/folders/1C4vs09QxW1ngdVcUJ-kSrK2Dz1I_kPKo?usp=sharing" rel="noopener nofollow" target="_blank">Level Camp Information (Sec 1 - 5)</a>
 </p>
 </li>
 <li>
