@@ -64,10 +64,9 @@ School uniforms are available for sale:
 	* Wearing all forms of jewellery and accessories, e.g. caps, piercings (eg: nose and tongue), necklaces, bracelets and rings.
 	* Cosmetic attractions to any facial features, e.g: slits in eyebrows.
 
-#### APPROPRIATE HAIRSTYLES FOR BOYS
+**(i) APPROPRIATE HAIRSTYLES AND APPEARANCE FOR BOYS**
 ![School. Rules Hairstyle Boys](/images/About%20Us/Our%20School/2023_Sch_Rules_hairstyle_boy.png)
 
-**(i)&nbsp;&nbsp;Boys**
 * Hair must be short; back with a slope.
 * Hair must not cover the ear and the fringes are not to touch the&nbsp;eyebrows.
 * Hair must not be tinted or dyed.
@@ -75,8 +74,9 @@ School uniforms are available for sale:
 * Ear accessories are not allowed.
 * Facial hair is not allowed. Boys are expected to keep a clean-shaven look at all times.
 
+**(ii) APPROPRIATE HAIRSTYLES AND APPEARANCE FOR GIRLS**
 ![School Rules Hairstyles Girls](/images/About%20Us/Our%20School/2023_Sch_Rules_hairstyle_girl.png)
-**(ii)&nbsp;&nbsp;Girls**
+
 * Hair must not be tinted or dyed.
 * Hair that is longer than the upper end of the collar must be tied up neatly.
 * Fringes are not to touch the eyebrows.
