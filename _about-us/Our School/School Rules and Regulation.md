@@ -82,7 +82,7 @@ School uniforms are available for sale:
 * Fringes are not to touch the eyebrows.
 * Wear only black or dark blue ribbons/hair band/hair clips.
 * Outlandish and fanciful hairstyles (eg: permed, undercut, spiky styles) are not allowed. No hair extension is allowed.
-* A pair of small (maximum diameter: 0.5 cm) and plain studs without any gemstones can be worn in the earlobe. They should be in black, blue, gold or silver colour.
+* A pair of small and simple studs can be worn in the earlobe. They should be in black, blue, gold or silver colour.
 * A pair of ear sticks (only transparent ones) can be worn in the ear lobe.
 * No wearing of cosmetics (eg:&nbsp;_coloured_&nbsp;lip balms, foundation etc)
 
@@ -124,7 +124,7 @@ Students are exercise self-discipline, integrity and care when using their mobil
 
 	(b)\. For the 2nd violation, parent/guardian is required to collect the mobile phone inclusive of sim card personally <u>at the end of the school day</u>.
 
-	(iii)\. _Recalcitrant offenders will have the privilege to bring mobile phone to school&nbsp;<u>withdrawn.</u>_
+	(c)\. _Recalcitrant offenders will have the privilege to bring mobile phone to school&nbsp;<u>withdrawn.</u>_
 		
 * Please take note that the students are responsible for their own mobile phone.&nbsp;The school will not be held responsible for any loss or theft of the mobile phone.
 
