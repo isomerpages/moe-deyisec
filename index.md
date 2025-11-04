@@ -30,7 +30,7 @@ sections:
       description: 29 November 2025
       image: /images/Main Page (Announcements)/2025_Open_House_Infopic.jpg
       alt: Image alt text
-      button: Visit Deyi Open Hose Microsite
+      button: Deyi Open House Microsite
       url: https://deyiict.wixsite.com/openhouse
   - resources:
       title: DEYI MEDIA
