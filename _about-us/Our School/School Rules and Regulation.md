@@ -168,7 +168,6 @@ The following are considered very serious offences and may lead to disciplinary 
 **7. TABLE OF MINOR OFFENCES AND CONSEQUENCES**
 ![](/images/About%20Us/Our%20School/Minor_Offences.png)
 
-
-
-
-**7.&nbsp;&nbsp;&nbsp;Table of Major Offences and Consequences**
+**8. TABLE OF SERIOUS OFFENCES AND CONSEQUENCES**
+![](/images/About%20Us/Our%20School/2025_Serious_Offences.png)
+![](/images/About%20Us/Our%20School/2025_Very_Serious_Offences.png)
