@@ -165,9 +165,10 @@ The following are considered very serious offences and may lead to disciplinary 
 * Gambling or betting in any form
 * All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used&nbsp;to cause harm to others.
 
-**7.&nbsp;&nbsp;&nbsp;Table of Minor Offences and Consequences**
-![School Rules Minor Offenses](/images/About%20Us/Our%20School/2023_Sch_Rules_Minor_Offences.png)
+**7. TABLE OF MINOR OFFENCES AND CONSEQUENCES**
+![](/images/About%20Us/Our%20School/Minor_Offences.png)
+
+
+
 
 **7.&nbsp;&nbsp;&nbsp;Table of Major Offences and Consequences**
-![School Rules Major Offenses1](/images/About%20Us/Our%20School/2023_Sch_Rules_Major_Offences_01.png)
-![School Rules Major Offenses2](/images/About%20Us/Our%20School/2023_Sch_Rules_Major_Offences_02.png)
