@@ -24,6 +24,8 @@ School rules apply within the school premises at all times and during school fun
 * After recess, all students must be in their full school uniform. However, for students who have their PE lesson after recess, they are not required to change into their school uniform.
 * All students must be in their appropriate PE/CCA attire when reporting and participating in their CCA activities.
 
+**APPROPRIATE ATTIRE**
+
 ![School Rules Uniform Lower Sec Boys](/images/About%20Us/Our%20School/2023_Sch_Rules_Uniform_Lower_Sec_Boy.png)
 
 ![School Rules Uniform Upper Sec Boys](/images/About%20Us/Our%20School/2023_Sch_Rules_Uniform_Upper_Sec_Boy.png)
@@ -34,17 +36,20 @@ School rules apply within the school premises at all times and during school fun
 * Inner lining should be lightly coloured.
 * White shoe laces
 
+**APPROPRIATE ATTIRE**
+
 ![School Rules Uniform Girls](/images/About%20Us/Our%20School/2023_Sch_Rules_Uniform_Lower_Sec_Girl.png)
 * Blouse neatly tucked in.
-* Skirt must touch the middle of the knee cap.
+* Skirt **<u>must</u>** touch the middle of the knee cap.
 * Plain white socks covering the ankles.
 * White colour shoes that may have simple, dark/white coloured patterns/logos. (i.e. blue, black, grey and white)
 * Inner lining should be lightly coloured.
 * White shoe laces
 
 ![School Rules Uniform PE Attire](/images/About%20Us/Our%20School/2023_Sch_Rules_Uniform_PE.png)
+ **PE Attire**
 
-Sales of School Uniforms
+Sales of School Uniforms <br>
 School uniforms are available for sale:
 1.  online via [https://shanghai-uniforms.sg/shop/category/deyi-secondary-106](https://shanghai-uniforms.sg/shop/category/deyi-secondary-106),
 2.  at the school bookshop during term time,
@@ -58,26 +63,27 @@ School uniforms are available for sale:
 	* Wearing tattoos (including henna art) on any part of the body.
 	* Wearing coloured/fanciful contact lenses or outlandish/tinted&nbsp;&nbsp;spectacles.
 	* Wearing all forms of jewellery and accessories, e.g. caps, piercings (eg: nose and tongue), necklaces, bracelets and rings.
+	* Cosmetic attractions to any facial features, e.g: slits in eyebrows.
 
-#### APPROPRIATE HAIRSTYLES FOR BOYS
+**(i) APPROPRIATE HAIRSTYLES AND APPEARANCE FOR BOYS**
 ![School. Rules Hairstyle Boys](/images/About%20Us/Our%20School/2023_Sch_Rules_hairstyle_boy.png)
 
-**(i)&nbsp;&nbsp;Boys**
 * Hair must be short; back with a slope.
 * Hair must not cover the ear and the fringes are not to touch the&nbsp;eyebrows.
 * Hair must not be tinted or dyed.
-* No punky (eg: undercut), spiky and permed hairstyles are allowed.
+* Outlandish and fanciful hairstyles (eg: permed, undercut, spiky styles) are not allowed.
 * Ear accessories are not allowed.
 * Facial hair is not allowed. Boys are expected to keep a clean-shaven look at all times.
 
+**(ii) APPROPRIATE HAIRSTYLES AND APPEARANCE FOR GIRLS**
 ![School Rules Hairstyles Girls](/images/About%20Us/Our%20School/2023_Sch_Rules_hairstyle_girl.png)
-**(ii)&nbsp;&nbsp;Girls**
+
 * Hair must not be tinted or dyed.
 * Hair that is longer than the upper end of the collar must be tied up neatly.
 * Fringes are not to touch the eyebrows.
 * Wear only black or dark blue ribbons/hair band/hair clips.
-* No punky or permed hairstyle is allowed. No hair extension is allowed.
-* A pair of small (maximum diameter: 0.5 cm) and plain studs without any gemstones can be worn in the earlobe. They should be in black, blue, gold or silver colour.
+* Outlandish and fanciful hairstyles (eg: permed, undercut, spiky styles) are not allowed. No hair extension is allowed.
+* A pair of small and simple studs can be worn in the earlobe. They should be in black, blue, gold or silver colour.
 * A pair of ear sticks (only transparent ones) can be worn in the ear lobe.
 * No wearing of cosmetics (eg:&nbsp;_coloured_&nbsp;lip balms, foundation etc)
 
@@ -103,26 +109,23 @@ School uniforms are available for sale:
 * All students will assemble and be dismissed in a quiet and orderly manner under the supervision of the Discipline and Form Teachers.
 
 **4.&nbsp;&nbsp;&nbsp;&nbsp;USE OF MOBILE PHONES**&nbsp;<br>
-Students need to exercise self-discipline, integrity and care when using their mobile phone. Students will seek to maintain a balanced lifestyle between offline and online activities whilst embracing the affordances of technology.
-* Students are to use their mobile phones in a&nbsp;<u>socially responsible&nbsp;manner.</u> All content shared and communicated via the mobile phone should be respectful, considerate and appropriate&nbsp;<u>towards others.</u>
-* Students are allowed to bring their mobile phones to school under the following&nbsp;conditions:
+Students are exercise self-discipline, integrity and care when using their mobile phone. Students will also seek to maintain a balanced lifestyle between offline and online activities whilst embracing the affordances of technology. Students are not to use mobile phones/smart watches in school, including during recess, CCA and after school programmes.
 
+* Students are allowed to bring their mobile phones to school under the following conditions:
 
-	(i)\. The mobile phone must be switched off during curriculum time. Putting the phone in silent mode will not suffice as it will still serve as a potential major distraction to students. 
+	(i)\. Students are responsible for safekeeping their mobile phones and ensuring that it is <u>switched off, kept in the school bag or on their person but out of sight</u> in school.
 	
-	(ii)\. The use of mobile phone is confined to the 2 designated areas for the whole day. This will be <u>in force the moment the student arrives in school</u>.
-	* Area 1: Foyer Area
-	* Area 2: Resting Area opposite Blk C toilets
-    	
-	(iii)\. The mobile phone <u>must not be used to take photos or videos in school</u>, unless permission is given by the school authorities.
+	(ii)\. The mobile phone <u>must not be used to take photos or videos in school</u>, unless permission is given by the school authorities.
 
-	* <u>Students who do not comply with the above conditions on the use of mobile phone would have the privilege withdrawn.</u>
+* <u>Students who do not comply with the above conditions on the use of mobile phone would have the privilege withdrawn.</u>
 
-		(i)\. The mobile phone inclusive of sim card will be retained by the school for 1 week for 1st&nbsp;violation of mobile phone rules, 2 weeks for 2nd&nbsp;violation and 3 weeks for 3rd&nbsp;violation.
+* The mobile phone inclusive of sim card will be retained.
 
-		(ii)\. Parent/Guardian is required to collect the mobile phone inclusive of sim card personally&nbsp;after&nbsp;<u>1 week</u> for the 1st violation, 2 weeks for 2nd violation and 3 weeks for 3rd violation.
+	(a)\. For the 1st violation, the student may collect the mobile phone inclusive of sim card at the end of the school day from the General Office.
 
-		(iii)\. _Recalcitrant offenders will have the privilege to bring mobile phone to school&nbsp;<u>withdrawn.</u>_
+	(b)\. For the 2nd violation, parent/guardian is required to collect the mobile phone inclusive of sim card personally <u>at the end of the school day</u>.
+
+	(c)\. _Recalcitrant offenders will have the privilege to bring mobile phone to school&nbsp;<u>withdrawn.</u>_
 		
 * Please take note that the students are responsible for their own mobile phone.&nbsp;The school will not be held responsible for any loss or theft of the mobile phone.
 
@@ -133,7 +136,8 @@ Students need to exercise self-discipline, integrity and care when using their m
 * Students must treat school property with care. No student is to tamper with the fire extinguishers which are used only during emergencies.
 * Students must keep the school premises clean, neat and litter free.
 * Students must not loiter in the void decks of flats in the neighbourhood after school hours.&nbsp;
-* All students must use the pedestrian overhead bridge or the raised zebra crossing when crossing Street 41 and the pedestrian crossing with traffic lights when crossing Street 42.
+* All students must use the pedestrian overhead bridge or the pedestrian crossing when crossing Street 41 or Street 42.
+![](/images/About%20Us/Our%20School/2025_Pedestrian_Crossing.png)
 
 **(b) Behaviour During Curriculum Time**
 * Students are expected to be attentive and on task during lessons.&nbsp;
@@ -163,9 +167,14 @@ The following are considered very serious offences and may lead to disciplinary 
 * Gambling or betting in any form
 * All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used&nbsp;to cause harm to others.
 
-**7.&nbsp;&nbsp;&nbsp;Table of Minor Offences and Consequences**
-![School Rules Minor Offenses](/images/About%20Us/Our%20School/2023_Sch_Rules_Minor_Offences.png)
+**7. TABLE OF MINOR OFFENCES AND CONSEQUENCES**
+![](/images/About%20Us/Our%20School/Minor_Offences.png)
 
-**7.&nbsp;&nbsp;&nbsp;Table of Major Offences and Consequences**
-![School Rules Major Offenses1](/images/About%20Us/Our%20School/2023_Sch_Rules_Major_Offences_01.png)
-![School Rules Major Offenses2](/images/About%20Us/Our%20School/2023_Sch_Rules_Major_Offences_02.png)
+**8. TABLE OF SERIOUS OFFENCES AND CONSEQUENCES**
+![](/images/About%20Us/Our%20School/2025_Serious_Offences.png)
+![](/images/About%20Us/Our%20School/2025_Very_Serious_Offences.png)
+
+References: <br>
+(1) Student may be referred to counsellor and/or external organisations and/or law enforcement agencies. <br>
+(2) Cheating in tests/examinations: Refer to section ‘Assessment Rules’. Student will receive zero    mark for the paper. <br>
+(3) Removal of privileges: Suspension of leadership roles, and non-eligibility for representation of school at NSG / SYF / competitions, overseas trips, character awards and scholarships for the rest of the year.
