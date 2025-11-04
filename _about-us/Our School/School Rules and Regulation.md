@@ -47,6 +47,7 @@ School rules apply within the school premises at all times and during school fun
 * White shoe laces
 
 ![School Rules Uniform PE Attire](/images/About%20Us/Our%20School/2023_Sch_Rules_Uniform_PE.png)
+ **PE Attire**
 
 Sales of School Uniforms <br>
 School uniforms are available for sale:
@@ -136,6 +137,7 @@ Students are exercise self-discipline, integrity and care when using their mobil
 * Students must keep the school premises clean, neat and litter free.
 * Students must not loiter in the void decks of flats in the neighbourhood after school hours.&nbsp;
 * All students must use the pedestrian overhead bridge or the pedestrian crossing when crossing Street 41 or Street 42.
+![](/images/About%20Us/Our%20School/2025_Pedestrian_Crossing.png)
 
 **(b) Behaviour During Curriculum Time**
 * Students are expected to be attentive and on task during lessons.&nbsp;
@@ -171,3 +173,8 @@ The following are considered very serious offences and may lead to disciplinary 
 **8. TABLE OF SERIOUS OFFENCES AND CONSEQUENCES**
 ![](/images/About%20Us/Our%20School/2025_Serious_Offences.png)
 ![](/images/About%20Us/Our%20School/2025_Very_Serious_Offences.png)
+
+References: <br>
+(1) Student may be referred to counsellor and/or external organisations and/or law enforcement agencies. <br>
+(2) Cheating in tests/examinations: Refer to section ‘Assessment Rules’. Student will receive zero    mark for the paper. <br>
+(3) Removal of privileges: Suspension of leadership roles, and non-eligibility for representation of school at NSG / SYF / competitions, overseas trips, character awards and scholarships for the rest of the year.
