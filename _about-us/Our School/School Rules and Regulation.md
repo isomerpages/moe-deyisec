@@ -104,20 +104,15 @@ School uniforms are available for sale:
 **4.&nbsp;&nbsp;&nbsp;&nbsp;USE OF MOBILE PHONES**&nbsp;<br>
 Students are exercise self-discipline, integrity and care when using their mobile phone. Students will also seek to maintain a balanced lifestyle between offline and online activities whilst embracing the affordances of technology. Students are not to use mobile phones/smart watches in school, including during recess, CCA and after school programmes.
 
-* Students are allowed to bring their mobile phones to school under the following conditions:
-
-	(i)\. Students are responsible for safekeeping their mobile phones and ensuring that it is <u>switched off, kept in the school bag or on their person but out of sight</u> in school.
-	
+* Students are allowed to bring their mobile phones to school under the following conditions:<br>
+	(i)\. Students are responsible for safekeeping their mobile phones and ensuring that it is <u>switched off, kept in the school bag or on their person but out of sight</u> in school.<br>
 	(ii)\. The mobile phone <u>must not be used to take photos or videos in school</u>, unless permission is given by the school authorities.
 
 * <u>Students who do not comply with the above conditions on the use of mobile phone would have the privilege withdrawn.</u>
 
-* The mobile phone inclusive of sim card will be retained.
-
-	(a)\. For the 1st violation, the student may collect the mobile phone inclusive of sim card at the end of the school day from the General Office.
-
-	(b)\. For the 2nd violation, parent/guardian is required to collect the mobile phone inclusive of sim card personally <u>at the end of the school day</u>.
-
+* The mobile phone inclusive of sim card will be retained. <br>
+	(a)\. For the 1st violation, the student may collect the mobile phone inclusive of sim card at the end of the school day from the General Office. <br>
+	(b)\. For the 2nd violation, parent/guardian is required to collect the mobile phone inclusive of sim card personally <u>at the end of the school day</u>.<br>
 	(c)\. _Recalcitrant offenders will have the privilege to bring mobile phone to school&nbsp;<u>withdrawn.</u>_
 		
 * Please take note that the students are responsible for their own mobile phone.&nbsp;The school will not be held responsible for any loss or theft of the mobile phone.
