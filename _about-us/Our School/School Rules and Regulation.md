@@ -25,8 +25,9 @@ School rules apply within the school premises at all times and during school fun
 * All students must be in their appropriate PE/CCA attire when reporting and participating in their CCA activities.
 
 **APPROPRIATE ATTIRE**
-![](/images/About%20Us/Our%20School/2025_Boys_uniform_lower_sec.png)
-![](/images/About%20Us/Our%20School/2025_Boys_uniform_upper_sec.png)
+
+![](/images/About%20Us/Our%20School/2025_Boys_uniform_lower_sec_v2.png)
+![](/images/About%20Us/Our%20School/2025_Boys_uniform_upper_sec_v2.png)
 * Shirt/PE Shirt neatly tucked in.
 * Shorts or long pants worn at waist level.
 * Plain white socks covering the ankles.
@@ -35,14 +36,15 @@ School rules apply within the school premises at all times and during school fun
 * White shoe laces
 
 **APPROPRIATE ATTIRE**
-![](/images/About%20Us/Our%20School/2025_Girls_uniform.png)
+![](/images/About%20Us/Our%20School/2025_Girls_uniform_v2.png)
 * Blouse neatly tucked in.
 * Skirt **<u>must</u>** touch the middle of the knee cap.
 * Plain white socks covering the ankles.
 * White colour shoes that may have simple, dark/white coloured patterns/logos. (i.e. blue, black, grey and white)
 * Inner lining should be lightly coloured.
 * White shoe laces
-![](/images/About%20Us/Our%20School/2025_PE_attire.png)
+
+![](/images/About%20Us/Our%20School/2025_PE_attire_v2.png)
 Sales of School Uniforms <br>
 School uniforms are available for sale:<br>
 1\.  online via [https://shanghai-uniforms.sg/shop/category/deyi-secondary-106](https://shanghai-uniforms.sg/shop/category/deyi-secondary-106), <br>
