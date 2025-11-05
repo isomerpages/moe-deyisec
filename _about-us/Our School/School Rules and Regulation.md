@@ -26,9 +26,8 @@ School rules apply within the school premises at all times and during school fun
 
 **APPROPRIATE ATTIRE**
 
-![School Rules Uniform Lower Sec Boys](/images/About%20Us/Our%20School/2023_Sch_Rules_Uniform_Lower_Sec_Boy.png)
-
-![School Rules Uniform Upper Sec Boys](/images/About%20Us/Our%20School/2023_Sch_Rules_Uniform_Upper_Sec_Boy.png)
+![](/images/About%20Us/Our%20School/2025_Boys_uniform_lower_sec_v2.png)
+![](/images/About%20Us/Our%20School/2025_Boys_uniform_upper_sec_v2.png)
 * Shirt/PE Shirt neatly tucked in.
 * Shorts or long pants worn at waist level.
 * Plain white socks covering the ankles.
@@ -37,8 +36,7 @@ School rules apply within the school premises at all times and during school fun
 * White shoe laces
 
 **APPROPRIATE ATTIRE**
-
-![School Rules Uniform Girls](/images/About%20Us/Our%20School/2023_Sch_Rules_Uniform_Lower_Sec_Girl.png)
+![](/images/About%20Us/Our%20School/2025_Girls_uniform_v2.png)
 * Blouse neatly tucked in.
 * Skirt **<u>must</u>** touch the middle of the knee cap.
 * Plain white socks covering the ankles.
@@ -46,15 +44,12 @@ School rules apply within the school premises at all times and during school fun
 * Inner lining should be lightly coloured.
 * White shoe laces
 
-![School Rules Uniform PE Attire](/images/About%20Us/Our%20School/2023_Sch_Rules_Uniform_PE.png)
- **PE Attire**
-
+![](/images/About%20Us/Our%20School/2025_PE_attire_v2.png)
 Sales of School Uniforms <br>
-School uniforms are available for sale:
-1.  online via [https://shanghai-uniforms.sg/shop/category/deyi-secondary-106](https://shanghai-uniforms.sg/shop/category/deyi-secondary-106),
-2.  at the school bookshop during term time,
-3.  at Shanghai School Uniforms Pte Ltd at 63 Ubi Ave 1, #04-09 63@Ubi, (S) 408937
-
+School uniforms are available for sale:<br>
+1\.  online via [https://shanghai-uniforms.sg/shop/category/deyi-secondary-106](https://shanghai-uniforms.sg/shop/category/deyi-secondary-106), <br>
+2\.  at the school bookshop during term time,<br>
+3\.  at Shanghai School Uniforms Pte Ltd at 63 Ubi Ave 1, #04-09 63@Ubi, (S) 408937
 
 **(c) Personal Grooming**
 * All students must be neat in appearance.
@@ -66,8 +61,7 @@ School uniforms are available for sale:
 	* Cosmetic attractions to any facial features, e.g: slits in eyebrows.
 
 **(i) APPROPRIATE HAIRSTYLES AND APPEARANCE FOR BOYS**
-![School. Rules Hairstyle Boys](/images/About%20Us/Our%20School/2023_Sch_Rules_hairstyle_boy.png)
-
+![](/images/About%20Us/Our%20School/2025_Boys_hairstyle.png)
 * Hair must be short; back with a slope.
 * Hair must not cover the ear and the fringes are not to touch the&nbsp;eyebrows.
 * Hair must not be tinted or dyed.
@@ -76,8 +70,7 @@ School uniforms are available for sale:
 * Facial hair is not allowed. Boys are expected to keep a clean-shaven look at all times.
 
 **(ii) APPROPRIATE HAIRSTYLES AND APPEARANCE FOR GIRLS**
-![School Rules Hairstyles Girls](/images/About%20Us/Our%20School/2023_Sch_Rules_hairstyle_girl.png)
-
+![](/images/About%20Us/Our%20School/2025_Girls_hairstyle.png)
 * Hair must not be tinted or dyed.
 * Hair that is longer than the upper end of the collar must be tied up neatly.
 * Fringes are not to touch the eyebrows.
@@ -111,20 +104,15 @@ School uniforms are available for sale:
 **4.&nbsp;&nbsp;&nbsp;&nbsp;USE OF MOBILE PHONES**&nbsp;<br>
 Students are exercise self-discipline, integrity and care when using their mobile phone. Students will also seek to maintain a balanced lifestyle between offline and online activities whilst embracing the affordances of technology. Students are not to use mobile phones/smart watches in school, including during recess, CCA and after school programmes.
 
-* Students are allowed to bring their mobile phones to school under the following conditions:
-
-	(i)\. Students are responsible for safekeeping their mobile phones and ensuring that it is <u>switched off, kept in the school bag or on their person but out of sight</u> in school.
-	
+* Students are allowed to bring their mobile phones to school under the following conditions:<br>
+	(i)\. Students are responsible for safekeeping their mobile phones and ensuring that it is <u>switched off, kept in the school bag or on their person but out of sight</u> in school.<br>
 	(ii)\. The mobile phone <u>must not be used to take photos or videos in school</u>, unless permission is given by the school authorities.
 
 * <u>Students who do not comply with the above conditions on the use of mobile phone would have the privilege withdrawn.</u>
 
-* The mobile phone inclusive of sim card will be retained.
-
-	(a)\. For the 1st violation, the student may collect the mobile phone inclusive of sim card at the end of the school day from the General Office.
-
-	(b)\. For the 2nd violation, parent/guardian is required to collect the mobile phone inclusive of sim card personally <u>at the end of the school day</u>.
-
+* The mobile phone inclusive of sim card will be retained. <br>
+	(a)\. For the 1st violation, the student may collect the mobile phone inclusive of sim card at the end of the school day from the General Office. <br>
+	(b)\. For the 2nd violation, parent/guardian is required to collect the mobile phone inclusive of sim card personally <u>at the end of the school day</u>.<br>
 	(c)\. _Recalcitrant offenders will have the privilege to bring mobile phone to school&nbsp;<u>withdrawn.</u>_
 		
 * Please take note that the students are responsible for their own mobile phone.&nbsp;The school will not be held responsible for any loss or theft of the mobile phone.
@@ -137,7 +125,7 @@ Students are exercise self-discipline, integrity and care when using their mobil
 * Students must keep the school premises clean, neat and litter free.
 * Students must not loiter in the void decks of flats in the neighbourhood after school hours.&nbsp;
 * All students must use the pedestrian overhead bridge or the pedestrian crossing when crossing Street 41 or Street 42.
-![](/images/About%20Us/Our%20School/2025_Pedestrian_Crossing.png)
+![](/images/About%20Us/Our%20School/2025_Pedestrian_Crossing_v2.png)
 
 **(b) Behaviour During Curriculum Time**
 * Students are expected to be attentive and on task during lessons.&nbsp;
