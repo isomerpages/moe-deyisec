@@ -71,27 +71,10 @@ journey of personal growth and community service.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/2024_NCC_pic_2.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/2024_NCC_pic_3.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/Air_Rifle.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -102,7 +85,7 @@ journey of personal growth and community service.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Air rifle range for Sec 2 Cadets</p>
+<p>Air Rifle Range</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Central District Sports and Games - Football Champions</p>
@@ -111,7 +94,7 @@ journey of personal growth and community service.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/2024_NCC_pic_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/Orienteering_Competition.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,7 +103,7 @@ journey of personal growth and community service.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PDS Basic Course</p>
+<p>Orienteering Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
