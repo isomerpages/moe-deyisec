@@ -166,7 +166,6 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA Main Page/Chior__new_photo_at_main_page__1.png">
 </div>
