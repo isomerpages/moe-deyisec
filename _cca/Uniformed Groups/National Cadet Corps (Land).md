@@ -73,7 +73,7 @@ journey of personal growth and community service.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/Air_Rifle.jpg">
+<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/Air_Rifle.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
