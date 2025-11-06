@@ -55,9 +55,6 @@ journey of personal growth and community service.</p>
 <p>Central District PDS Basic Course Trainer</p>
 </li>
 <li>
-<p>Central District PDS Competition (2023)</p>
-</li>
-<li>
 <p>Central District PDS Competition 2nd Runner-Up (2024)</p>
 </li>
 <li>
@@ -75,27 +72,28 @@ journey of personal growth and community service.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/2024_NCC_pic_2.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/Air_Rifle.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/2024_NCC_pic_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/Central_District_Sports_and_Games___Football_Champions.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Air rifle range for Sec 2 Cadets</p>
+<p>Air Rifle Range</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>One-Star Kayaking Course</p>
+<p>Central District Sports and Games - Football Champions</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/2024_NCC_pic_4.png">
+<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/Orienteering_Competition.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,7 +102,7 @@ journey of personal growth and community service.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PDS Basic Course</p>
+<p>Orienteering Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
