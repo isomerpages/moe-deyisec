@@ -55,9 +55,6 @@ journey of personal growth and community service.</p>
 <p>Central District PDS Basic Course Trainer</p>
 </li>
 <li>
-<p>Central District PDS Competition (2023)</p>
-</li>
-<li>
 <p>Central District PDS Competition 2nd Runner-Up (2024)</p>
 </li>
 <li>
@@ -84,12 +81,31 @@ journey of personal growth and community service.</p>
 </div>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/Central_District_Sports_and_Games___Football_Champions.jpg">
+</div>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Air rifle range for Sec 2 Cadets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>One-Star Kayaking Course</p>
+<p>Central District Sports and Games - Football Champions</p>
 </td>
 </tr>
 <tr>
