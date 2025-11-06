@@ -57,26 +57,6 @@ is valued, and every achievement celebrated.</p>
 <li>
 <p>National School Games 2025 B Girls 4X100m Semi Finalist</p>
 </li>
-<li>
-<p>SSSC Sportsmanship Award (NSG 2023): ANISHA ZAHRA MOHAMED SULAIMAN</p>
-</li>
-<li>
-<p>National School Games 2023 C Girls 100m Semi Finalist: SEAH YU EN KAYLA
-(XIE YU’EN)</p>
-</li>
-<li>
-<p>National School Games 2023 C Boys 200m Semi Finalist: CHING WEI ZHI</p>
-</li>
-<li>
-<p>National School Games 2023 C Girls 200m Semi Finalist: CHUA KAI KHI (CAI
-JIAQI)</p>
-</li>
-<li>
-<p>National School Games 2023 C Boys 4X100m Semi Finalist</p>
-</li>
-<li>
-<p>National School Games 2023 B Boys 4X100m Semi Finalist</p>
-</li>
 </ul>
 <table style="minWidth: 50px">
 <colgroup>
