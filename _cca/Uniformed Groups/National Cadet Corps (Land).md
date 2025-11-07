@@ -76,7 +76,6 @@ journey of personal growth and community service.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/Central_District_Sports_and_Games___Football_Champions.jpg">
 </div>
