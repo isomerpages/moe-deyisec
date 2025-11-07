@@ -131,7 +131,7 @@ Drum Major Award: Liang Jin</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Vibrant pulse of the marching band's Symphony</p>
+<p>The vibrant pulse of the Marching Band's Symphony</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Capturing a moment with Minister Chan before the spotlight shines.</p>
