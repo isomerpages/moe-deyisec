@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_08__muster_parade_.jpg">
+</div>
 <p>The Deyi NPCC Unit is committed to molding cadets into responsible and
 compassionate individuals, aligning with the Ministry of Education's (MOE)
 desired Student Outcomes. By actively participating in Values-in-Action
@@ -30,8 +33,9 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 <p><strong>Teachers-in-charge:</strong> 
 <br>Mr Tan Je Wei (OIC)
 <br>Ms Teo Chong Ming (AIC)
-<br>Mr Edwin Teo
-<br>Mr Derek Lim</p>
+<br>Mr Teo Han Yang Edwin
+<br>Mr Lim Liang Hao Derek
+<br>Mdm Neo Wei Ling</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm</p>
 <p></p>
@@ -39,27 +43,28 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Distinction Award for Unit Overall Proficiency Award (2025)
-<br>
-</p>
+<p>Distinction Award for Unit Overall Proficiency Award (2024)</p>
 </li>
 <li>
-<p>SPF-NPCC Badge Award (2025)
-<br>
-</p>
+<p>SPF-NPCC Badge Award (2025)</p>
 </li>
 <li>
-<p>Best Unit Cadet Award (2025)
-<br>
-</p>
+<p>Best Unit Cadet Award (2025)</p>
 </li>
 <li>
-<p>Area NPCC Tic-Tac-Toe Competition – 2nd Position (2023)
-<br>
-</p>
+<p>National Inter-Unit CSI Competition (2025) - 7<sup>th</sup> Position</p>
 </li>
 <li>
-<p>Area Bean Bag Toss Competition – 3rd Position (2023)
+<p>Area Inter-Unit CSI Competition (2025) - 1<sup>st</sup> Position</p>
+</li>
+<li>
+<p>Area Games Competition (2025) - Bean Bag Game - 1<sup>st</sup> Position</p>
+</li>
+<li>
+<p>Area Games Competition (2025) - Tri-Trial Game - 2<sup>nd</sup> Position</p>
+</li>
+<li>
+<p>Area Games Competition (2025) - Sketch Relay Game - 3<sup>rd</sup> Position
 <br>
 </p>
 </li>
@@ -74,7 +79,19 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 <p>Inter-Unit 0.22 Revolver Shooting Competition</p>
 </li>
 <li>
-<p>Inter-Unit ECSI Competition</p>
+<p>Inter-Unit 0.38 Revolver Shooting Competition</p>
+</li>
+<li>
+<p>Inter-Unit Campcraft Competition</p>
+</li>
+<li>
+<p>Inter-Unit CSI Competition</p>
+</li>
+<li>
+<p>Inter-Unit Drill Competition</p>
+</li>
+<li>
+<p>National Day Parade</p>
 </li>
 <li>
 <p>NPCC Annual Parade</p>
@@ -83,16 +100,22 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 <p>Police Day Parade</p>
 </li>
 <li>
-<p>CCA Carnival Parade</p>
+<p>Deyi CCA Carnival Parade</p>
 </li>
 <li>
-<p>National Day Parade</p>
+<p>Anti-Scams Community Outreach</p>
 </li>
 <li>
 <p>Corrupt Practices Investigation Bureau Educational Visit</p>
 </li>
 <li>
-<p>CID Conference</p>
+<p>CID Conference &amp; Visit</p>
+</li>
+<li>
+<p>K9 Unit Visit</p>
+</li>
+<li>
+<p>Hong Kong Overseas Educational Visit</p>
 </li>
 </ul>
 <p></p>
@@ -107,32 +130,32 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2024_NPCC_pic_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_01__CCAO__v2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2024_NPCC_pic_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_02__NPC_Visit__v2.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muster Parade</p>
+<p>CCA Open House</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Air Pistol Shooting</p>
+<p>NPC Visit</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2024_NPCC_pic_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_04__Kayaking__v2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2024_NPCC_pic_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_05__Sec_1_Camp__v2.png">
 </div>
 </td>
 </tr>
@@ -141,7 +164,52 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 <p>Kayaking Course</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First Aid Course</p>
+<p>Sec 1 Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_06__NPCC_Day_Parade__v2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_09__CSI__v2.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Day Parade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CSI</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_10__ATC_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_03__ATC_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>ATC</p>
 </td>
 </tr>
 </tbody>
