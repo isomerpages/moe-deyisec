@@ -113,7 +113,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA%20Main%20Page/Green_Club.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA Main Page/Green_Club_new_pic_at_Main_Page.png">
 </div>
 </td>
 </tr>
@@ -179,7 +179,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA%20Main%20Page/M_and_D_Wushu.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA Main Page/M_D_new_pic_at_Main_Page.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
