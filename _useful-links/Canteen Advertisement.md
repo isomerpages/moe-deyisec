@@ -41,7 +41,7 @@ via email OR to the School's General Office.</p>
 </li>
 </ul>
 <h4>How to get there?</h4>
-<p><strong>Nearest MRT</strong>: Ank Mo Kio MRT (NS16 line) – 10 minutes
+<p><strong>Nearest MRT</strong>: Ang Mo Kio MRT (NS16 line) – 10 minutes
 walking distance
 <br><strong>Bus number</strong>: 22, 24, 50, 135, 159 and 162- 3 minutes walking
 distance</p>
