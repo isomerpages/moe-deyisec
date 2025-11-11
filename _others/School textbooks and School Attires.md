@@ -7,7 +7,7 @@ variant: tiptap
 <p><strong>Purchase of School Textbooks / Attires</strong>
 <br>Please click –&gt; for textbook list.&nbsp;
 <br><a href="/files/Useful%20Links/UL%20Parents/2025_Admin__DYSS_Booklist_Sec_2_to_4.pdf" rel="noopener noreferrer nofollow" target="_blank">DYSS 2026 Textbooks and Stationery List (Sec 2 to 4)</a>
-<br><a href="/files/Useful%20Links/UL%20Parents/2025_Admin_Instructions_Sheet_Sec_2_to_4.pdf" rel="noopener noreferrer nofollow" target="_blank">DYSS Admin Instructions Sheet for 2026 Sec 2 to 4</a> 
+<br><a href="/files/Useful%20Links/UL%20Parents/2025_Admin_Instructions_Sheet_Sec_2_to_4.pdf" rel="noopener noreferrer nofollow" target="_blank">DYSS Admin Instructions Sheet for 2026 Sec 2 to 4</a>
 </p>
 <p>For enquires on the&nbsp;<strong>sales of books</strong>, please contact
 Pacific Bookstores Pte. Ltd
