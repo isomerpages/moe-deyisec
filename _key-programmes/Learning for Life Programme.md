@@ -5,33 +5,30 @@ description: ""
 variant: tiptap
 ---
 <p><strong><em>NURTURING CONFIDENT COMMUNICATORS AND GRACIOUS CITIZENS THROUGH THE ARTS</em></strong> 
-<br>At Deyi, Arts Education is an integral part of our students’ holistic
-development. With our mission “Arts Alive - Live, Work, Learn and Play
-with the Arts”, we seek to create a vibrant arts culture through programmes
-that will provide our students with opportunities to discover their interests
-and talents. It also aims to nurture our students’ character and groom
-them into gracious citizens of tomorrow while helping them develop their
-passion for the Arts.</p>
-<p>Arts Education is the focus of Deyi’s Learning for Life Programme (LLP).
-Through the LLP, we cultivate a school experience that develops an appreciation
-of and expertise in the arts. To support the creative dreams of our students,
-we provide opportunities for them to showcase their diverse talents. This
-includes our Drama-in-Curriculum (DIC) for lower secondary students, Arts
-enrichment programmes, Arts Ambassador Programme and performance platforms
-such as Deyi’s Arts Fiesta, Arts Hour and Deyi’s got Talent.</p>
-<p><strong>Arts Fiesta</strong> 
-<br>At Deyi, we firmly embrace the belief that the arts serve as a vital medium
-of expression. In our commitment to nurturing creativity, this year witnessed
-a dynamic exploration of diverse platforms during our biennial event -
-Arts Fiesta. Our students, brimming with talent, took center stage, captivating
-audiences through enthralling live performances presented by our esteemed
-Deyi Band, Movement and Dance, Drama Club, Choir, Art Club, and National
-Cadet Corps.</p>
-<p>Arts Fiesta not only served as a stage for our students to exhibit their
-remarkable talents but also became a testament to the profound impact of
-the arts on our lives. Amidst the celebratory atmosphere, the event served
-as a poignant reminder of how the arts, in their myriad forms, possess
-the unique ability to enrich and elevate our experiences.</p>
+<br>At Deyi, Arts Education is integral to our students' holistic development.
+Guided by our mission, <em>“Arts Alive – Live, Work, Learn, and Play with the Arts”</em>,
+we cultivate a vibrant arts culture that inspires students to discover
+their talents and passions. Our programmes instill a love for the Arts
+while building character and shaping students into gracious citizens of
+tomorrow.</p>
+<p>Through immersive experiences like Drama and Dance Programme, the Arts
+Ambassador Programme, Aesthetic Assemblies, workshops, learning journeys,
+and talent development platforms such as <em>Deyi’s Got Talent!</em> and <em>Open Mic</em>,
+we promote both artistic appreciation and expertise. These opportunities
+empower students to build confidence, unleash their creative potential,
+celebrate their diverse talents, and pursue their artistic dreams.</p>
+<p><strong>Arts Fiesta Concert, 25 April 2025</strong>
+<br>Deyi’s Arts Fiesta 2025 celebrated the school’s 45th Anniversary with
+the theme <strong><em>“</em></strong><em>PULSE</em><strong><em>”,</em></strong> showcasing
+the arts as a powerful medium of expression. The concert highlighted how
+our Performing Arts students channel their emotions, creativity, and lived
+experiences into a collective heartbeat on stage.</p>
+<p>Audiences were treated to captivating performances by the Deyi Band, Movement
+and Dance, Drama Club, Choir, Art Club, and National Cadet Corps. Beyond
+displaying talent, the concert reaffirmed the transformative impact of
+the arts, how they energise, inspire, and enrich our shared experiences.
+The evening was filled with vibrant and passion, as our students brought
+the stage to life with their electrifying pulse.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -39,36 +36,16 @@ the unique ability to enrich and elevate our experiences.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_1a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_Arts_Fiesta_Pic_1.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_1c.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_Arts_Fiesta_Pic_2.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_1d.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_1e.png">
-</div>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
