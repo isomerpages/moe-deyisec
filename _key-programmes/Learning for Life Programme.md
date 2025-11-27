@@ -197,7 +197,7 @@ bonds through a shared cultural encounter.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_Phantom_Opera_Pic_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_Phantom_Opera_Pic_2b.jpg">
 </div>
 </td>
 </tr>
