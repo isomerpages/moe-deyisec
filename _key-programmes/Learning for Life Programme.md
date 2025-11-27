@@ -17,6 +17,7 @@ and talent development platforms such as <em>Deyi’s Got Talent!</em> and <em>O
 we promote both artistic appreciation and expertise. These opportunities
 empower students to build confidence, unleash their creative potential,
 celebrate their diverse talents, and pursue their artistic dreams.</p>
+<p></p>
 <p><strong>Arts Fiesta Concert, 25 April 2025</strong>
 <br>Deyi’s Arts Fiesta 2025 celebrated the school’s 45th Anniversary with
 the theme <strong><em>“</em></strong><em>PULSE</em><strong><em>”,</em></strong> showcasing
@@ -49,64 +50,62 @@ the stage to life with their electrifying pulse.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Arts &amp; Innovation Centre (AI Centre) Where Arts and Innovation Converge</strong> 
 <br>The AI Centre is a vibrant, future-focused learning space that inspires
 curiosity, creativity, and collaboration. By integrating the disciplines
 of the Arts, Design &amp; Technology, and Science, the Centre offers students
 rich opportunities to develop as creative, inventive, and critical thinkers.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>Deyi’s Got Talent (DGT)</strong> 
-<br>Deyi’s Got Talent is a creative platform for Deyians to display their
-talents in different areas like dance, music, vocals, digital art, and
-even magic show! This is our first year to have Category A where every
-class took part to showcase their unique talent. In Category B, the contestants
-faced fierce competitions during the auditions and the finals. We are proud
-to present the winners from Deyi’s Got Talent - Category A and B, congratulations
-and hope to see you next year!</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_2a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_AI_Centre_Pic_1.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_2b.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_AI_Centre_Pic_2.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_2c.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_2d.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
+<p>Our VIPs at Opening Ceremony and Group Exhibition:
+<br>From left: Mrs Clara Lim-Tan, Zonal Director Mr Andrew Lim, Principal
+Mr Chow Weisi, Guest-of-Honour, National Arts Council (CEO) Mr Low Eng
+Teong, S7 Superintendent Mr Koh Chong Mong, and Ex-Principal Mrs Lim Ai
+Poo</p>
+<p></p>
+<p><strong>Deyi’s Got Talent (DGT)</strong> 
+<br>Deyi’s Got Talent! is a creative platform for Deyians to showcase their
+skills in dance, music, vocals, digital art, and even magic. In <strong>Category A</strong>,
+every class participated, highlighting their unique talents, while <strong>Category B</strong> featured
+intense competition during auditions and finals. Congratulations to all
+participants and winners, and we look forward to seeing you next year!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p><strong>Aesthetic Assembly Programme</strong>&nbsp;
 <br>Aesthetic Assembly Programme aims to nurture a keen sense of aesthetics
 and appreciation for the Arts. It provides students with breadth experience
@@ -250,6 +249,48 @@ to new heights!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_5e.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
