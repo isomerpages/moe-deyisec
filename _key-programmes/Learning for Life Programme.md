@@ -95,28 +95,66 @@ participants and winners, and we look forward to seeing you next year!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="2">
+<p><strong>Deyi’s Got Talent! Class winners and group finalists</strong>
+</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_DGT_Pic_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_DGT_Pic_2.jpg">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <p><strong>Aesthetic Assembly Programme</strong>&nbsp;
 <br>Aesthetic Assembly Programme aims to nurture a keen sense of aesthetics
-and appreciation for the Arts. It provides students with breadth experience
+and appreciation for the Arts. It provides students with breadth<strong> </strong>experience
 in traditional and contemporary arts practices, leading to a lifelong pursuit
 of the Arts. Students are equipped with knowledge, skills and dispositions
 needed in their pursuit of educational and career pathways in the arts.
 To also reinforce character building and to explore post-secondary pathways
 by having real time and connection with artists from various arts forms.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_Aesthetic_Assembly_Program_Pic_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_Aesthetic_Assembly_Program_Pic_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Sec 2 K-pop Dance Programme</strong> 
+<br>Our dance programme nurtures students’ social emotional competencies through
+movement, expression, and performance. By engaging in embodiment, rhythm,
+and creative exploration, students experience the joy of learning while
+developing identity, confidence, and body awareness. Guided activities
+strengthen communication, empathy, teamwork, and emotional regulation.
+With every Deyi student participating and performing, the Sec 2 Dance programme
+supports them in overcoming apprehensions, growing in confidence, and building
+stage presence over time.</p>
+<table style="minWidth: 50px">
+<colgroup>
 <col>
 <col>
 </colgroup>
@@ -124,28 +162,8 @@ by having real time and connection with artists from various arts forms.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_3a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_KPop_Dance_Pic_1.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_3b.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_3c.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_3d.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -153,59 +171,9 @@ by having real time and connection with artists from various arts forms.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Dance, Music, Drama and Visual Art Enrichment Programme</strong>&nbsp;
-<br>The Learning for Life Programme seeks to provide students with access
-to quality arts education programmes. Deyians can engage and develop a
-keen sense of aesthetics and an appreciation for the arts. Equip themselves
-with knowledge and skills through practice of traditional, cultural, and
-contemporary arts. Our students learnt to appreciate Arts while immersing
-themselves in thought-provoking and engaging performances. (Sec 2 Dance
-Programme, Values-in-Art and Learning Journeys to Esplanade and Wild Rice
-for Music Backstage Tour, Into the Woods, Mosaic, An Inspector Calls Theatre
-Show, and Brahms190 Music Concert etc.)</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4h.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4b.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4c.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4d.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4e.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_4f.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Arts Ambassador Programme (AAP)</strong>&nbsp;
 <br>Arts Ambassador Programme is a platform to encourage students’ voice and
 choice, arts ambassadors get to hone their leadership skills in school
