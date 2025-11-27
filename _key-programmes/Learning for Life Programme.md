@@ -166,26 +166,25 @@ stage presence over time.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_KPop_Pic_2.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p><strong>Arts Ambassador Programme (AAP)</strong>&nbsp;
-<br>Arts Ambassador Programme is a platform to encourage students’ voice and
-choice, arts ambassadors get to hone their leadership skills in school
-event like Deyi’s Got Talent where they planned and managed the auditions,
-rehearsals, publicity, and prize presentation for our students. Our Arts
-Ambassadors get to bring creative ideas and support for our Learning for
-Life Programme. They are leaders who lead and collaborate meaningfully
-with their peers, creating a vibrant arts culture, bringing arts in Deyi
-to new heights!</p>
-<table style="minWidth: 75px">
+<p><strong>Phantom of the Opera Musical at Marina Bay Sands Theatre</strong>
+<br>Attending <em>The Phantom of the Opera</em> offers our Arts Leaders an intentional
+and meaningful learning experience aligned with our mission to nurture
+creative, confident, and culturally aware learners. By experiencing a world-class
+production at Marina Bay Sands, students observe international standards
+of stagecraft, from set design and lighting to costume, sound, and choreography.
+This LLP experience extends learning beyond the classroom, building students’
+confidence, communication, and reflection skills while strengthening peer
+bonds through a shared cultural encounter.</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -193,75 +192,13 @@ to new heights!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_5a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_Phantom_Opera_Pic_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_5b.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_Phantom_Opera_Pic_2.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_5c.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_5d.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2024_LLP_pic_5e.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
