@@ -36,12 +36,12 @@ the stage to life with their electrifying pulse.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="2" colspan="2">
+<th rowspan="10" colspan="10">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_Arts_Fiesta_Pic_1.jpg">
 </div>
 </th>
-<th rowspan="2" colspan="2">
+<th rowspan="10" colspan="10">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_Arts_Fiesta_Pic_2.jpg">
 </div>
