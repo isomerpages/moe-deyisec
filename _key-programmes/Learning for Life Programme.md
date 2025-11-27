@@ -2,7 +2,7 @@
 title: Learning for Life Programme
 permalink: /key-programmes/learning-for-life-programme/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong><em>NURTURING CONFIDENT COMMUNICATORS AND GRACIOUS CITIZENS THROUGH THE ARTS</em></strong> 
 <br>At Deyi, Arts Education is integral to our students' holistic development.
@@ -49,6 +49,20 @@ the stage to life with their electrifying pulse.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Arts &amp; Innovation Centre (AI Centre) Where Arts and Innovation Converge</strong> 
+<br>The AI Centre is a vibrant, future-focused learning space that inspires
+curiosity, creativity, and collaboration. By integrating the disciplines
+of the Arts, Design &amp; Technology, and Science, the Centre offers students
+rich opportunities to develop as creative, inventive, and critical thinkers.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Deyi’s Got Talent (DGT)</strong> 
 <br>Deyi’s Got Talent is a creative platform for Deyians to display their
 talents in different areas like dance, music, vocals, digital art, and
