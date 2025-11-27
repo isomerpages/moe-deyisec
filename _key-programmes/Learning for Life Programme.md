@@ -84,10 +84,11 @@ Poo</p>
 <p></p>
 <p><strong>Deyi’s Got Talent (DGT)</strong> 
 <br>Deyi’s Got Talent! is a creative platform for Deyians to showcase their
-skills in dance, music, vocals, digital art, and even magic. In <strong>Category A</strong>,
-every class participated, highlighting their unique talents, while <strong>Category B</strong> featured
-intense competition during auditions and finals. Congratulations to all
-participants and winners, and we look forward to seeing you next year!</p>
+skills in dance, music, vocals, digital art, and even magic. In Category
+A, every class participated, highlighting their unique talents, while Category
+B featured intense competition during auditions and finals. Congratulations
+to all participants and winners, and we look forward to seeing you next
+year!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
