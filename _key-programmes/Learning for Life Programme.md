@@ -69,12 +69,13 @@ to all participants and winners, and we look forward to seeing you next
 year!</p>
 <p><strong>Deyi’s Got Talent! Class winners and group finalists</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_DGT_Pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_DGT_Pic_1_v2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_DGT_Pic_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_DGT_Pic_2_v2.jpg">
 </div>
 <p></p>
 <p><strong>Aesthetic Assembly Programme</strong>&nbsp;
