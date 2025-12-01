@@ -73,6 +73,7 @@ year!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_DGT_Pic_1_v2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Program/LLP/2025_DGT_Pic_2_v2.jpg">
 </div>
