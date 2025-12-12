@@ -29,6 +29,7 @@ sections:
       subtitle: 22 December 2025
       id: infopic
       image: /images/Main Page (Announcements)/2025_e_Registration_v2.jpg
+      alt: e-registration
   - resources:
       title: DEYI MEDIA
       button: more
