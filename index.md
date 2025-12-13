@@ -25,13 +25,11 @@ sections:
       alignment: right
       backgroundColor: white
   - infopic:
-      title: Deyi Open House
+      title: Sec 1 e-Registration
+      subtitle: 22 December 2025
       id: infopic
-      description: 29 November 2025
-      image: /images/Main Page (Announcements)/2025_Open_House_Infopic.jpg
-      alt: Image alt text
-      button: Deyi Open House Microsite
-      url: https://deyiict.wixsite.com/openhouse
+      image: /images/Main Page (Announcements)/2025_e_Registration_v2.jpg
+      alt: e-registration
   - resources:
       title: DEYI MEDIA
       button: more
