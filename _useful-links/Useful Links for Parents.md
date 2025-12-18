@@ -54,6 +54,10 @@ variant: tiptap
 <p><a href="/files/Useful Links/UL Parents/2025_Work_notice_AMK_St_42_Closure.pdf" rel="noopener nofollow" target="_blank">Temporary Closure Of Ang Mo Kio (AMK) St 42 Access To And From AMK Ave 3</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/drive/folders/13n0MEGnXIIcEnClmYghohXErGLU4mnet?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1 e-Registration</a>
+</p>
+</li>
 </ul>
 <h3>Academic Links:</h3>
 <ul>
