@@ -25,7 +25,7 @@ sections:
       alignment: right
       backgroundColor: white
   - infopic:
-      title: Sec 1 e-Registration
+      title: 2026 Sec 1 e-Registration
       subtitle: 22 December 2025
       id: infopic
       image: /images/Main Page (Announcements)/2025_e_Registration_v2.jpg
