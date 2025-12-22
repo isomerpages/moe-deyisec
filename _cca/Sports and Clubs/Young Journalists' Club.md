@@ -3,7 +3,7 @@ title: Young Journalists' Club
 permalink: /cca/sports-and-clubs/young-journalists-club/
 description: ""
 third_nav_title: Sports and Clubs
-variant: markdown
+variant: tiptap
 ---
 <p>The Young Journalists’ Club at Deyi Secondary School offers an immersive
 foray into the dynamic fields of digital photography, videography, and
@@ -168,7 +168,9 @@ forward a culture of care and engagement.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/Honourable_mention.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -176,6 +178,19 @@ forward a culture of care and engagement.</p>
 <p>Our videographers working hard</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Our School Our Stories Honourable Mention Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/Beyond_the_classroom.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
