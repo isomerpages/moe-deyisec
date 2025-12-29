@@ -17,7 +17,7 @@ provided to our members, as we recognize the importance of inculcating
 <p><strong>Teachers-in-charge:</strong> 
 <br>Mr Alvin Khoo (OIC)
 <br>Miss Carol Chong (AIC)
-<br>Ms Yvon Chew</p>
+<br>Mr Lau Jeng Sang</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Odd Week Tuesdays, Even Week Tuesdays and Even Week Thursdays 2.40 pm
 – 5.15 pm</p>
