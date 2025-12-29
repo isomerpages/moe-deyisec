@@ -15,7 +15,7 @@ on and off the court. They will learn to stay calm and composed in face
 of adversity and be adaptable; always ready to face different opponents.</p>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Mdm Azlina Bee (OIC)
-<br>Mdm Koh Gek Meng Ruth
+<br>Mdm Koh Gek Meng Ruth (AIC)
 <br>Mr Lim Hong Guan Andy</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm
