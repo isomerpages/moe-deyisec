@@ -32,32 +32,15 @@ and making enduring memories.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/School%20Band/img_7957.JPG">
 </div>
 <p><strong>Teachers-in-charge:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Ler Kai Ming Gavin (OIC)</p>
-</li>
-<li>
-<p>Miss Guo Zhen (AIC)</p>
-</li>
-<li>
-<p>Mdm Adeline Teo Li Ching (AIC)</p>
-</li>
-<li>
-<p>Miss Bertha Kwok</p>
-</li>
-<li>
-<p>Miss Shih Kai Lin</p>
-</li>
-<li>
-<p>Mr Nigel Lim</p>
-</li>
-<li>
-<p>Mr Shankar Pehrinparaj
+<br>Mr Ler Kai Ming Gavin (OIC)
+<br>Miss Guo Zhen (AIC)
+<br>Mdm Adeline Teo Li Ching (AIC)
+<br>Miss Bertha Kwok
+<br>Miss Shih Kai Lin
+<br>Mr Nigel Lim
+<br>Mr Shankar Pehrinparaj
 <br>
 </p>
-</li>
-</ul>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 6.00 pm</p>
 <ul data-tight="true" class="tight">
