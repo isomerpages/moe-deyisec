@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main Banner/2025_Banner_3_5s.gif
+      background: /images/Main Banner/2026_Main_Banner.gif
       key_highlights:
         - title: For Students
           description: ""
