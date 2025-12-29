@@ -28,18 +28,11 @@ them to succeed in all walks of life.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/WhatsApp_Image_2024_04_09_at_15_50_01.jpg">
 </div>
 <p><strong>Teachers-in-charge:</strong> 
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Derrick Tan (OIC)
-<br>
-</p>
-</li>
-<li>
-<p>Mr Moh Wei Ping (AIC)</p>
-</li>
-</ul>
+<br>Mr Derrick Tan (OIC)
+<br>Mr Moh Wei Ping (AIC)
+<br>Ms Christine Kwok
+<br>Ms Lim Lixin</p>
+<p></p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.45pm – 5.45pm</p>
 <p><strong>Competitions / Achievements:</strong>
