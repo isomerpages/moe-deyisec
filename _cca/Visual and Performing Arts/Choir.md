@@ -26,14 +26,13 @@ achievement.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Ng Hwei Sung (OIC)
-<br>
-</p>
+<p>Mdm Ng Hwei Sung (OIC)</p>
 </li>
 <li>
-<p>Ms Harinder Kaur Dollie (AIC)
-<br>
-</p>
+<p>Ms Harinder Kaur Dollie (AIC)</p>
+</li>
+<li>
+<p>Mr Andronicus Tang</p>
 </li>
 </ul>
 <p><strong>Weekly Schedule:</strong> 
