@@ -35,10 +35,13 @@ and making enduring memories.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Miss Guo Zhen (OIC)</p>
+<p>Mr Ler Kai Ming Gavin (OIC)</p>
 </li>
 <li>
-<p>Mr Ler Kai Ming Gavin (AIC)</p>
+<p>Miss Guo Zhen (AIC)</p>
+</li>
+<li>
+<p>Mdm Adeline Teo Li Ching (AIC)</p>
 </li>
 <li>
 <p>Miss Bertha Kwok</p>
@@ -47,10 +50,10 @@ and making enduring memories.</p>
 <p>Miss Shih Kai Lin</p>
 </li>
 <li>
-<p>Mdm Adeline Teo Li Ching</p>
+<p>Mr Nigel Lim</p>
 </li>
 <li>
-<p>Mr Nigel Lim
+<p>Mr Shankar Pehrinparaj
 <br>
 </p>
 </li>
