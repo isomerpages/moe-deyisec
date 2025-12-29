@@ -204,10 +204,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Lim Ju Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Geography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Yvon Chew Yi Ni</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head / Aesthetics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Yu Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Chemistry (Lower Sec)</p>
 </td>
 </tr>
 <tr>
