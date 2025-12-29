@@ -180,10 +180,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Derek Lim Liang Hao</p>
+<p>Miss Guo Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Lower Secondary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Derek Lim Liang Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Physical Education</p>
 </td>
 </tr>
 <tr>
