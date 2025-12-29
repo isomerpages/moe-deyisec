@@ -31,10 +31,8 @@ on the environment.</p>
 <br>Mdm Neo Poh Hong (OIC of Eco Stewardship)
 <br>Mdm Quek Li Yi (Mrs Joanne Gan)
 <br>Miss Anne Tan Bee Wan
-<br>Miss Tan Shu Fang Vion
-<br>Mdm Arkodilah Bte Adiman
-<br>Mr Abdul Rahim
-<br>Mr Abdul Shukor Yusof</p>
+<br>
+</p>
 <p></p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.15 pm</p>
