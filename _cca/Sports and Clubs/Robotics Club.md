@@ -29,8 +29,8 @@ our members are well-prepared for the challenges of a rapidly evolving
 digital landscape.</p>
 <p></p>
 <p><strong>Teachers-in-charge:</strong>
-<br>Mr Reeve Ng (OIC)
-<br>Mr M Ravinthran (AIC)</p>
+<br>Mr M Ravinthran (OIC)
+<br>Mr Wong Jinfa</p>
 <p><strong>Weekly Schedule:<br></strong>Every Tuesday and Thursday 2.45 pm
 - 5.15 pm</p>
 <p></p>
