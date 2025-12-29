@@ -37,7 +37,7 @@ forward a culture of care and engagement.</p>
 <p>Miss Tay Wan Ling (AIC)</p>
 </li>
 <li>
-<p>Miss Pua Jia Ying
+<p>Mr Abdul Malek Bin Ahamd
 <br>
 </p>
 </li>
