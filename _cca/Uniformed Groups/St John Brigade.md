@@ -31,7 +31,7 @@ in their future endeavors.</p>
 <br>Mr Chang Seow Kuen (OIC)
 <br>Mr Koh Yu Han (AIC)
 <br>Mdm Rajakumari
-<br>Mr Paul Tan
+<br>Mr Paul Tan Kok Meng
 <br>
 </p>
 <p><strong>Weekly Schedule:</strong> 
