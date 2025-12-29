@@ -14,7 +14,8 @@ knowledge ensures that our students are not only contributors to but also
 leaders in the orchestration of our school's vibrant community events.</p>
 <p><strong>Teachers-in-charge</strong>:
 <br>Mr Wong Choo Kok (OIC)
-<br>Mr Wong Jinfa (AIC)
+<br>Ms Sim Hui Yin
+<br>Mr Muhammad Sufiyan Bin Supangal
 <br>
 </p>
 <p><strong>Weekly Schedule</strong>:
