@@ -247,7 +247,7 @@ variant: tiptap
 <p>Mdm Quek Li Yi Joanne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Science</p>
+<p>Subject Head / Biology/Chemistry</p>
 </td>
 </tr>
 <tr>
