@@ -28,30 +28,12 @@ equipping our cadets with these essential skills and values, we prepare
 them to lead with confidence and compassion, both within the Brigade and
 in their future endeavors.</p>
 <p><strong>Teachers-in-charge:</strong> 
+<br>Mr Chang Seow Kuen (OIC)
+<br>Mr Koh Yu Han (AIC)
+<br>Mdm Rajakumari
+<br>Mr Paul Tan Kok Meng
 <br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Chang Seow Kuen (OIC)
-<br>
-</p>
-</li>
-<li>
-<p>Mr Koh Yu Han (AIC)
-<br>
-</p>
-</li>
-<li>
-<p>Mdm Rajakumari
-<br>
-</p>
-</li>
-<li>
-<p>Miss Hannah Liu
-<br>
-</p>
-</li>
-</ul>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday &amp; Thursday 2.45 pm – 5.45 pm</p>
 <p></p>

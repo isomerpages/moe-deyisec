@@ -14,8 +14,9 @@ and courage to overcome challenges in life.
 on and off the court. They will learn to stay calm and composed in face
 of adversity and be adaptable; always ready to face different opponents.</p>
 <p><strong>Teachers-in-charge:</strong> 
-<br>Mr Tay Eng Leng (OIC)
-<br>Mdm Azlina Bee (AIC)</p>
+<br>Mdm Azlina Bee (OIC)
+<br>Mdm Koh Gek Meng Ruth (AIC)
+<br>Mr Lim Hong Guan Andy</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm
 <br>Selected Fridays 1.30 pm – 5.00 pm</p>
@@ -51,7 +52,11 @@ Championships (2022)</p>
 (2022)</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">

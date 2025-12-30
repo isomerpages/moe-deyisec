@@ -25,7 +25,9 @@ setting the stage for a lifetime of success and camaraderie.</p>
 </div>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Ms Jeanette Lee (OIC)
-<br>Mdm Saliha Parveen (AIC)</p>
+<br>Mdm Saliha Parveen (AIC)
+<br>Ms Joyce Ng Sok Kian (AIC)
+<br>Mr Daniel Chia</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.50 pm – 5.30 pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Competitions / Achievements:</strong> 

@@ -180,10 +180,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Derek Lim Liang Hao</p>
+<p>Miss Guo Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Lower Secondary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Derek Lim Liang Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Physical Education</p>
 </td>
 </tr>
 <tr>
@@ -196,10 +204,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Lim Jun Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Geography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Yvon Chew Yi Ni</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head / Aesthetics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Yu Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Chemistry (Lower Sec)</p>
 </td>
 </tr>
 <tr>
@@ -223,7 +247,7 @@ variant: tiptap
 <p>Mdm Quek Li Yi Joanne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Science</p>
+<p>Subject Head / Biology/Chemistry</p>
 </td>
 </tr>
 <tr>

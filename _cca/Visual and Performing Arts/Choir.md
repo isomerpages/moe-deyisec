@@ -22,20 +22,9 @@ their school with pride. Through these experiences, Deyi Choir members
 embark on a journey of personal growth, artistic expression, and communal
 achievement.</p>
 <p><strong>Teachers-in-charge:</strong> 
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mdm Ng Hwei Sung (OIC)
-<br>
-</p>
-</li>
-<li>
-<p>Ms Harinder Kaur Dollie (AIC)
-<br>
-</p>
-</li>
-</ul>
+<br>Mdm Ng Hwei Sung (OIC)
+<br>Ms Harinder Kaur Dollie (AIC)
+<br>Mr Andronicus Tang</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday at 2.45 pm - 5.45 pm</p>
 <p><strong>Competitions / Achievements:</strong>

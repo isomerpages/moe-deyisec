@@ -35,28 +35,11 @@ Band to perform in the 2023 National Day Parade.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/6.jpg">
 </div>
 <p><strong>Teachers-in-charge:</strong> 
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mrs Lee Boon Jer (OIC)
-<br>
-</p>
-</li>
-<li>
-<p>Mdm Jainul Banu (AIC)
-<br>
-</p>
-</li>
-<li>
-<p>Miss Zhang Qianwei
-<br>
-</p>
-</li>
-<li>
-<p>Miss Claire Soh</p>
-</li>
-</ul>
+<br>Mrs Lee Boon Jer (OIC)
+<br>Mdm Jainul Banu (AIC)
+<br>Mdm Lim Eng Choo
+<br>Ms Veronica Tan Huay Lee</p>
+<p></p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.45 pm – 5.45 pm</p>
 <p><strong>Competitions / Achievements:</strong>

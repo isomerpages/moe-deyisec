@@ -27,8 +27,9 @@ of a supportive sports education.</p>
 </div>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Mdm Siti Farhanah (OIC)
-<br>Ms Heike Boon (AIC)
-<br>Ms Oh Ying Jie</p>
+<br>Mr Edwin Teo Han Yang (AIC)
+<br>Ms Oh Ying Jie
+<br>Ms Christine Kwok</p>
 <p></p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.45 pm – 5.30 pm

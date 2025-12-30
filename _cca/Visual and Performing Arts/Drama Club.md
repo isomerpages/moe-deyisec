@@ -29,15 +29,11 @@ more possibilities to play on stage.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Drama Club/dimage3.jpg">
 </div>
 <p><strong>Teachers-in-charge:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Miss Nur'ain (OIC)</p>
-</li>
-<li>
-<p>Mdm Abirami</p>
-</li>
-</ul>
+<br>Miss Nur'ain (OIC)
+<br>Mdm Abirami
+<br>Mr Hamsani Bin Raoh
+<br>Ms Yvon Chew Yi Ni</p>
+<p></p>
 <p><strong>Weekly Schedule:</strong>
 </p>
 <ul data-tight="true" class="tight">

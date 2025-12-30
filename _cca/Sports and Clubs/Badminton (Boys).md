@@ -31,6 +31,13 @@ ensuring they carry these values forward into their futures.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>South Zone 2025 Badminton Competition B Division (Boys)&nbsp;</p>
+</li>
+<li>
+<p>National School Games 2025 Competition C Division Badminton Boys - League
+2</p>
+</li>
+<li>
 <p>South Zone 2024 Badminton Competition B Division (Boys)&nbsp;</p>
 </li>
 <li>
@@ -51,15 +58,15 @@ ensuring they carry these values forward into their futures.</p>
 </li>
 <li>
 <p>South Zone 2021 Badminton Competition C Division (Boys) - Top 8</p>
-</li>
-<li>
-<p>South Zone Cluster Games held at RI for Sec 1 (Boys): Silver (2nd Position),
-Bronze (3rd Position) and 4th Position</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Other Notable Activities:</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Deyi Open Tournament 2025 (B Division and C Division)</p>
+</li>
 <li>
 <p>South Zone friendly matches held in Deyi with Guangyang Sec and Yio Chu
 Kang Sec</p>

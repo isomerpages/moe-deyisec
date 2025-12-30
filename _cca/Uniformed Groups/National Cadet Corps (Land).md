@@ -26,8 +26,10 @@ journey of personal growth and community service.</p>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Mr Clarence Gan (OIC)
 <br>Mdm Norayu Omar (AIC)
+<br>Mr Lim Jun Yu
 <br>Mr Adrian Tong Keh Huei
-<br>Mr Lim Jun Yu</p>
+<br>
+</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday &amp; Thursday 2.45 pm – 5.30 pm</p>
 <p><strong>Competitions / Achievements:</strong>
