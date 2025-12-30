@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="50%" alt="" src="/images/About Us/45_banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/School_pic.png">
 </div>
 <p><em>“If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”</em>
 <br>- Antoine de Saint-Exupéry</p>
