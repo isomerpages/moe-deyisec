@@ -11,4 +11,5 @@ All claims should be submitted as soon as possible subjected to a cap of
 365 days from the date of accident. &nbsp;&nbsp;</p>
 <p><a href="/files/Useful%20Links/UL%20Parents/2025_GPA_Product_Fact_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">GPA Product Fact Sheet 2026</a>
 <br><a href="/files/Student%20GPA%20User%20Guide%20Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">User guide for claim submission</a>
+<a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
