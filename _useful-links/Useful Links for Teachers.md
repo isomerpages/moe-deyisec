@@ -2,23 +2,81 @@
 title: Useful Links for Teachers
 permalink: /useful-links/useful-links-for-teachers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Administrative Links: 
-* [Ministry of Education Intranet](https://intranet.moe.gov.sg/)
-* [School Cockpit](https://schoolcockpit.moe.gov.sg/)
-* [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)
-* [SEAB iExam 2](https://iexams.seab.gov.sg/sso/login)
-* [SEAB Exam Personnel Portal](https://myexamduty.seab.gov.sg)
-* [HR Portal](https://www.hrp.gov.sg/hrp/)
-* [Google Workspace](https://workspace.google.com/dashboard)
-* [Student Learning Space](https://vle.learning.moe.edu.sg/login)
-* [Singapore Teaching Practice](http://go.gov.sg/stp)
-* [Ministry of Education Sports and Recreation Club](https://www.mesrc.net/)  
-* [Parents Gateway](https://pg.moe.edu.sg/)   
-* [Resource Booking System](https://rbs.avero-tech.com/)
-* [All Ears Form Builder](https://forms.moe.edu.sg/)
-* [ICT Loan Request Form](https://go.gov.sg/deyiictloan)
-* [AV Request](https://go.gov.sg/deyiavrequest)
-* [Website Update Request](https://go.gov.sg/deyiwebsiterequest)
-* [Digital Signage Content Refresh Request](https://drive.google.com/drive/folders/1N2bZkRZNVkJhkEOczZvGJ8fBNVQM828u?usp=sharing)
+<h3>Administrative Links:</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education Intranet</a>
+</p>
+</li>
+<li>
+<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>
+</p>
+</li>
+<li>
+<p><a href="https://iexams.seab.gov.sg/sso/login" rel="noopener noreferrer nofollow" target="_blank">SEAB iExam 2</a>
+</p>
+</li>
+<li>
+<p><a href="https://myexamduty.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SEAB Exam Personnel Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.hrp.gov.sg/hrp/" rel="noopener noreferrer nofollow" target="_blank">HR Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Google Workspace</a>
+</p>
+</li>
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
+</p>
+</li>
+<li>
+<p><a href="http://go.gov.sg/stp" rel="noopener noreferrer nofollow" target="_blank">Singapore Teaching Practice</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education Sports and Recreation Club</a>
+</p>
+</li>
+<li>
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
+</p>
+</li>
+<li>
+<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System</a>
+</p>
+</li>
+<li>
+<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">All Ears Form Builder</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/deyiictloan" rel="noopener noreferrer nofollow" target="_blank">ICT Loan Request Form</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/deyiavrequest" rel="noopener noreferrer nofollow" target="_blank">AV Request</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/deyiwebsiterequest" rel="noopener noreferrer nofollow" target="_blank">Website Update Request</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/drive/folders/1N2bZkRZNVkJhkEOczZvGJ8fBNVQM828u?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Digital Signage Content Refresh Request</a>
+</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/695133970d6499a9d3707313" rel="noopener noreferrer nofollow" target="_blank">Deyi Sec Sch Canteen Feedback Form | FormSG</a>
+</p>
+</li>
+</ul>
+<p></p>
