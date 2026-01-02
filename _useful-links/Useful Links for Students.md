@@ -54,6 +54,10 @@ variant: tiptap
 <p><a href="/files/Useful Links/UL Students/School_Holiday_Kit_pdf.pdf" rel="noopener nofollow" target="_blank">The Cool Down Kit(Your guide to stay well during the holidays)</a>
 </p>
 </li>
+<li>
+<p><a href="https://form.gov.sg/695133970d6499a9d3707313" rel="noopener noreferrer nofollow" target="_blank">Deyi Sec Sch Canteen Feedback Form | FormSG</a>
+</p>
+</li>
 </ul>
 <h4>Academic Links:</h4>
 <ul data-tight="true" class="tight">
