@@ -8,9 +8,8 @@ variant: tiptap
 <p>Congratulations to Alger Goh Jun Jie, Chua Zi Huang, Goh Yu Xuan, Loo
 Yu Ze, Ong Li Heng, Quek Cheng Bin Javian, Sharlene Lam Xin Ping, Clement
 Lim Wei Chien, Keoni Wu Yongming, Koh Le Jie and Wong Lian Sheng who have
-[NYP](https://staging-lite.d1bg10hvrz09rm.amplifyapp.com/achievements/our-alumni/)
-![](/images/Achievements/Deyi_Graduates_NYP.png)excelled at <a href="https://staging-lite.d1bg10hvrz09rm.amplifyapp.com/achievements/our-alumni/" rel="noopener nofollow" target="_blank">NYP</a>
-<a href="/files/Achievements/Our%20Alumni/deyi%20graduates%20at%20nyp.pdf" rel="noopener nofollow" target="_blank">.</a>
+excelled at <a href="https://staging-lite.d1bg10hvrz09rm.amplifyapp.com/achievements/our-alumni/" rel="noopener nofollow" target="_blank">NYP</a>
+<a href="/files/Achievements/Our%20Alumni/deyi%20graduates%20at%20nyp.pdf" rel="noopener nofollow" target="_blank">.</a><a href="/files/Achievements/Our Alumni/deyi graduates at nyp.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 <p>Congratulations to Glenn Kong Jia Le, Lim Yu Kiat, James Nathan Nora,
 Tung Yu Feng, and Lim En Ling for their Outstanding Performance at the
