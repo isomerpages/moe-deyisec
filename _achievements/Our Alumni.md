@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>Achievements</h3>
+<p>Congratulations to Alger Goh Jun Jie, Chua Zi Huang, Goh Yu Xuan, Loo
+Yu Ze, Ong Li Heng, Quek Cheng Bin Javian, Sharlene Lam Xin Ping, Clement
+Lim Wei Chien, Keoni Wu Yongming, Koh Le Jie and Wong Lian Sheng who have
+excelled at <a href="/files/Achievements/Our Alumni/deyi graduates at nyp.pdf" rel="noopener nofollow" target="_blank">NYP.</a>
+</p>
 <p>Congratulations to Glenn Kong Jia Le, Lim Yu Kiat, James Nathan Nora,
 Tung Yu Feng, and Lim En Ling for their Outstanding Performance at the
 GCE <a href="https://staging.d3sil9pzbw3lij.amplifyapp.com/images/Achievements/DEYI_SECONDARY_SCHOOL.png" rel="noopener nofollow" target="_blank">A-level Examinations</a>.</p>
