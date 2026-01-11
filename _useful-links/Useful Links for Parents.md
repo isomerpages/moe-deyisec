@@ -98,11 +98,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Useful%20Links/UL%20Parents/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ handbook on learning with PLD 1 (2026)</a>
+<p><a href="/files/Useful Links/UL Parents/Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ handbook on learning with PLD 1 (2026)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/UL Parents/ip3___parent_handbook__ii__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ handbook on learning with PLD 2 (2026)</a>
+<p><a href="/files/Useful Links/UL Parents/Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ handbook on learning with PLD 2 (2026)</a>
 </p>
 <p></p>
 </li>
