@@ -8,7 +8,7 @@ variant: markdown
 <p>Congratulations to Alger Goh Jun Jie, Chua Zi Huang, Goh Yu Xuan, Loo
 Yu Ze, Ong Li Heng, Quek Cheng Bin Javian, Sharlene Lam Xin Ping, Clement
 Lim Wei Chien, Keoni Wu Yongming, Koh Le Jie and Wong Lian Sheng who have
-excelled at NYP.</p>
+excelled at NYP.![[](/files/Achievements/Our%20Alumni/deyi%20graduates%20at%20nyp.pdf)](/images/Achievements/Deyi_Secondary_School_NYP.png)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Deyi_Secondary_School_NYP.png">
 </div>
