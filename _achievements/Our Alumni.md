@@ -8,7 +8,7 @@ variant: tiptap
 <p>Congratulations to Alger Goh Jun Jie, Chua Zi Huang, Goh Yu Xuan, Loo
 Yu Ze, Ong Li Heng, Quek Cheng Bin Javian, Sharlene Lam Xin Ping, Clement
 Lim Wei Chien, Keoni Wu Yongming, Koh Le Jie and Wong Lian Sheng who have
-excelled at <a href="/files/Achievements/Our Alumni/3228___Deyi_Secondary_School_HighRes.pdf" rel="noopener noreferrer nofollow" target="_blank">NYP!</a>
+excelled at <a href="/files/Achievements/Our Alumni/3228___Deyi_Secondary_School_HighRes.pdf" rel="noopener noreferrer nofollow" target="_blank">NYP.</a>
 </p>
 <p>Congratulations to Glenn Kong Jia Le, Lim Yu Kiat, James Nathan Nora,
 Tung Yu Feng, and Lim En Ling for their Outstanding Performance at the
