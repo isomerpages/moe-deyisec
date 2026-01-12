@@ -6,15 +6,16 @@ description: ""
 ---
 <p><a href="https://drive.google.com/drive/folders/1A0WycheYhO-oxGaedrc7PMYBRVsXVlkv?usp=sharing" rel="noopener nofollow" target="_blank">Click to access useful information on JAE, PFP, DPP and more.</a>
 </p>
-<p><strong>PRESS RELEASES ON 3 Jan 2025</strong>
+<p><strong>PRESS RELEASES ON 7 Jan 2026</strong>
 </p>
-<p><strong>Release of 2024 Singapore-Cambridge GCE O-Level Examination Results and 2025 Joint Admissions Exercise</strong>
+<p><strong>Release of 2025 Singapore-Cambridge GCE O-Level Examination Results and 2026 Joint Admissions Exercise</strong>
 </p>
-<p>1. The results of the 2024 Singapore-Cambridge General Certificate of
+<p>1. The results of the 2025 Singapore-Cambridge General Certificate of
 Education Ordinary Level (GCE O-Level) examination will be released on
-Friday, 10 January 2025, 2.30pm.</p>
+14 January 2026, 2.00pm.</p>
 <p><strong>Results Release for School Candidates</strong>
 </p>
+<p></p>
 <p>2. Arrangements have been made for school candidates to receive their
 results from their secondary schools from 2.30pm on Friday, 10 January
 2025. Details on the collection arrangements will be shared by the respective
