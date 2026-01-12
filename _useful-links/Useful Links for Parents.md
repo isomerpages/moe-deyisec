@@ -94,15 +94,15 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/drive/folders/1hDE5KZ-JBiHeMEgj01R_IPC7NAK6llag?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Parents Engagement Materials 2026</a>
+<p><a href="https://drive.google.com/drive/folders/1hDE5KZ-JBiHeMEgj01R_IPC7NAK6llag?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Parents Engagement Materials</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/UL Parents/Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ handbook on learning with PLD 1 (2026)</a>
+<p><a href="/files/Useful Links/UL Parents/Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ handbook on learning with PLD 1 </a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/UL Parents/Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ handbook on learning with PLD 2 (2026)</a>
+<p><a href="/files/Useful Links/UL Parents/Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ handbook on learning with PLD 2</a>
 </p>
 <p></p>
 </li>
