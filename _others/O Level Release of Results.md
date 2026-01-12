@@ -6,7 +6,7 @@ description: ""
 ---
 <p><a href="https://drive.google.com/drive/folders/1A0WycheYhO-oxGaedrc7PMYBRVsXVlkv?usp=sharing" rel="noopener nofollow" target="_blank">Click to access useful information on JAE, PFP, DPP and more.</a>
 </p>
-<p><strong>PRESS RELEASES ON 7 Jan 2026</strong>
+<p><strong>PRESS RELEASES ON 7 Jan 2026 </strong>
 </p>
 <p><strong>Release of 2025 Singapore-Cambridge GCE O-Level Examination Results and 2026 Joint Admissions Exercise</strong>
 </p>
@@ -45,10 +45,9 @@ System (JAE-IS) during the application period.</p>
 <p>7.&nbsp;The JAE-IS will be accessible from 4pm on 14 January 2026, to
 4.30pm on 19 January 2026 for applicants to submit their course choices
 through the JAE website at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>.
-Applicants are strongly encouraged to complete the JAE worksheet (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>)
-before submitting their online application. The JAE-IS can be accessed
-using Singpass. Applicants can find more information on the following MOE
-websites:</p>
+Applicants are strongly encouraged to complete the JAE worksheet (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>) before
+submitting their online application. The JAE-IS can be accessed using Singpass.
+Applicants can find more information on the following MOE websites:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>JAE website for more details on the JAE (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
@@ -185,7 +184,7 @@ they can make an ECG counselling appointment via the ECG Centre @ MOE at&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>. The ECG Centre @ MOE offers online or phone
 counselling services from 7 to 21 January 2026, from 9am to 5pm on weekdays
 and 9am to 12pm on Saturdays.</p>
-<p><strong><sup>1</sup>Form A will list the applicant’s gross aggregate scores for JC, MI, polytechnic, ITE aggregate types and courses which he/she is eligible to apply for under the JAE. </strong>
+<p><strong><sup>1</sup>Form A will list the applicant’s gross aggregate scores for JC, MI, polytechnic, ITE aggregate types and courses which he/she is eligible to apply for under the JAE.</strong>
 </p>
 <p><strong><sup>2</sup>&nbsp;More details on DSA-JC can be found at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-jc</a></strong>
 </p>
