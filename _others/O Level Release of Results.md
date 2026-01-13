@@ -4,9 +4,9 @@ permalink: /others/o-level-release-of-results/
 variant: tiptap
 description: ""
 ---
-<p><a href="https://drive.google.com/drive/folders/1A0WycheYhO-oxGaedrc7PMYBRVsXVlkv?usp=sharing" rel="noopener nofollow" target="_blank">Click to access useful information on JAE, PFP, DPP and more.</a>
+<p><a href="https://drive.google.com/drive/folders/18pWrONK5QZKa5KWj4IurCY1Bw7D29g9x" rel="noopener nofollow" target="_blank">Click to access useful information on JAE, PFP, DPP and more.</a>
 </p>
-<p><strong>PRESS RELEASES ON 7 Jan 2026 </strong>
+<p><strong>PRESS RELEASES ON 7 Jan 2026</strong>
 </p>
 <p><strong>Release of 2025 Singapore-Cambridge GCE O-Level Examination Results and 2026 Joint Admissions Exercise</strong>
 </p>
