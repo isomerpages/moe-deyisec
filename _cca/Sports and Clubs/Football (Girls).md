@@ -32,8 +32,9 @@ of a supportive sports education.</p>
 <br>Ms Christine Kwok</p>
 <p></p>
 <p><strong>Weekly Schedule:</strong> 
-<br>Every Tuesday and Thursday 2.45 pm – 5.30 pm
-<br>Odd Week Friday 3 pm – 5 pm</p>
+<br>Every Tuesday and Thursday 2.30 pm – 5.30 pm (C' Division)</p>
+<p>Every Tuesday and Thursday 3 pm – 5.45 pm (B' Division)
+<br>Odd Week Friday 2.30 pm – 5.30 pm</p>
 <p><strong>Competitions / Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -44,6 +45,10 @@ Award’ (2023)</p>
 <li>
 <p>National School Games C Division Girls’ Football Championship: ‘Fair Play
 Award’ (2023)</p>
+</li>
+<li>
+<p>National School Games B Division Girls’ Football Championship: ‘Fair Play
+Award’ (2025)</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
