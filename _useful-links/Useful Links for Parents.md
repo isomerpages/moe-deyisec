@@ -43,7 +43,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/drive/folders/1jHNRoCro6VLWncg2ogZqMVIppa6UlCPV?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Termly Info-sheet</a>
+<p><a href="https://drive.google.com/drive/folders/1-BljQlvzwqKovBbGM7vGTO1oC7pgXJrD?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Termly Info-sheet</a>
 </p>
 </li>
 <li>
