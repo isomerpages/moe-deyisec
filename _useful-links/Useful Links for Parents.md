@@ -43,7 +43,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://staging.d3sil9pzbw3lij.amplifyapp.com/others/termly-infosheet" rel="noopener noreferrer nofollow" target="_blank">Termly Info-sheet</a>
+<p><a href="https://drive.google.com/drive/folders/1jHNRoCro6VLWncg2ogZqMVIppa6UlCPV?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Termly Info-sheet</a>
 </p>
 </li>
 <li>
@@ -98,7 +98,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/UL Parents/Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ handbook on learning with PLD 1 </a>
+<p><a href="/files/Useful Links/UL Parents/Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ handbook on learning with PLD 1</a>
 </p>
 </li>
 <li>
