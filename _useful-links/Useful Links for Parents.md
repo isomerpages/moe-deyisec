@@ -43,7 +43,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://staging.d3sil9pzbw3lij.amplifyapp.com/others/termly-infosheet" rel="noopener noreferrer nofollow" target="_blank">Termly Info-sheet</a>
+<p><a href="https://drive.google.com/drive/folders/1-BljQlvzwqKovBbGM7vGTO1oC7pgXJrD?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Termly Info-sheet</a>
 </p>
 </li>
 <li>
@@ -98,13 +98,20 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/UL Parents/Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ handbook on learning with PLD 1 </a>
+<p><a href="/files/Useful Links/UL Parents/Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ handbook on learning with PLD 1</a>
 </p>
 </li>
 <li>
 <p><a href="/files/Useful Links/UL Parents/Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ handbook on learning with PLD 2</a>
 </p>
-<p></p>
+</li>
+<li>
+<p><a href="/files/Useful Links/UL Parents/1__AI_and_Your_Child_A_Quick_Guide_for_Parents.pdf" rel="noopener nofollow" target="_blank">A Quick Guide for Parents_AI and Your Child</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/UL Parents/2__Using_Generative_Artificial_Intelligence__Gen_AI__Tools_for_Learning___A_Parent_s_Guide.pdf" rel="noopener nofollow" target="_blank">Using Generative Artificial Intelligence Tools for Learning</a>
+</p>
 </li>
 </ul>
 <h3>Partnership Links:</h3>
