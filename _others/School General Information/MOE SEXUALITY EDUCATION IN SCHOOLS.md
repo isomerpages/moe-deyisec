@@ -844,4 +844,4 @@ at the start of the year and is also available <a href="/files/Others/2026_ANNEX
 completed form is to be submitted by&nbsp;<strong>13/02/2026</strong>.</p>
 <p>13.&nbsp; &nbsp;&nbsp;Parents can contact the school at&nbsp;deyi_ss@moe.edu.sg&nbsp;or
 call us at 6456 1565 for discussion or to seek clarification about the
-school’s sexuality education programme.</p>
+school’s Sexuality Education programme.</p>
