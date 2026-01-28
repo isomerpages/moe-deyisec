@@ -836,7 +836,7 @@ lessons, <em>eTeens</em> and/or supplementary sexuality education programmes
 by MOE-approved external providers.</p>
 <p>11.&nbsp; &nbsp;&nbsp;Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also available&nbsp;<a href="/files/Others/2026_ANNEX_A_Parent_Opt_out_Form_for_SEd_lessons.pdf" rel="noopener nofollow" target="_blank">here</a>.
+at the start of the year and is also available <a href="/files/Others/2026_ANNEX_A_Parent_Opt_out_Form_for_SEd_lessons.pdf" rel="noopener nofollow" target="_blank">here</a>.
 The completed form is to be submitted by&nbsp;<strong>13/02/2026</strong>.</p>
 <p>12.&nbsp; &nbsp;&nbsp;Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em> programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
