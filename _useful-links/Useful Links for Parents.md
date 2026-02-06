@@ -121,16 +121,20 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Parenting for Wellness Toolbox for Parents (condensed info)</p>
+<p><a href="" rel="noopener nofollow" target="_blank">Parenting for Wellness Toolbox for Parents (condensed info)</a>
+</p>
 </li>
 <li>
-<p>Parenting for Wellness Website (full content)</p>
+<p><a href="" rel="noopener nofollow" target="_blank">Parenting for Wellness Website (full content)</a>
+</p>
 </li>
 <li>
-<p>MOE YouTube video (support the social-emotional learning of our children)</p>
+<p><a href="" rel="noopener nofollow" target="_blank">MOE YouTube video (support the social-emotional learning of our children)</a>
+</p>
 </li>
 <li>
-<p>MOE Parent Kit</p>
+<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener nofollow" target="_blank">MOE Parent Kit</a>
+</p>
 </li>
 </ul>
 <p></p>
