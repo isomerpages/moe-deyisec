@@ -120,5 +120,21 @@ variant: tiptap
 <p><a href="https://staging.d3sil9pzbw3lij.amplifyapp.com/others/snacks-for-break-time" rel="noopener noreferrer nofollow" target="_blank">Snacks for Break Time</a>
 </p>
 </li>
+<li>
+<p><a href="" rel="noopener nofollow" target="_blank">Parenting for Wellness Toolbox for Parents (condensed info)</a>
+</p>
+</li>
+<li>
+<p><a href="" rel="noopener nofollow" target="_blank">Parenting for Wellness Website (full content)</a>
+</p>
+</li>
+<li>
+<p><a href="" rel="noopener nofollow" target="_blank">MOE YouTube video (support the social-emotional learning of our children)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener nofollow" target="_blank">MOE Parent Kit</a>
+</p>
+</li>
 </ul>
 <p></p>
