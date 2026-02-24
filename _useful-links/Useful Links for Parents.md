@@ -73,7 +73,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/UL Parents/2025_EOY_Exam_Timetable_Sec__1.pdf" rel="noopener nofollow" target="_blank">End of Year  Exam Timetable </a>(Secondary
+<p><a href="/files/Useful Links/UL Parents/2025_EOY_Exam_Timetable_Sec__1.pdf" rel="noopener nofollow" target="_blank">End of Year Exam Timetable </a>(Secondary
 1)</p>
 </li>
 <li>
@@ -85,7 +85,7 @@ variant: tiptap
 3)</p>
 </li>
 <li>
-<p><a href="/files/Useful Links/UL Parents/Prelim_Exam_Timetable_2025.pdf" rel="noopener nofollow" target="_blank"> Preliminary Examination Timetable </a>(Secondary
+<p><a href="/files/Useful Links/UL Parents/Prelim_Exam_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">Preliminary Examination Timetable </a>(Secondary
 4)</p>
 </li>
 </ul>
@@ -146,12 +146,6 @@ variant: tiptap
 <p><strong>4 Others:</strong>
 </p>
 <p>4.1 Health, Safety &amp; Public Notices</p>
-<ul>
-<li>
-<p></p>
-</li>
-</ul>
-<h3>Partnership Links:</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Working%20Together%20to%20Prevent%20Dengue.pdf" rel="noopener noreferrer nofollow" target="_blank">Dengue Prevention</a>
