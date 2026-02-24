@@ -48,15 +48,15 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents%20Gateway_installation%20guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Gateway Installation Guide</a>
-</p>
-</li>
-<li>
 <p><a href="https://drive.google.com/drive/folders/1hDE5KZ-JBiHeMEgj01R_IPC7NAK6llag?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Parents Engagement Materials (Jan)</a>
 </p>
 </li>
 <li>
 <p><a href="https://drive.google.com/drive/folders/1-BljQlvzwqKovBbGM7vGTO1oC7pgXJrD?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Termly Info-sheet</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents%20Gateway_installation%20guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Gateway Installation Guide</a>
 </p>
 </li>
 <li>
@@ -157,11 +157,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Working%20Together%20to%20Prevent%20Dengue.pdf" rel="noopener noreferrer nofollow" target="_blank">Dengue Prevention</a>
+<p><a href="https://staging.d3sil9pzbw3lij.amplifyapp.com/others/snacks-for-break-time" rel="noopener noreferrer nofollow" target="_blank">Snacks for Break Time</a>
 </p>
 </li>
 <li>
-<p><a href="https://staging.d3sil9pzbw3lij.amplifyapp.com/others/snacks-for-break-time" rel="noopener noreferrer nofollow" target="_blank">Snacks for Break Time</a>
+<p><a href="/files/Working%20Together%20to%20Prevent%20Dengue.pdf" rel="noopener noreferrer nofollow" target="_blank">Dengue Prevention</a>
 </p>
 </li>
 <li>
