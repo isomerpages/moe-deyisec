@@ -7,7 +7,8 @@ variant: tiptap
 <h3>School Information &amp; Resources:</h3>
 <p><strong>1. School Administration</strong>
 </p>
-<p>1.1 School Policies &amp; General Information</p>
+<p><strong><em>1.1 School Policies &amp; General Information</em></strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://staging.d3sil9pzbw3lij.amplifyapp.com/others/school-general-information/" rel="noopener noreferrer nofollow" target="_blank">School General Information</a>
@@ -18,7 +19,8 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>1.2 Student Administration ( Financial Support and Protection Plan)</p>
+<p><strong><em>1.2 Student Administration ( Financial Support and Protection Plan)</em></strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://staging.d3sil9pzbw3lij.amplifyapp.com/others/school-group-student-protection-plan-claim-procedure-schools" rel="noopener noreferrer nofollow" target="_blank">School Group Student Protection Plan Claim Procedure (Schools)</a>
@@ -34,14 +36,16 @@ variant: tiptap
 <p></p>
 </li>
 </ul>
-<p>1.3 Student Resources &amp; Logistics</p>
+<p><strong><em>1.3 Student Resources &amp; Logistics</em></strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://staging.d3sil9pzbw3lij.amplifyapp.com/others/school-textbooks-and-school-attires" rel="noopener noreferrer nofollow" target="_blank">School textbooks and School attires</a>
 </p>
 </li>
 </ul>
-<p>1.4 Parent Communication &amp; Engagement</p>
+<p><strong><em>1.4 Parent Communication &amp; Engagement</em></strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Parents%20Gateway_installation%20guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Gateway Installation Guide</a>
@@ -62,7 +66,8 @@ variant: tiptap
 </ul>
 <p><strong>2. Academic Information</strong>
 </p>
-<p>2.1 National Examinations and School-Based Assessments</p>
+<p><strong><em>2.1 National Examinations and School-Based Assessments</em></strong>
+</p>
 <ul>
 <li>
 <p><a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Examination Timetable</a>
@@ -90,7 +95,8 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p>2.2 Student Development &amp; Education Programmes</p>
+<p><strong><em>2.2 Student Development &amp; Education Programmes</em></strong>
+</p>
 <ul>
 <li>
 <p><a href="https://staging.d3sil9pzbw3lij.amplifyapp.com/others/school-general-information/moe-sexuality-education-in-schools/" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education</a>
@@ -100,7 +106,8 @@ variant: tiptap
 <p></p>
 <p><strong>3. Parent Resources</strong>
 </p>
-<p>3.1 Parenting for Student Well-Being</p>
+<p><strong><em>3.1 Parenting for Student Well-Being</em></strong>
+</p>
 <ul>
 <li>
 <p><a href="" rel="noopener nofollow" target="_blank">Parenting for Wellness Toolbox for Parents (condensed info)</a>
@@ -119,7 +126,8 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>3.2 Digital Learning, PLD, Cyber Wellness &amp; AI Literacy</p>
+<p><strong><em>3.2 Digital Learning, PLD, Cyber Wellness &amp; AI Literacy</em></strong>
+</p>
 <ul>
 <li>
 <p><a href="/files/Useful Links/UL Parents/Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ handbook on learning with PLD 1</a>
@@ -143,9 +151,10 @@ variant: tiptap
 <p></p>
 </li>
 </ul>
-<p><strong>4 Others:</strong>
+<p><strong>4. Others:</strong>
 </p>
-<p>4.1 Health, Safety &amp; Public Notices</p>
+<p><strong><em>4.1 Health, Safety &amp; Public Notices</em></strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Working%20Together%20to%20Prevent%20Dengue.pdf" rel="noopener noreferrer nofollow" target="_blank">Dengue Prevention</a>
