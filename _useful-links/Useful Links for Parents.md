@@ -48,7 +48,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/drive/folders/1hDE5KZ-JBiHeMEgj01R_IPC7NAK6llag?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Parents Engagement Materials (Jan)</a>
+<p><a href="https://drive.google.com/drive/folders/1hDE5KZ-JBiHeMEgj01R_IPC7NAK6llag?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Parents Engagement Materials</a>
 </p>
 </li>
 <li>
