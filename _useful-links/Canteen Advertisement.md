@@ -4,7 +4,7 @@ permalink: /canteen-advertisement/
 variant: tiptap
 description: ""
 ---
-<p><strong>Type of Stall</strong>: Noodle Stall</p>
+<p><strong>Type of Stall</strong>: Chinese Noodle Stall</p>
 <p><strong>Closing Date</strong>: 18 March 2026</p>
 <p><strong>Requirements</strong>: Non-Halal</p>
 <h3>Application Procedure:</h3>
