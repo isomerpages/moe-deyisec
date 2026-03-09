@@ -26,10 +26,10 @@ and life's myriad paths with poise and tenacity.</p>
 <p></p>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Ms Oh Jia Ling Amelia (OIC)
-<br>Mr Lim Heng Lai (OIC of Taekwondo Programme)
+<br>Mr Lim Heng Lai (AIC)
 <br>Mr Lee Uei Suen Wilson</p>
 <p><strong>Weekly Schedule:</strong> 
-<br>Every Tuesday and Thursday 2.50pm – 5.15pm</p>
+<br>Every Tuesday and Thursday 2.45pm – 5.15pm</p>
 <p><strong>Notable Activities:</strong>
 </p>
 <p><strong>Trekking:</strong> Students explore Singapore's scenic trails through
@@ -42,9 +42,11 @@ self-defense skills through Taekwondo, a martial art that emphasizes respect,
 perseverance, and mental fortitude.</p>
 <p><strong>Archery:</strong> Students discover the discipline and focus of
 archery, a sport that sharpens concentration and coordination.</p>
-<p><strong>Dragon Boat: </strong>Students experience the unity and strength
-of dragon boating, an activity that highlights teamwork, endurance, and
-cultural appreciation.</p>
+<p><strong>Recreational Sea Kayaking: </strong>An adventurous water sport
+that offers physical endurance and adrenaline. Kayaking in groups fosters
+coordination and clear communicative skills for safety and efficiency.&nbsp;
+Participating in beach cleanups by sea kayaking provides direct insights
+into the importance of protecting natural&nbsp;aquatic environments.</p>
 <p><strong>Highlights:</strong>
 </p>
 <div class="isomer-card-grid">
