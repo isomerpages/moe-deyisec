@@ -21,7 +21,12 @@ skills are developed with Deyi’s FM Live (‘Our Channel, Our Voices’) and
 live broadcasts of special events (e.g., National Day, Teachers’ Day Celebrations)
 as well as technical production skills (e.g., live feeds and cutaways,
 sound management).</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -86,15 +91,12 @@ institutions (e.g., Ngee Ann, Singapore and Temasek Polytechnics’ Mass
 Communications, Film and Media courses) with the broadcast journalism skill-sets
 honed at Deyi.</p>
 <div class="iframe-wrapper">
-<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7A70YxTdHn0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="360" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7A70YxTdHn0"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uwlJUkSUWbI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="360" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uwlJUkSUWbI"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OpLpt5g7i8A"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe height="500" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNVC5bHtqGRSaEou_XdZzT0NCjuotSW4l2daeActmzGMt_gvW4M0iRMhottx4P4n_EE7mjev8vPZ2i/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OpLpt5g7i8A"></iframe>
 </div>
 <p></p>
