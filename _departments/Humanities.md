@@ -213,9 +213,6 @@ as symbols of our commitment to building a sustainable future.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Raffles Policy Dialogue 2023 on the Hustle culture</p>
-</li>
-<li>
 <p>RGS Southeast Asia Symposium</p>
 </li>
 <li>
@@ -232,7 +229,10 @@ School</p>
 <p>iTourism by Republic Polytechnic</p>
 </li>
 <li>
-<p>Historical Scene Investigation Challenge 2023 (Silver award)</p>
+<p>Historical Scene Investigation Challenge</p>
+</li>
+<li>
+<p>Student Archivist Project</p>
 </li>
 </ul>
 <p></p>
