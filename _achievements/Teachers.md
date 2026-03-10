@@ -32,18 +32,18 @@ description: ""
 <p></p>
 <h4><strong>2024 Most Inspiring Tamil Teacher Award</strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mdm Jainul" src="/images/Inspiring.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mdm Jainul" src="/images/InspringTeacher.jpg">
+</div>
 <h4><strong>2024 MOE Service Excellent Awards</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gold" src="/images/Gold.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Silver" src="/images/Silver.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Silver" src="/images/Sliver.jpg">
 </div>
+<p></p>
 <p></p>
