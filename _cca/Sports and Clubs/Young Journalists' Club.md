@@ -116,8 +116,9 @@ Mention Award&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -131,6 +132,9 @@ Mention Award&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_05.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -138,6 +142,9 @@ Mention Award&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our family</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -151,10 +158,16 @@ Mention Award&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_07.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p>Supporting students every step of the way</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -168,6 +181,11 @@ Mention Award&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/Honourable_mention.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="WhatsApp Image 2026-01-22 at 8.30.29 AM.jpeg" src="https://mail.google.com/mail/u/0?ui=2&amp;ik=c27fadefae&amp;attid=0.0.2&amp;permmsgid=msg-f:1857969104585510105&amp;th=19c8d50e82784cd9&amp;view=fimg&amp;fur=ip&amp;permmsgid=msg-f:1857969104585510105&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ_4ZjipPMFO4MlXiCn0GYKk9RlJXL0MmISm0YqA79OdkyLiJmA4v90Rql-SUMb8I9NuisH5aJTzWjxKV1WQqOxcsPjM_giYzCgsJ0dhc6JcamVGtbRrVfrW6LQ&amp;disp=emb&amp;realattid=ii_mlzxoymt1&amp;zw">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -176,17 +194,23 @@ Mention Award&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Our School Our Stories 2025 - Honourable Mention Award</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/Beyond_the_classroom.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
