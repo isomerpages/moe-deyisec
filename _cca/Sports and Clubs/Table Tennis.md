@@ -27,10 +27,19 @@ setting the stage for a lifetime of success and camaraderie.</p>
 <br>Ms Jeanette Lee (OIC)
 <br>Mdm Saliha Parveen (AIC)
 <br>Ms Joyce Ng Sok Kian (AIC)
-<br>Mr Daniel Chia</p>
+<br>Mr Lau Jeng Seng</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.50 pm – 5.30 pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Competitions / Achievements:</strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>South Zone B Division National School Games Competition B Division Boys:
+4th Placing (2026)</p>
+</li>
+<li>
+<p>South Zone B Division National School Games Competition B Division Girls:
+4th Placing (2025)
 <br>• C Division National School Games (Girls and Boys) League 1: Top 16 (2024)
 <br>• South Zone B Division National School Games Competition B Division Girls:
 4th Placing (2024)
@@ -42,6 +51,8 @@ setting the stage for a lifetime of success and camaraderie.</p>
 3rd Placing (2022)
 <br>• South Zone B Division National School Games Competition B Division Girls
 and Boys: 4th Placing (2022)</p>
+</li>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
