@@ -95,7 +95,7 @@ Mention Award&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="5634" src="/images/EMR05634.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="5634" src="/images/EMR05634.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -125,7 +125,6 @@ Mention Award&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Our family" src="/images/Our_Family.jpg">
 </div>
@@ -151,12 +150,12 @@ Mention Award&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_08.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_08.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="group" src="/images/group.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="group" src="/images/group.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
