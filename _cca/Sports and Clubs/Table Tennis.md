@@ -30,7 +30,7 @@ setting the stage for a lifetime of success and camaraderie.</p>
 <br>Mr Lau Jeng Seng</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.50 pm – 5.30 pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>Competitions / Achievements:</strong> 
+<p><strong>Competitions / Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -105,6 +105,53 @@ and Boys: 4th Placing (2022)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overseas Table Tennis exchange in Kuala Lumpur 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_08_15_11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_08_14_44.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_08_11_26.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b45e5174_c6fa_4bfc_8452_1ed19af43c07.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b36965c2_bb63_4324_921e_1ec4e339c438.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
