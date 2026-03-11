@@ -151,7 +151,7 @@ Mention Award&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_08.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_08.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -183,18 +183,17 @@ Mention Award&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MA" src="/images/MemtionAward.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Our videographers working hard</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Our School Our Stories 2025 - Honourable Mention Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
