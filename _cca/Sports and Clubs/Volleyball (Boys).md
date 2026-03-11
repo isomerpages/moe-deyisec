@@ -15,6 +15,9 @@ the courage to overcome challenges — qualities that extend far beyond the
 game and into everyday life. Players are encouraged to persevere through
 tough drills, learn from mistakes, and continually strive for improvement,
 embracing a growth mindset in every aspect of their development.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="image.png" src="https://mail.google.com/mail/u/0?ui=2&amp;ik=c27fadefae&amp;attid=0.4&amp;permmsgid=msg-f:1857968941449658225&amp;th=19c8d4e886d0bf71&amp;view=fimg&amp;fur=ip&amp;permmsgid=msg-f:1857968941449658225&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ_HKKBNs66ysfihX1Yq0GpPkZqMXEK0ku_nJy-xwJC-VqIKV7gr-BPbnQCMjM5wwjkya9Q4XHcxL_G9EADITG92TXiUbCiwG3O6PyCll5Qr8GQobfprarSwD7A&amp;disp=emb&amp;realattid=ii_mlzxbk9g4&amp;zw">
+</div>
 <p><strong>Teachers-in-charge:</strong>
 <br>Mdm Nur Azlina Bee (OIC)
 <br>Mdm Koh Gek Meng Ruth (AIC)
@@ -70,4 +73,5 @@ Championship (2023)</p>
 Championships (2022)</p>
 </li>
 </ul>
+<p></p>
 <p></p>
