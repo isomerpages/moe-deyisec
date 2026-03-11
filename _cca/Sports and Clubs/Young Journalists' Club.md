@@ -49,7 +49,8 @@ forward a culture of care and engagement.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>National ‘Our Schools, Our Stories’ Photography Competition 2023</p>
+<p>National ‘Our Schools, Our Stories’ Photography Competition 2025 - Honourable
+Mention Award&nbsp;</p>
 </li>
 <li>
 <p>Singapore Youth Festival Photo and Video Challenge 2023</p>
@@ -77,9 +78,6 @@ forward a culture of care and engagement.</p>
 </li>
 <li>
 <p>Teachers’ Day Celebrations</p>
-</li>
-<li>
-<p>Live Broadcast on current affairs, school &amp; national events</p>
 </li>
 <li>
 <p>Videos for E-Noticeboard</p>
@@ -126,9 +124,7 @@ forward a culture of care and engagement.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_04.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -178,7 +174,7 @@ forward a culture of care and engagement.</p>
 <p>Our videographers working hard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our School Our Stories Honourable Mention Award</p>
+<p>Our School Our Stories 2025 - Honourable Mention Award</p>
 </td>
 </tr>
 <tr>
