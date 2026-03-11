@@ -95,7 +95,7 @@ Mention Award&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="5634" src="/images/EMR05634.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="5634" src="/images/EMR05634.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -191,22 +191,6 @@ Mention Award&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="3">
 <p>Our School Our Stories 2025 - Honourable Mention Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
