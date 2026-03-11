@@ -53,18 +53,12 @@ setting the stage for a lifetime of success and camaraderie.</p>
 and Boys: 4th Placing (2022)</p>
 </li>
 </ul>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_Pic_3.png">
-</div>
-</th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_pic_1.jpg">
@@ -72,9 +66,6 @@ and Boys: 4th Placing (2022)</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>B Division Zonal NSG Finals with our supporters and Mr Chow 2024</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>B Division NSG Boys with Coach Mark</p>
 </td>
@@ -117,7 +108,7 @@ and Boys: 4th Placing (2022)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_08_14_44.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_08_14_44.jpg">
 </div>
 </td>
 </tr>
@@ -131,7 +122,7 @@ and Boys: 4th Placing (2022)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b45e5174_c6fa_4bfc_8452_1ed19af43c07.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/b45e5174_c6fa_4bfc_8452_1ed19af43c07.jpg">
 </div>
 </td>
 </tr>
