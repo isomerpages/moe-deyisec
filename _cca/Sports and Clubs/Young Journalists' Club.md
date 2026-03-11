@@ -165,10 +165,10 @@ Mention Award&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Our videographers working hard</p>
+<p>Supporting students every step of the way</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Supporting students every step of the way</p>
+<p>Our videographers working hard</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
