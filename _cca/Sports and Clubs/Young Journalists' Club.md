@@ -95,12 +95,12 @@ Mention Award&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_01.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="5634" src="/images/EMR05634.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1035" src="/images/EMR1035.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -183,9 +183,7 @@ Mention Award&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MentionAward" src="/images/MemtionAward.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
