@@ -15,8 +15,9 @@ the courage to overcome challenges — qualities that extend far beyond the
 game and into everyday life. Players are encouraged to persevere through
 tough drills, learn from mistakes, and continually strive for improvement,
 embracing a growth mindset in every aspect of their development.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="image.png" src="https://mail.google.com/mail/u/0?ui=2&amp;ik=c27fadefae&amp;attid=0.4&amp;permmsgid=msg-f:1857968941449658225&amp;th=19c8d4e886d0bf71&amp;view=fimg&amp;fur=ip&amp;permmsgid=msg-f:1857968941449658225&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ_HKKBNs66ysfihX1Yq0GpPkZqMXEK0ku_nJy-xwJC-VqIKV7gr-BPbnQCMjM5wwjkya9Q4XHcxL_G9EADITG92TXiUbCiwG3O6PyCll5Qr8GQobfprarSwD7A&amp;disp=emb&amp;realattid=ii_mlzxbk9g4&amp;zw">
+<img style="width: 100%" height="auto" width="100%" alt="VB1" src="/images/VB1.png">
 </div>
 <p><strong>Teachers-in-charge:</strong>
 <br>Mdm Nur Azlina Bee (OIC)
@@ -42,9 +43,6 @@ Championship (2026)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>3rd position in the VA U15 Cup (2025)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="image.png" src="https://mail.google.com/mail/u/0?ui=2&amp;ik=c27fadefae&amp;attid=0.3&amp;permmsgid=msg-f:1857968941449658225&amp;th=19c8d4e886d0bf71&amp;view=fimg&amp;fur=ip&amp;permmsgid=msg-f:1857968941449658225&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ-N_FIZA4QUXtmUIGBES1cz80TEj66NFgC4wlxTkCCofjLF8hMhBxFH4soKBBx6-HLnt33HCXClVsHOXJ6vjqrpEXmDQ6bRoULb6Hw_aK_MPWSCdbinNGAe4_o&amp;disp=emb&amp;realattid=ii_mlzx97i33&amp;zw">
-</div>
 </li>
 </ul>
 <ul>
