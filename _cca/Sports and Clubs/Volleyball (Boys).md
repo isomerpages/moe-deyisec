@@ -44,8 +44,6 @@ Championship (2026)</p>
 <li>
 <p>3rd position in the VA U15 Cup (2025)</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Participated in the National School Games B Division South Zone Volleyball
 Championship (2025)</p>
