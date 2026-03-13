@@ -27,10 +27,19 @@ setting the stage for a lifetime of success and camaraderie.</p>
 <br>Ms Jeanette Lee (OIC)
 <br>Mdm Saliha Parveen (AIC)
 <br>Ms Joyce Ng Sok Kian (AIC)
-<br>Mr Daniel Chia</p>
+<br>Mr Lau Jeng Seng</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.50 pm – 5.30 pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>Competitions / Achievements:</strong> 
+<p><strong>Competitions / Achievements:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>South Zone B Division National School Games Competition B Division Boys:
+4th Placing (2026)</p>
+</li>
+<li>
+<p>South Zone B Division National School Games Competition B Division Girls:
+4th Placing (2025)
 <br>• C Division National School Games (Girls and Boys) League 1: Top 16 (2024)
 <br>• South Zone B Division National School Games Competition B Division Girls:
 4th Placing (2024)
@@ -42,18 +51,14 @@ setting the stage for a lifetime of success and camaraderie.</p>
 3rd Placing (2022)
 <br>• South Zone B Division National School Games Competition B Division Girls
 and Boys: 4th Placing (2022)</p>
-<table style="minWidth: 50px">
+</li>
+</ul>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_Pic_3.png">
-</div>
-</th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_pic_1.jpg">
@@ -61,9 +66,6 @@ and Boys: 4th Placing (2022)</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>B Division Zonal NSG Finals with our supporters and Mr Chow 2024</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>B Division NSG Boys with Coach Mark</p>
 </td>
@@ -94,6 +96,53 @@ and Boys: 4th Placing (2022)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overseas Table Tennis exchange in Kuala Lumpur 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_08_15_11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_08_14_44.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_08_11_26.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/b45e5174_c6fa_4bfc_8452_1ed19af43c07.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b36965c2_bb63_4324_921e_1ec4e339c438.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
