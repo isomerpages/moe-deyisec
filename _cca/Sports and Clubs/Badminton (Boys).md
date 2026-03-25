@@ -19,7 +19,7 @@ into excellence. Through the swift rallies and strategic plays, our students
 not only master the subtleties of the sport but also imbibe these principles,
 ensuring they carry these values forward into their futures.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports%20and%20Clubs/Badminton/2024_Badminton_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="Badminton Boys_Group" src="/images/Badminton_boys_group.jpg">
 </div>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Ms Chew Soo Qing (OIC)
@@ -30,6 +30,9 @@ ensuring they carry these values forward into their futures.</p>
 <p><strong>Competitions / Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>South Zone 2026 Badminton Competition B Division (Boys)</p>
+</li>
 <li>
 <p>South Zone 2025 Badminton Competition B Division (Boys)&nbsp;</p>
 </li>
@@ -95,46 +98,42 @@ Kang Sec</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 B'Division Boys" src="/images/CCA/Sports and Clubs/Badminton/2025__B_Division_Boys.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="OpenHse" src="/images/2025__Open_House__CCA_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 C'Division Boys" src="/images/CCA/Sports and Clubs/Badminton/2025_C_Division_Boys.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="BDiv2026" src="/images/2026__B_Division_Boys_with_Mr_Chow_and_Ms_Chiang.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025 ‘B’ Division Boys</p>
+<p>(2025) Open House (CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 ‘C’ Division Boys</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 Badminton Boys (Upper Sec)" src="/images/CCA/Sports and Clubs/Badminton/2025 badminton boys (upper sec).jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 Badminton Boys (Lower Sec)" src="/images/CCA/Sports and Clubs/Badminton/2025 badminton boys (lower sec).jpg">
-</div>
+<p>(2026) B Division Boys with Mr Chow and Ms Chiang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025 Badminton Boys (Upper Sec)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Mentoring" src="/images/Senior_mentoring_junior_during_training.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 Badminton Boys (Lower Sec)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Coach" src="/images/Coach_sharing_game_insights.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Senior mentoring junior during training</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coach sharing game insights</p>
 </td>
 </tr>
 </tbody>
