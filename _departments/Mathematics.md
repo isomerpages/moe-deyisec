@@ -53,7 +53,7 @@ our school well in National Accounting Challenge and&nbsp;ACCTraordinary
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/2025_Math___Math_Challenge.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="NAPMC" src="/images/Ngee_Ann_Polytechnic_Math_Challenge.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -64,7 +64,7 @@ our school well in National Accounting Challenge and&nbsp;ACCTraordinary
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Math Challenge</p>
+<p>Ngee Ann Polytechnic Math Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Animation and Game Making Competition</p>
@@ -92,7 +92,7 @@ our school well in National Accounting Challenge and&nbsp;ACCTraordinary
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tic Tac Toe 1</p>
+<p>3D Tic Tac</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tower of Hanoi</p>
@@ -109,12 +109,12 @@ our school well in National Accounting Challenge and&nbsp;ACCTraordinary
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/2025_Math___Accounting_Competition.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/2025_Math___Accounting_Competition.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/2025_Math___Tic_Tac_Toe_2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="NFLC" src="/images/National_Financial_Literacy_Challenge.jpg">
 </div>
 </th>
 </tr>
@@ -123,7 +123,7 @@ our school well in National Accounting Challenge and&nbsp;ACCTraordinary
 <p>Accounting Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tic Tac Toe 2</p>
+<p>National Financial Literacy Competition</p>
 </td>
 </tr>
 </tbody>
