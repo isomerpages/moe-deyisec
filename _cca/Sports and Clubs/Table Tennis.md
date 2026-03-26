@@ -46,32 +46,9 @@ setting the stage for a lifetime of success and camaraderie.</p>
 <br>• South Zone C Division National School Games Competition C Division Girls:
 3rd Placing (2023)
 <br>• South Zone B Division National School Games Competition B Division Girls:
-4th Placing (2023)
-<br>• South Zone C Division National School Games Competition C Division Girls:
-3rd Placing (2022)
-<br>• South Zone B Division National School Games Competition B Division Girls
-and Boys: 4th Placing (2022)</p>
+4th Placing (2023)</p>
 </li>
 </ul>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_pic_1.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B Division NSG Boys with Coach Mark</p>
-</td>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -81,54 +58,45 @@ and Boys: 4th Placing (2022)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_pic_2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_08_14_44.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_Table_Tennis_pic_4.png">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_08_11_26.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B Division NSG Girls 2024</p>
+<p>B Division Boys at semi finals NSG match</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Overseas Table Tennis exchange in Kuala Lumpur 2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_08_15_11.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_08_14_44.jpg">
-</div>
+<p>B Division Boys 2025 Prize Giving Ceremony</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_08_11_26.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_08_15_11.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/b45e5174_c6fa_4bfc_8452_1ed19af43c07.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b45e5174_c6fa_4bfc_8452_1ed19af43c07.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>B Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Bonding Games</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/b36965c2_bb63_4324_921e_1ec4e339c438.jpg">
 </div>
@@ -139,7 +107,7 @@ and Boys: 4th Placing (2022)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Overseas Sports Trip at Kuala Lumpur</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
