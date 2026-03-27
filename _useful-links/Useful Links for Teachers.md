@@ -67,10 +67,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/deyiwebsiterequest" rel="noopener noreferrer nofollow" target="_blank">Website Update Request</a>
-</p>
-</li>
-<li>
 <p><a href="https://drive.google.com/drive/folders/1N2bZkRZNVkJhkEOczZvGJ8fBNVQM828u?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Digital Signage Content Refresh Request</a>
 </p>
 </li>
