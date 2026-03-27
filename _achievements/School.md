@@ -39,21 +39,6 @@ students in the spatial visualisation of data and to make sense of spatial
 patterns observed.</p>
 <p><em>Congratulations to the PLC team led by Mr Lim Jun Yu, with team members Ms&nbsp;Lee Su-Min Jeanette,&nbsp;Ms Tan Boon Yen, Mr Freddy Goh and Ms Wong Kai Ping Eleanor, for winning the 2022 Innergy Bronze Award!</em>
 </p>
-<h3>2019</h3>
-<p><strong>Vanda Miss Joaquim Award 2019</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/vanda%20award%202018.png">
-</div>
-<p>The School Green Awards (SGA) is a voluntary environmental initiative
-for schools in Singapore that provides students with a platform to create
-and display their environmental projects. Through tailored activities,
-students can enhance their understanding of environmental issues.</p>
-<p>Each year, entries are received from preschools, primary schools, secondary
-schools, junior colleges, international schools, and institutions catering
-to students with special needs.</p>
-<p>We are proud to announce that Deyi Secondary has attained the Vanda Miss
-Joaquim Award in 2019.</p>
 <h3>2018</h3>
 <p><strong>Innergy Award 2018</strong> 
 <br><strong>Mi-ke-mon Journalism ALP Bronze</strong>
