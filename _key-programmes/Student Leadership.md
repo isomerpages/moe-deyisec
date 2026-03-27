@@ -384,18 +384,6 @@ gracious citizens who contribute actively to a caring and supportive community.<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PSL" src="/images/Training_for_PSLs.jpg">
 </div>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
 <ol start="3">
 <li>
 <p><strong>CCA Leaders</strong>
@@ -421,9 +409,6 @@ leaders.</p>
 <p>Mentor and guide junior members</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
 <p>Through their leadership, CCA Leaders contribute to both the performance
 and culture of their respective groups.</p>
 <p>
@@ -435,15 +420,9 @@ and culture of their respective groups.</p>
 </p>
 </li>
 </ol>
-<p>
-<br>
-</p>
 <p>The Class Executive Committee leads the class in all school programmes
 and initiatives, ensuring effective communication, coordination, and class
 cohesion.</p>
-<p>
-<br>
-</p>
 <p>These include:</p>
 <ul>
 <li>
@@ -456,9 +435,6 @@ cohesion.</p>
 <p>Secretary</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
 <p>Programme Ambassadors support and champion various school-wide initiatives,
 playing a vital role in promoting key areas of student development.</p>
 <p>These include:</p>
@@ -479,9 +455,6 @@ playing a vital role in promoting key areas of student development.</p>
 <p>Safety Ambassadors</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
 <p>CEC members and Programme Ambassadors play an important role in fostering
 a positive and supportive class culture, contributing to both the academic
 and non-academic aspects of student life. They take the lead in advocating
@@ -489,7 +462,9 @@ important causes, raising awareness on key issues, and engaging their peers
 in meaningful programmes and initiatives. Through their efforts, they help
 to cultivate a caring and inclusive environment, contributing to the holistic
 development of the school community.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CEC" src="/images/CEC___Ambassadors_Investiture_2026_.jpg">
+</div>
 <p>
 <br>
 </p>
