@@ -69,10 +69,10 @@ setting the stage for a lifetime of success and camaraderie.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B Division Boys at semi finals NSG match</p>
+<p>B Division Boys at semi finals NSG match 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Division Boys 2025 Prize Giving Ceremony</p>
+<p>B Division Boys Prize Giving Ceremony 2026</p>
 </td>
 </tr>
 <tr>
@@ -89,10 +89,10 @@ setting the stage for a lifetime of success and camaraderie.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B Division Girls</p>
+<p>B Division Girls 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Team Bonding Games</p>
+<p>Team Bonding Games 2025</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ setting the stage for a lifetime of success and camaraderie.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Overseas Sports Trip at Kuala Lumpur</p>
+<p>Overseas Sports Trip at Kuala Lumpur 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
