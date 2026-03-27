@@ -145,7 +145,7 @@ Band to perform in the 2023 National Day Parade.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/2025_MnD___International_Dance_Arts_Fiesta.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/2025_MnD___International_Dance_Arts_Fiesta.jpg">
 </div>
 </td>
 </tr>
