@@ -30,9 +30,8 @@ Chinese Dance categories. They performed the ambitious choreography with
 grace and poise and persevered through challenges to attain Distinctions
 in both categories. Our dancers also collaborated with the Deyi Military
 Band to perform in the 2023 National Day Parade.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Interaction" src="/images/Interaction.jpg">
 </div>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Mrs Lee Boon Jer (OIC)
