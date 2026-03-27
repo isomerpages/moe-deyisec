@@ -46,6 +46,15 @@ Band to perform in the 2023 National Day Parade.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Singapore Youth Festival Chinese Dance Category 2025 (Distinction)</p>
+</li>
+<li>
+<p>Singapore Youth Festival International Dance Category 2025 (Accomplishment)</p>
+</li>
+<li>
+<p>Cheng San's CNY Dinner Celebration 22 Feb 2026</p>
+</li>
+<li>
 <p>Singapore Youth Festival Chinese Dance Category 2023 (Distinction)</p>
 </li>
 <li>
