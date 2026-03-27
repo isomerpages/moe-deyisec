@@ -24,11 +24,8 @@ Singapore spirit.</p>
 2022, 2024 and 2025. The achievement reflects the collective commitment
 of our students, teachers, and partners in building a culture of sustainability
 within our school community.</p>
-<p></p>
-<p></p>
-<p></p>
-<h3>2022</h3>
-<p><strong>2022 Innergy Bronze Award</strong> 
+<h3>2025</h3>
+<p><strong>2025 Innergy Commendation Award</strong> 
 <br>The team wanted to explore how the affordance of e-Pedagogy such as ArcGIS
 and SLS can be used to enhance:</p>
 <p>1. the teaching and of Geographical Investigation (GI) and
@@ -71,18 +68,7 @@ Reality Mi-ke-mon journalism Trail App was featured in MOE's video 'Have
 You Ever?" (accessible on YouTube). The ALP team shared our game-based
 innovation and the wider ALP Journalism curriculum at ExCEL Fest with members
 of our fraternity.</p>
-<p><strong>Vanda Miss Joaquim Award 2018</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/vanda%20award%202018.png">
-</div>
-<p>In 2018, the Singapore Environment Council changed the award structure
-with a more challenging assessment criteria that focuses on community environmental
-outreach by students and the highest award,&nbsp;<strong>Vanda Miss Joaquim Award,</strong>&nbsp;is
-achieved by schools with an overall score of more than 90%. We are proud
-to announce that Deyi Secondary has attained the Vanda Miss Joaquim Award
-in 2018. Thank you for the support and let’s continue to work together
-to maintain Deyi Secondary as a Green school.</p>
+<p></p>
 <h3>2017</h3>
 <p><strong>Lotus Sustained Achievement Award 2017</strong>
 </p>
