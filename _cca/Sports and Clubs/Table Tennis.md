@@ -83,7 +83,7 @@ setting the stage for a lifetime of success and camaraderie.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/Team_Bonding_2025.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/Team_Bonding_2025.jpg">
 </div>
 </td>
 </tr>
