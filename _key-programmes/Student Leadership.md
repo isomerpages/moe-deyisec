@@ -27,8 +27,7 @@ strong sense of purpose.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="StC" src="/images/Service_to_Community_sf.jpg">
 </div>
-<p>
-<br>The Deyi Student Leadership Development Framework aims to nurture every
+<p>The Deyi Student Leadership Development Framework aims to nurture every
 Deyian into a <strong>confident, values-driven leader</strong> who contributes
 actively to the community.</p>
 <p>Our student leaders are guided to:</p>
@@ -47,9 +46,6 @@ actively to the community.</p>
 </li>
 </ul>
 <p>Our leadership development is anchored on two key pillars:</p>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -203,7 +199,6 @@ demonstrate strong leadership potential and a commitment to serve.</p>
 potential, attitudes, and willingness to serve. They are then provided
 with enhanced opportunities to grow as leaders and make a meaningful impact
 within the school community and beyond.</p>
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -240,7 +235,6 @@ with peers to plan and carry out service activities in unfamiliar environments</
 comfort zones and responding to real-world challenges</p>
 </li>
 </ul>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -255,16 +249,6 @@ comfort zones and responding to real-world challenges</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="v2" src="/images/Vietnam2_.jpg">
 </div>
@@ -272,7 +256,6 @@ comfort zones and responding to real-world challenges</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="v1" src="/images/Vietnam1_.jpg">
 </div>
@@ -343,9 +326,6 @@ leaders who are equipped to lead with both heart and impact.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SC" src="/images/StudentCouncil.jpg">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sharing" src="/images/SC_Sharing_in_Assembly_.jpg">
 </div>
@@ -377,7 +357,6 @@ PSLs lead class-based bonding and wellness activities, organise school-wide
 programmes, and mentor their peers.</p>
 <p>Through these experiences, PSLs embody the school’s vision of nurturing
 gracious citizens who contribute actively to a caring and supportive community.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Wellness" src="/images/Wellness_Fortnight_level_games_2_.jpg">
 </div>
@@ -394,9 +373,6 @@ gracious citizens who contribute actively to a caring and supportive community.<
 Activities, guiding their teams in programmes, competitions, and initiatives.
 These roles include Executive Committee members, officers, and sectional
 leaders.</p>
-<p>
-<br>
-</p>
 <p>They:</p>
 <ul>
 <li>
@@ -410,8 +386,7 @@ leaders.</p>
 </li>
 </ul>
 <p>Through their leadership, CCA Leaders contribute to both the performance
-and culture of their respective groups.</p>
-<p>
+and culture of their respective groups.
 <br>
 </p>
 <ol start="4">
