@@ -40,7 +40,7 @@ position in the Mathematics Quiz Category, showcasing their strong mathematical
 grounding and quick-thinking abilities. Their achievements reflect the
 spirit of exploration and excellence that the Mathematics Department seeks
 to nurture in all our learners.</p>
-<p>in the Animation and Game Making (AGM) Competition 2025, Izyan Hafiy BinmMohamad
+<p>In the Animation and Game Making (AGM) Competition 2025, Izyan Hafiy BinmMohamad
 Shaifful achieved the Bronze Award, a national event organised by the Computer
 Education Unit for secondary school students taking Computer Applications
 (CPA). This prestigious platform showcases the best in student-created
