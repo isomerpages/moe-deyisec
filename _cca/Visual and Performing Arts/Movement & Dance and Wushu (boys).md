@@ -38,7 +38,6 @@ Band to perform in the 2023 National Day Parade.</p>
 <br>Mdm Jainul Banu (AIC)
 <br>Mdm Lim Eng Choo
 <br>Ms Veronica Tan Huay Lee</p>
-<p></p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.45 pm – 5.45 pm</p>
 <p><strong>Competitions / Achievements:</strong>
@@ -146,7 +145,7 @@ Band to perform in the 2023 National Day Parade.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/2025_MnD___International_Dance_Arts_Fiesta.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/2025_MnD___International_Dance_Arts_Fiesta.jpg">
 </div>
 </td>
 </tr>
@@ -165,7 +164,9 @@ Band to perform in the 2023 National Day Parade.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dancer" src="/images/Dancer.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -173,7 +174,7 @@ Band to perform in the 2023 National Day Parade.</p>
 <p>Wushu Boys Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2026 CCA Carnival</p>
 </td>
 </tr>
 </tbody>
