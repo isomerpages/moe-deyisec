@@ -4,23 +4,29 @@ permalink: /achievements/school/
 description: ""
 variant: tiptap
 ---
-<h3>2024</h3>
-<p><strong>Vanda Miss Joaquim Award 2024</strong> 
+<h3>2025</h3>
+<p><strong>Vanda Miss Joaquim Award 2025</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/vanda%20award%202018.png">
 </div>
-<p>The School Green Awards (SGA) is a voluntary environmental initiative
-for schools in Singapore that provides students with a platform to create
-and display their environmental projects. Through tailored activities,
-students can enhance their understanding of environmental issues.</p>
-<p>Each year, entries are received from preschools, primary schools, secondary
-schools, junior colleges, international schools, and institutions catering
-to students with special needs.</p>
-<p>Schools with overall score of more than 90% will receive the Vanda Miss
-Joaquim Award. Deyi Secondary School was awarded Vanda Miss Joaquim Awards
-in 2018, 2019, 2022 and 2024.</p>
+<p>Vanda Miss Joaquim Award is the highest tier of recognition under the
+School Green Awards (SGA) organised annually by the Singapore Environment
+Council (SEC). This award is presented to schools that attain an overall
+score of more than 90% in their environmental sustainability efforts. It
+recognises excellence across areas such as environmental projects, curriculum
+integration, and student-led advocacy.</p>
+<p>Named after Singapore's national flower, Papilionanthe (formerly Vanda)
+Miss Joaquim, the award symbolises resilience, strength, and the enduring
+Singapore spirit.</p>
+<p>Deyi Secondary School was awarded Vanda Miss Joaquim Awards in 2018, 2019,
+2022, 2024 and 2025. The achievement reflects the collective commitment
+of our students, teachers, and partners in building a culture of sustainability
+within our school community.</p>
+<p></p>
+<p></p>
+<p></p>
 <h3>2022</h3>
 <p><strong>2022 Innergy Bronze Award</strong> 
 <br>The team wanted to explore how the affordance of e-Pedagogy such as ArcGIS
