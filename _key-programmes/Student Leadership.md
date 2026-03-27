@@ -440,6 +440,8 @@ development of the school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CEC" src="/images/CEC___Ambassadors_Investiture_2026_.jpg">
 </div>
+<p></p>
+<p></p>
 <p>
 <br>
 </p>
