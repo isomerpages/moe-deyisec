@@ -441,7 +441,25 @@ development of the school community.</p>
 <img style="width: 100%" height="auto" width="100%" alt="CEC" src="/images/CEC___Ambassadors_Investiture_2026_.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="WF" src="/images/Wellness_Fortnight_level_games_.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SCPSL" src="/images/SC___PSL2026_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Camp" src="/images/PSL_Camp_outing_to_Bishan_Park_1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lounge" src="/images/Student_Lounge.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="L1" src="/images/L1.jpg">
+</div>
 <p>
 <br>
 </p>
