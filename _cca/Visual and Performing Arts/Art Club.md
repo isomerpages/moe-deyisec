@@ -116,10 +116,14 @@ artists’ perspectives on their artworks.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/NUS_Museum_Gallery_visit_2025.jpg">
+</div>
 </th>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/Our_Heart_for_SG_2025_Learning_Gallery_Artwork_presentation.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -127,7 +131,7 @@ artists’ perspectives on their artworks.</p>
 <p>NUS Museum Gallery visit 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Our Heart for SG 2025 Learning Gallery Artwork presentation</p>
 </td>
 </tr>
 <tr>
