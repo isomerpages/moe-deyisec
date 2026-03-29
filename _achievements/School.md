@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>2025</strong></h3>
-<p><strong>Vanda Miss Joaquim Award 2025</strong> 
+<p><strong>Vanda Miss Joaquim Award 2025</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/vanda%20award%202018.png">
@@ -33,7 +33,7 @@ within our school community.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/InnergyAward2.jpg">
 </div>
 <h3><strong>2022</strong></h3>
-<p><strong>MOE Innergy Award</strong> 
+<p><strong>MOE Innergy Award</strong>
 </p>
 <p><em>Congratulations to the PLC team led by Mr Lim Jun Yu, with team members Ms&nbsp;Lee Su-Min Jeanette,&nbsp;Ms Tan Boon Yen, Mr Freddy Goh and Ms Wong Kai Ping Eleanor, for winning the 2022 Innergy Bronze Award!</em>
 </p>
