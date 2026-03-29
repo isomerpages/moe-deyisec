@@ -4,9 +4,8 @@ permalink: /achievements/school/
 description: ""
 variant: tiptap
 ---
-<h3>2025</h3>
+<h3><strong>2025</strong></h3>
 <p><strong>Vanda Miss Joaquim Award 2025</strong> 
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/vanda%20award%202018.png">
@@ -24,28 +23,34 @@ Singapore spirit.</p>
 2022, 2024 and 2025. The achievement reflects the collective commitment
 of our students, teachers, and partners in building a culture of sustainability
 within our school community.</p>
-<h3>2025</h3>
-<p><strong>2025 Innergy Commendation Award</strong> 
-<br>The team wanted to explore how the affordance of e-Pedagogy such as ArcGIS
+<p><strong>MOE Innergy Award</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Innergy Award 2025_1" src="/images/Achievements/InnergyAward1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/InnergyAward2.jpg">
+</div>
+<h3><strong>2022</strong></h3>
+<p><strong>MOE Innergy Award</strong> 
+</p>
+<p><em>Congratulations to the PLC team led by Mr Lim Jun Yu, with team members Ms&nbsp;Lee Su-Min Jeanette,&nbsp;Ms Tan Boon Yen, Mr Freddy Goh and Ms Wong Kai Ping Eleanor, for winning the 2022 Innergy Bronze Award!</em>
+</p>
+<p>The team wanted to explore how the affordance of e-Pedagogy such as ArcGIS
 and SLS can be used to enhance:</p>
 <p>1. the teaching and of Geographical Investigation (GI) and
 <br>2. students’ quality of learning in terms of student’s spatial thinking
 and analysis.&nbsp;</p>
-<p>This e-pedagogical innovation uses ArcGIS to facilitate students’ collaborative
+<p>The e-pedagogical innovation uses ArcGIS to facilitate students’ collaborative
 efforts to collect weather data from 4 identified locations from around
 the school (i.e. the futsal court, driveway, school field and quadrangle)
 and present the consolidated data on a base map of the school. This helped
 students in the spatial visualisation of data and to make sense of spatial
 patterns observed.</p>
-<p><em>Congratulations to the PLC team led by Mr Lim Jun Yu, with team members Ms&nbsp;Lee Su-Min Jeanette,&nbsp;Ms Tan Boon Yen, Mr Freddy Goh and Ms Wong Kai Ping Eleanor, for winning the 2022 Innergy Bronze Award!</em>
+<h3><strong>2018</strong></h3>
+<p><strong>MOE Innergy Award</strong>
 </p>
-<h3>2018</h3>
-<p><strong>Innergy Award 2018</strong> 
-<br><strong>Mi-ke-mon Journalism ALP Bronze</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/Innergy%20Bronze%20Award.jpg">
-</div>
 <p>The Innergy (Schools) Awards are given out to recognise school-based innovations
 in the education service. In 2018, Deyi's Applied Learning Programme (ALP)
 in Broadcast Journalism received the Bronze Innergy Award and our Augmented
@@ -54,7 +59,7 @@ You Ever?" (accessible on YouTube). The ALP team shared our game-based
 innovation and the wider ALP Journalism curriculum at ExCEL Fest with members
 of our fraternity.</p>
 <p></p>
-<h3>2017</h3>
+<h3><strong>2017</strong></h3>
 <p><strong>Lotus Sustained Achievement Award 2017</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -62,7 +67,7 @@ of our fraternity.</p>
 </div>
 <p>Deyi Secondary attained the Lotus Sustained Achievement award in 2017
 after attaining 3 consecutive years of Lotus Award.&nbsp;</p>
-<h3>2016</h3>
+<h3><strong>2016</strong></h3>
 <p><strong>National Arts Education Award 2015 to 2019</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -72,7 +77,7 @@ after attaining 3 consecutive years of Lotus Award.&nbsp;</p>
 in 2015. This award is presented on an annual basis, in recognition of
 schools that provide opportunities to students to be involved and excel
 in the arts.</p>
-<h3>2015</h3>
+<h3><strong>2015</strong></h3>
 <p><strong>Lotus Sustained Achievement Award 2015</strong>
 </p>
 <div class="isomer-image-wrapper">
