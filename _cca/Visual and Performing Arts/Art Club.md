@@ -96,7 +96,9 @@ artists’ perspectives on their artworks.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/SG60_Art_canvas_mural_installation_in_school__1_.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -106,7 +108,7 @@ artists’ perspectives on their artworks.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SG60 Art canvas mural installation in school</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SG60 Art canvas mural installation in school</p>
@@ -122,7 +124,7 @@ artists’ perspectives on their artworks.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NUS Museum Gallery visit 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -131,11 +133,13 @@ artists’ perspectives on their artworks.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/Chinese_New_Year_2026_School_foyer_decorations.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/Chinese_New_Year_2026_School_foyer_decorations.jpg">
 </div>
 </th>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/Sand_Art_Performance_Chinese_New_Year_2026__1_.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -143,25 +147,7 @@ artists’ perspectives on their artworks.</p>
 <p>Chinese New Year 2026 school foyer decorations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/Sand_Art_Performance_Chinese_New_Year_2026__1_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Sand Art Performance Chinese New Year 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
