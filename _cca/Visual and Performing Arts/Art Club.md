@@ -16,8 +16,7 @@ provided to our members, as we recognize the importance of inculcating
 21-Century Competencies in our talents.</p>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Mr Alvin Khoo (OIC)
-<br>Miss Carol Chong (AIC)
-<br>Mr Lau Jeng Sang</p>
+<br>Miss Carol Chong (AIC)</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Odd Week Tuesdays, Even Week Tuesdays and Even Week Thursdays 2.40 pm
 – 5.15 pm</p>
@@ -101,16 +100,32 @@ artists’ perspectives on their artworks.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/Sand_Art_Performance_Chinese_New_Year_2026__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/SG60_Art_canvas_mural_installation_in_school__2_.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sand Art Performance Chinese New Year 2026</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sand Art Performance Chinese New Year 2026</p>
+<p>SG60 Art canvas mural installation in school</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -131,23 +146,40 @@ artists’ perspectives on their artworks.</p>
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/Sand_Art_Performance_Chinese_New_Year_2026__1_.jpg">
 </div>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Live-on Festival Design Competition (LODC)</p>
+<p>Sand Art Performance Chinese New Year 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/Sand_Art_Performance_Chinese_New_Year_2026__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sand Art Performance Chinese New Year 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
