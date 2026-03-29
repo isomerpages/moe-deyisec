@@ -27,7 +27,4 @@ Guidance, Cyber Wellness Education, Sexuality Education and Family Education.</p
 were presented in card holders that also acted as pledge cards for the
 students to pen down their commitments towards building a Stronger Singapore
 Together.</p>
-<div class="iframe-wrapper">
-<iframe height="500" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQjsIZLjt8-9NbhvxDjpc695_VePAje1WKP90ydXUaoGMnsX5AKrrh3bKnELUeu3fOxNrCbXZ4HawMx/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
-</div>
 <p></p>
