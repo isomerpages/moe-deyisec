@@ -56,10 +56,10 @@ Place, Best Leader</p>
 <p>District First Aid Competition (Ambulance Adult Category) – Third Place</p>
 </li>
 <li>
-<p>4 cadets received Chief Commissioner's Recipients (2025)</p>
+<p>2 cadets graduated from National Basic Drill Instructor Course (2026)</p>
 </li>
 <li>
-<p>2 cadets graduated from National Basic Drill Instructor Course (2026)</p>
+<p>4 cadets received Chief Commissioner's Recipients (2025)</p>
 </li>
 <li>
 <p>1 cadet graduated from Corps First Aid Instructor Course (2025)</p>
