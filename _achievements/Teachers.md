@@ -19,14 +19,13 @@ description: ""
 </div>
 <p></p>
 <h4><strong>2024 Associate of Academy of Singapore Teachers Award</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Innovators" src="/images/STA2.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mdm Siti" src="/images/STA1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mdm Siti" src="/images/Mdm_Siti.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Innovator" src="/images/Innovator.jpg">
+</div>
 <h4><strong>2024 Most Inspiring Tamil Teacher Award</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mdm Jainul" src="/images/InspringTeacher.jpg">
