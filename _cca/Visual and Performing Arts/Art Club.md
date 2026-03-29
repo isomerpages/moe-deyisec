@@ -107,10 +107,10 @@ artists’ perspectives on their artworks.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Appreciation of South-east Asian art at the National Gallery of Singapore</p>
+<p>Chinese New Year 2026 school foyer decorations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art installation - National Day 2023</p>
+<p></p>
 </td>
 </tr>
 <tr>
