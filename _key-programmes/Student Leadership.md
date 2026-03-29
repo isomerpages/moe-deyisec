@@ -450,7 +450,6 @@ development of the school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Camp" src="/images/PSL_Camp_outing_to_Bishan_Park_1_.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lounge" src="/images/Student_Lounge.jpg">
 </div>
