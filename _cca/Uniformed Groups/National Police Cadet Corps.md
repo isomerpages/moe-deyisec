@@ -36,15 +36,29 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 <br>Mr Lim Liang Hao Derek
 <br>Mdm Neo Wei Ling
 <br>Mr Daniel Chia Yung Ming</p>
-<p></p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm</p>
-<p></p>
 <p><strong>Achievements and Highlights:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Distinction Award for Unit Overall Proficiency Award (2024)</p>
+<p>SPF-NPCC Badge Award (2026)</p>
+</li>
+<li>
+<p>Best Unit Cadet Award (2026)</p>
+</li>
+<li>
+<p>Area Games Competition (2026) - Treasure Relay Challenge -&nbsp; 3<sup>rd</sup>&nbsp;Position</p>
+</li>
+<li>
+<p>Area Games Competition (2026) - Mini Obstacle Course -&nbsp; 3<sup>rd</sup>&nbsp;
+Position</p>
+</li>
+<li>
+<p>Area Games Competition (2026) - Blindfold Laser Maze Challenge - 3<sup>rd</sup>&nbsp;Position</p>
+</li>
+<li>
+<p>Distinction Award for Unit Overall Proficiency Award (2025)</p>
 </li>
 <li>
 <p>SPF-NPCC Badge Award (2025)</p>
@@ -65,9 +79,10 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 <p>Area Games Competition (2025) - Tri-Trial Game - 2<sup>nd</sup> Position</p>
 </li>
 <li>
-<p>Area Games Competition (2025) - Sketch Relay Game - 3<sup>rd</sup> Position
-<br>
-</p>
+<p>Area Games Competition (2025) - Sketch Relay Game - 3<sup>rd</sup> Position</p>
+</li>
+<li>
+<p>Distinction Award for Unit Overall Proficiency Award (2024)</p>
 </li>
 </ul>
 <p><strong>Other Notable Activities:</strong>
