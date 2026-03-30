@@ -333,12 +333,32 @@ to serve others. They are role models of integrity and character, leaders
 who listen and care, and individuals who inspire and uplift those around
 them. Through their journey in the Student Council, they grow into value-driven
 leaders who are equipped to lead with both heart and impact.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SC" src="/images/StudentCouncil.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sharing" src="/images/SC_Sharing_in_Assembly_.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <ol start="2">
 <li>
 <p><strong>Peer Support Board (PSB)</strong>
@@ -367,12 +387,32 @@ PSLs lead class-based bonding and wellness activities, organise school-wide
 programmes, and mentor their peers.</p>
 <p>Through these experiences, PSLs embody the school’s vision of nurturing
 gracious citizens who contribute actively to a caring and supportive community.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Wellness" src="/images/Wellness_Fortnight_level_games_2_.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PSL" src="/images/Training_for_PSLs.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <ol start="3">
 <li>
 <p><strong>CCA Leaders</strong>
