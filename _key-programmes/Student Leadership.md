@@ -249,9 +249,19 @@ comfort zones and responding to real-world challenges</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="v2" src="/images/Vietnam2_.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -440,22 +450,51 @@ development of the school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CEC" src="/images/CEC___Ambassadors_Investiture_2026_.jpg">
 </div>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="WF" src="/images/Wellness_Fortnight_level_games_.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SCPSL" src="/images/SC___PSL2026_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Lounge" src="/images/Student_Lounge.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Camp" src="/images/PSL_Camp_outing_to_Bishan_Park_1_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lounge" src="/images/Student_Lounge.jpg">
-</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="L1" src="/images/L1.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Camp" src="/images/PSL_Camp_outing_to_Bishan_Park_1_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SCPSL" src="/images/SC___PSL2026_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/VIA.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>
 <br>
 </p>
