@@ -520,7 +520,7 @@ development of the school community.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Lounge" src="/images/Student_Lounge.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Lounge" src="/images/Student_Lounge.jpg">
 </div>
 </th>
 </tr>
