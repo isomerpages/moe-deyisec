@@ -492,7 +492,7 @@ development of the school community.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Camp" src="/images/PSL_Camp_outing_to_Bishan_Park_1_.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="Camp" src="/images/PSL_Camp_outing_to_Bishan_Park_1_.jpg">
 </div>
 </td>
 </tr>
