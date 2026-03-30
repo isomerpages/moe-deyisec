@@ -98,13 +98,14 @@ Kang Sec</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="OpenHse" src="/images/2025__Open_House__CCA_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BDiv2026" src="/images/2026__B_Division_Boys_with_Mr_Chow_and_Ms_Chiang.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="BDiv2026" src="/images/2026__B_Division_Boys_with_Mr_Chow_and_Ms_Chiang.jpg">
 </div>
 </th>
 </tr>
