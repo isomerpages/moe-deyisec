@@ -245,7 +245,7 @@ Position</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>ATC</p>
+<p>Adventure Training Camp</p>
 </td>
 </tr>
 </tbody>
