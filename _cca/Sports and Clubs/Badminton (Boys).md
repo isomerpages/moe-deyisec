@@ -18,9 +18,11 @@ respect and support among teammates, and diligence turns rigorous practice
 into excellence. Through the swift rallies and strategic plays, our students
 not only master the subtleties of the sport but also imbibe these principles,
 ensuring they carry these values forward into their futures.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Badminton Boys_Group" src="/images/Badminton_boys_group.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_boys_group.jpg">
 </div>
+<p></p>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Ms Chew Soo Qing (OIC)
 <br>Mr Freddy Goh Teck Seng (AIC)
@@ -98,9 +100,8 @@ Kang Sec</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="OpenHse" src="/images/2025__Open_House__CCA_.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="OpenHse" src="/images/2025__Open_House__CCA_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -117,10 +118,18 @@ Kang Sec</p>
 <p>(2026) B Division Boys with Mr Chow and Ms Chiang</p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Mentoring" src="/images/Senior_mentoring_junior_during_training.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Senior_mentoring_junior_during_training.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
