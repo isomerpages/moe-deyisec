@@ -81,6 +81,9 @@ of Distinction</p>
 <li>
 <p>School National Day Parade 2022 - 2025</p>
 </li>
+<li>
+<p>National Day Parade 2019</p>
+</li>
 </ul>
 <p><strong>Highlights:</strong>
 </p>
@@ -93,48 +96,18 @@ of Distinction</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/image03.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/School%20Band/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B3.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Deyi’s Marching Band</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The vibrant pulse of the Marching Band's Symphony</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/2024_Band_pic_1.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/image02.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Day Parade at the Padang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Capturing a moment with Minister Chan before the spotlight shines.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/PXL_20260228_025434041_PORTRAIT__1_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -142,7 +115,19 @@ of Distinction</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training in the School field</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -153,8 +138,10 @@ of Distinction</p>
 <p><strong>Deyi Percussion Ensemble SYF 2025:</strong>
 </p>
 <div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=qCv27OqaRSc"></iframe>
+</div>
+<div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=0N1Az1Os4e8&amp;list=RD0N1Az1Os4e8&amp;start_radio=1"></iframe>
 </div>
-<p></p>
 <p></p>
 <p></p>
