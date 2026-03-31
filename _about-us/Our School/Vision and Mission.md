@@ -30,7 +30,7 @@ in sound values, they are able to demonstrate empathy, appreciate diverse
 cultures and perspectives, and contribute positively to the wider community
 with a global outlook and gracious spirit.</p>
 <h3><strong>Mission</strong></h3>
-<h5>Inspiring lives, Nurturing talents, Realising dreams</h5>
+<h5><strong>Inspiring lives, Nurturing talents, Realising dreams</strong></h5>
 <p>The mission statement clearly reflects our philosophy of education that
 every child is a gem and the teacher's role is to help each child unleash
 his potential and fulfill his dream.</p>
