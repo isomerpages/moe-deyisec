@@ -87,7 +87,7 @@ Kang Sec</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Highlights</p>
 </th>
 </tr>
 </tbody>
@@ -101,7 +101,7 @@ Kang Sec</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="OpenHse" src="/images/2025__Open_House__CCA_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="OpenHse" src="/images/2025__Open_House__CCA_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
