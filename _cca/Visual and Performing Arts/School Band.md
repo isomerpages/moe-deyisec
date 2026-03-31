@@ -76,7 +76,7 @@ of Distinction</p>
 <p>School Arts Fiesta 2023 &amp; 2025</p>
 </li>
 <li>
-<p>School CCA Orientation Day 2022-2025</p>
+<p>School CCA Orientation Day 2022 - 2025</p>
 </li>
 <li>
 <p>School National Day Parade 2022 - 2025</p>
@@ -92,40 +92,42 @@ of Distinction</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/2024_Band_pic_1.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The vibrant pulse of the Marching Band's Symphony</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day Parade at the Padang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/image03.jpeg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/School%20Band/2.jpg">
 </div>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Deyi’s Marching Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The vibrant pulse of the Marching Band's Symphony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/2024_Band_pic_1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/image02.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Day Parade at the Padang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Capturing a moment with Minister Chan before the spotlight shines.</p>
 </td>
 </tr>
 <tr>
@@ -135,9 +137,7 @@ of Distinction</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/image02.jpeg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
