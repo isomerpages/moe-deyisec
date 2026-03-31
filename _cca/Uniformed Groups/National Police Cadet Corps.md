@@ -151,7 +151,7 @@ Position</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Award 2" src="/images/1000129801.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Award 2" src="/images/1000129801.jpg">
 </div>
 </td>
 </tr>
