@@ -151,7 +151,7 @@ Position</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Award 2" src="/images/1000129801.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="Award 2" src="/images/1000129801.jpg">
 </div>
 </td>
 </tr>
@@ -171,7 +171,7 @@ Position</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_02__NPC_Visit__v2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_02__NPC_Visit__v2.png">
 </div>
 </td>
 </tr>
@@ -191,7 +191,7 @@ Position</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_05__Sec_1_Camp__v2.png">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_05__Sec_1_Camp__v2.png">
 </div>
 </td>
 </tr>
