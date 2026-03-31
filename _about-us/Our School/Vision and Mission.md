@@ -3,14 +3,18 @@ title: Vision and Mission
 permalink: /about-us/our-school/vision-and-mission/
 description: ""
 third_nav_title: Our School
+variant: markdown
 ---
 ### Vision
 
-##### Active Learners, Gracious Citizens
+##### Active Learners, Servant Leaders, Gracious Citizens
+At Deyi Secondary School, we strive to nurture Deyians who are curious about learning, grounded in values and committed to serving others. We believe education is not only about developing the mind but also shaping the heart and character of every student.
 
-We strive to develop Deyians to become Self-directed learners who actively seek out knowledge and make meaning of their learning for themselves. They will take ownership of their own learning so that they can develop the attitude and attributes for life-long learning and cope with the challenges of the 21st century. They will show resilience and perseverance in their engagement in life-long learning.
+As **Active Learners**, our Deyians will be self-directed and reflective learners who actively seek knowledge and make meaning of their learning. By taking ownership of their growth, they will persevere through challenges and develop the attitudes and dispositions for lifelong learning in a complex world.
 
-We strive to nurture Deyians who can exercise self-leadership, civic mindedness, respect and acts of kindness as concerned citizens for the betterment of society. They will show appreciation for the arts and culture which is part of their holistic development as enriched individuals. They will manifest deep-rooted values through their (gracious) thoughts and actions and display a global outlook through their (gracious) tolerance and acceptance of diversity and differing perspectives.  
+As **Servant Leaders**, our Deyians will lead by serving and seek to make a positive difference to others and the community. Guided by humility and purpose, they learn to model the way, inspire a shared vision, challenge themselves to improve, enable others to act and encourage the heart.
+
+As **Gracious Citizens,** our Deyians will be nurtured to show respect, kindness and civic-mindedness in their thoughts and actions. Rooted in sound values, they are able to demonstrate empathy, appreciate diverse cultures and perspectives, and contribute positively to the wider community with a global outlook and gracious spirit.
 
 ### Mission
 
