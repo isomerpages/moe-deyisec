@@ -38,7 +38,6 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Mdm Jainul" src="/images/InspringTeacher.jpg">
 </div>
 <h4><strong>2024 MOE Service Excellent Awards</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gold New" src="/images/Gold_new.jpg">
 </div>
