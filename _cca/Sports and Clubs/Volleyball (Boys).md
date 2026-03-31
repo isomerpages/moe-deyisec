@@ -17,7 +17,7 @@ tough drills, learn from mistakes, and continually strive for improvement,
 embracing a growth mindset in every aspect of their development.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="VB1" src="/images/VB1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="VB1" src="/images/VB1.png">
 </div>
 <p><strong>Teachers-in-charge:</strong>
 <br>Mdm Nur Azlina Bee (OIC)
@@ -36,8 +36,6 @@ Championship (2026)</p>
 <li>
 <p>3rd position in the Mintonette U16 Volleyball Tournament (2025)&nbsp;</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>3rd position in the VA U15 Cup (2025)</p>
 </li>
@@ -65,40 +63,6 @@ Championship (2023)</p>
 <p>3rd position in the C Division National School Games South Zone Volleyball
 Championships (2022)</p>
 <p></p>
-<p><strong>Highlights</strong>:</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 </li>
 </ul>
-<p></p>
 <p></p>
