@@ -23,6 +23,19 @@ Singapore spirit.</p>
 2022, 2024 and 2025. The achievement reflects the collective commitment
 of our students, teachers, and partners in building a culture of sustainability
 within our school community.</p>
+<p>Deyi Secondary School has been awarded the Vanda Miss Joaquim sustained
+achievement award for the School Green Awards. This award is given to schools
+that attained consecutive Vanda Miss Joaquim awards.</p>
+<p>Sustainability is a whole school effort. The staff, students, green ambassadors
+and green club members work together to champion sustainability in various
+areas such as recycling, planting trees, composting, planting and harvesting
+as well as community outreach.</p>
+<p>Through school-wide environmental projects that span across multiple disciplines,
+sustainability awareness and advocacy is one of the core beliefs of Deyians
+and staff of Deyi.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="107" width="300" alt="image.png" src="https://mail.google.com/mail/u/0/?ui=2&amp;ik=28f70dd0ec&amp;attid=0.1&amp;permmsgid=msg-f%3A1861163060088619705&amp;permmsgid=msg-f%3A1861163060088619705&amp;th=19d42df139a942b9&amp;view=fimg&amp;fur=ip&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ8z0357UUtt_k0CCLUUccO-Oiz1QB1RcQl8-hCsxxM10YK-b92WB5ntfZlb2C49RRGhlFaPfmQQ4wYAe_cZ_3Mr3jnZZIEkEoSa0Z7G0IAD5I6w66tOSomPNa0&amp;disp=emb&amp;realattid=ii_mneaycpx0&amp;zw">
+</div>
 <p><strong>MOE Innergy Award</strong>
 </p>
 <div class="isomer-image-wrapper">
