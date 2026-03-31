@@ -32,7 +32,7 @@ trips, experiential learning as well as education and career guidance conducted
 in partnership with institutes of higher learning, the school’s students
 are prepared holistically for the future.</p>
 <p>Deyi relocated to its present premises at 1 Ang Mo Kio Street 42 in 2002.
-In 2015, the school celebrated its 35th anniversary.</p>
+In 2025, the school celebrated its 45th anniversary.</p>
 <p>Principals:
 <br>- Mr Wu Tat Huan (1980–1981)
 <br>- Mrs Choy Say Chin (1981–1991)
@@ -151,6 +151,6 @@ the students and staff striving for excellence.</p>
 <p>From these emerge individuals of upright character and integrity, who
 will strive for success in all endeavours.</p>
 <div class="iframe-wrapper">
-<iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/13ff7omxQoe9e1Prc8onPE3bbQETES73uvahL2GlQ7AA/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/13ff7omxQoe9e1Prc8onPE3bbQETES73uvahL2GlQ7AA/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
