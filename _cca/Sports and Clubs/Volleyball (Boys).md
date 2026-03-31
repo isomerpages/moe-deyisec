@@ -35,9 +35,6 @@ Championship (2026)</p>
 </li>
 <li>
 <p>3rd position in the Mintonette U16 Volleyball Tournament (2025)&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WhatsApp Image 2026-01-06 at 11.35.24 AM.jpeg" src="https://mail.google.com/mail/u/0?ui=2&amp;ik=c27fadefae&amp;attid=0.1&amp;permmsgid=msg-f:1857968941449658225&amp;th=19c8d4e886d0bf71&amp;view=fimg&amp;fur=ip&amp;permmsgid=msg-f:1857968941449658225&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ_ZHneS5dXYBJZ1z-31FxlG3exmh5gBjL3_l-9-LS7wy6VJyAS9f0OdTpJdKV5RlC2ux9HgC92JPCrGZFZ7qzrvDOO9TAADssWeu-zwFI-voCOFQkCXC3TwIJc&amp;disp=emb&amp;realattid=ii_mlzwpsco0&amp;zw">
-</div>
 </li>
 </ul>
 <ul data-tight="true" class="tight">
@@ -67,6 +64,40 @@ Championship (2023)</p>
 <li>
 <p>3rd position in the C Division National School Games South Zone Volleyball
 Championships (2022)</p>
+<p></p>
+<p><strong>Highlights</strong>:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 </ul>
 <p></p>
