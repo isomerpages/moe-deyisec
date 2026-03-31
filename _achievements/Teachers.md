@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>2024 National Day Awards</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NDA LS1" src="/images/NDA_new2.jpg">
 </div>
@@ -16,6 +15,14 @@ description: ""
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NDLS new" src="/images/NDA_new.jpg">
+</div>
+<h4><strong>2025 National Day Awards</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDA_2025_HoSuHwei.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDA_2025_AbdulRahimTalib.jpg">
 </div>
 <p></p>
 <h4><strong>2024 Associate of Academy of Singapore Teachers Award</strong></h4>
