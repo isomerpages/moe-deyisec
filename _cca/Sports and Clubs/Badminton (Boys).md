@@ -140,7 +140,7 @@ Kang Sec</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Senior mentoring junior during training</p>
+<p>&nbsp; Senior mentoring junior during training</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Coach sharing game insights</p>
