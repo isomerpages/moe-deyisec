@@ -92,13 +92,11 @@ of Distinction</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/School%20Band/2.jpg">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/image02.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/2024_Band_pic_1.png">
 </div>
 </th>
 </tr>
@@ -107,7 +105,7 @@ of Distinction</p>
 <p>The vibrant pulse of the Marching Band's Symphony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Capturing a moment with Minister Chan before the spotlight shines.</p>
+<p>National Day Parade at the Padang</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +116,7 @@ of Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/2024_Band_pic_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/School%20Band/2.jpg">
 </div>
 </td>
 </tr>
@@ -127,12 +125,32 @@ of Distinction</p>
 <p>Deyi’s Marching Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Day Parade at the Padang</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/PXL_20260228_025434041_PORTRAIT__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/image02.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training in the School field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Singapore Youth Festival Arts Presentation 2024:</strong>
+<p><strong>Singapore Youth Festival Arts Presentation 2025:</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Jt3Zqb-AFmI?si=mxW7nZSfBpRlryYd"></iframe>
