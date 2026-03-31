@@ -8,8 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our School/Student_Leaders_Vision_page.png">
 </div>
-<h3>Vision</h3>
-<h5>Active Learners, Servant Leaders, Gracious Citizens</h5>
+<h3><strong>Vision</strong></h3>
+<h5><strong>Active Learners, Servant Leaders, Gracious Citizens</strong></h5>
 <p>At Deyi Secondary School, we strive to nurture Deyians who are curious
 about learning, grounded in values and committed to serving others. We
 believe education is not only about developing the mind but also shaping
@@ -29,7 +29,7 @@ respect, kindness and civic-mindedness in their thoughts and actions. Rooted
 in sound values, they are able to demonstrate empathy, appreciate diverse
 cultures and perspectives, and contribute positively to the wider community
 with a global outlook and gracious spirit.</p>
-<h3>Mission</h3>
+<h3><strong>Mission</strong></h3>
 <h5>Inspiring lives, Nurturing talents, Realising dreams</h5>
 <p>The mission statement clearly reflects our philosophy of education that
 every child is a gem and the teacher's role is to help each child unleash
