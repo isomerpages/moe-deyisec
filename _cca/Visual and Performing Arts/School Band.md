@@ -150,7 +150,7 @@ of Distinction</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Singapore Youth Festival Arts Presentation 2025:</strong>
+<p><strong>Deyi Percussion Ensemble SYF 2025:</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=0N1Az1Os4e8&amp;list=RD0N1Az1Os4e8&amp;start_radio=1"></iframe>
