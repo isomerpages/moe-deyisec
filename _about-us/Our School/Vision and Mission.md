@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Our School
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our School/Student_Leaders_Vision_page.png">
+</div>
 <h3>Vision</h3>
 <h5>Active Learners, Servant Leaders, Gracious Citizens</h5>
 <p>At Deyi Secondary School, we strive to nurture Deyians who are curious
