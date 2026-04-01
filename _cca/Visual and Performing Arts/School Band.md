@@ -135,13 +135,10 @@ of Distinction</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Deyi Percussion Ensemble SYF 2025:</strong>
+<p><strong>Band performance at Deyi Arts Fiesta:</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=qCv27OqaRSc"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=0N1Az1Os4e8&amp;list=RD0N1Az1Os4e8&amp;start_radio=1"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qCv27OqaRSc?si=w0Tr0akIa_kEvNPt&amp;controls=0"></iframe>
 </div>
 <p></p>
 <p></p>
