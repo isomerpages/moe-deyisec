@@ -81,9 +81,6 @@ of Distinction</p>
 <li>
 <p>School National Day Parade 2022 - 2025</p>
 </li>
-<li>
-<p>National Day Parade 2019</p>
-</li>
 </ul>
 <p><strong>Highlights:</strong>
 </p>
