@@ -4,92 +4,34 @@ permalink: /key-programmes/applied-learning-programme/
 description: ""
 variant: tiptap
 ---
-<p><strong>Active Voice Broadcast Journalism</strong> 
-<br>Deyi’s Applied Learning Programme (ALP) has three approaches to develop
-our Sec 1 to 3 students’ critical 21st century media and communications
-skills. First, a whole-school approach (Tier 1) to equip students with
-baseline skills on media production and journalism (e.g., storyboarding,
-filming, animation, audio track layering, chroma key green screen technology,
-editing, transitions, sub-titling) through the Mi-ké-mθn Video Workshop
-and Mi-ké-mθn Augmented Reality Journalism Trail. Our second approach is
-to integrate media production and journalism skills into the EL and MTL
-curricular for better alignment with content generation and the development
-of critical perspectives.</p>
-<p>Students are encouraged to develop advanced media and technical skill-sets
-(Tier 2) through the Young Journalists’ Club and IT Club. Students’ niche
-skills are developed with Deyi’s FM Live (‘Our Channel, Our Voices’) and
-live broadcasts of special events (e.g., National Day, Teachers’ Day Celebrations)
-as well as technical production skills (e.g., live feeds and cutaways,
-sound management).</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Tier 1: Baseline Skills</strong>
-<br><strong>(Media Production and Journalism)</strong>
+<p><strong>Active Voice Broadcast Journalism</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Tier 2: Advanced Skills</strong>
-<br><strong>(Young Journalists’ Club and IT Club)</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mi-ké-mθn Video Workshop^
-<br>Mi-ké-mθn Augmented Reality Journalism Trail</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>Media writing
-<br>Radio production
-<br>Hosting (emcee) training
-<br>Photography and visual effects
-<br>Special projects videos^
-<br>Live interviews
-<br>Live shows</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mi-ké-mθn Inter-disciplinary Infographics Project Work</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Advocating for Social Issues Videos
-<br>MTL Current Affairs Reporting</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p><strong>Nurturing Deyians to be Confident and Effective Communicators</strong> 
-<br>In 2019, Deyi’s ALP received MOE’s Innergy Award (Bronze) for school innovation.
-Our students have successfully gained Early Admission into all 5 tertiary
-institutions (e.g., Ngee Ann, Singapore and Temasek Polytechnics’ Mass
-Communications, Film and Media courses) with the broadcast journalism skill-sets
-honed at Deyi.</p>
+<p>Deyi’s ALP focuses on equipping students to tackle complex, real-world
+challenges shaped by contemporary societal and global issues. Through authentic
+experiences such as problem-based projects linked to sustainability, technology
+(AI), and societal needs, students develop critical thinking, collaboration,
+and adaptive skills. The programme’s intent is to cultivate learners who
+can <strong>analyse and respond thoughtfully</strong> to evolving challenges,
+becoming <strong>socially aware, advocate for causes</strong>, and <strong>innovative</strong> individuals
+ready to <strong>contribute responsibly</strong> in an interconnected and
+rapidly changing world.</p>
+<p>The ALP adopts a 3-Tier approach:</p>
+<p>(i) <strong>Tier 1 (Explore)</strong> focuses on baseline skills on media
+production and journalism (e.g., storyboarding, filming, animation, audio
+track layering, chroma key green screen technology, editing, transitions,
+sub-titling) through curated workshops and the Augmented Reality Journalism
+Trail. These experiences build critical thinking, perspective-taking and
+persuasive communication skills. This is extended to all Secondary 1 to
+4 students.</p>
+<p>(ii) <strong>Tier 2 (Excite) </strong>focuses on developing students' interest
+in advanced media communication and content creation, leveraging authentic
+multimedia platforms like broadcasts, podcasts and live streaming. This
+extends the students’ development of 21CC and provides opportunities for
+them to reach out to the larger school and community. This is extended
+to the Young Journalists’ Club CCA students.</p>
+<p>(iii) <strong>Tier 3 (Excel)</strong> focuses on the identification and
+development of students' talent in multimedia production through specialised
+training and participation in national and international competitions.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="360" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7A70YxTdHn0"></iframe>
 </div>
