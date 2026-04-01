@@ -13,19 +13,21 @@ variant: tiptap
 <p>Deyi Secondary School has been awarded the Vanda Miss Joaquim sustained
 achievement award for the School Green Awards (SGA) organised annually
 by the Singapore Environment Council (SEC). This award is given to schools
-that attained an overall score of more than 90% in their environmental
-sustainability efforts and consecutive Vanda Miss Joaquim awards. Deyi
-Secondary School was awarded Vanda Miss Joaquim Awards in 2018, 2019, 2022,
-2024 and 2025.</p>
+that attain an overall score of more than 90% in their environmental sustainability
+efforts and consecutive Vanda Miss Joaquim awards. Deyi Secondary School
+was awarded Vanda Miss Joaquim Awards in 2018, 2019, 2022, 2024 and 2025.</p>
 <p>Named after Singapore's national flower, Papilionanthe (formerly Vanda)
 Miss Joaquim, the award symbolises resilience, strength, and the enduring
 Singapore spirit.</p>
 <p>The achievement recognises excellence across areas such as school-wide
 environmental projects, curriculum integration, and student-led advocacy.
-It reflects the collective commitment of our staff, students, green ambassadors
+It affirms the collective commitment of our staff, students, green ambassadors
 and green club members in working together to champion sustainability in
 various areas such as recycling, planting trees, composting, planting and
 harvesting as well as community outreach.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Mr_Apollos_presenting_Vanda_Miss_Joaquim.jpg">
+</div>
 <p><strong>MOE Innergy Award</strong>
 </p>
 <div class="isomer-image-wrapper">
