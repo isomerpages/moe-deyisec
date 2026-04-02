@@ -37,8 +37,8 @@ and making enduring memories.</p>
 <br>Mdm Adeline Teo Li Ching (AIC)
 <br>Miss Bertha Kwok
 <br>Miss Shih Kai Lin
-<br>Mr Nigel Lim
-<br>Mr Shankar Pehrinparaj
+<br>Mr Nigel Lim Mr Shankar Pehrinparaj
+<br>Mr Geryl Tan
 <br>
 </p>
 <p><strong>Weekly Schedule:</strong> 
@@ -52,6 +52,10 @@ and making enduring memories.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Singapore Youth Festival 2025 Arts Presentation for Instrumental Ensemble
+(Percussion): Certificate of Distinction</p>
+</li>
+<li>
 <p>Singapore Youth Festival 2024 Arts Presentation for Band (Display): Certificate
 of Distinction</p>
 </li>
@@ -59,40 +63,23 @@ of Distinction</p>
 <p>Singapore Youth Festival 2022 Arts Presentation for Band (Display): Certificate
 of Distinction</p>
 </li>
-<li>
-<p>National Day Parade 2019</p>
-</li>
-<li>
-<p>Singapore Youth Festival 2018 Arts Presentation for Band (Display): Certificate
-of Distinction</p>
-</li>
-<li>
-<p>Singapore Youth Festival 2018 Arts Presentation for Band (Display):&nbsp;Best
-Drum Major Award: Liang Jin</p>
-</li>
 </ul>
 <p><strong>Other Notable Activities:</strong>&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Deyi 45<sup>th</sup> Anniversary &amp; Homecoming 2025</p>
+</li>
+<li>
 <p>National Day Parade 2023 @ The Padang</p>
 </li>
 <li>
-<p>School Arts Fiesta 2023</p>
+<p>School Arts Fiesta 2023 &amp; 2025</p>
 </li>
 <li>
-<p>School CCA Orientation Day 2023</p>
+<p>School CCA Orientation Day 2022 - 2025</p>
 </li>
 <li>
-<p>School CCA Orientation Day 2022</p>
-</li>
-<li>
-<p>School National Day Parade 2022</p>
-</li>
-<li>
-<p>Teck Ghee National Day Carnival</p>
-</li>
-<li>
-<p>National Day Parade 2019 @ The Padang</p>
+<p>School National Day Parade 2022 - 2025</p>
 </li>
 </ul>
 <p><strong>Highlights:</strong>
@@ -106,50 +93,49 @@ Drum Major Award: Liang Jin</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20Perf%20Arts/School%20Band/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/image02.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B3.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The vibrant pulse of the Marching Band's Symphony</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Capturing a moment with Minister Chan before the spotlight shines.</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/image03.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/School Band/2024_Band_pic_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B4.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Deyi’s Marching Band</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Day Parade at the Padang</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Singapore Youth Festival Arts Presentation 2024:</strong>
+<p><strong>Band performance at Deyi Arts Fiesta:</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Jt3Zqb-AFmI?si=mxW7nZSfBpRlryYd"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qCv27OqaRSc?si=w0Tr0akIa_kEvNPt&amp;controls=0"></iframe>
 </div>
-<p></p>
 <p></p>
 <p></p>

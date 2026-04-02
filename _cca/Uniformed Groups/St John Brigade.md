@@ -31,12 +31,10 @@ in their future endeavors.</p>
 <br>Mr Chang Seow Kuen (OIC)
 <br>Mr Koh Yu Han (AIC)
 <br>Mdm Rajakumari
-<br>Mr Paul Tan Kok Meng
 <br>
 </p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday &amp; Thursday 2.45 pm – 5.45 pm</p>
-<p></p>
 <p><strong>Competitions / Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -47,22 +45,21 @@ in their future endeavors.</p>
 <p>Corp Achievement Award: Silver (2024)</p>
 </li>
 <li>
-<p>District First Aid Competition (Nursing Cadet Team Category) (2025) -
-2nd Runner-Up</p>
+<p>District First Aid Competition (Nursing Adult Category) (2026) – Champion,
+Best in First Aid, Best in Home Nursing, Best in CPR</p>
 </li>
 <li>
-<p>District &amp; National First Aid and Home Nursing Competition - District
-Nursing Cadet Team (2025) - Best in CPR</p>
+<p>District First Aid Competition (Nursing Cadet Category) (2026) – Fourth
+Place, Best Leader</p>
 </li>
 <li>
-<p>District &amp; National First Aid and Home Nursing Competition - District
-Nursing Cadet Team (2025) - Overall 2nd Runner-Up</p>
+<p>District First Aid Competition (Ambulance Adult Category) – Third Place</p>
+</li>
+<li>
+<p>2 cadets graduated from National Basic Drill Instructor Course (2026)</p>
 </li>
 <li>
 <p>4 cadets received Chief Commissioner's Recipients (2025)</p>
-</li>
-<li>
-<p>2 cadets graduated from National Basic Drill Instructor Course (2025)</p>
 </li>
 <li>
 <p>1 cadet graduated from Corps First Aid Instructor Course (2025)</p>

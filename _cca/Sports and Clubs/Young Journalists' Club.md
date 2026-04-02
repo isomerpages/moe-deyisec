@@ -49,7 +49,8 @@ forward a culture of care and engagement.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>National ‘Our Schools, Our Stories’ Photography Competition 2023</p>
+<p>National ‘Our Schools, Our Stories’ Photography Competition 2025 - Honourable
+Mention Award&nbsp;</p>
 </li>
 <li>
 <p>Singapore Youth Festival Photo and Video Challenge 2023</p>
@@ -79,9 +80,6 @@ forward a culture of care and engagement.</p>
 <p>Teachers’ Day Celebrations</p>
 </li>
 <li>
-<p>Live Broadcast on current affairs, school &amp; national events</p>
-</li>
-<li>
 <p>Videos for E-Noticeboard</p>
 </li>
 </ul>
@@ -97,12 +95,12 @@ forward a culture of care and engagement.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_01.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="5634" src="/images/EMR05634.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1035" src="/images/EMR1035.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -118,8 +116,9 @@ forward a culture of care and engagement.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -127,71 +126,71 @@ forward a culture of care and engagement.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Our family" src="/images/Our_Family.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_05.jpg">
-</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Our YJC teachers extraordinaire</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Our family</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_08.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_08.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_07.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="group" src="/images/group.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Supporting students every step of the way</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/2025_YJC_06.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/Honourable_mention.jpg">
-</div>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Our videographers working hard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our School Our Stories Honourable Mention Award</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p></p>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/YJC/Beyond_the_classroom.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="HA" src="/images/HA.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MA" src="/images/MemtionAward.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p></p>
+<td rowspan="1" colspan="3">
+<p>Our School Our Stories 2025 - Honourable Mention Award</p>
 </td>
 </tr>
 </tbody>

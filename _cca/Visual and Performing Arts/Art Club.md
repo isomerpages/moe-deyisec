@@ -16,8 +16,7 @@ provided to our members, as we recognize the importance of inculcating
 21-Century Competencies in our talents.</p>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Mr Alvin Khoo (OIC)
-<br>Miss Carol Chong (AIC)
-<br>Mr Lau Jeng Sang</p>
+<br>Miss Carol Chong (AIC)</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Odd Week Tuesdays, Even Week Tuesdays and Even Week Thursdays 2.40 pm
 – 5.15 pm</p>
@@ -98,59 +97,79 @@ artists’ perspectives on their artworks.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/2023 art club pic17.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/SG60_Art_canvas_mural_installation_in_school__1_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/2023 art club pic15.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/SG60_Art_canvas_mural_installation_in_school__2_.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Appreciation of South-east Asian art at the National Gallery of Singapore</p>
+<p>SG60 Art canvas mural installation in school</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art installation - National Day 2023</p>
+<p>SG60 Art canvas mural installation in school</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/NUS_Museum_Gallery_visit_2025.jpg">
 </div>
 </th>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/Our_Heart_for_SG_2025_Learning_Gallery_Artwork_presentation.jpg">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Live-on Festival Design Competition (LODC)</p>
+<p>NUS Museum Gallery visit 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Heart for SG 2025 Learning Gallery Artwork presentation</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/5.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/Chinese_New_Year_2026_School_foyer_decorations.jpg">
 </div>
 </th>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/Sand_Art_Performance_Chinese_New_Year_2026__1_.jpg">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art installation - National Day 2023</p>
+<p>Chinese New Year 2026 school foyer decorations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sand Art Performance Chinese New Year 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Art Club/Sand_Art_Performance_Chinese_New_Year_2026__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sand Art Performance Chinese New Year 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

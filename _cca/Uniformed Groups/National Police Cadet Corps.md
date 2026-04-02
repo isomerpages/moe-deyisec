@@ -36,15 +36,29 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 <br>Mr Lim Liang Hao Derek
 <br>Mdm Neo Wei Ling
 <br>Mr Daniel Chia Yung Ming</p>
-<p></p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm</p>
-<p></p>
 <p><strong>Achievements and Highlights:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Distinction Award for Unit Overall Proficiency Award (2024)</p>
+<p>SPF-NPCC Badge Award (2026)</p>
+</li>
+<li>
+<p>Best Unit Cadet Award (2026)</p>
+</li>
+<li>
+<p>Area Games Competition (2026) - Treasure Relay Challenge -&nbsp; 3<sup>rd</sup>&nbsp;Position</p>
+</li>
+<li>
+<p>Area Games Competition (2026) - Mini Obstacle Course -&nbsp; 3<sup>rd</sup>&nbsp;
+Position</p>
+</li>
+<li>
+<p>Area Games Competition (2026) - Blindfold Laser Maze Challenge - 3<sup>rd</sup>&nbsp;Position</p>
+</li>
+<li>
+<p>Distinction Award for Unit Overall Proficiency Award (2025)</p>
 </li>
 <li>
 <p>SPF-NPCC Badge Award (2025)</p>
@@ -65,9 +79,10 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 <p>Area Games Competition (2025) - Tri-Trial Game - 2<sup>nd</sup> Position</p>
 </li>
 <li>
-<p>Area Games Competition (2025) - Sketch Relay Game - 3<sup>rd</sup> Position
-<br>
-</p>
+<p>Area Games Competition (2025) - Sketch Relay Game - 3<sup>rd</sup> Position</p>
+</li>
+<li>
+<p>Distinction Award for Unit Overall Proficiency Award (2024)</p>
 </li>
 </ul>
 <p><strong>Other Notable Activities:</strong>
@@ -131,12 +146,32 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Award1" src="/images/1000130140.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="Award 2" src="/images/1000129801.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_01__CCAO__v2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_02__NPC_Visit__v2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_02__NPC_Visit__v2.png">
 </div>
 </td>
 </tr>
@@ -156,7 +191,7 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_05__Sec_1_Camp__v2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_05__Sec_1_Camp__v2.png">
 </div>
 </td>
 </tr>
@@ -176,7 +211,7 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_09__CSI__v2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/2025_NPCC_09__CSI__v2.png">
 </div>
 </td>
 </tr>
@@ -210,7 +245,7 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>ATC</p>
+<p>Adventure Training Camp</p>
 </td>
 </tr>
 </tbody>
