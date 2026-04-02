@@ -33,12 +33,12 @@ to the Young Journalists’ Club CCA students.</p>
 development of students' talent in multimedia production through specialised
 training and participation in national and international competitions.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="360" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7A70YxTdHn0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2N8c1JGJtTE?si=wcV8bY6HXsD_JAz8"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="360" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uwlJUkSUWbI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UaaMv4piOxs?si=tNV-z9KKq1DwCw_Z"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OpLpt5g7i8A"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/grKy_rxqM7Q?si=_1NZA3N2T0j4SE32"></iframe>
 </div>
 <p></p>
