@@ -24,9 +24,22 @@ ensuring they carry these values forward into their futures.</p>
 </div>
 <p></p>
 <p><strong>Teachers-in-charge:</strong> 
-<br>Ms Chew Soo Qing (OIC)
-<br>Mr Freddy Goh Teck Seng (AIC)
-<br>Miss Tan Geok Hua Dolley</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Chew Soo Qing (OIC)</p>
+</li>
+<li>
+<p>Mr Freddy Goh Teck Seng (AIC)</p>
+</li>
+<li>
+<p>Miss Tan Geok Hua Dolley</p>
+</li>
+<li>
+<p>Mr Daniel Chia</p>
+</li>
+</ul>
+<p></p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm</p>
 <p><strong>Competitions / Achievements:</strong>
