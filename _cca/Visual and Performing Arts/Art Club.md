@@ -16,9 +16,17 @@ provided to our members, as we recognize the importance of inculcating
 21-Century Competencies in our talents.</p>
 <p><strong>Teachers-in-charge:</strong> 
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Mr Alvin Khoo (OIC)</p>
+</li>
+<li>
 <p>Miss Carol Chong (AIC)</p>
+</li>
+<li>
 <p>Mr Hamsani Bin Raoh</p>
+</li>
+</ul>
 <p><strong>Weekly Schedule:</strong> 
 <br>Odd Week Tuesdays, Even Week Tuesdays and Even Week Thursdays 2.40 pm
 – 5.15 pm</p>
