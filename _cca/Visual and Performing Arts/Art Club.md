@@ -14,7 +14,7 @@ and resourcefulness. Platforms to hone public-speaking skills, appreciate
 different art forms and collaborate as a team on school projects are always
 provided to our members, as we recognize the importance of inculcating
 21-Century Competencies in our talents.</p>
-<p><strong>Teachers-in-charge:</strong> 
+<p><strong>Teachers-in-charge:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
