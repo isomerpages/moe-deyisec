@@ -31,8 +31,7 @@ in their future endeavors.</p>
 <br>Mr Chang Seow Kuen (OIC)
 <br>Mr Koh Yu Han (AIC)
 <br>Mdm Rajakumari
-<br>
-</p>
+<br>Mr Shanmugam s/o Kasinathan</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday &amp; Thursday 2.45 pm – 5.45 pm</p>
 <p><strong>Competitions / Achievements:</strong>
