@@ -15,8 +15,10 @@ different art forms and collaborate as a team on school projects are always
 provided to our members, as we recognize the importance of inculcating
 21-Century Competencies in our talents.</p>
 <p><strong>Teachers-in-charge:</strong> 
-<br>Mr Alvin Khoo (OIC)
-<br>Miss Carol Chong (AIC)</p>
+</p>
+<p>Mr Alvin Khoo (OIC)</p>
+<p>Miss Carol Chong (AIC)</p>
+<p>Mr Hamsani Bin Raoh</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Odd Week Tuesdays, Even Week Tuesdays and Even Week Thursdays 2.40 pm
 – 5.15 pm</p>
