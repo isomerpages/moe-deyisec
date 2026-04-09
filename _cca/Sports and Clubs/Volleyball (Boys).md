@@ -76,13 +76,11 @@ Championships (2022)</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/Fundamental_Skills_Training_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/3rd_position_in_the_VA_U15_Cup__2025_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/Our_Sec_4_Team.jpg">
 </div>
@@ -90,7 +88,7 @@ Championships (2022)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fundamental Skills Training with the coach and seniors</p>
+<p>3rd position in the VA U15 Cup (2025)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4 Team</p>
@@ -98,9 +96,8 @@ Championships (2022)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/3rd_position_in_the_VA_U15_Cup__2025_.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/Fundamental_Skills_Training_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,7 +106,7 @@ Championships (2022)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3rd position in the VA U15 Cup (2025)</p>
+<p>Fundamental Skills Training with the coach and seniors</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
