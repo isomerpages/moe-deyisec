@@ -106,7 +106,7 @@ Championships (2022)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fundamental Skills Training with the coach and seniors</p>
+<p>Fundamental skills training with the coach and seniors</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
