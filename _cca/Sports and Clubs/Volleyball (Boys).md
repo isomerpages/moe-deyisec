@@ -82,7 +82,7 @@ Championships (2022)</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/Our_Sec_4_Team.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/VB2.jpg">
 </div>
 </th>
 </tr>
@@ -91,7 +91,7 @@ Championships (2022)</p>
 <p>3rd position in the VA U15 Cup (2025)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4 Team</p>
+<p>3rd position in the Mintonette U16 Volleyball Tournament (2025)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,9 @@ Championships (2022)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/Our_Sec_4_Team.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -109,7 +111,7 @@ Championships (2022)</p>
 <p>Fundamental skills training with the coach and seniors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sec 4 Team</p>
 </td>
 </tr>
 <tr>
