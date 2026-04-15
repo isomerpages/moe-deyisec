@@ -113,6 +113,29 @@ understanding.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Through the innovative use of AI tools, Deyi Secondary School students
+explore science curriculum topics, collaborate to design their own lessons,
+and conduct related experiments, becoming digitally empowered, and self-directed
+learners. Click below to watch the video on how the school is reimagining
+education to prepare learners for the future.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.youtube.com/watch?v=k6ztRyJZOWU" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=k6ztRyJZOWU</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
