@@ -25,9 +25,10 @@ or small-group check-ins</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Education
 and Career Guidance (ECG) through counselling, coaching and workshops to
 support informed pathway planning towards post-secondary education institutions.</p>
-<p>&nbsp;</p>
 <p>You may reach our team through your child’s/ward’s Form Teacher, or write
 to the school at <a href="mailto:deyi_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">deyi_ss@moe.edu.sg</a>
 </p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/student_hub_.png">
+</div>
 <p></p>
