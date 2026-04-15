@@ -11,7 +11,6 @@ Needs (SEN) Officers and Education and Career Guidance (ECG) Counsellor
 to support students’ well-being, learning and growth. We provide a safe
 space for students who may need help with their mental health, social-emotional
 development, behavioral concerns or friendship issues.</p>
-<p>&nbsp;</p>
 <p><u>How We Support Students</u>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Counselling
