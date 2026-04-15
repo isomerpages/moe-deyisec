@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p><strong>Type of Stall</strong>: Western Stall</p>
-<p><strong>Closing Date</strong>: 15 April 2026</p>
+<p><strong>Closing Date</strong>: 30 April 2026</p>
 <p><strong>Requirements</strong>: Halal</p>
 <h3>Application Procedure:</h3>
 <p>1. Download and complete the <a href="/files/Useful Links/Cateen Advert/Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">application form</a>.
