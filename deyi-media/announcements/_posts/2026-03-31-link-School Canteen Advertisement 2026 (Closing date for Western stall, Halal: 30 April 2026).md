@@ -1,6 +1,6 @@
 ---
 title: "School Canteen Advertisement 2026 (Closing date for Western stall,
-  Halal: 15 April 2026)"
+  Halal: 30 April 2026)"
 date: 2026-03-31
 layout: link
 description: ""
