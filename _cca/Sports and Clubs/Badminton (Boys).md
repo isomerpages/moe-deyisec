@@ -23,7 +23,7 @@ ensuring they carry these values forward into their futures.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_boys_group.jpg">
 </div>
 <p></p>
-<p><strong>Teachers-in-charge:</strong> 
+<p><strong>Teachers-in-charge:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -34,12 +34,9 @@ ensuring they carry these values forward into their futures.</p>
 </li>
 <li>
 <p>Miss Tan Geok Hua Dolley</p>
-</li>
-<li>
-<p>Mr Daniel Chia</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm</p>
 <p><strong>Competitions / Achievements:</strong>
