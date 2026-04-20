@@ -132,8 +132,9 @@ education to prepare learners for the future.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=k6ztRyJZOWU" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=k6ztRyJZOWU</a>
-</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k6ztRyJZOWU?si=wrFrxoVOl7BjS__D"></iframe>
+</div>
 </td>
 </tr>
 </tbody>
