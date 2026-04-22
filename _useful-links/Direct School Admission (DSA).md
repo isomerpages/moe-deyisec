@@ -242,9 +242,9 @@ China)</p>
 </li>
 <li>
 <p>Collaborate with like-minded peers in a dynamic and innovative environment</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>We seek passionate, curious, and creative students who are ready to explore,
 experiment, and excel. Join us to be part of a team that not only wins
 competitions, but also engineers solutions for the future.</p>
