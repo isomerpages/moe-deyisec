@@ -50,7 +50,7 @@ programmes.</p>
 <p>(NOT applicable for School of the Arts (SOTA) and Singapore Sports School
 (SSP))</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from&nbsp;<strong>7 May 2025, 11 am to 3 June 2025, 3 pm.</strong>&nbsp;For
+The application is free-of-charge and will be open from&nbsp;<strong>6 May 2026, 11am &nbsp;to 2 Jun 2026, 3pm</strong>.&nbsp;For
 more details, please refer to MOE website:&nbsp;–&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
@@ -290,7 +290,7 @@ the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener n
 </p>
 <p><strong>Stage 1 – Short-listing</strong> 
 <br>Candidates will first be short-listed based on&nbsp;<strong>Criteria 1–3</strong>.
-All shortlisted candidates after Stage 1 will be informed by&nbsp;<strong>25 July 2025</strong>&nbsp;of
+All shortlisted candidates after Stage 1 will be informed by&nbsp;<strong>31 July 2026</strong>&nbsp;of
 their interview and audition dates. Non-shortlisted candidates will also
 be informed that they are unsuccessful in their application.</p>
 <p><strong>Stage 2 – Audition/Trial</strong> 
@@ -301,9 +301,9 @@ the relevant talent area (e.g. Aesthetics, English, Student Leadership,
 Physical Education) and the&nbsp;<u> CCA Teacher-In-Charge </u>&nbsp;of
 the specific talent area.</p>
 <p>After Stage 2 (Audition/Trial) and Stage 3 (Panel Interview), the results
-will be compiled and all shortlisted candidates will be notified between
-25 Aug and 4 Sep 2025&nbsp;if they have been given a Confirmed Offer, put
-on the Waiting List or if the school is unable to offer them a place.</p>
+will be compiled and all shortlisted candidates will be notified between <strong>17 Aug and 28 Aug 2026</strong>&nbsp;if
+they have been given a Confirmed Offer, put on the Waiting List or if the
+school is unable to offer them a place.</p>
 <p>Those given a Confirmed Offer are guaranteed a place in the school in
 a course [Express, Normal (Academic) or Normal (Technical)] which the student
 is eligible for. This is based on the PSLE aggregate of the student.</p>
@@ -324,7 +324,8 @@ is eligible for. This is based on the PSLE aggregate of the student.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May, 11 am – 3 Jun, 3 pm</p>
+<p><strong>6 May, 11am – 2 Jun, 3pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Online Application Stage. (Through centralised DSA-Sec Portal)
@@ -334,7 +335,8 @@ is eligible for. This is based on the PSLE aggregate of the student.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 25 Jul</p>
+<p>By <strong>31 Jul</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All shortlisted applicants will be informed of their audition/trial date.</p>
@@ -342,7 +344,8 @@ is eligible for. This is based on the PSLE aggregate of the student.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Jun – 4 Sep</p>
+<p><strong>29 Jun – 28 Aug</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Selection Stage. Trials and auditions will usually be conducted on <strong>Tuesdays</strong> and <strong>Thursdays</strong> as
@@ -351,7 +354,8 @@ these are the school’s designated CCA Days.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 Aug - 4 Sep</p>
+<p><strong>17 Aug –</strong>  <strong>28 Aug</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All shortlisted candidates will be notified by post as to whether he/she
@@ -360,7 +364,8 @@ is on the confirmed, waiting or rejected list.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Oct – 31 Oct</p>
+<p><strong>19 Oct – 23 Oct</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exercise School Preference Stage.</p>
