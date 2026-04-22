@@ -131,7 +131,7 @@ just athletic skill, but the enduring heart of our school's culture.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/PE/Class_Mascot_3.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/PE/Class_Mascot_3.jpg">
 </div>
 </td>
 </tr>
@@ -166,7 +166,7 @@ just athletic skill, but the enduring heart of our school's culture.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/PE/Inter_Class_Skipping_Challenge_2.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/PE/Inter_Class_Skipping_Challenge_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
