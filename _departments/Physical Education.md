@@ -134,13 +134,14 @@ just athletic skill, but the enduring heart of our school's culture.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mascots for the Track Meet</p>
+<p>Creativity in Class Mascots</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/Teamworks_4x100m_relay_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/PE/Teamworks_4x100m_relay_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,23 +152,52 @@ just athletic skill, but the enduring heart of our school's culture.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A close fight in 4x100m relay for the Sec 1</p>
+<p>Spirit of true sportsmanship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All ready to receive the bation after many weeks of practices.</p>
+<p>All ready to receive the baton after many weeks of practices.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/Inter_Class_Skipping_Challenge_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/Inter_Class_Skipping_Challenge.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inter-Class Skipping Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>It is all about Teamwork</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/Class3.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/Class2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/Class1.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Glory of the sport</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
