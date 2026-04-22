@@ -85,7 +85,11 @@ netball, touch-rugby</p>
 </ul>
 <p><strong>Key Programme:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -110,34 +114,63 @@ just athletic skill, but the enduring heart of our school's culture.</p>
 </table>
 <p><strong>Highlights:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/Class_Mascot.jpg">
 </div>
-<p>Mascots for the Track Meet</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/WhatsApp_Image_2024_04_03_at_21_01_42.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Departments/PE/Class_Mascot_3.jpg">
 </div>
-<p>Teachers' race!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mascots for the Track Meet</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/WhatsApp_Image_2024_04_03_at_21_01_43.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/Teamworks_4x100m_relay_2.jpg">
 </div>
-<p>Getting a well-deserved drink after a race</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/WhatsApp_Image_2024_04_03_at_21_01_42__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/Teamworks_4x100m_relay.jpg">
 </div>
-<p>Parents Support Group joining the Track Meet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A close fight in 4x100m relay for the Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All ready to receive the bation after many weeks of practices.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
