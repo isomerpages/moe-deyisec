@@ -300,8 +300,8 @@ updated by early-May. For more information on DSA-Sec, please refer to
 the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p><strong>Stage 1 – Short-listing</strong> 
-<br>Candidates will first be short-listed based on&nbsp;<strong>Criteria 1–3</strong>.
-All shortlisted candidates after Stage 1 will be informed by&nbsp;<strong>31 July 2026</strong>&nbsp;of
+<br>Candidates will first be short-listed based on&nbsp;<strong>Criteria 1–3</strong>.</p>
+<p>All shortlisted candidates after Stage 1 will be informed by&nbsp;<strong>31 July 2026</strong>&nbsp;of
 their interview and audition dates. Non-shortlisted candidates will also
 be informed that they are unsuccessful in their application.</p>
 <p><strong>Stage 2 – Audition/Trial</strong> 
