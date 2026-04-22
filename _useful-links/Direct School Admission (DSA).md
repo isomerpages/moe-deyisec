@@ -95,23 +95,18 @@ for Life Programme (LLP) - NURTURING CONFIDENT COMMUNICATORS AND GRACIOUS
 CITIZENS THROUGH THE ARTS. The LLP focuses on real-life experiential learning
 to develop students’ character and values through various in-curriculum
 Arts programmes such as Drama, Dance, Visual Art and Music.
-<br>
 <br>To develop every child to the fullest, Deyi aims to bring the Performing
 Arts to the entire school population.
-<br>
 <br>The desired outcomes we envision for all Deyians in the areas of LLP are:
-<br>
-<br>• To be more culturally aware and appreciative of the various forms of
-performing arts;
+<br>To be more culturally aware and appreciative of the various forms of performing
+arts;
 <br>• To learn at least one 'performing art' skill (i.e. to be able to dance,
 act or sing reasonably well);
 <br>• To perform in at least one school / public performance.
-<br>
 <br>Thus Performing Arts @ Deyi is about values inculcation, holistic development
 of the child, expanding the common space amidst our rich and diverse cultural
 heritage and fostering social responsibility so that our students will
 become Active Learners, Gracious Citizens.
-<br>
 <br>All selected students will be recruited into Visual &amp; Performing Arts-related
 CCAs namely, <strong>Art Club</strong>,<strong> School Band</strong>,<strong> Choir, Movement &amp; Dance</strong>,
 and<strong> English Drama Club</strong> for a customised Talent Development
@@ -155,7 +150,6 @@ community, equipped with 21st century skills, and possess a passion to
 serve. We seek individuals who have shown aptitude in service and leadership
 in their primary schools or one who has keen interest in community service
 and would like to lead in this aspect.</p>
-<p>&nbsp;</p>
 <p>Students who are selected can expect to have their leadership skills and
 values nurtured through a mentoring programme. They will be paired with
 our Student Council Exco members to plan and execute a project to influence
@@ -163,7 +157,6 @@ our community in exhibiting kindness. The project will be guided by teachers-in-
 of student leadership and regular reflections will be facilitated to help
 crystalise their learning. They will also be invited for school-based leadership
 workshops/camps.</p>
-<p>&nbsp;</p>
 <p>Our Uniformed Groups (<strong>NCC</strong>, <strong>NPCC</strong> &amp; <strong>SJB</strong>)
 are all sustained Gold Award Units with outstanding performance in Zonal
 &amp; National Competitions [e.g. Precision Drill Squad competition (NCC)
@@ -182,7 +175,6 @@ our students cultivate resilience, teamwork, and sportsmanship, equipping
 them to navigate real-world challenges with confidence and integrity. Every
 Deyi athlete embodies our core values of Dedication, Diligence, Determination,
 Discipline, Care, and Integrity.</p>
-<p>&nbsp;</p>
 <p>Deyi Secondary has a proud tradition of sporting excellence at both Zonal
 and National levels. Our <strong>Basketball Girls’</strong> team has reached
 the Zonal Finals seven times, clinching the championship on three occasions.
@@ -194,7 +186,6 @@ our <strong>Football Girls’</strong> team attained 2nd place in the NSG League
 2 Finals for both the C Division (2025) and B Division (2026). The <strong>Volleyball Boys’</strong> team
 is a growing force defined by resilience, discipline, and an unyielding
 spirit to improve.</p>
-<p>&nbsp;</p>
 <p>Student-athletes in our sports development programme can look forward
 to diverse opportunities to represent the school in MOE-sanctioned and
 external competitions. Beyond achievements, Deyi nurtures leaders — many
@@ -213,7 +204,6 @@ and represent Singapore on the international stage.</p>
 of excellence on both the national and international stage. Our students
 have consistently pushed the boundaries of innovation, achieving outstanding
 results such as:</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Champion – RoboCup Singapore Rescue Line Competition (2023, 2024)</p>
@@ -221,7 +211,6 @@ results such as:</p>
 <li>
 <p>Asia-Pacific Champion – RoboCup Rescue Line Competition (2024, Qingdao,
 China)</p>
-<p></p>
 </li>
 </ul>
 <p>Through Deyi’s Robotics Programme, students will:</p>
@@ -234,7 +223,6 @@ China)</p>
 </li>
 <li>
 <p>Collaborate with like-minded peers in a dynamic and innovative environment</p>
-<p></p>
 </li>
 </ul>
 <p>We seek passionate, curious, and creative students who are ready to explore,
