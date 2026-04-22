@@ -133,9 +133,11 @@ just athletic skill, but the enduring heart of our school's culture.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Creativity in Class Mascots</p>
-<p></p>
+<td rowspan="1" colspan="1">
+<p>Class Mascots</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flow of creative juices</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +157,7 @@ just athletic skill, but the enduring heart of our school's culture.</p>
 <p>Spirit of true sportsmanship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All ready to receive the baton after many weeks of practices.</p>
+<p>All ready to receive the baton after many practices.</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +202,7 @@ just athletic skill, but the enduring heart of our school's culture.</p>
 <p>Glory of the sport</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Spirit of the Class</p>
 </td>
 </tr>
 </tbody>
