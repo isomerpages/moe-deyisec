@@ -66,10 +66,13 @@ netball, touch-rugby</p>
 <p>Sec 1 (Handball, Frisbee)</p>
 </li>
 <li>
-<p>Sec 2 (Floorball, Volleyball)</p>
+<p>Sec 2 (Tag rugby, Volleyball)</p>
 </li>
 <li>
-<p>Sec 3 (Futsal, Basketball)</p>
+<p>Sec 3 (Futsal, Netball)</p>
+</li>
+<li>
+<p>Sec 4 (Floorball)</p>
 </li>
 </ul>
 </li>
