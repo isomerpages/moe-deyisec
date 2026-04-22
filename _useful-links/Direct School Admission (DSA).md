@@ -206,14 +206,6 @@ and represent Singapore on the international stage.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Science, Technology, Engineering and Mathematics</strong> 
 <br>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>
 <br>Robotics</p>
 </td>
 <td rowspan="1" colspan="1">
