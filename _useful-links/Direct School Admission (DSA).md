@@ -149,24 +149,24 @@ broadcast fact, opinions and perspectives.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deyi develops leaders who are active contributors to the community, equipped
-with 21st century skills, and possess a passion to serve. We seek individuals
-who have shown aptitude in service and leadership in their primary schools
-or one who has keen interest in community service and would like to lead
-in this aspect.
-<br>
-<br>Students who are selected can expect to have their leadership skills and
-values developed through a mentoring programme. They will be paired with
+<p>Deyi develops <strong>leaders</strong> who are active contributors to the
+community, equipped with 21st century skills, and possess a passion to
+serve. We seek individuals who have shown aptitude in service and leadership
+in their primary schools or one who has keen interest in community service
+and would like to lead in this aspect.</p>
+<p>&nbsp;</p>
+<p>Students who are selected can expect to have their leadership skills and
+values nurtured through a mentoring programme. They will be paired with
 our Student Council Exco members to plan and execute a project to influence
-our community in exhibiting kindness. The project will be guided by teachers
-in-charged of student leadership and regular reflections will be facilitated
-to help them crystalise their learning. They will also be invited for school-based
-leadership workshops/camps.
-<br>
-<br>Our Uniformed Groups (NCC, NPCC &amp; SJB) are all sustained Gold Units
-which have achieved outstanding performance in Zonal &amp; National Competitions
-[e.g. Precision Drill Squad competition (NCC) and 1st Aid &amp; Home Nursing
-competition (SJB).]</p>
+our community in exhibiting kindness. The project will be guided by teachers-in-charge
+of student leadership and regular reflections will be facilitated to help
+crystalise their learning. They will also be invited for school-based leadership
+workshops/camps.</p>
+<p>&nbsp;</p>
+<p>Our Uniformed Groups (<strong>NCC</strong>, <strong>NPCC</strong> &amp; <strong>SJB</strong>)
+are all sustained Gold Award Units with outstanding performance in Zonal
+&amp; National Competitions [e.g. Precision Drill Squad competition (NCC)
+and 1<sup>st</sup> Aid &amp; Home Nursing competition (SJB).]</p>
 </td>
 </tr>
 <tr>
@@ -175,27 +175,30 @@ competition (SJB).]</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Deyi student athlete is a sportsperson of character whose pursuit
-of excellence is unwavering. By participating in sports, students can develop
-enduring positive character traits and sportsmanship which can prepare
-them for future, authentic situations. The Deyi athlete is the embodiment
-of the school values - dedication, diligence, determination, discipline,
-care and integrity.
-<br>
-<br>The school has traditionally done well in Zonal and National competitions.
-The Basketball Girls team has won the Zonal title 3 times in the past decade.
-The Table Tennis (Girls &amp; Boys) have both achieved top 4 placing in
-the Zonal tournament. Additionally, our Handball Girls team (made up of
-students from the various sports groups) has won the National title a total
-of 9 times (Under-15/Under-17 Division) since its inaugural season in 2012.
-Our Football Girls qualified for the 2025 NSG League 2 finals and emerged
-as League 2 1st Runners-Up in the tournament.
-<br>
-<br>Student athletes who join our sports development programme can look forward
-to many opportunities to represent our school in both MOE-sanctioned and
-external competitions. In doing so, Deyi has nurtured many future leaders
-who went on to captain their various sports teams in their tertiary institutions
-as well as represent Singapore in the various international tournaments.</p>
+<p>The Deyi student-athlete is more than a competitor — they are a sportsperson
+of character, driven by an unwavering pursuit of excellence. Through sports,
+our students cultivate resilience, teamwork, and sportsmanship, equipping
+them to navigate real-world challenges with confidence and integrity. Every
+Deyi athlete embodies our core values of Dedication, Diligence, Determination,
+Discipline, Care, and Integrity.</p>
+<p>&nbsp;</p>
+<p>Deyi Secondary has a proud tradition of sporting excellence at both Zonal
+and National levels. Our <strong>Basketball Girls’</strong> team has reached
+the Zonal Finals seven times, clinching the championship on three occasions.
+Both our <strong>Boys’ and Girls’ Table Tennis</strong> teams have consistently
+achieved Top 4 placings at the Zonal level. Our Handball Girls’ team —
+a unique synergy of talent across sports — has been a dominant force, securing
+ten National titles (Under-15 and Under-17) since 2012. More recently,
+our <strong>Football Girls’</strong> team attained 2nd place in the NSG League
+2 Finals for both the C Division (2025) and B Division (2026). The <strong>Volleyball Boys’</strong> team
+is a growing force defined by resilience, discipline, and an unyielding
+spirit to improve.</p>
+<p>&nbsp;</p>
+<p>Student-athletes in our sports development programme can look forward
+to diverse opportunities to represent the school in MOE-sanctioned and
+external competitions. Beyond achievements, Deyi nurtures leaders — many
+of our athletes have gone on to captain their teams in tertiary institutions
+and represent Singapore on the international stage.</p>
 </td>
 </tr>
 <tr>
@@ -205,8 +208,10 @@ as well as represent Singapore in the various international tournaments.</p>
 <br>Robotics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deyi Secondary School is proud to introduce Robotics as a new talent area
-for the <strong>Direct School Admission (DSA) programme</strong>. This opportunity
+<p>Deyi’s <strong>Robotics Club</strong> has established itself as a force
+of excellence on both the national and international stage. Our students
+have consistently pushed the boundaries of innovation, achieving outstanding
+results such as:<strong>Admission (DSA) programme</strong>. This opportunity
 is designed for students with a passion for robotics, programming, and
 problem-solving in real-world challenges. Our <strong>Robotics Club</strong> has
 consistently demonstrated excellence in national and international competitions.
