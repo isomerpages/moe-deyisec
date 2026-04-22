@@ -113,8 +113,9 @@ heritage and fostering social responsibility so that our students will
 become Active Learners, Gracious Citizens.
 <br>
 <br>All selected students will be recruited into Visual &amp; Performing Arts-related
-CCAs namely, Art Club, School Band, Choir, Movement &amp; Dance, and English
-Drama Club for a customised Talent Development Programme.</p>
+CCAs namely, <strong>Art Club</strong>,<strong> School Band</strong>,<strong> Choir, Movement &amp; Dance</strong>,
+and<strong> English Drama Club</strong> for a customised Talent Development
+Programme.</p>
 </td>
 </tr>
 <tr>
@@ -228,9 +229,7 @@ results such as:</p>
 <li>
 <p>Asia-Pacific Champion – RoboCup Rescue Line Competition (2024, Qingdao,
 China)</p>
-</li>
-<li>
-<p>&nbsp;</p>
+<p></p>
 </li>
 </ul>
 <p>Through Deyi’s Robotics Programme, students will:</p>
