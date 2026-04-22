@@ -50,7 +50,7 @@ programmes.</p>
 <p>(NOT applicable for School of the Arts (SOTA) and Singapore Sports School
 (SSP))</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from&nbsp;<strong>7 May 2025, 11 am to 3 June 2025, 3 pm.</strong>&nbsp;For
+The application is free-of-charge and will be open from&nbsp;<strong>6 May 2026, 11am &nbsp;to 2 Jun 2026, 3pm</strong>.&nbsp;For
 more details, please refer to MOE website:&nbsp;–&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
@@ -94,27 +94,27 @@ In 2016, we integrated our arts education programmes with our Learning
 for Life Programme (LLP) - NURTURING CONFIDENT COMMUNICATORS AND GRACIOUS
 CITIZENS THROUGH THE ARTS. The LLP focuses on real-life experiential learning
 to develop students’ character and values through various in-curriculum
-Arts programmes such as Drama, Dance, Visual Art and Music.
-<br>
+Arts programmes such as Drama, Dance, Visual Art and Music.</p>
+<p>
 <br>To develop every child to the fullest, Deyi aims to bring the Performing
-Arts to the entire school population.
-<br>
+Arts to the entire school population.</p>
+<p>
 <br>The desired outcomes we envision for all Deyians in the areas of LLP are:
-<br>
-<br>• To be more culturally aware and appreciative of the various forms of
-performing arts;
+<br>To be more culturally aware and appreciative of the various forms of performing
+arts;
 <br>• To learn at least one 'performing art' skill (i.e. to be able to dance,
 act or sing reasonably well);
-<br>• To perform in at least one school / public performance.
-<br>
+<br>• To perform in at least one school / public performance.</p>
+<p>
 <br>Thus Performing Arts @ Deyi is about values inculcation, holistic development
 of the child, expanding the common space amidst our rich and diverse cultural
 heritage and fostering social responsibility so that our students will
-become Active Learners, Gracious Citizens.
-<br>
+become Active Learners, Gracious Citizens.</p>
+<p>
 <br>All selected students will be recruited into Visual &amp; Performing Arts-related
-CCAs namely, Art Club, School Band, Choir, Movement &amp; Dance, and English
-Drama Club for a customised Talent Development Programme.</p>
+CCAs namely, <strong>Art Club</strong>,<strong> School Band</strong>,<strong> Choir, Movement &amp; Dance</strong>,
+and<strong> English Drama Club</strong> for a customised Talent Development
+Programme.</p>
 </td>
 </tr>
 <tr>
@@ -133,9 +133,7 @@ Students collaborate to produce infographics and videos on a wide range
 of topics that are broadcast to the school, thereby experiencing a deeper
 engagement with language on authentic platforms to become competent, confident
 and effective communicators.
-<br>
 <br>The desired outcomes we envision for all Deyians in the area of ALP are:
-<br>
 <br>• To be critical inventive thinkers and effective communicators in the
 areas of broadcast and Journalism.
 <br>• To be able to produce digital multi-media resources to communicate and
@@ -149,24 +147,22 @@ broadcast fact, opinions and perspectives.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deyi develops leaders who are active contributors to the community, equipped
-with 21st century skills, and possess a passion to serve. We seek individuals
-who have shown aptitude in service and leadership in their primary schools
-or one who has keen interest in community service and would like to lead
-in this aspect.
-<br>
-<br>Students who are selected can expect to have their leadership skills and
-values developed through a mentoring programme. They will be paired with
+<p>Deyi develops <strong>leaders</strong> who are active contributors to the
+community, equipped with 21st century skills, and possess a passion to
+serve. We seek individuals who have shown aptitude in service and leadership
+in their primary schools or one who has keen interest in community service
+and would like to lead in this aspect.</p>
+<p>Students who are selected can expect to have their leadership skills and
+values nurtured through a mentoring programme. They will be paired with
 our Student Council Exco members to plan and execute a project to influence
-our community in exhibiting kindness. The project will be guided by teachers
-in-charged of student leadership and regular reflections will be facilitated
-to help them crystalise their learning. They will also be invited for school-based
-leadership workshops/camps.
-<br>
-<br>Our Uniformed Groups (NCC, NPCC &amp; SJB) are all sustained Gold Units
-which have achieved outstanding performance in Zonal &amp; National Competitions
-[e.g. Precision Drill Squad competition (NCC) and 1st Aid &amp; Home Nursing
-competition (SJB).]</p>
+our community in exhibiting kindness. The project will be guided by teachers-in-charge
+of student leadership and regular reflections will be facilitated to help
+crystalise their learning. They will also be invited for school-based leadership
+workshops/camps.</p>
+<p>Our Uniformed Groups (<strong>NCC</strong>, <strong>NPCC</strong> &amp; <strong>SJB</strong>)
+are all sustained Gold Award Units with outstanding performance in Zonal
+&amp; National Competitions [e.g. Precision Drill Squad competition (NCC)
+and 1<sup>st</sup> Aid &amp; Home Nursing competition (SJB).]</p>
 </td>
 </tr>
 <tr>
@@ -175,27 +171,28 @@ competition (SJB).]</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Deyi student athlete is a sportsperson of character whose pursuit
-of excellence is unwavering. By participating in sports, students can develop
-enduring positive character traits and sportsmanship which can prepare
-them for future, authentic situations. The Deyi athlete is the embodiment
-of the school values - dedication, diligence, determination, discipline,
-care and integrity.
-<br>
-<br>The school has traditionally done well in Zonal and National competitions.
-The Basketball Girls team has won the Zonal title 3 times in the past decade.
-The Table Tennis (Girls &amp; Boys) have both achieved top 4 placing in
-the Zonal tournament. Additionally, our Handball Girls team (made up of
-students from the various sports groups) has won the National title a total
-of 9 times (Under-15/Under-17 Division) since its inaugural season in 2012.
-Our Football Girls qualified for the 2025 NSG League 2 finals and emerged
-as League 2 1st Runners-Up in the tournament.
-<br>
-<br>Student athletes who join our sports development programme can look forward
-to many opportunities to represent our school in both MOE-sanctioned and
-external competitions. In doing so, Deyi has nurtured many future leaders
-who went on to captain their various sports teams in their tertiary institutions
-as well as represent Singapore in the various international tournaments.</p>
+<p>The Deyi student-athlete is more than a competitor — they are a sportsperson
+of character, driven by an unwavering pursuit of excellence. Through sports,
+our students cultivate resilience, teamwork, and sportsmanship, equipping
+them to navigate real-world challenges with confidence and integrity. Every
+Deyi athlete embodies our core values of Dedication, Diligence, Determination,
+Discipline, Care, and Integrity.</p>
+<p>Deyi Secondary has a proud tradition of sporting excellence at both Zonal
+and National levels. Our <strong>Basketball Girls’</strong> team has reached
+the Zonal Finals seven times, clinching the championship on three occasions.
+Both our <strong>Boys’ and Girls’ Table Tennis</strong> teams have consistently
+achieved Top 4 placings at the Zonal level. Our Handball Girls’ team —
+a unique synergy of talent across sports — has been a dominant force, securing
+ten National titles (Under-15 and Under-17) since 2012. More recently,
+our <strong>Football Girls’</strong> team attained 2nd place in the NSG League
+2 Finals for both the C Division (2025) and B Division (2026). The <strong>Volleyball Boys’</strong> team
+is a growing force defined by resilience, discipline, and an unyielding
+spirit to improve.</p>
+<p>Student-athletes in our sports development programme can look forward
+to diverse opportunities to represent the school in MOE-sanctioned and
+external competitions. Beyond achievements, Deyi nurtures leaders — many
+of our athletes have gone on to captain their teams in tertiary institutions
+and represent Singapore on the international stage.</p>
 </td>
 </tr>
 <tr>
@@ -205,30 +202,34 @@ as well as represent Singapore in the various international tournaments.</p>
 <br>Robotics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deyi Secondary School is proud to introduce Robotics as a new talent area
-for the <strong>Direct School Admission (DSA) programme</strong>. This opportunity
-is designed for students with a passion for robotics, programming, and
-problem-solving in real-world challenges. Our <strong>Robotics Club</strong> has
-consistently demonstrated excellence in national and international competitions.
-Notable achievements include:
-<br>
-<br><strong>Champion – RoboCup Singapore Rescue Line Entry Competition</strong> (2023,
-2024)
-<br>
-<br><strong>Asia-Pacific Winner – RoboCup Rescue Line Entry Competition</strong> (2024,
-Qingdao, China)
-<br>
-<br>By joining Deyi's Robotics programme, students will:
-<br>
-<br>• Gain hands-on experience in coding, automation, and AI-driven robotics
-<br>
-<br>• Train under dedicated mentors and participate in top-tier competitions
-<br>
-<br>• Collaborate with like-minded peers in a vibrant, innovative environment
-<br>
-<br>We welcome passionate and creative students who aspire to push the boundaries
-of robotics technology. <strong>Join us and be part of a winning team that engineers the future!</strong>
-</p>
+<p>Deyi’s <strong>Robotics Club</strong> has established itself as a force
+of excellence on both the national and international stage. Our students
+have consistently pushed the boundaries of innovation, achieving outstanding
+results such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Champion – RoboCup Singapore Rescue Line Competition (2023, 2024)</p>
+</li>
+<li>
+<p>Asia-Pacific Champion – RoboCup Rescue Line Competition (2024, Qingdao,
+China)</p>
+</li>
+</ul>
+<p>Through Deyi’s Robotics Programme, students will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gain hands-on experience in coding, automation, and AI-driven robotics</p>
+</li>
+<li>
+<p>Train under dedicated mentors and compete in top-tier competitions</p>
+</li>
+<li>
+<p>Collaborate with like-minded peers in a dynamic and innovative environment</p>
+</li>
+</ul>
+<p>We seek passionate, curious, and creative students who are ready to explore,
+experiment, and excel. Join us to be part of a team that not only wins
+competitions, but also engineers solutions for the future.</p>
 </td>
 </tr>
 </tbody>
@@ -289,8 +290,8 @@ updated by early-May. For more information on DSA-Sec, please refer to
 the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p><strong>Stage 1 – Short-listing</strong> 
-<br>Candidates will first be short-listed based on&nbsp;<strong>Criteria 1–3</strong>.
-All shortlisted candidates after Stage 1 will be informed by&nbsp;<strong>25 July 2025</strong>&nbsp;of
+<br>Candidates will first be short-listed based on&nbsp;<strong>Criteria 1–3</strong>.</p>
+<p>All shortlisted candidates after Stage 1 will be informed by&nbsp;<strong>31 July 2026</strong>&nbsp;of
 their interview and audition dates. Non-shortlisted candidates will also
 be informed that they are unsuccessful in their application.</p>
 <p><strong>Stage 2 – Audition/Trial</strong> 
@@ -301,9 +302,9 @@ the relevant talent area (e.g. Aesthetics, English, Student Leadership,
 Physical Education) and the&nbsp;<u> CCA Teacher-In-Charge </u>&nbsp;of
 the specific talent area.</p>
 <p>After Stage 2 (Audition/Trial) and Stage 3 (Panel Interview), the results
-will be compiled and all shortlisted candidates will be notified between
-25 Aug and 4 Sep 2025&nbsp;if they have been given a Confirmed Offer, put
-on the Waiting List or if the school is unable to offer them a place.</p>
+will be compiled and all shortlisted candidates will be notified between <strong>17 Aug and 28 Aug 2026</strong>&nbsp;if
+they have been given a Confirmed Offer, put on the Waiting List or if the
+school is unable to offer them a place.</p>
 <p>Those given a Confirmed Offer are guaranteed a place in the school in
 a course [Express, Normal (Academic) or Normal (Technical)] which the student
 is eligible for. This is based on the PSLE aggregate of the student.</p>
@@ -324,7 +325,8 @@ is eligible for. This is based on the PSLE aggregate of the student.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May, 11 am – 3 Jun, 3 pm</p>
+<p><strong>6 May, 11am – 2 Jun, 3pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Online Application Stage. (Through centralised DSA-Sec Portal)
@@ -334,7 +336,8 @@ is eligible for. This is based on the PSLE aggregate of the student.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 25 Jul</p>
+<p>By <strong>31 Jul</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All shortlisted applicants will be informed of their audition/trial date.</p>
@@ -342,7 +345,8 @@ is eligible for. This is based on the PSLE aggregate of the student.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Jun – 4 Sep</p>
+<p><strong>29 Jun – 28 Aug</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Selection Stage. Trials and auditions will usually be conducted on <strong>Tuesdays</strong> and <strong>Thursdays</strong> as
@@ -351,7 +355,8 @@ these are the school’s designated CCA Days.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 Aug - 4 Sep</p>
+<p><strong>17 Aug –</strong>  <strong>28 Aug</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All shortlisted candidates will be notified by post as to whether he/she
@@ -360,7 +365,8 @@ is on the confirmed, waiting or rejected list.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Oct – 31 Oct</p>
+<p><strong>19 Oct – 23 Oct</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exercise School Preference Stage.</p>
