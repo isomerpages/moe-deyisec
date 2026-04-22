@@ -94,19 +94,23 @@ In 2016, we integrated our arts education programmes with our Learning
 for Life Programme (LLP) - NURTURING CONFIDENT COMMUNICATORS AND GRACIOUS
 CITIZENS THROUGH THE ARTS. The LLP focuses on real-life experiential learning
 to develop students’ character and values through various in-curriculum
-Arts programmes such as Drama, Dance, Visual Art and Music.
+Arts programmes such as Drama, Dance, Visual Art and Music.</p>
+<p>
 <br>To develop every child to the fullest, Deyi aims to bring the Performing
-Arts to the entire school population.
+Arts to the entire school population.</p>
+<p>
 <br>The desired outcomes we envision for all Deyians in the areas of LLP are:
 <br>To be more culturally aware and appreciative of the various forms of performing
 arts;
 <br>• To learn at least one 'performing art' skill (i.e. to be able to dance,
 act or sing reasonably well);
-<br>• To perform in at least one school / public performance.
+<br>• To perform in at least one school / public performance.</p>
+<p>
 <br>Thus Performing Arts @ Deyi is about values inculcation, holistic development
 of the child, expanding the common space amidst our rich and diverse cultural
 heritage and fostering social responsibility so that our students will
-become Active Learners, Gracious Citizens.
+become Active Learners, Gracious Citizens.</p>
+<p>
 <br>All selected students will be recruited into Visual &amp; Performing Arts-related
 CCAs namely, <strong>Art Club</strong>,<strong> School Band</strong>,<strong> Choir, Movement &amp; Dance</strong>,
 and<strong> English Drama Club</strong> for a customised Talent Development
