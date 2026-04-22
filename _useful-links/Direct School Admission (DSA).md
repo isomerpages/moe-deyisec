@@ -205,35 +205,50 @@ and represent Singapore on the international stage.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Science, Technology, Engineering and Mathematics</strong> 
 <br>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>
 <br>Robotics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Deyi’s <strong>Robotics Club</strong> has established itself as a force
 of excellence on both the national and international stage. Our students
 have consistently pushed the boundaries of innovation, achieving outstanding
-results such as:<strong>Admission (DSA) programme</strong>. This opportunity
-is designed for students with a passion for robotics, programming, and
-problem-solving in real-world challenges. Our <strong>Robotics Club</strong> has
-consistently demonstrated excellence in national and international competitions.
-Notable achievements include:
-<br>
-<br><strong>Champion – RoboCup Singapore Rescue Line Entry Competition</strong> (2023,
-2024)
-<br>
-<br><strong>Asia-Pacific Winner – RoboCup Rescue Line Entry Competition</strong> (2024,
-Qingdao, China)
-<br>
-<br>By joining Deyi's Robotics programme, students will:
-<br>
-<br>• Gain hands-on experience in coding, automation, and AI-driven robotics
-<br>
-<br>• Train under dedicated mentors and participate in top-tier competitions
-<br>
-<br>• Collaborate with like-minded peers in a vibrant, innovative environment
-<br>
-<br>We welcome passionate and creative students who aspire to push the boundaries
-of robotics technology. <strong>Join us and be part of a winning team that engineers the future!</strong>
-</p>
+results such as:</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Champion – RoboCup Singapore Rescue Line Competition (2023, 2024)</p>
+</li>
+<li>
+<p>Asia-Pacific Champion – RoboCup Rescue Line Competition (2024, Qingdao,
+China)</p>
+</li>
+<li>
+<p>&nbsp;</p>
+</li>
+</ul>
+<p>Through Deyi’s Robotics Programme, students will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gain hands-on experience in coding, automation, and AI-driven robotics</p>
+</li>
+<li>
+<p>Train under dedicated mentors and compete in top-tier competitions</p>
+</li>
+<li>
+<p>Collaborate with like-minded peers in a dynamic and innovative environment</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>We seek passionate, curious, and creative students who are ready to explore,
+experiment, and excel. Join us to be part of a team that not only wins
+competitions, but also engineers solutions for the future.</p>
 </td>
 </tr>
 </tbody>
