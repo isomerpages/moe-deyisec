@@ -129,9 +129,7 @@ Students collaborate to produce infographics and videos on a wide range
 of topics that are broadcast to the school, thereby experiencing a deeper
 engagement with language on authentic platforms to become competent, confident
 and effective communicators.
-<br>
 <br>The desired outcomes we envision for all Deyians in the area of ALP are:
-<br>
 <br>• To be critical inventive thinkers and effective communicators in the
 areas of broadcast and Journalism.
 <br>• To be able to produce digital multi-media resources to communicate and
