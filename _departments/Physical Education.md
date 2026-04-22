@@ -137,10 +137,10 @@ just athletic skill, but the enduring heart of our school's culture.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class Mascots</p>
+<p>Class Mascot</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Flow of creative juices</p>
+<p>It is about Creativity</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ just athletic skill, but the enduring heart of our school's culture.</p>
 <p>Glory of the sport</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Spirit of the Class</p>
+<p>Spirit of the class</p>
 </td>
 </tr>
 </tbody>
