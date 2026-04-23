@@ -58,10 +58,6 @@ Championship (2023)</p>
 <li>
 <p>2nd position in the VolleyballAce U15 National Volleyball Championship
 (2023)</p>
-</li>
-<li>
-<p>3rd position in the C Division National School Games South Zone Volleyball
-Championships (2022)</p>
 <p></p>
 </li>
 </ul>
