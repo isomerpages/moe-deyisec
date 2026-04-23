@@ -43,6 +43,25 @@ is valued, and every achievement celebrated.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>National School Games 2026 C Girls Pole Vault Champion: Poh Rui Xuan Megan</p>
+</li>
+<li>
+<p>National School Games 2026 B Boys 100m Semi Finalist: Jayden Chong Tuck
+Yew</p>
+</li>
+<li>
+<p>National School Games 2026 B Girls 100m Semi Finalist: Seah Hwee Ting</p>
+</li>
+<li>
+<p>National School Games 2026 C Boys 4X100m Semi Finalist</p>
+</li>
+<li>
+<p>National School Games 2026 C Girls 4X100m Semi Finalist</p>
+</li>
+<li>
+<p>National School Games 2026 B Boys 4X100m Semi Finalist</p>
+</li>
+<li>
 <p>National School Games 2025 C Girls Finals 2nd Position: Poh Rui Xuan Megan</p>
 </li>
 <li>
