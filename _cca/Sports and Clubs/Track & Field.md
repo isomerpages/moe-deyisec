@@ -86,18 +86,18 @@ Yew</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Track and Field/2023/image4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Track and Field/group.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Track and Field/2023/image5.jpeg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Track and Field/boys_running.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Relay Race Training</p>
+<p>Our Members</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Training at Yio Chu Kang Stadium</p>
