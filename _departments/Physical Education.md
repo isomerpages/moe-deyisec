@@ -66,10 +66,13 @@ netball, touch-rugby</p>
 <p>Sec 1 (Handball, Frisbee)</p>
 </li>
 <li>
-<p>Sec 2 (Floorball, Volleyball)</p>
+<p>Sec 2 (Tag rugby, Volleyball)</p>
 </li>
 <li>
-<p>Sec 3 (Futsal, Basketball)</p>
+<p>Sec 3 (Futsal, Netball)</p>
+</li>
+<li>
+<p>Sec 4 (Floorball)</p>
 </li>
 </ul>
 </li>
@@ -85,7 +88,11 @@ netball, touch-rugby</p>
 </ul>
 <p><strong>Key Programme:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -110,34 +117,93 @@ just athletic skill, but the enduring heart of our school's culture.</p>
 </table>
 <p><strong>Highlights:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/Class_Mascot.jpg">
 </div>
-<p>Mascots for the Track Meet</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/WhatsApp_Image_2024_04_03_at_21_01_42.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/PE/Class_Mascot_3.jpg">
 </div>
-<p>Teachers' race!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Class Mascot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>It is about Creativity</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/WhatsApp_Image_2024_04_03_at_21_01_43.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/PE/Teamworks_4x100m_relay_2.jpg">
 </div>
-<p>Getting a well-deserved drink after a race</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/WhatsApp_Image_2024_04_03_at_21_01_42__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/Teamworks_4x100m_relay.jpg">
 </div>
-<p>Parents Support Group joining the Track Meet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spirit of true sportsmanship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All ready to receive the baton after many practices.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/PE/Inter_Class_Skipping_Challenge_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/Inter_Class_Skipping_Challenge.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inter-Class Skipping Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>It is all about Teamwork</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PE/Class3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/PE/Class2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/PE/Class1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Glory of the sport</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Spirit of the class</p>
 </td>
 </tr>
 </tbody>
