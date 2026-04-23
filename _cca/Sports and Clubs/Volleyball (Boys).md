@@ -73,7 +73,7 @@ Championship (2023)</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/3rd_position_in_the_VA_U15_Cup__2025_.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/3rd_position_in_the_VA_U15_Cup__2025_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
