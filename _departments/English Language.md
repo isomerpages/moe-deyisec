@@ -33,14 +33,28 @@ journalism artefacts (Writing and Representing).</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/English/el_1_alp_keppelnights.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applied Learning Programme
 <br>In-curriculum Applied Learning Programme (ALP) journalism modules including
 infographics and social issues videos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
