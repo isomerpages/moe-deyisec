@@ -120,12 +120,12 @@ Band to perform in the 2023 National Day Parade.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/2025_MnD___Chinese_Dance_SYF.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/2025_MnD___Chinese_Dance_SYF.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/2025_MnD___International_Dance_SYF.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/2025_MnD___International_Dance_SYF.jpg">
 </div>
 </td>
 </tr>
@@ -145,7 +145,7 @@ Band to perform in the 2023 National Day Parade.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/2025_MnD___International_Dance_Arts_Fiesta.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/2025_MnD___International_Dance_Arts_Fiesta.jpg">
 </div>
 </td>
 </tr>
@@ -160,7 +160,7 @@ Band to perform in the 2023 National Day Parade.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/Screenshot_2024_04_05_131952.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Perf Arts/Movement Dance Wushu/Screenshot_2024_04_05_131952.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
