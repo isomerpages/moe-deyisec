@@ -23,7 +23,7 @@ amidst the thrill of competition and the camaraderie of their team, that
 our girls shine—demonstrating the power of unity and the enduring impact
 of a supportive sports education.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2025_Football_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/Football_Girls_1_1.jpg">
 </div>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Mdm Siti Farhanah (OIC)
@@ -50,6 +50,10 @@ Award’ (2023)</p>
 <p>National School Games B Division Girls’ Football Championship: ‘Fair Play
 Award’ (2025)</p>
 </li>
+<li>
+<p>National School Games B Division Girls’ Football Championship: 1st Runner-Up
+– League 2 (2026)</p>
+</li>
 </ul>
 <table style="minWidth: 50px">
 <colgroup>
@@ -61,40 +65,34 @@ Award’ (2025)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2024_Football_Pic_2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/Football_Girls2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2024_Football_Pic_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/Football_Girls3.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pre-game briefing for C Division Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fair Play Award for C Division Girls</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/2025_Football_02.jpg">
-</div>
+<p>NSG Soccer 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/Football_Girls4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Rise as ONE. Conquer as TEAM.</p>
 </td>
 </tr>
 </tbody>
