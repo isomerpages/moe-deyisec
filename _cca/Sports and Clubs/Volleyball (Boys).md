@@ -82,7 +82,7 @@ Championships (2022)</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/VB2.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/VB2.jpg">
 </div>
 </th>
 </tr>
@@ -97,7 +97,7 @@ Championships (2022)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/Fundamental_Skills_Training_.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/Fundamental_Skills_Training_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
