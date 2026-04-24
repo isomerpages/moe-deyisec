@@ -103,13 +103,11 @@ them to succeed in all walks of life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/BBG_Group.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 97%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/BM_Invitational_Cup_2024.jpg">
 </div>
@@ -117,8 +115,7 @@ them to succeed in all walks of life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Debrief by coach as tool to build cohesion and confidence and self-reflect
-for improvement</p>
+<p>NSG B Division Girls 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>BM U16&nbsp;Girls' Basketball Invitational Tournament - Fourth Placing
@@ -127,9 +124,7 @@ for improvement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/NSG_B_Division_Team_2025.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -137,7 +132,7 @@ for improvement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NSG B Division Team (2025)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
