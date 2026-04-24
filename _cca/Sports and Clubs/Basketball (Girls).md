@@ -81,15 +81,13 @@ them to succeed in all walks of life.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_3.png">
+<img style="width: 88%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_3.png">
 </div>
 </td>
 </tr>
@@ -104,12 +102,12 @@ them to succeed in all walks of life.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/BBG_Group.jpg">
+<img style="width: 83%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/NSG.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/BM_Invitational_Cup_2024.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/BM_Invitational_Cup_2024.jpg">
 </div>
 </td>
 </tr>
@@ -123,21 +121,18 @@ them to succeed in all walks of life.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/GroupBBG.jpg">
+</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>NSG B Division Girls 2026</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
