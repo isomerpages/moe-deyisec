@@ -49,6 +49,27 @@ in the English Language curriculum, developing visual communication and
 oracy skills.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/English/1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/English/2.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Process artefacts of Kayden Tan (4DL), Jayden Yang (4DL) and Vasukrishnan
+Narayanan (4DL) that demonstrate the integration of digital skills and
+E21CC skill-sets of Communication, Collaboration and Information Literacy.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Competitions / Achievements:</strong>
