@@ -65,7 +65,7 @@ Award’ (2025)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/Football_Girls2.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/Football_Girls2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
