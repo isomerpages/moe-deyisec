@@ -77,7 +77,7 @@ Championships (2022)</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/3rd_position_in_the_VA_U15_Cup__2025_.jpg">
+<img style="width: 36%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/3rd_position_in_the_VA_U15_Cup__2025_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -97,7 +97,7 @@ Championships (2022)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/Fundamental_Skills_Training_.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Volleyball/Fundamental_Skills_Training_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
