@@ -39,7 +39,11 @@ them to succeed in all walks of life.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Qualified for Quarter-Finals Zonal Inter-school B Division Girls (2025)</p>
+<p>Guangyang Invitational Cup C Division Girls – Second Placing (2026)</p>
+</li>
+<li>
+<p>Qualified for Quarter-Finals Zonal Inter-school B Division Girls (2025
+-2026 )</p>
 </li>
 <li>
 <p>BM U16&nbsp; Girls' Basketball Invitational Tournament 2024 - Fourth Placing
