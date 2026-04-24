@@ -87,7 +87,7 @@ them to succeed in all walks of life.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_3.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_3.png">
 </div>
 </td>
 </tr>
@@ -107,7 +107,7 @@ them to succeed in all walks of life.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/BM_Invitational_Cup_2024.jpg">
+<img style="width: 68%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/BM_Invitational_Cup_2024.jpg">
 </div>
 </td>
 </tr>
@@ -123,7 +123,7 @@ them to succeed in all walks of life.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/GroupBBG.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/GroupBBG.jpg">
 </div>
 </td>
 </tr>
