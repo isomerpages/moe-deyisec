@@ -86,46 +86,7 @@ Canva.</p>
 (MOE/ELIS) culminating in sharing at both cluster and national levels.</p>
 </li>
 </ul>
-<p><strong>Highlights:</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/English/2024_EL_2___Copy.png">
-</div>
-<p>Student news anchor: Reporting live from school</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/English/2024_EL_3___Copy.png">
-</div>
-<p><strong>Exploring local tunes: A snapshot of music preferences amongst Singaporeans.</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/English/2024_EL_4___Copy.png">
-</div>
-<p><strong>Analyzing the shift: A student presenter discusses declining newspaper readership trends.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p>
 <br>
