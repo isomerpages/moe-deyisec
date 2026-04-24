@@ -113,7 +113,7 @@ them to succeed in all walks of life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NSG B Division Girls 2026</p>
+<p>NSG B Division Girls in action</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>BM U16&nbsp;Girls' Basketball Invitational Tournament - Fourth Placing
