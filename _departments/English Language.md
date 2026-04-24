@@ -32,29 +32,21 @@ journalism artefacts (Writing and Representing).</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Applied Learning Programme
-<br>In-curriculum Applied Learning Programme (ALP) journalism modules including
-infographics and social issues videos.</p>
+<td rowspan="1" colspan="2">
+<p>Applied Learning Programme</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Sec 4 G3 students’ compelling video on ‘<em>Loneliness – A silent disease’</em>.
+In Deyi Secondary, students advocate for contemporary and social issues
+in the English Language curriculum, developing visual communication and
+oracy skills.</p>
 </td>
 </tr>
 </tbody>
