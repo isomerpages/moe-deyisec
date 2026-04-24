@@ -92,7 +92,7 @@ Award’ (2025)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Rise as ONE. Conquer as TEAM.</p>
+<p>Rise as ONE. Conquer as A TEAM.</p>
 </td>
 </tr>
 </tbody>
