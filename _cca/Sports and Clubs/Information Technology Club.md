@@ -136,7 +136,7 @@ events:</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/2025_IT_Club_Top_Two.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/2025_IT_Club_Top_Two.jpg">
 </div>
 </td>
 </tr>
