@@ -82,32 +82,33 @@ them to succeed in all walks of life.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_2.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 53%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_3.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Team Deyi 2023 vs Team Alumni (2008-2022)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>South Zone C Division - 4th Placing (2023)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/NSG.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/BM_Invitational_Cup_2024.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/GroupBBG.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BM U16&nbsp;Girls' Basketball Invitational Tournament - Fourth Placing
+(2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG B Division Girls 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/NSG.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_2.png">
 </div>
 </td>
 </tr>
@@ -116,20 +117,15 @@ them to succeed in all walks of life.</p>
 <p>NSG B Division Girls in action</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BM U16&nbsp;Girls' Basketball Invitational Tournament - Fourth Placing
-(2024)</p>
+<p>Team Deyi 2023 vs Team Alumni (2008-2022)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/GroupBBG.jpg">
-</div>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>NSG B Division Girls 2026</p>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
