@@ -86,7 +86,9 @@ Placing.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/Robotics_bonding.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -96,7 +98,9 @@ Placing.</p>
 students and their parents.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Team bonding sessions </strong>Students participate in bonding
+sessions each term to build a supportive CCA culture while developing camaraderie
+and communication skills.</p>
 </td>
 </tr>
 </tbody>
