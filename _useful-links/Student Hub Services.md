@@ -19,7 +19,8 @@ development, behavioral concerns or friendship issues.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Our team consists of:</p>
+<p><u>Our team consists of:</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
