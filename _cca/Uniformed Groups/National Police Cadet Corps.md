@@ -48,6 +48,9 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 <p>Best Unit Cadet Award (2026)</p>
 </li>
 <li>
+<p>Area Inter-Unit Drill Competition (2026) - 3rd position</p>
+</li>
+<li>
 <p>Area Games Competition (2026) - Treasure Relay Challenge -&nbsp; 3<sup>rd</sup>&nbsp;Position</p>
 </li>
 <li>
