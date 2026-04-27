@@ -77,10 +77,10 @@ Award’ (2025)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NSG Soccer 2026</p>
+<p>&nbsp;Intense play on the football field</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chasing goals, breaking limits</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ Award’ (2025)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Rise as ONE. Conquer as A TEAM.</p>
+<p>NSG B Division Girls (2026)</p>
 </td>
 </tr>
 </tbody>
