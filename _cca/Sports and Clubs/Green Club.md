@@ -21,22 +21,16 @@ the natural world, ensuring its prosperity for generations to come. As
 champions of green living, our students are at the forefront of a movement
 to cultivate an eco-friendly lifestyle, making a tangible, positive impact
 on the environment.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/2024_Green_Club_Pic1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Green Club/Green_club_main_pic.jpg">
 </div>
-<p></p>
 <p><strong>Teachers-in-charge:</strong>
 <br>Mr Ang Chip Pin (OIC)
 <br>Mdm Neo Poh Hong (OIC of Eco Stewardship)
 <br>Mdm Quek Li Yi (Mrs Joanne Gan)
-<br>Miss Anne Tan Bee Wan
-<br>
-</p>
-<p></p>
+<br>Miss Anne Tan Bee Wan</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.15 pm</p>
-<p></p>
 <p><strong>Competitions/Achievement:</strong>
 </p>
 <ul data-tight="true" class="tight">
