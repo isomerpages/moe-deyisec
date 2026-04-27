@@ -36,6 +36,12 @@ journey of personal growth and community service.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Central District PDS Competition 2nd Runner-up (2026)</p>
+</li>
+<li>
+<p>15th PDS Competition Finalist (2026)</p>
+</li>
+<li>
 <p>Unit Recognition Award: Distinction (2025)</p>
 </li>
 <li>
@@ -94,11 +100,13 @@ journey of personal growth and community service.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/Orienteering_Competition.jpg">
+<img style="width: 76%;" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/Orienteering_Competition.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniform Groups/NCC/PDS_Competition_Team__2026.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -106,7 +114,7 @@ journey of personal growth and community service.</p>
 <p>Orienteering Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>PDS Competition Team 2026</p>
 </td>
 </tr>
 </tbody>
