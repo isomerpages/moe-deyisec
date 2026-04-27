@@ -30,11 +30,14 @@ digital landscape.</p>
 <p></p>
 <p><strong>Teachers-in-charge:</strong>
 <br>Mr M Ravinthran (OIC)
-<br>Mr Wong Jinfa</p>
+<br>Mr Wong Jinfa
+<br>Ms Boey Yin Yee, Geraldene</p>
 <p><strong>Weekly Schedule:<br></strong>Every Tuesday and Thursday 2.45 pm
 - 5.15 pm</p>
 <p></p>
 <p><strong>Competitions / Achievements:</strong>
+<br>• RoboCup Singapore Open – Merit Award and Top 8<sup>th</sup>&nbsp; Placing:
+Rescue Line Entry (2026)
 <br>• RoboCup Asia-Pacific (RCAP) Qingdao, China - 1st Placing: Rescue Line
 Entry (2024)
 <br>• RoboCup Singapore Open - 1st Placing: Rescue Line Entry (2023, 2024)
@@ -43,7 +46,6 @@ IDE Sprint (2024)
 <br>• Innovation, Design and Engineering (IDE) Robotics - Top 8 Placing: IDE
 Sprint (2023)
 <br>• National Robotics Competition (NRC) 2023</p>
-<p></p>
 <p><strong>Highlights:</strong>
 </p>
 <table style="minWidth: 50px">
