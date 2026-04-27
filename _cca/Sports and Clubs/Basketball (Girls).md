@@ -39,7 +39,11 @@ them to succeed in all walks of life.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Qualified for Quarter-Finals Zonal Inter-school B Division Girls (2025)</p>
+<p>Guangyang Invitational Cup C Division Girls – Second Placing (2026)</p>
+</li>
+<li>
+<p>Qualified for Quarter-Finals Zonal Inter-school B Division Girls (2025
+-2026 )</p>
 </li>
 <li>
 <p>BM U16&nbsp; Girls' Basketball Invitational Tournament 2024 - Fourth Placing
@@ -77,15 +81,13 @@ them to succeed in all walks of life.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_3.png">
+<img style="width: 53%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_3.png">
 </div>
 </td>
 </tr>
@@ -99,22 +101,19 @@ them to succeed in all walks of life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/2024_Basketball_pic_4.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/NSG.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/BM_Invitational_Cup_2024.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/BM_Invitational_Cup_2024.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Debrief by coach as tool to build cohesion and confidence and self-reflect
-for improvement</p>
+<p>NSG B Division Girls in action</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>BM U16&nbsp;Girls' Basketball Invitational Tournament - Fourth Placing
@@ -122,23 +121,18 @@ for improvement</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/NSG_B_Division_Team_2025.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Basketball/GroupBBG.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>NSG B Division Team (2025)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>NSG B Division Girls 2026</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
