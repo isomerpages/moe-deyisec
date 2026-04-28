@@ -30,11 +30,14 @@ digital landscape.</p>
 <p></p>
 <p><strong>Teachers-in-charge:</strong>
 <br>Mr M Ravinthran (OIC)
-<br>Mr Wong Jinfa</p>
+<br>Mr Wong Jinfa
+<br>Ms Boey Yin Yee, Geraldene</p>
 <p><strong>Weekly Schedule:<br></strong>Every Tuesday and Thursday 2.45 pm
 - 5.15 pm</p>
 <p></p>
 <p><strong>Competitions / Achievements:</strong>
+<br>• RoboCup Singapore Open – Merit Award and Top 8<sup>th</sup>&nbsp; Placing:
+Rescue Line Entry (2026)
 <br>• RoboCup Asia-Pacific (RCAP) Qingdao, China - 1st Placing: Rescue Line
 Entry (2024)
 <br>• RoboCup Singapore Open - 1st Placing: Rescue Line Entry (2023, 2024)
@@ -43,7 +46,6 @@ IDE Sprint (2024)
 <br>• Innovation, Design and Engineering (IDE) Robotics - Top 8 Placing: IDE
 Sprint (2023)
 <br>• National Robotics Competition (NRC) 2023</p>
-<p></p>
 <p><strong>Highlights:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -55,48 +57,50 @@ Sprint (2023)
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/2024_RCAP_China_Qingdao.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/Robocup_2026.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/2024_IT_Club_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/2024_RCAP_China_Qingdao.jpg">
 </div>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>RoboCup Singapore Open 2026<br></strong>Rescue Line Entry tasks
+students with building autonomous robots to navigate a line-based track
+simulating a disaster zone. Jeremy Yap Cheng and Torsten James Pilando
+and How earned the Merit Award.</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>RoboCup Asia Pacific (RCAP) Qingdao, China 2024<br></strong>In
 RCAP Rescue Line Entry, the team represented Singapore and achieved 1st
 Placing.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>RoboCup Singapore Open 2024</strong>
-<br>In RoboCup Rescue Line Entry, the teams design and program autonomous
-robots to navigate a line-based track simulating a disaster zone.</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/2024_IDE_Robotics.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/Robotics_CCA_carnival_2026.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/2025_CCA_Carnival.jpg">
+<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/Robotics_bonding.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>IDE Robotics 2024<br></strong>In IDE Sprint, it is a fast-paced
-robot racing competition using the LEGO Robotics platform.</p>
+<p><strong>CCA Carnival 2026</strong>
+<br>Robotics seniors showcase what they do in robotics to our Secondary 1
+students and their parents.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Carnival 2025</strong>
-<br>In CCA carnival, robotics seniors showcase on what they do in robotics
-to our Secondary 1 students and their parents.</p>
+<p><strong>Team bonding sessions </strong>Students participate in bonding
+sessions each term to build a supportive CCA culture while developing camaraderie
+and communication skills.</p>
 </td>
 </tr>
 </tbody>

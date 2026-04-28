@@ -11,6 +11,71 @@ Needs (SEN) Officers and Education and Career Guidance (ECG) Counsellor
 to support students’ well-being, learning and growth. We provide a safe
 space for students who may need help with their mental health, social-emotional
 development, behavioral concerns or friendship issues.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Our team consists of:</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Mabeline Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Mariana Othman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. James Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Katrina Adela Anand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Sharon Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Linda Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ECG Counsellor</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><u>How We Support Students</u>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Counselling
