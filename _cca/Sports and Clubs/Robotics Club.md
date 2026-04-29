@@ -57,50 +57,57 @@ Sprint (2023)
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/Robocup_2026.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/Robocup_2026.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/2024_RCAP_China_Qingdao.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/Robotics_CCA_carnival_2026.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>RoboCup Singapore Open 2026<br></strong>Rescue Line Entry tasks
-students with building autonomous robots to navigate a line-based track
-simulating a disaster zone. Jeremy Yap Cheng and Torsten James Pilando
-and How earned the Merit Award.</p>
+<p><strong>RoboCup Singapore Open 2026</strong>
+<br>The team clinched the <strong>Merit Award</strong> in the RoboCup Rescue
+Line Entry category.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Carnival 2026</strong>
+<br>Robotics seniors showcase their projects to our Secondary 1 students and
+their parents.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/2024_RCAP_China_Qingdao.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/Robotics_team_bonding.png">
+</div>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>RoboCup Asia Pacific (RCAP) Qingdao, China 2024<br></strong>In
 RCAP Rescue Line Entry, the team represented Singapore and achieved 1st
 Placing.</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/Robotics_CCA_carnival_2026.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/IT Club_Robotics/Robotics_bonding.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>CCA Carnival 2026</strong>
-<br>Robotics seniors showcase what they do in robotics to our Secondary 1
-students and their parents.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Team bonding sessions </strong>Students participate in bonding
-sessions each term to build a supportive CCA culture while developing camaraderie
-and communication skills.</p>
+<p><strong>Team bonding sessions        </strong>Students participate in
+termly bonding sessions to build a supportive CCA culture while developing
+camaraderie and communication skills.</p>
 </td>
 </tr>
 </tbody>
