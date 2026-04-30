@@ -67,7 +67,6 @@ oracy skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <p>Process artefacts of Kayden Tan (4DL), Jayden Yang (4DL) and Vasukrishnan
 Narayanan (4DL) that demonstrate the integration of digital skills and
 E21CC skill-sets of Communication, Collaboration and Information Literacy.</p>
