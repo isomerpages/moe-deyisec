@@ -26,23 +26,25 @@ skills to handle common tools and equipment. The Nutrition and Food Science
 curriculum equips our students with the knowledge about issues on food
 culture, health and nutrition and allows them to apply the right principles
 on food management, consumer rights and effective resource management.</p>
-<p><strong>Key Programmes</strong> 
+<p><strong>Key Programmes</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/Art_ceramic.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p><strong>Art Ceramic Programme</strong>
-</p>
-<p>Deyians dive into the world of pottery in Art class.</p>
+<p><strong>Art Ceramic Programme </strong>Deyians dive into the world of
+pottery in Art class.</p>
 </td>
 </tr>
 <tr>
@@ -50,12 +52,11 @@ on food management, consumer rights and effective resource management.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/Open_mic.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p><strong>Open mic lunch time performance</strong>
+<p><strong>Open mic lunch time performance </strong>
 </p>
 <p>A group of dedicated students confidently showcase their musical talents,
 filling the space with melodies.</p>
@@ -81,7 +82,11 @@ topics from current and social issues in Singapore.</p>
 </table>
 <p><strong>Achievement:</strong>
 <br>IDEX – A*STAR Sustainable Living award (2024)</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
