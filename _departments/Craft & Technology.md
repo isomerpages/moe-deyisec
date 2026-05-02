@@ -107,9 +107,10 @@ topics from current and social issues in Singapore.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/Farm_to_table.jpg">
 </div>
-<p>Students practice the art of coffee making</p>
+<p>Students harvest self-grown vegetables and apply "farm-to-table" in FCE
+lessons.</p>
 </td>
 </tr>
 <tr>
