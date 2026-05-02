@@ -56,7 +56,7 @@ pottery in Art class.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Open mic lunch time performance </strong>
+<p><strong>Open mic lunch time performance</strong>
 </p>
 <p>A group of dedicated students confidently showcase their musical talents,
 filling the space with melodies.</p>
@@ -116,16 +116,17 @@ topics from current and social issues in Singapore.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_6.png">
+<img style="width: 87%;" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/IMG_20260423_WA0000.jpg">
 </div>
-<p>Students carrying out electronic works</p>
+<p>Hands-on learning in action — bringing circuits to life through electronics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/IMG_20251029_WA0130.jpg">
 </div>
-<p>Platform to showcase Design Project</p>
+<p>Collaborating, testing, and building — turning concepts into tangible
+mock-ups</p>
 </td>
 </tr>
 </tbody>
