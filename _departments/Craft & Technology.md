@@ -98,14 +98,12 @@ topics from current and social issues in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_4.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/IMG_20260423_WA0000.jpg">
 </div>
-<p>Students collaborate in a music Jam session</p>
+<p>Hands-on learning in action — bringing circuits to life through electronics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/Farm_to_table.jpg">
 </div>
@@ -115,19 +113,18 @@ lessons.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 87%;" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/IMG_20260423_WA0000.jpg">
-</div>
-<p>Hands-on learning in action — bringing circuits to life through electronics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/IMG_20251029_WA0130.jpg">
 </div>
 <p>Collaborating, testing, and building — turning concepts into tangible
 mock-ups</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_4.png">
+</div>
+<p>Students collaborate in a music Jam session</p>
 </td>
 </tr>
 </tbody>
