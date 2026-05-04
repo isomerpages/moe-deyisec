@@ -26,23 +26,25 @@ skills to handle common tools and equipment. The Nutrition and Food Science
 curriculum equips our students with the knowledge about issues on food
 culture, health and nutrition and allows them to apply the right principles
 on food management, consumer rights and effective resource management.</p>
-<p><strong>Key Programmes</strong> 
+<p><strong>Key Programmes</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/Art_ceramic.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p><strong>Art Ceramic Programme</strong>
-</p>
-<p>Deyians dive into the world of pottery in Art class.</p>
+<p><strong>Art Ceramic Programme </strong>Deyians dive into the world of
+pottery in Art class.</p>
 </td>
 </tr>
 <tr>
@@ -50,11 +52,10 @@ on food management, consumer rights and effective resource management.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/Open_mic.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong>Open mic lunch time performance</strong>
 </p>
 <p>A group of dedicated students confidently showcase their musical talents,
@@ -81,7 +82,11 @@ topics from current and social issues in Singapore.</p>
 </table>
 <p><strong>Achievement:</strong>
 <br>IDEX – A*STAR Sustainable Living award (2024)</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -93,34 +98,33 @@ topics from current and social issues in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_4.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/IMG_20260423_WA0000.jpg">
 </div>
-<p>Students collaborate in a music Jam session</p>
+<p>Hands-on learning in action — bringing circuits to life through electronics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/Farm_to_table.jpg">
 </div>
-<p>Students practice the art of coffee making</p>
+<p>Students harvest self-grown vegetables and apply "farm-to-table" in FCE
+lessons.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/IMG_20251029_WA0130.jpg">
 </div>
-<p>Students carrying out electronic works</p>
+<p>Collaborating, testing, and building — turning concepts into tangible
+mock-ups</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Craft and Tech/2024_CT_4.png">
 </div>
-<p>Platform to showcase Design Project</p>
+<p>Students collaborate in a music Jam session</p>
 </td>
 </tr>
 </tbody>
