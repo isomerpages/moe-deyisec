@@ -90,7 +90,7 @@ variant: tiptap
 3)</p>
 </li>
 <li>
-<p><a href="/files/Useful Links/UL Parents/Prelim_Exam_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">Preliminary Examination Timetable </a>(Secondary
+<p><a href="/files/Prelim_Exam_Timetable_2026__Fri_papers_0810_.pdf" rel="noopener nofollow" target="_blank">Preliminary Exam Timetable </a>(Secondary
 4)</p>
 </li>
 </ul>
