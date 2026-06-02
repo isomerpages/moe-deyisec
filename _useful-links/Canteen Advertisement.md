@@ -52,8 +52,8 @@ distance</p>
 and stall assistant.</p>
 </li>
 <li>
-<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
-and stall assistant.</p>
+<p>Able to provide good service and quality food with prices determined in
+consultation with the school.</p>
 </li>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
