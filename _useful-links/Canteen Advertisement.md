@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p><strong>Type of Stall</strong>: Western Stall</p>
-<p><strong>Closing Date</strong>: 30 April 2026</p>
+<p><strong>Closing Date</strong>: 10 June 2026</p>
 <p><strong>Requirements</strong>: Halal</p>
 <h3>Application Procedure:</h3>
 <p>1. Download and complete the <a href="/files/Useful Links/Cateen Advert/Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">application form</a>.
@@ -52,8 +52,8 @@ distance</p>
 and stall assistant.</p>
 </li>
 <li>
-<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
-and stall assistant.</p>
+<p>Able to provide good service and quality food with prices determined in
+consultation with the school.</p>
 </li>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
