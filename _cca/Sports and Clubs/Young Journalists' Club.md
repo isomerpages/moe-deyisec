@@ -84,7 +84,6 @@ Mention Award&nbsp;</p>
 <p>Videos for E-Noticeboard</p>
 </li>
 </ul>
-<p></p>
 <p><strong>Highlights</strong>:</p>
 <table style="minWidth: 75px">
 <colgroup>
