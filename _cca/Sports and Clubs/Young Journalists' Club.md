@@ -58,9 +58,10 @@ Mention Award&nbsp;</p>
 <li>
 <p>Earth Day Art Competition 2023</p>
 </li>
-<li>
-<p>Other Notable Activities:</p>
-</li>
+</ul>
+<p><strong>Other Notable Activities:</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Deyi Chinese New Year, Mid-Autumn, Hari Raya and Deepavali Celebrations</p>
 </li>
