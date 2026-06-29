@@ -24,7 +24,7 @@ provided to our members, as we recognize the importance of inculcating
 <p>Miss Carol Chong (AIC)</p>
 </li>
 <li>
-<p>Mr Hamsani Bin Raoh</p>
+<p>Mr Shankar Pehrinparaj</p>
 </li>
 </ul>
 <p><strong>Weekly Schedule:</strong> 
