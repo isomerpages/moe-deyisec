@@ -27,7 +27,8 @@ and life's myriad paths with poise and tenacity.</p>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Ms Oh Jia Ling Amelia (OIC)
 <br>Mr Lim Heng Lai (AIC)
-<br>Mr Lee Uei Suen Wilson</p>
+<br>Mr Lee Uei Suen Wilson
+<br>Ms Li Lu</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.45pm – 5.15pm</p>
 <p><strong>Notable Activities:</strong>
