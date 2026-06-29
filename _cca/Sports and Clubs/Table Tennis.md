@@ -25,7 +25,7 @@ setting the stage for a lifetime of success and camaraderie.</p>
 </div>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Ms Joyce Ng Sok Kian (OIC)
-<br>Lau Jeng Seng (AIC)
+<br>Mr Lau Jeng Seng (AIC)
 <br>Mdm Saliha Parveen
 <br>Miss Geraldene Boey
 <br>
