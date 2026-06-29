@@ -27,7 +27,7 @@ setting the stage for a lifetime of success and camaraderie.</p>
 <br>Ms Joyce Ng Sok Kian (OIC)
 <br>Lau Jeng Seng (AIC)
 <br>Mdm Saliha Parveen
-<br>M Geraldene Boey
+<br>Miss Geraldene Boey
 <br>
 <br><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.50 pm – 5.30 pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
