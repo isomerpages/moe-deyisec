@@ -33,9 +33,9 @@ deepen their understanding of law enforcement, and enhance their NPCC experience
 <p><strong>Teachers-in-charge:</strong> 
 <br>Mr Tan Je Wei (OIC)
 <br>Ms Teo Chong Ming (AIC)
-<br>Mr Lim Liang Hao Derek
-<br>Mdm Neo Wei Ling
-<br>Mr Daniel Chia Yung Ming</p>
+<br>Siti Farhanah Bte Mohd Nasir (AIC)
+<br>Mr Nigel Lim
+<br>Mdm Neo Wei Ling</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm</p>
 <p><strong>Achievements and Highlights:</strong>
