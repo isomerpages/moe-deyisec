@@ -33,14 +33,12 @@ and making enduring memories.</p>
 </div>
 <p><strong>Teachers-in-charge:</strong>
 <br>Mr Ler Kai Ming Gavin (OIC)
-<br>Miss Guo Zhen (AIC)
 <br>Mdm Adeline Teo Li Ching (AIC)
+<br>Miss Guo Zhen
 <br>Miss Bertha Kwok
 <br>Miss Shih Kai Lin
-<br>Mr Nigel Lim Mr Shankar Pehrinparaj
-<br>Mr Geryl Tan
-<br>
-</p>
+<br>Miss Yvon Chew
+<br>Mr Geryl Tan</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 6.00 pm</p>
 <ul data-tight="true" class="tight">
