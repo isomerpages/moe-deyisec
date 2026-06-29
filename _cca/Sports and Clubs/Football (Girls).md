@@ -27,7 +27,7 @@ of a supportive sports education.</p>
 </div>
 <p><strong>Teachers-in-charge:</strong> 
 <br>Mr Edwin Teo (OIC)
-<br>MMs Oh Ying Jie (AIC)
+<br>Ms Oh Ying Jie (AIC)
 <br>Ms Sun Qingchi
 <br>Ms Christine Kwok</p>
 <p></p>
