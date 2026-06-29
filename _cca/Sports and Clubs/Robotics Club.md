@@ -31,7 +31,7 @@ digital landscape.</p>
 <p><strong>Teachers-in-charge:</strong>
 <br>Mr M Ravinthran (OIC)
 <br>Mr Wong Jinfa
-<br>Ms Boey Yin Yee, Geraldene</p>
+<br>Mr Koh Chuen Kiang</p>
 <p><strong>Weekly Schedule:<br></strong>Every Tuesday and Thursday 2.45 pm
 - 5.15 pm</p>
 <p></p>
@@ -105,9 +105,9 @@ RCAP Rescue Line Entry, the team represented Singapore and achieved 1st
 Placing.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Team bonding sessions        </strong>Students participate in
-termly bonding sessions to build a supportive CCA culture while developing
-camaraderie and communication skills.</p>
+<p><strong>Team bonding sessions </strong>Students participate in termly
+bonding sessions to build a supportive CCA culture while developing camaraderie
+and communication skills.</p>
 </td>
 </tr>
 </tbody>
