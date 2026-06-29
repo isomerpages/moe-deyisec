@@ -24,11 +24,12 @@ setting the stage for a lifetime of success and camaraderie.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Table Tennis/2024_table_tennis_over_arching_pic.jpeg">
 </div>
 <p><strong>Teachers-in-charge:</strong> 
-<br>Ms Jeanette Lee (OIC)
-<br>Mdm Saliha Parveen (AIC)
-<br>Ms Joyce Ng Sok Kian (AIC)
-<br>Mr Lau Jeng Seng</p>
-<p><strong>Weekly Schedule:</strong> 
+<br>Ms Joyce Ng Sok Kian (OIC)
+<br>Lau Jeng Seng (AIC)
+<br>Mdm Saliha Parveen
+<br>M Geraldene Boey
+<br>
+<br><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.50 pm – 5.30 pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Competitions / Achievements:</strong>
 </p>
