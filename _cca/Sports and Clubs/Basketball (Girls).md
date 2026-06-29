@@ -31,7 +31,7 @@ them to succeed in all walks of life.</p>
 <br>Mr Derrick Tan (OIC)
 <br>Mr Moh Wei Ping (AIC)
 <br>Ms Christine Kwok
-<br>Ms Lim Lixin</p>
+<br>Ms Li Xiao Si</p>
 <p></p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.45pm – 5.45pm</p>
