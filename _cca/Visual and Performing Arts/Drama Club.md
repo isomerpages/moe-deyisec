@@ -31,8 +31,9 @@ more possibilities to play on stage.</p>
 <p><strong>Teachers-in-charge:</strong>
 <br>Miss Nur'ain (OIC)
 <br>Mdm Abirami
-<br>Mr Hamsani Bin Raoh
-<br>Ms Yvon Chew Yi Ni</p>
+<br>Miss Britney Ho
+<br>
+</p>
 <p></p>
 <p><strong>Weekly Schedule:</strong>
 </p>
