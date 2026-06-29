@@ -30,7 +30,6 @@ ensuring they carry these values forward into their futures.</p>
 <br>Miss Tan Geok Hua Dolley
 <br>Mr Shanmugam</p>
 <p></p>
-<p></p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm</p>
 <p><strong>Competitions / Achievements:</strong>
