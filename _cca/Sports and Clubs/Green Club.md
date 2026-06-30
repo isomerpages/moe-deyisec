@@ -27,7 +27,7 @@ on the environment.</p>
 <p><strong>Teachers-in-charge:</strong>
 <br>Mr Ang Chip Pin (OIC)
 <br>Mdm Neo Poh Hong (OIC of Eco Stewardship)
-<br>Mdm Quek Li Yi (Mrs Joanne Gan)
+<br>Mrs Joanne Gan
 <br>Miss Anne Tan Bee Wan</p>
 <p><strong>Weekly Schedule:</strong> 
 <br>Every Tuesday and Thursday 2.40 pm – 5.15 pm</p>

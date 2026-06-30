@@ -22,7 +22,8 @@ embracing a growth mindset in every aspect of their development.&nbsp;</p>
 <p><strong>Teachers-in-charge:</strong>
 <br>Mdm Nur Azlina Bee (OIC)
 <br>Mdm Koh Gek Meng Ruth (AIC)
-<br>Mr Lim Hong Guan Andy</p>
+<br>Mr Ethan Chia
+<br>Mr Andy Lim</p>
 <p><strong>Weekly Schedule:</strong>
 <br>Every Tuesday and Thursday 2.40 pm – 5.45 pm
 <br>Selected Fridays 1.00 pm – 3.00 pm</p>

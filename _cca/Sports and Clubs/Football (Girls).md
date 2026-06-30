@@ -26,9 +26,9 @@ of a supportive sports education.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports and Clubs/Football/Football_Girls_1_1.jpg">
 </div>
 <p><strong>Teachers-in-charge:</strong> 
-<br>Mdm Siti Farhanah (OIC)
-<br>Mr Edwin Teo Han Yang (AIC)
-<br>Ms Oh Ying Jie
+<br>Mr Edwin Teo (OIC)
+<br>Ms Oh Ying Jie (AIC)
+<br>Ms Sun Qingchi
 <br>Ms Christine Kwok</p>
 <p></p>
 <p><strong>Weekly Schedule:</strong> 
