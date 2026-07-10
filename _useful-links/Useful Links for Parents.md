@@ -93,8 +93,20 @@ variant: tiptap
 <p><a href="/files/Prelim_Exam_Timetable_2026__Fri_papers_0810_.pdf" rel="noopener nofollow" target="_blank">Preliminary Exam Timetable </a>(Secondary
 4)</p>
 </li>
-</ul>
+<li>
+<p><a href="/files/2026_WA3_Schedule_Sec_1_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">WA3 Schedule</a> (Secondary
+1)</p>
+</li>
+<li>
+<p><a href="/files/2026_WA3_Schedule_Sec_2_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">WA3 Schedule</a> (Secondary
+2)</p>
+</li>
+<li>
+<p><a href="/files/2026_WA3_Schedule_Sec_3_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">WA3 Schedule</a> (Secondary
+3)</p>
 <p></p>
+</li>
+</ul>
 <p><strong><em>2.2 Student Development &amp; Education Programmes</em></strong>
 </p>
 <ul>
