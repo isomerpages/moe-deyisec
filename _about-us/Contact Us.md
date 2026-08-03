@@ -142,13 +142,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Well-being</p>
+<p>Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Jinfa (SH)</p>
+<p>Mdm W K Sujeetha Margarita Brampy (HOD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jinfa_wong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jinfa_wong@schools.gov.sg</a>
+<p><a href="mailto:Sujeetha_Margarita_Brampy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sujeetha_margarita_brampy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -162,17 +162,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:geetha_salgunan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geetha_salgunan@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
