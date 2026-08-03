@@ -260,14 +260,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Jinfa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / Student Well-being</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Saliha Parveen Bte Mohamed Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
